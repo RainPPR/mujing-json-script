@@ -4,6 +4,10 @@
         "Unit2.json"
     ],
     "completed": [
-        "Unit2.json"
+    ],
+    "hard": [
+        "endurance",
+        "manuscript",
+        "guarantee"
     ]
 }
