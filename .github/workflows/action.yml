@@ -1,0 +1,53 @@
+name: Action
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - '.gitignore'
+      - '.gitattributes'
+      - 'README.md'
+      - 'LICENSE'
+  pull_request:
+    branches:
+      - master
+      - main
+    paths-ignore:
+      - '.gitignore'
+      - '.gitattributes'
+      - 'README.md'
+      - 'LICENSE'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  action:
+    name: Action
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Action
+        run: python script/main.py
+      - name: Update Submodule
+        run: |
+          git submodule sync
+          git submodule update --init --recursive
+          git submodule update --remote
+          if [[ `git status --porcelain` ]]; then
+            git add .
+            git commit -m "Auto Update"
+            git push
+          else
+            echo pass
+          fi
