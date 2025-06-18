@@ -19,14 +19,16 @@
             "bnc": 1320,
             "frq": 1871,
             "exchange": "s:debts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pace",
             "usphone": "peɪs",
             "ukphone": "peɪs",
-            "definition": "n. 步速，（移动的）速度；（发生、进展、发展的）速度，节奏；一步，一步之距；（马行走或奔跑的）步法；<文>步态；快节奏；快跑的能力；（板球）（影响球速的）两个三柱门之间的场地状况\nv. （因担忧、紧张或不耐烦而）踱步，踱步于；（在赛跑中）为……定速度；为……领跑；为（书、电影等中的故事）设定节奏；调整自己的工作（或活动）节奏；步测；（马）走侧对步（主见于专门饲养或训练的马）\nprep. <正式> （用于人名前，委婉提出不同意见）请……原谅\n【名】 （Pace）（捷）帕采，（英）佩斯，（法）帕斯，（罗）帕切（人名）",
+            "definition": "n. 步速，（移动的）速度；（发生、进展、发展的）速度，节奏；一步，一步之距；（马行走或奔跑的）步法；<文>步态；快节奏；快跑的能力；（板球）（影响球速的）两个三柱门之间的场地状况\nv. （因担忧、紧张或不耐烦而）踱步，踱步于；（在赛跑中）为……定速度；为……领跑；为（书、电影等中的故事）设定节奏；调整自己的工作（或活动）节奏；步测；（马）走侧对步（主见于专门饲养或训练的马）\nprep. <正式> （用于人名前，委婉提出不同意见）请……原谅",
             "translation": "n. 速度, 步调, 步法\nvi. 踱步, 缓慢走\nvt. 用步测, 踱步于",
             "pos": "",
             "collins": 3,
@@ -35,14 +37,16 @@
             "bnc": 2461,
             "frq": 2533,
             "exchange": "s:paces/i:pacing/p:paced/3:paces/d:paced",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "inform",
             "usphone": "ɪnˈfɔːrm",
             "ukphone": "ɪnˈfɔːm",
-            "definition": "v. 通知，告知；告发，检举（inform on）；赋特征于，渗透；了解，熟悉；影响",
+            "definition": "v. 通知，告知；告发，检举；赋特征于，渗透；了解，熟悉；影响",
             "translation": "vt. 通知, 使了解, 使充满\nvi. 提供资料, 告发",
             "pos": "",
             "collins": 3,
@@ -51,8 +55,10 @@
             "bnc": 1726,
             "frq": 2177,
             "exchange": "d:informed/p:informed/i:informing/3:informs",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dread",
@@ -67,8 +73,10 @@
             "bnc": 8728,
             "frq": 9181,
             "exchange": "p:dreaded/i:dreading/d:dreaded/3:dreads/s:dreads",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rarely",
@@ -83,8 +91,10 @@
             "bnc": 2122,
             "frq": 2271,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "overnight",
@@ -99,8 +109,10 @@
             "bnc": 4937,
             "frq": 4742,
             "exchange": "s:overnights",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rejection",
@@ -115,8 +127,10 @@
             "bnc": 4305,
             "frq": 5003,
             "exchange": "s:rejections",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nevertheless",
@@ -131,8 +145,10 @@
             "bnc": 1337,
             "frq": 2582,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "persevere",
@@ -147,8 +163,10 @@
             "bnc": 13755,
             "frq": 13798,
             "exchange": "p:persevered/d:persevered/3:perseveres/i:persevering",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "criticism",
@@ -163,8 +181,10 @@
             "bnc": 1587,
             "frq": 2093,
             "exchange": "s:criticisms",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "manuscript",
@@ -179,14 +199,16 @@
             "bnc": 4595,
             "frq": 5114,
             "exchange": "s:manuscripts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rye",
             "usphone": "raɪ",
             "ukphone": "raɪ",
-            "definition": "n. 黑麦；吉卜赛绅士\nadj. 用黑麦制成的\nn. （Rye）人名；（英）赖伊",
+            "definition": "n. 黑麦；吉卜赛绅士\nadj. 用黑麦制成的\nn. 人名；（英）赖伊",
             "translation": "n. 黑麦, 吉卜赛绅士\n[医] 黑麦",
             "pos": "",
             "collins": 1,
@@ -195,8 +217,10 @@
             "bnc": 13058,
             "frq": 15218,
             "exchange": "s:ryes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "best-seller",
@@ -211,8 +235,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:best-sellers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Victorian",
@@ -227,14 +253,16 @@
             "bnc": 3021,
             "frq": 6250,
             "exchange": "s:victorians",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "laureate",
             "usphone": "ˈlɔːriət",
             "ukphone": "ˈlɒriət",
-            "definition": "n. 荣誉获得者，获奖者；桂冠诗人（Poet Laureate 的简称）\nadj. <文>（作为荣誉标志）佩戴桂冠的；<文>（花冠，花环）用月桂枝叶编织的；荣誉的\nv. 使戴桂冠；任命为桂冠诗人",
+            "definition": "n. 荣誉获得者，获奖者；桂冠诗人\nadj. <文>（作为荣誉标志）佩戴桂冠的；<文>（花冠，花环）用月桂枝叶编织的；荣誉的\nv. 使戴桂冠；任命为桂冠诗人",
             "translation": "a. 戴桂冠的, 用月桂树枝编织成的, 荣誉的\nn. 桂冠诗人\nvt. 使戴桂冠",
             "pos": "",
             "collins": 0,
@@ -243,8 +271,10 @@
             "bnc": 23153,
             "frq": 15182,
             "exchange": "s:laureates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "classic",
@@ -259,8 +289,10 @@
             "bnc": 2967,
             "frq": 2616,
             "exchange": "s:classics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "endurance",
@@ -275,8 +307,10 @@
             "bnc": 11606,
             "frq": 7739,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "guarantee",
@@ -291,14 +325,16 @@
             "bnc": 2525,
             "frq": 2774,
             "exchange": "d:guaranteed/s:guarantees/3:guarantees/i:guaranteeing/p:guaranteed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "delighted",
             "usphone": "dɪˈlaɪtɪd",
             "ukphone": "dɪˈlaɪtɪd",
-            "definition": "adj. 高兴的\nv. 使高兴；以……为乐（delight 的过去式及过去分词）",
+            "definition": "adj. 高兴的\nv. 使高兴；以……为乐",
             "translation": "a. 高兴的, 快乐的",
             "pos": "",
             "collins": 3,
@@ -307,8 +343,10 @@
             "bnc": 2938,
             "frq": 6609,
             "exchange": "0:delight/1:pd/p:delighted/d:delighted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "outcome",
@@ -323,8 +361,10 @@
             "bnc": 1957,
             "frq": 1747,
             "exchange": "s:outcomes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "worthwhile",
@@ -339,8 +379,10 @@
             "bnc": 4264,
             "frq": 6958,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "blanket",
@@ -355,14 +397,16 @@
             "bnc": 3938,
             "frq": 3306,
             "exchange": "s:blankets/d:blanketed/p:blanketed/i:blanketing/3:blankets",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "beaver",
             "usphone": "ˈbiːvər",
             "ukphone": "ˈbiːvə(r)",
-            "definition": "n. 河狸，海狸；海狸毛皮；<史>海狸皮帽；海狸呢（一种似海狸毛皮的厚羊毛布料）；勤劳的人；（Beaver）小童子军（加入童子军协会的约六七岁的男孩）；<英，旧，非正式>大胡子男人；头盔面甲的下部，防护面罩的上部，活动防护罩；<美，俚>（从性繁殖角度看待的）女人；<美，俚>女性生殖器，阴部\nv. <非正式>勤奋工作\n【名】 （Beaver）（英）比弗（人名）",
+            "definition": "n. 河狸，海狸；海狸毛皮；<史>海狸皮帽；海狸呢（一种似海狸毛皮的厚羊毛布料）；勤劳的人；小童子军（加入童子军协会的约六七岁的男孩）；<英，旧，非正式>大胡子男人；头盔面甲的下部，防护面罩的上部，活动防护罩；<美，俚>（从性繁殖角度看待的）女人；<美，俚>女性生殖器，阴部\nv. <非正式>勤奋工作",
             "translation": "n. 海狸(毛皮)\n[机] 轻型及中型飞机加油",
             "pos": "",
             "collins": 1,
@@ -371,8 +415,10 @@
             "bnc": 20433,
             "frq": 11726,
             "exchange": "s:beavers/i:beavering/p:beavered/d:beavered/3:beavers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cucumber",
@@ -387,8 +433,10 @@
             "bnc": 12343,
             "frq": 8294,
             "exchange": "s:cucumbers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "enthusiastic",
@@ -403,8 +451,10 @@
             "bnc": 4458,
             "frq": 5508,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "contest",
@@ -419,8 +469,10 @@
             "bnc": 3919,
             "frq": 3062,
             "exchange": "s:contests/d:contested/i:contesting/p:contested/3:contests",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "upset",
@@ -435,14 +487,16 @@
             "bnc": 3776,
             "frq": 3388,
             "exchange": "d:upset/0:upset/1:dp/i:upsetting/3:upsets/s:upsets/p:upset",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "elect",
             "usphone": "ɪˈlekt",
             "ukphone": "ɪˈlekt",
-            "definition": "v. 选举；选择（做）；（上帝）挑选（某人）（而使其灵魂永远得救）\nadj. 候任的；选中的，卓越的；蒙上帝挑选（而得救）的\nn. 上帝的选民（the elect）；特权阶层",
+            "definition": "v. 选举；选择（做）；（上帝）挑选（某人）（而使其灵魂永远得救）\nadj. 候任的；选中的，卓越的；蒙上帝挑选（而得救）的\nn. 上帝的选民；特权阶层",
             "translation": "n. 当选人, 被选的人\na. 被选的, 选出的\nvt. 选举, 选择\nvi. 作选择",
             "pos": "",
             "collins": 4,
@@ -451,14 +505,16 @@
             "bnc": 1794,
             "frq": 2265,
             "exchange": "d:elected/p:elected/i:electing/3:elects",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "blessing",
             "usphone": "ˈblesɪŋ",
             "ukphone": "ˈblesɪŋ",
-            "definition": "n. 幸事，福祉；支持，赞同；上帝的恩宠，祝福；祷告，祈祷\nv. 求上帝保佑，祝福；祝圣，使圣洁；赞美上帝（bless 的现在分词形式）\n【名】 （Blessing）（英、德）布莱辛（人名）",
+            "definition": "n. 幸事，福祉；支持，赞同；上帝的恩宠，祝福；祷告，祈祷\nv. 求上帝保佑，祝福；祝圣，使圣洁；赞美上帝",
             "translation": "n. 祝福",
             "pos": "",
             "collins": 2,
@@ -467,8 +523,10 @@
             "bnc": 5552,
             "frq": 4673,
             "exchange": "0:bless/1:i/s:blessings/i:blessing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "appreciative",
@@ -483,14 +541,16 @@
             "bnc": 13997,
             "frq": 12559,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "worthy",
             "usphone": "ˈwɜːrði",
             "ukphone": "ˈwɜːði",
-            "definition": "adj. 值得尊敬的，值得注意的，值得敬仰的；值得的，应得的，相配的；好（但乏味）的；有（某人或事物）的典型特征\nn. 知名人士，要人（常为玩笑或贬义）\n【名】 （Worthy）（英）沃西（人名）",
+            "definition": "adj. 值得尊敬的，值得注意的，值得敬仰的；值得的，应得的，相配的；好（但乏味）的；有（某人或事物）的典型特征\nn. 知名人士，要人（常为玩笑或贬义）",
             "translation": "n. 杰出人物\na. 有价值的, 可敬的, 值得的",
             "pos": "",
             "collins": 2,
@@ -499,14 +559,16 @@
             "bnc": 4663,
             "frq": 5102,
             "exchange": "s:worthies/r:worthier/t:worthiest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mere",
             "usphone": "mɪr",
             "ukphone": "mɪə(r)",
-            "definition": "adj. 仅仅，只不过；只凭……就足以\nn. <旧>小湖，池塘；（尤指毛利人用绿岩制的武器）石棒\n【名】 （Mere）（日）目连，（西）梅雷（人名）",
+            "definition": "adj. 仅仅，只不过；只凭……就足以\nn. <旧>小湖，池塘；（尤指毛利人用绿岩制的武器）石棒",
             "translation": "n. 小湖, 池塘\na. 仅仅的, 只不过的",
             "pos": "",
             "collins": 3,
@@ -515,8 +577,10 @@
             "bnc": 2440,
             "frq": 2925,
             "exchange": "t:merest/s:meres",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "gentleness",
@@ -531,8 +595,10 @@
             "bnc": 15939,
             "frq": 17873,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "companionship",
@@ -547,8 +613,10 @@
             "bnc": 11684,
             "frq": 12816,
             "exchange": "s:companionships",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fingertip",
@@ -563,8 +631,10 @@
             "bnc": 9893,
             "frq": 7248,
             "exchange": "s:fingertips/p:fingertipped",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "outline",
@@ -579,8 +649,10 @@
             "bnc": 2838,
             "frq": 4429,
             "exchange": "d:outlined/s:outlines/p:outlined/i:outlining/3:outlines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intoxicate",
@@ -595,8 +667,10 @@
             "bnc": 18916,
             "frq": 16545,
             "exchange": "d:intoxicated/p:intoxicated/i:intoxicating/3:intoxicates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pageant",
@@ -611,14 +685,16 @@
             "bnc": 15528,
             "frq": 9524,
             "exchange": "s:pageants",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "probe",
             "usphone": "proʊb",
             "ukphone": "prəʊb",
-            "definition": "v. 调查，打探，探究；（用手指、细长工具等）探查，查看；搜寻，探索；侦察，侦探（敌情）\nn. 探究，详尽调查；（医生和科学家用的）探针； 航天探测器，太空探测器（=space probe）；探测仪，传感器，取样器\n【名】 （Probe）（法）普罗布（人名）",
+            "definition": "v. 调查，打探，探究；（用手指、细长工具等）探查，查看；搜寻，探索；侦察，侦探（敌情）\nn. 探究，详尽调查；（医生和科学家用的）探针； 航天探测器，太空探测器；探测仪，传感器，取样器",
             "translation": "n. 探索, 调查, 探针, 探测器\nv. 用探针探测, 调查, 探索",
             "pos": "",
             "collins": 2,
@@ -627,14 +703,16 @@
             "bnc": 4897,
             "frq": 5178,
             "exchange": "s:probes/d:probed/i:probing/p:probed/3:probes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dawn",
             "usphone": "dɑːn",
             "ukphone": "dɔːn",
-            "definition": "v. 变得明朗，开始清楚；破晓，开始\nn. 拂晓，黎明；曙光，开端\n【名】 （Dawn）（西）道恩（人名）",
+            "definition": "v. 变得明朗，开始清楚；破晓，开始\nn. 拂晓，黎明；曙光，开端",
             "translation": "n. 破晓, 黎明\nvi. 破晓",
             "pos": "",
             "collins": 2,
@@ -643,8 +721,10 @@
             "bnc": 4374,
             "frq": 4004,
             "exchange": "p:dawned/3:dawns/d:dawned/i:dawning/s:dawns",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "delight",
@@ -659,8 +739,10 @@
             "bnc": 3393,
             "frq": 4890,
             "exchange": "s:delights/p:delighted/i:delighting/d:delighted/3:delights",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "revelation",
@@ -675,8 +757,10 @@
             "bnc": 4549,
             "frq": 4184,
             "exchange": "s:revelations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "workaday",
@@ -691,8 +775,10 @@
             "bnc": 32818,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "amid",
@@ -707,8 +793,10 @@
             "bnc": 5382,
             "frq": 3825,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "haunt",
@@ -723,8 +811,10 @@
             "bnc": 6064,
             "frq": 5014,
             "exchange": "d:haunted/3:haunts/s:haunts/p:haunted/i:haunting",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "permanent",
@@ -739,8 +829,10 @@
             "bnc": 1993,
             "frq": 2464,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "descend",
@@ -755,8 +847,10 @@
             "bnc": 3971,
             "frq": 4006,
             "exchange": "d:descended/p:descended/i:descending/3:descends",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mighty",
@@ -771,8 +865,10 @@
             "bnc": 5620,
             "frq": 5943,
             "exchange": "t:mightiest/r:mightier",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "strain",
@@ -787,8 +883,10 @@
             "bnc": 2749,
             "frq": 3659,
             "exchange": "s:strains/i:straining/d:strained/p:strained/3:strains",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "orchestra",
@@ -803,8 +901,10 @@
             "bnc": 4027,
             "frq": 5347,
             "exchange": "s:orchestras",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tactile",
@@ -819,8 +919,10 @@
             "bnc": 19870,
             "frq": 13853,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "perfume",
@@ -835,8 +937,10 @@
             "bnc": 7033,
             "frq": 6592,
             "exchange": "s:perfumes/d:perfumed/i:perfuming/3:perfumes/p:perfumed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "relish",
@@ -851,8 +955,10 @@
             "bnc": 7766,
             "frq": 8659,
             "exchange": "p:relished/i:relishing/d:relished/3:relishes/s:relishes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "morsel",
@@ -867,8 +973,10 @@
             "bnc": 15533,
             "frq": 15599,
             "exchange": "s:morsels",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "delightful",
@@ -883,8 +991,10 @@
             "bnc": 5310,
             "frq": 8762,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "embarrassed",
@@ -899,8 +1009,10 @@
             "bnc": 4732,
             "frq": 4601,
             "exchange": "p:embarrassed/0:embarrassed/1:pd/d:embarrassed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
