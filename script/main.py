@@ -39,13 +39,13 @@ def action(sub):
     config = load_json(path)
     print(f'Processing {config['name']}...')
     completed = config['completed']
+    print(completed)
     for item in config['file']:
-        if item in completed:
-            pass
-        print()
-        tech.action(f'./json/{sub}/{item}')
-        print()
-        completed.append(item)
+        if not item in completed:
+            print(item)
+            tech.action(f'./json/{sub}/{item}')
+            print()
+            completed.append(item)
     config['completed'] = completed
     write_json(path, config)
 
