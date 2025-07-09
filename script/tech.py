@@ -48,9 +48,10 @@ def action(file):
         value = item['value']
         youdao = fetch_json(f'https://dict.youdao.com/jsonapi?q={value}&dicts=%7B%22count%22%3A99%2C%22dicts%22%3A%5B%5B%22syno%22%2C%22ec%22%5D%5D%7D')
         try:
-            item['usphone'] = youdao['ec']['word'][0]['usphone']
-            item['ukphone'] = youdao['ec']['word'][0]['ukphone']
-            item['definition'] = '\n'.join(i['tr'][0]['l']['i'][0] for i in youdao['ec']['word'][0]['trs'])
+            item['usphone'] = f'/{youdao["ec"]["word"][0]["usphone"]}/'
+            item['ukphone'] = f'/{youdao["ec"]["word"][0]["ukphone"]}/'
+            item['translation'] = '\n'.join(i['tr'][0]['l']['i'][0] for i in youdao['ec']['word'][0]['trs'])
+            item['definition'] = item['pos'] = ''
         except (KeyError, IndexError, TypeError, ValueError):
             pass
         progress_counter += 1
