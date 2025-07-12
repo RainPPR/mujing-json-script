@@ -19,17 +19,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "shiny",
-            "usphone": "'ʃaɪni",
-            "ukphone": "'ʃaini",
-            "definition": "s reflecting light\na having a shiny surface or coating\ns made smooth and bright by or as if by rubbing; reflecting a sheen or glow",
-            "translation": "a. 有光泽的, 发光的, 辉煌的, 磨光的, 磨损的",
+            "usphone": "/ˈʃaɪni/",
+            "ukphone": "/ˈʃaɪni/",
+            "definition": "",
+            "translation": "adj. 光滑发亮的，有光泽的",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -37,17 +35,15 @@
             "bnc": 6457,
             "frq": 5128,
             "exchange": "r:shinier/t:shiniest",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "association",
-            "usphone": "ə,soʃɪ'eʃən",
-            "ukphone": "ә.sәuʃә'eiʃәn",
-            "definition": "n. a formal organization of people or groups of people\nn. the act of consorting with or joining with others\nn. the state of being connected together as in memory or imagination\nn. the process of bringing ideas or events together in memory or imagination",
-            "translation": "n. 协会",
+            "usphone": "/əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn/",
+            "ukphone": "/əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn/",
+            "definition": "",
+            "translation": "n. 协会，社团，联盟；交往，联合；联系，因果关系；联想",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -55,17 +51,15 @@
             "bnc": 742,
             "frq": 1859,
             "exchange": "s:associations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "muddy",
-            "usphone": "'mʌdi",
-            "ukphone": "'mʌdi",
-            "definition": "v. dirty with mud\nv. cause to become muddy\nv. make turbid",
-            "translation": "a. 泥泞的, 浑浊的, 模糊的\nvt. 使污浊, 使沾上泥污",
+            "usphone": "/ˈmʌdi/",
+            "ukphone": "/ˈmʌdi/",
+            "definition": "",
+            "translation": "adj. 泥泞的，多泥的；含泥的，浑浊的；灰暗的，暗淡的；模糊的，不清晰的；（声音，尤指乐声）重浊的；像泥土般的\nv. 使变得泥泞，使浑浊；使模糊，使混乱；使（颜色）变暗",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -73,17 +67,15 @@
             "bnc": 7679,
             "frq": 6484,
             "exchange": "d:muddied/s:muddies/i:muddying/p:muddied/r:muddier/t:muddiest/3:muddies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "shot",
-            "usphone": "ʃɑt",
-            "ukphone": "ʃɒt",
-            "definition": "n. a solid missile discharged from a firearm\nn. a chance to do something\nn. a person who shoots (usually with respect to their ability to shoot)\nn. an aggressive remark directed at a person like a missile and intended to have a telling effect",
-            "translation": "n. 发射, 炮弹, 射击, 射手, 投篮, 射门, 子弹, 射程, 拍摄, 注射\nvt. 装弹, 使成颗粒状\na. 杂色的, 交织着的, 渗透的, 点焊的, 破旧的\nshoot的过去式和过去分词",
+            "usphone": "/ʃɑːt/",
+            "ukphone": "/ʃɒt/",
+            "definition": "",
+            "translation": "n. 射击，开枪（或炮），枪声；射手，枪手；弹丸；批评的话；尝试，努力；击球，射门；铅球；发射；照片，（电影的）镜头；注射；一口，一小杯（烈性酒）；少量；概率，可能性 ；铅沙弹\nadj. 杂色的，闪色的；破烂不堪，筋疲力尽；充满（某种特质或情感）；<美，澳新>醉的\nv. 开（枪），射击；射出（弓箭等）；狩猎（shoot 的过去式和过去分词形式）",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -91,17 +83,15 @@
             "bnc": 1836,
             "frq": 1053,
             "exchange": "0:shoot/1:dp/s:shots",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "backboard",
-            "usphone": "",
-            "ukphone": "'bækbɒ:d",
-            "definition": "n. a raised vertical board with basket attached; used to play basketball\nn. a board used to support the back of someone or something",
-            "translation": "n. 后挡板, 背板, 脊骨矫正板, 篮板",
+            "usphone": "/ˈbækbɔːrd/",
+            "ukphone": "/ˈbækbɔːd/",
+            "definition": "",
+            "translation": "n. 篮板；背板；后挡板",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -109,14 +99,12 @@
             "bnc": 0,
             "frq": 20813,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "give way",
-            "usphone": "",
+            "usphone": "/ɡɪv weɪ/",
             "ukphone": "",
             "definition": "",
             "translation": "撤退, 让路, 退让, 屈服, 倒塌, 跌价, 垮掉\n[经] (股票)下跌",
@@ -127,17 +115,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "bump",
-            "usphone": "bʌmp",
-            "ukphone": "bʌmp",
-            "definition": "n. a lump on the body caused by a blow\nv. knock against with force or violence\nv. dance erotically or dance with the pelvis thrust forward",
-            "translation": "n. 撞击, 肿块\nvt. 碰撞\nvi. 撞, 颠簸而行",
+            "usphone": "/bʌmp/",
+            "ukphone": "/bʌmp/",
+            "definition": "",
+            "translation": "v. （使身体部位等）碰上，撞上；（无意地）碰，撞；颠簸行进；拖拽；挤出，挤掉；改变（广播或电视节目的时间）\nn. 肿块；隆起，凸块；碰撞，撞击；轻微撞车事故；屁股向前扭动的性感动作；<美，非正式>增加；绒布\n【名】 （Bump）（英、西）邦普（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -145,17 +131,15 @@
             "bnc": 6508,
             "frq": 5504,
             "exchange": "i:bumping/p:bumped/s:bumps/d:bumped/3:bumps",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "bounce",
-            "usphone": "baʊns",
-            "ukphone": "bauns",
-            "definition": "n. the quality of a substance that is able to rebound\nn. rebounding from an impact (or series of impacts)\nv. spring back; spring away from an impact\nv. hit something so that it bounces",
-            "translation": "n. 跳, 跳跃, 弹力, 撞击\nvi. 反跳, 弹跳\nvt. 使跳回, 撞击\n[计] 打回",
+            "usphone": "/baʊns/",
+            "ukphone": "/baʊns/",
+            "definition": "",
+            "translation": "v. 弹起，反弹；跳动，蹦；（使）上下晃动；（用膝盖）颠动（孩子）；蹦蹦跳跳地去；拒付，退回（支票等）；退回（电子邮件）；驱逐，解雇；（向某人）透露主意（以试探其反应）；反复跳槽，来回往返某地；（光线或声音）反射；撞击，碰撞\nn. 弹跳，跳动；弹性，弹力；活力，精力；（头发的）弹性，蓬松；突然的增长",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -163,17 +147,15 @@
             "bnc": 4778,
             "frq": 3792,
             "exchange": "p:bounced/i:bouncing/d:bounced/3:bounces/s:bounces",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "sharpen",
-            "usphone": "'ʃɑrpən",
-            "ukphone": "'ʃɑ:pn",
-            "definition": "v. make sharp or sharper\nv. make crisp or more crisp and precise\nv. become sharp or sharper\nv. make (images or sounds) sharp or sharper",
-            "translation": "vt. 使尖锐, 使敏捷, 加重, 削尖\nvi. 尖锐化, 变锋利",
+            "usphone": "/ˈʃɑːrpən/",
+            "ukphone": "/ˈʃɑːpən/",
+            "definition": "",
+            "translation": "v. （使）变锋利（尖锐，清晰）；（使）改善，提高；（使）加剧",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -181,17 +163,15 @@
             "bnc": 7542,
             "frq": 8298,
             "exchange": "d:sharpened/i:sharpening/p:sharpened/3:sharpens",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "teammate",
-            "usphone": "'tim'met",
-            "ukphone": "'ti:mmeit",
-            "definition": "n. a fellow member of a team",
-            "translation": "n. 队友",
+            "usphone": "/ˈtiːmmeɪt/",
+            "ukphone": "/ˈtiːmmeɪt/",
+            "definition": "",
+            "translation": "n. 队友，同队队员",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -199,17 +179,15 @@
             "bnc": 28599,
             "frq": 4238,
             "exchange": "s:teammates",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "footstep",
-            "usphone": "'fʊtstɛp",
-            "ukphone": "'futstep",
-            "definition": "n. the act of taking a step in walking\nn. the distance covered by a step",
-            "translation": "n. 脚步, 脚步声, 足迹",
+            "usphone": "/ˈfʊtstep/",
+            "ukphone": "/ˈfʊtstep/",
+            "definition": "",
+            "translation": "n. 脚步，足迹；脚步声；一步的距离；路途，路线",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -217,10 +195,8 @@
             "bnc": 5733,
             "frq": 6017,
             "exchange": "s:footsteps",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "carry on",
@@ -235,17 +211,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "warrior",
-            "usphone": "'wɔrɪɚ",
-            "ukphone": "'wɒ:riә",
-            "definition": "n. someone engaged in or experienced in warfare",
-            "translation": "n. 战士, 勇士, 武士, 鼓吹战争的人, 战斗, 尚武",
+            "usphone": "/ˈwɔːriər/",
+            "ukphone": "/ˈwɒriə(r)/",
+            "definition": "",
+            "translation": "n. （尤指旧时的）武士，勇士；（瑜伽体式）战士",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -253,17 +227,15 @@
             "bnc": 5376,
             "frq": 3607,
             "exchange": "s:warriors",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "expectation",
-            "usphone": ",ɛkspɛk'teʃən",
-            "ukphone": ".ekspek'teiʃәn",
-            "definition": "n. belief about (or mental picture of) the future\nn. the feeling that something is about to happen",
-            "translation": "n. 期待, 指望, 展望\n[化] 期望值",
+            "usphone": "/ˌekspekˈteɪʃn/",
+            "ukphone": "/ˌekspekˈteɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 期待，预期；期望，指望",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -271,10 +243,8 @@
             "bnc": 1970,
             "frq": 1890,
             "exchange": "s:expectations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "in a row",
@@ -289,17 +259,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "philosophy",
-            "usphone": "fə'lɑsəfi",
-            "ukphone": "fi'lɒsәfi",
-            "definition": "n. the rational investigation of questions about existence and knowledge and ethics\nn. any personal belief about how to live or how to deal with a situation",
-            "translation": "n. 哲学, 人生观, 哲学思想, 哲理, 基本原理, 见解, 达观, 沉着",
+            "usphone": "/fəˈlɑːsəfi/",
+            "ukphone": "/fəˈlɒsəfi/",
+            "definition": "",
+            "translation": "n. 哲学；哲学体系，思想体系；人生哲学，生活（工作）准则；（某一知识或经验领域的）理论基础研究，基本原理",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -307,17 +275,15 @@
             "bnc": 2351,
             "frq": 2252,
             "exchange": "s:philosophies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "self-belief",
-            "usphone": "",
-            "ukphone": "'selfbɪl'i:f",
+            "usphone": "/ˌself bɪˈliːf/",
+            "ukphone": "/ˌself bɪˈliːf/",
             "definition": "",
-            "translation": "n. 自信",
+            "translation": "自我信念",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -325,17 +291,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "hoop",
-            "usphone": "hup",
-            "ukphone": "hu:p",
-            "definition": "n. a light curved skeleton to spread out a skirt\nn. a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling\nv. bind or fasten with a hoop",
-            "translation": "n. 箍, 铁环, 呼呼声\nvt. 加箍于, 包围\nvi. 发呼呼声",
+            "usphone": "/huːp/",
+            "ukphone": "/huːp/",
+            "definition": "",
+            "translation": "n. （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；圈形耳环（hoop earring）；（用于滚着玩的）滚圈；呼啦圈（hula hoop 的简称）；（马戏团中供动物钻穿用的）大圈；<史>（用于撑开女子衬裙、裙子的用弹性材料制作的）裙环；<史>裙环衬裙（hoop petticoat）；（槌球游戏中的）拱门；篮圈，篮筐；<美，非正式>篮球运动（hoops）；（运动衫、职业赛马骑师帽上的）颜色对比强烈的横条镶边；<澳，非正式>职业赛马骑师\nv. （用环或似用环）绑，箍",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -343,17 +307,15 @@
             "bnc": 11838,
             "frq": 7962,
             "exchange": "s:hoops/p:hooped/d:hooped/i:hooping/3:hoops",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "cheat",
-            "usphone": "tʃit",
-            "ukphone": "tʃi:t",
-            "definition": "n. a deception for profit to yourself\nv. deprive somebody of something by deceit\nv. defeat someone through trickery or deceit\nv. engage in deceitful behavior; practice trickery or fraud",
-            "translation": "n. 欺骗, 作弊, 骗子\nv. 欺骗, 逃脱, 骗取",
+            "usphone": "/tʃiːt/",
+            "ukphone": "/tʃiːt/",
+            "definition": "",
+            "translation": "v. 欺骗，行骗；侥幸逃脱，逃避；作弊；对配偶（或伴侣）不忠\nn. 骗子，作弊者；欺骗手段，欺诈行为；秘技，作弊软件",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -361,17 +323,15 @@
             "bnc": 5936,
             "frq": 4369,
             "exchange": "i:cheating/d:cheated/p:cheated/s:cheats/3:cheats",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "yoga",
-            "usphone": "'joɡə",
-            "ukphone": "'jәugә",
-            "definition": "n. Hindu discipline aimed at training the consciousness for a state of perfect spiritual insight and tranquility that is achieved through the three paths of actions and knowledge and devotion\nn. a system of exercises practiced as part of the Hindu discipline to promote control of the body and mind",
-            "translation": "n. 瑜珈",
+            "usphone": "/ˈjoʊɡə/",
+            "ukphone": "/ˈjəʊɡə/",
+            "definition": "",
+            "translation": "n. 瑜伽，瑜伽术； 瑜伽派（印度哲学派别）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -379,10 +339,8 @@
             "bnc": 17090,
             "frq": 7878,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "roller skating",
@@ -397,17 +355,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "remarkable",
-            "usphone": "rɪ'mɑrkəbl",
-            "ukphone": "ri'mɑ:kәbl",
-            "definition": "s. unusual or striking",
-            "translation": "a. 不平常的, 值得注意的, 显著的",
+            "usphone": "/rɪˈmɑːrkəb(ə)l/",
+            "ukphone": "/rɪˈmɑːkəb(ə)l/",
+            "definition": "",
+            "translation": "adj. 引人注目的，非凡的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -415,17 +371,15 @@
             "bnc": 2423,
             "frq": 2708,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "net",
-            "usphone": "nɛt",
-            "ukphone": "net",
-            "definition": "n. a trap made of netting to catch fish or birds or insects\nn. a goal lined with netting (as in soccer or hockey)\nn. game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\nn. an open fabric of string or rope or wire woven together at regular intervals",
-            "translation": "n. 网, 网状物, 罗网, 净利, 净价\na. 净的, 最终的\nvt. 用网捕, 撒网, 净赚, 得到\nvi. 编网\n[计] 网络, 网络分析程序",
+            "usphone": "/net/",
+            "ukphone": "/net/",
+            "definition": "",
+            "translation": "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面\nadj. 净得的；净重的；最后的，最终的\nv. 净赚，净得；设法获得，巧妙地做；（用网）捕捉；（篮球或足球）得分，进（球）；用网覆盖；（计算时）扣除……（以得出净额）\nadv. 净赚地\n【名】 （Net）（俄）内（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -433,17 +387,15 @@
             "bnc": 2189,
             "frq": 2884,
             "exchange": "s:nets/p:netted/d:netted/i:netting/3:nets",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "spiker",
-            "usphone": "",
-            "ukphone": "",
+            "usphone": "/ˈspaɪkər/",
+            "ukphone": "/ˈspaɪkə(r)/",
             "definition": "",
-            "translation": "n. 钉道钉的护路工, 排球队的扣杀员",
+            "translation": "n. 排球队的扣杀员；针齿式圆盘耙",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "burst",
-            "usphone": "bɝst",
-            "ukphone": "bә:st",
-            "definition": "n. a sudden flurry of activity (often for no obvious reason)\nv. come open suddenly and violently, as if from internal pressure\nv. move suddenly, energetically, or violently\nv. emerge suddenly",
-            "translation": "n. 破裂, 突发, 爆发\nv. 爆裂, 突发, 充满\n[计] 二进制位组; 字符组; 脉冲串",
+            "usphone": "/bɜːrst/",
+            "ukphone": "/bɜːst/",
+            "definition": "",
+            "translation": "v. 爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀（be bursting with）；决堤；突然活跃起来；突然发生，突然发作；分页，断纸\nn. 突发，迸发；爆裂，裂口；一阵短促的射击\n【名】 （Burst）（美）布尔斯特（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -469,17 +419,15 @@
             "bnc": 3011,
             "frq": 3560,
             "exchange": "p:burst/0:burst/1:pd/i:bursting/s:bursts/d:burst/3:bursts",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "vivid",
-            "usphone": "'vɪvɪd",
-            "ukphone": "'vivid",
-            "definition": "s. having the clarity and freshness of immediate experience",
-            "translation": "a. 生动的, 鲜明的, 鲜艳的, 活泼的, 逼真的, 清晰的",
+            "usphone": "/ˈvɪvɪd/",
+            "ukphone": "/ˈvɪvɪd/",
+            "definition": "",
+            "translation": "adj. 生动的，逼真的；（颜色）鲜艳的，明亮的；（人的想像）丰富的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -487,17 +435,15 @@
             "bnc": 5560,
             "frq": 5539,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "assign",
-            "usphone": "ə'saɪn",
-            "ukphone": "ә'sain",
-            "definition": "v. give out\nv. select something or someone for a specific purpose\nv. transfer one's right to\nv. decide as to where something belongs in a scheme",
-            "translation": "vt. 分配, 指派, 赋值\n[计] 赋值",
+            "usphone": "/əˈsaɪn/",
+            "ukphone": "/əˈsaɪn/",
+            "definition": "",
+            "translation": "v. 分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -505,17 +451,15 @@
             "bnc": 3876,
             "frq": 2611,
             "exchange": "d:assigned/i:assigning/3:assigns/p:assigned",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "opponent",
-            "usphone": "ə'ponənt",
-            "ukphone": "ә'pәunәnt",
-            "definition": "s. characterized by active hostility",
-            "translation": "n. 对手, 敌手, 反对者\na. 敌对的, 反对的, 对面的",
+            "usphone": "/əˈpoʊnənt/",
+            "ukphone": "/əˈpəʊnənt/",
+            "definition": "",
+            "translation": "n. 对手，竞争者；反对者，阻止者\nadj. 对立的，敌对的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -523,17 +467,15 @@
             "bnc": 2663,
             "frq": 2181,
             "exchange": "s:opponents",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "quarter-final",
-            "usphone": "",
-            "ukphone": "'kwɔ:tәfain(ә)l",
+            "usphone": "/ˌkwɔːrtər ˈfaɪn(ə)l/",
+            "ukphone": "/ˌkwɔːtə ˈfaɪn(ə)l/",
             "definition": "",
-            "translation": "a. 四分之一决赛 的,复赛的\nn. 复赛",
+            "translation": "n. 四分之一决赛；半准决赛\nadj. 四分之一决赛的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -541,17 +483,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:quarter-finals",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "preliminary",
-            "usphone": "prɪ'lɪmɪnɛri",
-            "ukphone": "pri'liminәri",
-            "definition": "n. a minor match preceding the main event\nn. something that serves as a preceding event or introduces what follows\ns. denoting an action or event preceding or in preparation for something more important; designed to orient or acquaint with a situation before proceeding",
-            "translation": "n. 初步做法, 初步措施, 预试, 预选赛\na. 初步的, 开始的, 预备的",
+            "usphone": "/prɪˈlɪmɪneri/",
+            "ukphone": "/prɪˈlɪmɪnəri/",
+            "definition": "",
+            "translation": "adj. 初步的，预备的\nn. 初步行动，准备工作；预赛，预试",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -559,17 +499,15 @@
             "bnc": 3851,
             "frq": 4404,
             "exchange": "s:preliminaries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "surgery",
-            "usphone": "'sɝdʒəri",
-            "ukphone": "'sә:dʒәri",
-            "definition": "n. the branch of medical science that treats disease or injury by operative procedures\nn. a room where a doctor or dentist can be consulted",
-            "translation": "n. 外科, 手术, 手术室, 换球术",
+            "usphone": "/ˈsɜːrdʒəri/",
+            "ukphone": "/ˈsɜːdʒəri/",
+            "definition": "",
+            "translation": "n. 外科手术；<英>诊所；（议员的）接待时间；应诊时间；手术室",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -577,10 +515,8 @@
             "bnc": 2833,
             "frq": 1793,
             "exchange": "s:surgeries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pay off",
@@ -595,17 +531,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "comeback",
-            "usphone": "",
-            "ukphone": "'kʌmbæk",
-            "definition": "n. return by a celebrity to some previously successful activity",
-            "translation": "n. 复原, 复辟, 复位, 尖刻的对答, 抱怨的原因\n[计] 复原的",
+            "usphone": "/ˈkʌmbæk/",
+            "ukphone": "/ˈkʌmbæk/",
+            "definition": "",
+            "translation": "n. 恢复，复出；再度流行；迅速反驳；追究……责任；回交羊",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -613,17 +547,15 @@
             "bnc": 8111,
             "frq": 6496,
             "exchange": "s:comebacks",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "defeat",
-            "usphone": "dɪ'fit",
-            "ukphone": "di'fi:t",
-            "definition": "n. an unsuccessful ending to a struggle or contest",
-            "translation": "n. 败北, 失败\nvt. 击败, 使落空",
+            "usphone": "/dɪˈfiːt/",
+            "ukphone": "/dɪˈfiːt/",
+            "definition": "",
+            "translation": "v. 击败，战胜；困惑，难住；使失败，阻挠；反对（动议或提议）\nn. 失败，战败；战胜，击败",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -631,17 +563,15 @@
             "bnc": 2560,
             "frq": 3326,
             "exchange": "d:defeated/p:defeated/s:defeats/i:defeating/3:defeats",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "semi-final",
-            "usphone": "",
-            "ukphone": "ˈsemi:ˌfaɪnəl, ˈsemaɪ-",
+            "usphone": "/ˌsemi ˈfaɪn(ə)l/",
+            "ukphone": "/ˌsemi ˈfaɪn(ə)l/",
             "definition": "",
-            "translation": "n. 半决赛; 准决赛; 复赛",
+            "translation": "n. 半决赛，准决赛",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -649,17 +579,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:semi-finals",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "steely",
-            "usphone": "'stili",
-            "ukphone": "'sti:li",
-            "definition": "s. resembling steel as in hardness\ns. resembling steel in hardness",
-            "translation": "a. 钢的, 钢制的, 钢铁般的",
+            "usphone": "/ˈstiːli/",
+            "ukphone": "/ˈstiːli/",
+            "definition": "",
+            "translation": "adj. 似钢的，钢铁般的；钢制的；严格的\nn. （Steely）人名；（英）斯蒂利",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -667,17 +595,15 @@
             "bnc": 16700,
             "frq": 14980,
             "exchange": "s:steelies/r:steelier",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "nerve",
-            "usphone": "nɝv",
-            "ukphone": "nә:v",
-            "definition": "n. any bundle of nerve fibers running to various organs and tissues of the body",
-            "translation": "n. 精神, 勇气, 叶脉, 神经\nvt. 鼓起勇气",
+            "usphone": "/nɜːrv/",
+            "ukphone": "/nɜːv/",
+            "definition": "",
+            "translation": "n. 神经；勇气，胆量；神经紧张，情绪不安；鲁莽，冒失；（叶）脉\nv. 使鼓起勇气，使振作精神",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -685,17 +611,15 @@
             "bnc": 3005,
             "frq": 3083,
             "exchange": "s:nerves/p:nerved/i:nerving/d:nerved/3:nerves",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "seize",
-            "usphone": "siz",
-            "ukphone": "si:z",
-            "definition": "v. take hold of; grab\nv. take or capture by force\nv. hook by a pull on the line\nv. affect",
-            "translation": "vt. 抓住, 逮捕, 俘获, 没收, 扣押, 掌握\nvi. 突然抓住, 利用",
+            "usphone": "/siːz/",
+            "ukphone": "/siːz/",
+            "definition": "",
+            "translation": "v. 抓住，捉住；（用武力）夺取，占领；逮捕，捉拿；没收，扣押；把握（机会等）；（感觉、疼痛）侵袭，控制；吸引（注意力），唤起（想象力）；<正式>理解，掌握；意识到，得知（be seized of）；（有活动部件的机器，机器的活动部件）咬住，卡住；<英，法律>依法占有（be seized of）；<史>具有（财产）的终身保有权（be seized of）",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -703,17 +627,15 @@
             "bnc": 2974,
             "frq": 3230,
             "exchange": "d:seized/p:seized/i:seizing/3:seizes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "cooperation",
-            "usphone": "ko,ɑpə'reʃən",
-            "ukphone": "kәu.ɒpә'reiʃәn",
-            "definition": "n. joint operation or action\nn. the practice of cooperating",
-            "translation": "n. 合作, 协力, 配合\n[化] 合作",
+            "usphone": "/koʊˌɑːpəˈreɪʃ(ə)n/",
+            "ukphone": "/kəʊˌɒpəˈreɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 合作，协作；协助，配合",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -721,17 +643,15 @@
             "bnc": 5122,
             "frq": 2668,
             "exchange": "s:cooperations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "ingredient",
-            "usphone": "ɪn'ɡridɪənt",
-            "ukphone": "in'gri:diәnt",
-            "definition": "n. a component of a mixture or compound\nn. food that is a component of a mixture in cooking",
-            "translation": "n. 成分, 因素\n[化] 配合剂; 拼料; 成分; 组分",
+            "usphone": "/ɪnˈɡriːdiənt/",
+            "ukphone": "/ɪnˈɡriːdiənt/",
+            "definition": "",
+            "translation": "n. （食品的）成分，原料；要素，因素\nadj. 构成组成部分的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -739,17 +659,15 @@
             "bnc": 3844,
             "frq": 2590,
             "exchange": "s:ingredients",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "teamwork",
-            "usphone": "'timwɝk",
-            "ukphone": "'ti:mwә:k",
-            "definition": "n. cooperative work done by a team (especially when it is effective)",
-            "translation": "n. 协同作业, 协力\n[法] 联合工作, 联合行动, 协调工作",
+            "usphone": "/ˈtiːmwɜːrk/",
+            "ukphone": "/ˈtiːmwɜːk/",
+            "definition": "",
+            "translation": "n. 团队合作；协力",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -757,17 +675,15 @@
             "bnc": 15491,
             "frq": 11799,
             "exchange": "s:teamworks/i:teamworking",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "tournament",
-            "usphone": "ˈtɝ​nəmənt",
-            "ukphone": "'tә:nәmәnt",
-            "definition": "n. a sporting competition in which contestants play a series of games to decide the winner\nn. a series of jousts between knights contesting for a prize",
-            "translation": "n. 比赛, 竞赛, 锦标赛, 联赛",
+            "usphone": "/ˈtʊrnəmənt/",
+            "ukphone": "/ˈtʊənəmənt/",
+            "definition": "",
+            "translation": "n. 锦标赛，联赛；（中世纪的）骑士比武大会；阅兵式",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -775,17 +691,15 @@
             "bnc": 3482,
             "frq": 2761,
             "exchange": "s:tournaments",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "intense",
-            "usphone": "ɪn'tɛns",
-            "ukphone": "in'tens",
-            "definition": "a. possessing or displaying a distinctive feature to a heightened degree\ns. (of color) having the highest saturation",
-            "translation": "a. 非常的, 强烈的, 紧张的, 热情的\n[医] 强的",
+            "usphone": "/ɪnˈtens/",
+            "ukphone": "/ɪnˈtens/",
+            "definition": "",
+            "translation": "adj. 很大的，十分强烈的；严肃紧张的，激烈的；热情的，热切的；专注的，认真的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -793,10 +707,8 @@
             "bnc": 3202,
             "frq": 2295,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
