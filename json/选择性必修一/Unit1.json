@@ -11,7 +11,7 @@
             "usphone": "/muːd/",
             "ukphone": "/muːd/",
             "definition": "",
-            "translation": "n. 心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致（做某事）\n【名】 （Mood）（英）穆德，（瑞典）莫德（人名）",
+            "translation": "n. 心境，情绪；气氛，情感基调；心情不好，坏脾气；想（做某事），有兴致（做某事）；（尤指音乐）激发……情感的，暗示……心境的；（群体的）态度，意愿；表达语气的动词屈折变化；（语法的）式，语气； 想（做某事），有兴致（做某事）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -19,8 +19,10 @@
             "bnc": 2324,
             "frq": 2344,
             "exchange": "s:moods",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "circus",
@@ -35,8 +37,10 @@
             "bnc": 6391,
             "frq": 6045,
             "exchange": "s:circuses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "amusement",
@@ -51,8 +55,10 @@
             "bnc": 5357,
             "frq": 6732,
             "exchange": "s:amusements",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "amusement park",
@@ -67,8 +73,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "curly",
@@ -83,15 +91,17 @@
             "bnc": 10308,
             "frq": 9234,
             "exchange": "s:curlies/r:curlier/3:curlies/t:curliest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wig",
             "usphone": "/wɪɡ/",
             "ukphone": "/wɪɡ/",
             "definition": "",
-            "translation": "n. 假发；<美，俚>头脑\nv. <英，非正式，旧>严斥，斥责；使戴假发；激动，发狂（wig out）\n【名】  （Wig）（英、瑞典）威格，（德）维希（人名）",
+            "translation": "n. 假发；\nv. 使戴假发",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -99,8 +109,10 @@
             "bnc": 8905,
             "frq": 8616,
             "exchange": "s:wigs/i:wigging",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "badge",
@@ -115,15 +127,17 @@
             "bnc": 6357,
             "frq": 6814,
             "exchange": "s:badges/i:badging/p:badged/d:badged/f:badges",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spot",
             "usphone": "/spɑːt/",
             "ukphone": "/spɒt/",
             "definition": "",
-            "translation": "n. 地点，场所；点，斑点；污点，污渍；丘疹，疱疹；某演员的固定节目；排名位置； <英>少量，一点；几滴，少许（液体）；困境，窘境；现货交易，现金交易；聚光灯（spotlight 的简称）；<美>（多米诺牌、纸牌或骰子上的）点；调灰泥板，调石膏板；<美，非正式>（特定面值的）钞票；（英足）点球点\nv. 看见，注意到；让分，让步；飘了几滴雨；<美，非正式>借（钱）给；使有斑点，使有污迹；稀疏地点缀；在场监护（运动员）；（军）确定敌人的位置；将（球）放在适当位置\nadj. 现货交易的，立即支付的",
+            "translation": "n. 地点，场所；点，斑点；污点，污渍；丘疹，疱疹；某演员的固定节目；排名位置； <英>少量，一点；几滴，少许（液体）；困境，窘境；现货交易，现金交易；聚光灯；<美>（多米诺牌、纸牌或骰子上的）点；调灰泥板，调石膏板；<美，非正式>（特定面值的）钞票；（英足）点球点\nv. 看见，注意到；让分，让步；飘了几滴雨；<美，非正式>借（钱）给；使有斑点，使有污迹；稀疏地点缀；在场监护（运动员）；（军）确定敌人的位置；将（球）放在适当位置\nadj. 现货交易的，立即支付的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -131,8 +145,10 @@
             "bnc": 1723,
             "frq": 1228,
             "exchange": "s:spots/p:spotted/d:spotted/i:spotting/3:spots",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ankle",
@@ -147,8 +163,10 @@
             "bnc": 4387,
             "frq": 3814,
             "exchange": "s:ankles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "clown",
@@ -163,8 +181,10 @@
             "bnc": 8787,
             "frq": 6889,
             "exchange": "s:clowns/i:clowning/p:clowned/3:clowns/d:clowned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "entertain",
@@ -179,8 +199,10 @@
             "bnc": 4478,
             "frq": 4949,
             "exchange": "d:entertained/p:entertained/i:entertaining/3:entertains",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "health care",
@@ -195,8 +217,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cheer up",
@@ -211,8 +235,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "do the trick",
@@ -227,8 +253,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "examine",
@@ -243,8 +271,10 @@
             "bnc": 1050,
             "frq": 1165,
             "exchange": "d:examined/i:examining/p:examined/3:examines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "advertisement",
@@ -259,8 +289,10 @@
             "bnc": 3277,
             "frq": 5957,
             "exchange": "s:advertisements",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "employer",
@@ -275,8 +307,10 @@
             "bnc": 1318,
             "frq": 2297,
             "exchange": "s:employers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "essential",
@@ -291,8 +325,10 @@
             "bnc": 1155,
             "frq": 1949,
             "exchange": "s:essentials",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "impress",
@@ -307,15 +343,17 @@
             "bnc": 4079,
             "frq": 3055,
             "exchange": "d:impressed/p:impressed/i:impressing/3:impresses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "grin",
             "usphone": "/ɡrɪn/",
             "ukphone": "/ɡrɪn/",
             "definition": "",
-            "translation": "v. 露齿而笑，咧着嘴笑\nn. 露齿的笑，咧着嘴笑\n【名】 （Grin）（美、俄）格林（人名）",
+            "translation": "v. 露齿而笑，咧着嘴笑\nn. 露齿的笑，咧着嘴笑",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -323,8 +361,10 @@
             "bnc": 3169,
             "frq": 4154,
             "exchange": "p:grinned/i:grinning/s:grins/3:grins/d:grinned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "deserve",
@@ -339,8 +379,10 @@
             "bnc": 2627,
             "frq": 2224,
             "exchange": "3:deserves/p:deserved/d:deserved/i:deserving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "long face",
@@ -355,8 +397,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "laughing stock",
@@ -371,8 +415,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crack a smile",
@@ -387,8 +433,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "practical joke",
@@ -403,8 +451,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fame",
@@ -419,8 +469,10 @@
             "bnc": 5040,
             "frq": 4593,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "literary",
@@ -435,8 +487,10 @@
             "bnc": 2512,
             "frq": 2700,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tale",
@@ -451,8 +505,10 @@
             "bnc": 2493,
             "frq": 2239,
             "exchange": "s:tales",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consistently",
@@ -467,8 +523,10 @@
             "bnc": 4182,
             "frq": 3596,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "optimism",
@@ -483,15 +541,17 @@
             "bnc": 6494,
             "frq": 5401,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "witty",
             "usphone": "/ˈwɪti/",
             "ukphone": "/ˈwɪti/",
             "definition": "",
-            "translation": "adj. 风趣的，诙谐的，机智的\n【名】 （Witty）（英）威蒂（人名）",
+            "translation": "adj. 风趣的，诙谐的，机智的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -499,8 +559,10 @@
             "bnc": 9910,
             "frq": 9923,
             "exchange": "t:wittiest/r:wittier",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "medieval",
@@ -515,8 +577,10 @@
             "bnc": 3041,
             "frq": 5073,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "emotive",
@@ -531,8 +595,10 @@
             "bnc": 11654,
             "frq": 22370,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mischievous",
@@ -547,15 +613,17 @@
             "bnc": 11564,
             "frq": 13916,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "remark",
             "usphone": "/rɪˈmɑːrk/",
             "ukphone": "/rɪˈmɑːk/",
             "definition": "",
-            "translation": "n. 言论，评述；（正式演讲时的）言论（remarks）；<正式> 引人注目，显耀\nv. 谈论，说起；注意到",
+            "translation": "n. 言论，评述；（正式演讲时的）言论；<正式> 引人注目，显耀\nv. 谈论，说起；注意到",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -563,8 +631,10 @@
             "bnc": 2581,
             "frq": 3389,
             "exchange": "s:remarks/p:remarked/d:remarked/3:remarks/i:remarking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "interaction",
@@ -579,15 +649,17 @@
             "bnc": 2517,
             "frq": 2075,
             "exchange": "s:interactions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "barber",
             "usphone": "/ˈbɑːrbər/",
             "ukphone": "/ˈbɑːbə(r)/",
             "definition": "",
-            "translation": "n. 理发师；（男子）理发店 （the barber's）\nv. 给（男子）理发\n【名】 （Barber）（美）巴伯（人名）",
+            "translation": "n. 理发师；（男子）理发店\nv. 给（男子）理发",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -595,15 +667,17 @@
             "bnc": 12564,
             "frq": 9131,
             "exchange": "s:barbers/d:barbered/i:barbering/p:barbered/3:barbers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shave",
             "usphone": "/ʃeɪv/",
             "ukphone": "/ʃeɪv/",
             "definition": "",
-            "translation": "v. 剃（须），刮去（毛发）；削去，刮掉（薄层）；（少量地）减去，削减；掠过，擦过\nn. 刮脸，剃毛发 ；剃刀，刮刀； <非正式> 侥幸逃过，幸免（close shave）",
+            "translation": "v. 剃（须），刮去（毛发）；削去，刮掉（薄层）；（少量地）减去，削减；掠过，擦过\nn. 刮脸，剃毛发 ；剃刀，刮刀",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -611,15 +685,17 @@
             "bnc": 7191,
             "frq": 5779,
             "exchange": "d:shaved/i:shaving/p:shaved/3:shaves/s:shaves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fellow",
             "usphone": "/ˈfeloʊ/",
             "ukphone": "/ˈfeləʊ/",
             "definition": "",
-            "translation": "n. 小伙子，家伙；同伴，同事，同学；研究员；男朋友；（研究期间领取津贴的）研究生；<英>（大学的）董事；（学术或专业团体）会员；对等者，对手\nadj. 同类的，同伴的\n【名】 （Fellow）（美、英、印）费洛（人名）",
+            "translation": "n. 小伙子，家伙；同伴，同事，同学；研究员；男朋友；（研究期间领取津贴的）研究生；<英>（大学的）董事；（学术或专业团体）会员；对等者，对手\nadj. 同类的，同伴的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -627,15 +703,17 @@
             "bnc": 2954,
             "frq": 2421,
             "exchange": "s:fellows",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "brand",
             "usphone": "/brænd/",
             "ukphone": "/brænd/",
             "definition": "",
-            "translation": "n. 品牌，商标；（独特的）一种，一类；（动物身上标明所属的）烙印，火印；独特的个性，自成一格的形象；燃烧的木头，烧焦的木头；<古>（打印用的）烙铁；火炬，剑\nv. 打烙印于（牲畜，以标明所属）；给……冠以恶名，谴责；给……设计品牌，加商标于；铭刻，铭记\n【名】 （Brand）（英、美、德、瑞）布兰德（人名）",
+            "translation": "n. 品牌，商标；（独特的）一种，一类；（动物身上标明所属的）烙印，火印；独特的个性，自成一格的形象；燃烧的木头，烧焦的木头；火炬，剑\nv. 打烙印于（牲畜，以标明所属）；给……冠以恶名，谴责；给……设计品牌，加商标于；铭刻，铭记",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -643,8 +721,10 @@
             "bnc": 3387,
             "frq": 2570,
             "exchange": "s:brands/d:branded/i:branding/p:branded/3:brands",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "essay",
@@ -659,8 +739,10 @@
             "bnc": 3147,
             "frq": 2536,
             "exchange": "s:essays/p:essayed/d:essayed/i:essaying/3:essays",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "conclude",
@@ -675,15 +757,17 @@
             "bnc": 1687,
             "frq": 1670,
             "exchange": "p:concluded/d:concluded/3:concludes/i:concluding",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "amusing",
             "usphone": "/əˈmjuːzɪŋ/",
             "ukphone": "/əˈmjuːzɪŋ/",
             "definition": "",
-            "translation": "adj. 逗人发笑的，有趣的\nv. 逗乐，逗笑；（提供）消遣（amuse 的现在分词形式）",
+            "translation": "adj. 逗人发笑的，有趣的\nv. 逗乐，逗笑；（提供）消遣",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -691,8 +775,10 @@
             "bnc": 6350,
             "frq": 9042,
             "exchange": "i:amusing/0:amusing/1:i",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "flatter",
@@ -707,15 +793,17 @@
             "bnc": 8558,
             "frq": 9933,
             "exchange": "0:flat/1:r/d:flattered/i:flattering/p:flattered/3:flatters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "gentle",
             "usphone": "/ˈdʒent(ə)l/",
             "ukphone": "/ˈdʒent(ə)l/",
             "definition": "",
-            "translation": "adj. 文静的，温柔的；（动作）轻柔的，徐缓的；（坡度）平缓的，不陡的；微热的；<古>出身高贵的，品格高尚的\nv. 使（或变）温柔，（使）平静；使驯服\nn. 蛆，饵\n【名】 （Gentle）（英）金特尔（人名）",
+            "translation": "adj. 文静的，温柔的；（动作）轻柔的，徐缓的；（坡度）平缓的，不陡的；微热的\nv. 使（或变）温柔，（使）平静；使驯服\nn. 蛆，饵",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -723,8 +811,10 @@
             "bnc": 2778,
             "frq": 3393,
             "exchange": "p:gentled/i:gentling/d:gentled/3:gentles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "podium",
@@ -739,8 +829,10 @@
             "bnc": 19520,
             "frq": 7960,
             "exchange": "s:podiums",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cruel",
@@ -755,8 +847,10 @@
             "bnc": 4471,
             "frq": 4762,
             "exchange": "t:cruellest/r:crueller",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "enthusiasm",
@@ -771,8 +865,10 @@
             "bnc": 2678,
             "frq": 3716,
             "exchange": "s:enthusiasms",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "illuminate",
@@ -787,15 +883,17 @@
             "bnc": 6519,
             "frq": 5388,
             "exchange": "d:illuminated/3:illuminates/i:illuminating/p:illuminated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "complicated",
             "usphone": "/ˈkɑːmplɪkeɪtɪd/",
             "ukphone": "/ˈkɒmplɪkeɪtɪd/",
             "definition": "",
-            "translation": "adj. 复杂的，难处理的\nv. 使复杂化，使难以理解；引起并发症（complicate 的过去式和过去分词形式）",
+            "translation": "adj. 复杂的，难处理的\nv. 使复杂化，使难以理解；引起并发症",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -803,8 +901,10 @@
             "bnc": 2736,
             "frq": 2750,
             "exchange": "d:complicated/0:complicated/1:dp/p:complicated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "composer",
@@ -819,8 +919,10 @@
             "bnc": 4435,
             "frq": 4999,
             "exchange": "s:composers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fall behind",
@@ -835,8 +937,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }

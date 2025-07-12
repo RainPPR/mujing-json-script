@@ -44,7 +44,6 @@ def action(sub):
         if not item in completed:
             print(item)
             tech.action(f'./json/{sub}/{item}')
-            print()
             completed.append(item)
     config['completed'] = completed
     write_json(path, config)
