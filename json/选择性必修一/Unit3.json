@@ -19,8 +19,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shiny",
@@ -35,8 +37,10 @@
             "bnc": 6457,
             "frq": 5128,
             "exchange": "r:shinier/t:shiniest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "association",
@@ -51,8 +55,10 @@
             "bnc": 742,
             "frq": 1859,
             "exchange": "s:associations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "muddy",
@@ -67,15 +73,17 @@
             "bnc": 7679,
             "frq": 6484,
             "exchange": "d:muddied/s:muddies/i:muddying/p:muddied/r:muddier/t:muddiest/3:muddies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shot",
             "usphone": "/ʃɑːt/",
             "ukphone": "/ʃɒt/",
             "definition": "",
-            "translation": "n. 射击，开枪（或炮），枪声；射手，枪手；弹丸；批评的话；尝试，努力；击球，射门；铅球；发射；照片，（电影的）镜头；注射；一口，一小杯（烈性酒）；少量；概率，可能性 ；铅沙弹\nadj. 杂色的，闪色的；破烂不堪，筋疲力尽；充满（某种特质或情感）；<美，澳新>醉的\nv. 开（枪），射击；射出（弓箭等）；狩猎（shoot 的过去式和过去分词形式）",
+            "translation": "n. 射击，开枪（或炮），枪声；射手，枪手；弹丸；批评的话；尝试，努力；击球，射门；铅球；发射；照片，（电影的）镜头；注射；一口，一小杯（烈性酒）；少量；概率，可能性 ；铅沙弹",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -83,8 +91,10 @@
             "bnc": 1836,
             "frq": 1053,
             "exchange": "0:shoot/1:dp/s:shots",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "backboard",
@@ -99,15 +109,17 @@
             "bnc": 0,
             "frq": 20813,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "give way",
             "usphone": "/ɡɪv weɪ/",
             "ukphone": "",
             "definition": "",
-            "translation": "撤退, 让路, 退让, 屈服, 倒塌, 跌价, 垮掉\n[经] (股票)下跌",
+            "translation": "撤退, 让路, 退让, 屈服, 倒塌, 跌价, 垮掉",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -115,15 +127,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bump",
             "usphone": "/bʌmp/",
             "ukphone": "/bʌmp/",
             "definition": "",
-            "translation": "v. （使身体部位等）碰上，撞上；（无意地）碰，撞；颠簸行进；拖拽；挤出，挤掉；改变（广播或电视节目的时间）\nn. 肿块；隆起，凸块；碰撞，撞击；轻微撞车事故；屁股向前扭动的性感动作；<美，非正式>增加；绒布\n【名】 （Bump）（英、西）邦普（人名）",
+            "translation": "v. （使身体部位等）碰上，撞上；（无意地）碰，撞；颠簸行进；拖拽；挤出，挤掉；改变（广播或电视节目的时间）\nn. 肿块；隆起，凸块；碰撞，撞击；轻微撞车事故；屁股向前扭动的性感动作；<美，非正式>增加；绒布",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -131,8 +145,10 @@
             "bnc": 6508,
             "frq": 5504,
             "exchange": "i:bumping/p:bumped/s:bumps/d:bumped/3:bumps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bounce",
@@ -147,8 +163,10 @@
             "bnc": 4778,
             "frq": 3792,
             "exchange": "p:bounced/i:bouncing/d:bounced/3:bounces/s:bounces",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sharpen",
@@ -163,8 +181,10 @@
             "bnc": 7542,
             "frq": 8298,
             "exchange": "d:sharpened/i:sharpening/p:sharpened/3:sharpens",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "teammate",
@@ -179,8 +199,10 @@
             "bnc": 28599,
             "frq": 4238,
             "exchange": "s:teammates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "footstep",
@@ -195,15 +217,17 @@
             "bnc": 5733,
             "frq": 6017,
             "exchange": "s:footsteps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "carry on",
             "usphone": "",
             "ukphone": "",
             "definition": "",
-            "translation": "继续开展, 行为愚蠢(或越轨)\n[经] 继续发展(经营)下去",
+            "translation": "继续开展, 行为愚蠢(或越轨)",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -211,8 +235,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "warrior",
@@ -227,8 +253,10 @@
             "bnc": 5376,
             "frq": 3607,
             "exchange": "s:warriors",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "expectation",
@@ -243,8 +271,10 @@
             "bnc": 1970,
             "frq": 1890,
             "exchange": "s:expectations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in a row",
@@ -259,8 +289,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "philosophy",
@@ -275,8 +307,10 @@
             "bnc": 2351,
             "frq": 2252,
             "exchange": "s:philosophies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "self-belief",
@@ -291,15 +325,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hoop",
             "usphone": "/huːp/",
             "ukphone": "/huːp/",
             "definition": "",
-            "translation": "n. （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；圈形耳环（hoop earring）；（用于滚着玩的）滚圈；呼啦圈（hula hoop 的简称）；（马戏团中供动物钻穿用的）大圈；<史>（用于撑开女子衬裙、裙子的用弹性材料制作的）裙环；<史>裙环衬裙（hoop petticoat）；（槌球游戏中的）拱门；篮圈，篮筐；<美，非正式>篮球运动（hoops）；（运动衫、职业赛马骑师帽上的）颜色对比强烈的横条镶边；<澳，非正式>职业赛马骑师\nv. （用环或似用环）绑，箍",
+            "translation": "n. （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；圈形耳环；（用于滚着玩的）滚圈；呼啦圈；（马戏团中供动物钻穿用的）大圈；（槌球游戏中的）拱门；篮圈，篮筐\nv. （用环或似用环）绑，箍",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -307,8 +343,10 @@
             "bnc": 11838,
             "frq": 7962,
             "exchange": "s:hoops/p:hooped/d:hooped/i:hooping/3:hoops",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cheat",
@@ -323,8 +361,10 @@
             "bnc": 5936,
             "frq": 4369,
             "exchange": "i:cheating/d:cheated/p:cheated/s:cheats/3:cheats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "yoga",
@@ -339,8 +379,10 @@
             "bnc": 17090,
             "frq": 7878,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "roller skating",
@@ -355,8 +397,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "remarkable",
@@ -371,15 +415,17 @@
             "bnc": 2423,
             "frq": 2708,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "net",
             "usphone": "/net/",
             "ukphone": "/net/",
             "definition": "",
-            "translation": "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面\nadj. 净得的；净重的；最后的，最终的\nv. 净赚，净得；设法获得，巧妙地做；（用网）捕捉；（篮球或足球）得分，进（球）；用网覆盖；（计算时）扣除……（以得出净额）\nadv. 净赚地\n【名】 （Net）（俄）内（人名）",
+            "translation": "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面\nadj. 净得的；净重的；最后的，最终的\nv. 净赚，净得；设法获得，巧妙地做；（用网）捕捉；（篮球或足球）得分，进（球）；用网覆盖；（计算时）扣除……（以得出净额）\nadv. 净赚地",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -387,8 +433,10 @@
             "bnc": 2189,
             "frq": 2884,
             "exchange": "s:nets/p:netted/d:netted/i:netting/3:nets",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spiker",
@@ -403,15 +451,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "burst",
             "usphone": "/bɜːrst/",
             "ukphone": "/bɜːst/",
             "definition": "",
-            "translation": "v. 爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀（be bursting with）；决堤；突然活跃起来；突然发生，突然发作；分页，断纸\nn. 突发，迸发；爆裂，裂口；一阵短促的射击\n【名】 （Burst）（美）布尔斯特（人名）",
+            "translation": "v. 爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀；决堤；突然活跃起来；突然发生，突然发作；分页，断纸\nn. 突发，迸发；爆裂，裂口；一阵短促的射击",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -419,8 +469,10 @@
             "bnc": 3011,
             "frq": 3560,
             "exchange": "p:burst/0:burst/1:pd/i:bursting/s:bursts/d:burst/3:bursts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vivid",
@@ -435,8 +487,10 @@
             "bnc": 5560,
             "frq": 5539,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "assign",
@@ -451,8 +505,10 @@
             "bnc": 3876,
             "frq": 2611,
             "exchange": "d:assigned/i:assigning/3:assigns/p:assigned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "opponent",
@@ -467,8 +523,10 @@
             "bnc": 2663,
             "frq": 2181,
             "exchange": "s:opponents",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "quarter-final",
@@ -483,8 +541,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:quarter-finals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "preliminary",
@@ -499,8 +559,10 @@
             "bnc": 3851,
             "frq": 4404,
             "exchange": "s:preliminaries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "surgery",
@@ -515,15 +577,17 @@
             "bnc": 2833,
             "frq": 1793,
             "exchange": "s:surgeries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pay off",
             "usphone": "",
             "ukphone": "",
             "definition": "",
-            "translation": "付清, 报复, 付清工资解雇, 使人得益, 取得成功\n[经] 清偿(债务), 发工资, 分配盈利",
+            "translation": "付清, 报复, 付清工资解雇, 使人得益, 取得成功",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -531,8 +595,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comeback",
@@ -547,8 +613,10 @@
             "bnc": 8111,
             "frq": 6496,
             "exchange": "s:comebacks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "defeat",
@@ -563,8 +631,10 @@
             "bnc": 2560,
             "frq": 3326,
             "exchange": "d:defeated/p:defeated/s:defeats/i:defeating/3:defeats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "semi-final",
@@ -579,15 +649,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:semi-finals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "steely",
             "usphone": "/ˈstiːli/",
             "ukphone": "/ˈstiːli/",
             "definition": "",
-            "translation": "adj. 似钢的，钢铁般的；钢制的；严格的\nn. （Steely）人名；（英）斯蒂利",
+            "translation": "adj. 似钢的，钢铁般的；钢制的；严格的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -595,8 +667,10 @@
             "bnc": 16700,
             "frq": 14980,
             "exchange": "s:steelies/r:steelier",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nerve",
@@ -611,15 +685,17 @@
             "bnc": 3005,
             "frq": 3083,
             "exchange": "s:nerves/p:nerved/i:nerving/d:nerved/3:nerves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "seize",
             "usphone": "/siːz/",
             "ukphone": "/siːz/",
             "definition": "",
-            "translation": "v. 抓住，捉住；（用武力）夺取，占领；逮捕，捉拿；没收，扣押；把握（机会等）；（感觉、疼痛）侵袭，控制；吸引（注意力），唤起（想象力）；<正式>理解，掌握；意识到，得知（be seized of）；（有活动部件的机器，机器的活动部件）咬住，卡住；<英，法律>依法占有（be seized of）；<史>具有（财产）的终身保有权（be seized of）",
+            "translation": "v. 抓住，捉住；（用武力）夺取，占领；逮捕，捉拿；没收，扣押；把握（机会等）；（感觉、疼痛）侵袭，控制；吸引（注意力），唤起（想象力）；<正式>理解，掌握；意识到，得知；（有活动部件的机器，机器的活动部件）咬住，卡住",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -627,8 +703,10 @@
             "bnc": 2974,
             "frq": 3230,
             "exchange": "d:seized/p:seized/i:seizing/3:seizes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cooperation",
@@ -643,8 +721,10 @@
             "bnc": 5122,
             "frq": 2668,
             "exchange": "s:cooperations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ingredient",
@@ -659,8 +739,10 @@
             "bnc": 3844,
             "frq": 2590,
             "exchange": "s:ingredients",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "teamwork",
@@ -675,8 +757,10 @@
             "bnc": 15491,
             "frq": 11799,
             "exchange": "s:teamworks/i:teamworking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tournament",
@@ -691,8 +775,10 @@
             "bnc": 3482,
             "frq": 2761,
             "exchange": "s:tournaments",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intense",
@@ -707,8 +793,10 @@
             "bnc": 3202,
             "frq": 2295,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
