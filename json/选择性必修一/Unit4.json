@@ -8,10 +8,10 @@
     "wordList": [
         {
             "value": "quote",
-            "usphone": "kwot",
-            "ukphone": "kwәut",
-            "definition": "v. repeat a passage from\nv. name the price of\nv. refer to for illustration or proof\nv. put quote marks around",
-            "translation": "n. 引用\nvt. 引述, 举证, 报(价)\nvi. 引用",
+            "usphone": "/kwoʊt/",
+            "ukphone": "/kwəʊt/",
+            "definition": "",
+            "translation": "v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌\nn. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号（quotes）\n【名】 （Quote）（美、俄、澳、马、荷）克奥特（人名）",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -19,17 +19,15 @@
             "bnc": 2039,
             "frq": 2255,
             "exchange": "d:quoted/p:quoted/i:quoting/3:quotes/s:quotes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "Dutch",
-            "usphone": "",
-            "ukphone": "dʌtʃ",
-            "definition": "n. the people of the Netherlands\nn. the West Germanic language of the Netherlands\na. of or relating to the Netherlands or its people or culture",
-            "translation": "n. 荷兰人, 荷兰语\na. 荷兰的",
+            "usphone": "/dʌtʃ/",
+            "ukphone": "/dʌtʃ/",
+            "definition": "",
+            "translation": "adj. 荷兰的，荷兰人的，荷兰语的\nn. 荷兰人（the Dutch）；荷兰语",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -37,17 +35,15 @@
             "bnc": 3191,
             "frq": 4059,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "float",
-            "usphone": "flot",
-            "ukphone": "flәut",
-            "definition": "n. the time interval between the deposit of a check in a bank and its payment\nn. the number of shares outstanding and available for trading by the public\nn. an elaborate display mounted on a platform carried by a truck (or pulled by a truck) in a procession or parade\nn. a hand tool with a flat face used for smoothing and finishing the surface of plaster or cement or stucco",
-            "translation": "n. 漂流物, 浮舟, 漂浮, 浮萍, 彩车\nvi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动\nvt. 使漂浮, 容纳, 淹没, 发行, 实行\n[计] 浮动",
+            "usphone": "/floʊt/",
+            "ukphone": "/fləʊt/",
+            "definition": "",
+            "translation": "v. （使）漂浮，（使）浮动；轻盈走动，飘然移动；提出（想法或计划）；发行（股票）上市；使（货币汇率）自由浮动\nn. 彩车；鱼漂，浮子；（学游泳用的）浮板；<美，非正式>顶端加冰激凌的饮料；<英，非正式>（商店的）备用零钱；（公司股票）上市，开始发行\n【名】 （Float）（美、英、德）弗洛特（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -55,17 +51,15 @@
             "bnc": 3498,
             "frq": 3140,
             "exchange": "i:floating/p:floated/d:floated/s:floats/3:floats",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "folk",
-            "usphone": "fok",
-            "ukphone": "fәuk",
-            "definition": "n. people in general (often used in the plural)",
-            "translation": "n. 人们, 家人, 亲属, 民族\na. 民间的",
+            "usphone": "/foʊk/",
+            "ukphone": "/fəʊk/",
+            "definition": "",
+            "translation": "n. 人们；家人，双亲；民间音乐；诸位，大伙儿\nadj. 民俗的，传统的；流传民间的，普通百姓的\n【名】 （Folk）（英、匈、捷）福克（人名）",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -73,10 +67,8 @@
             "bnc": 2958,
             "frq": 1339,
             "exchange": "s:folks",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "folk tale",
@@ -91,17 +83,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "motion",
-            "usphone": "'moʃən",
-            "ukphone": "'mәuʃәn",
-            "definition": "n. a change of position that does not entail a change of location\nn. a state of change\nn. a formal proposal for action made to a deliberative assembly for discussion and vote\nn. the act of changing location from one place to another",
-            "translation": "n. 移动, 手势, 动作, 意向, 请求, 提议\nv. 打手势",
+            "usphone": "/ˈmoʊʃ(ə)n/",
+            "ukphone": "/ˈməʊʃn/",
+            "definition": "",
+            "translation": "n. 运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请\nv. 打手势，示意",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -109,10 +99,8 @@
             "bnc": 1767,
             "frq": 1822,
             "exchange": "s:motions/p:motioned/i:motioning/3:motions/d:motioned",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "in motion",
@@ -127,17 +115,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "compose",
-            "usphone": "kəm'poz",
-            "ukphone": "kәm'pәuz",
-            "definition": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet",
-            "translation": "vt. 组成, 写作, 作曲, 使平静\nvi. 创作, 排字\n[计] 编写",
+            "usphone": "/kəmˈpoʊz/",
+            "ukphone": "/kəmˈpəʊz/",
+            "definition": "",
+            "translation": "v. 组成，构成；作曲；撰写（信、诗或演讲稿）；使镇静，使平静；为（照片、图像）构图；排版，排稿",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -145,17 +131,15 @@
             "bnc": 3128,
             "frq": 3379,
             "exchange": "d:composed/p:composed/i:composing/3:composes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "crouch",
-            "usphone": "kraʊtʃ",
-            "ukphone": "'krautʃ",
-            "definition": "n. the act of bending low with the limbs close to the body\nv. bend one's back forward from the waist on down",
-            "translation": "n. 蹲伏, 蜷缩\nvi. 蹲下, 蜷着, 缩着\nvt. 低头",
+            "usphone": "/kraʊtʃ/",
+            "ukphone": "/kraʊtʃ/",
+            "definition": "",
+            "translation": "v. 蹲下，蹲伏；俯身接近；（动物）蜷伏\nn. 蹲（伏）的姿势\n【名】 （Crouch）（美）克劳奇（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -163,17 +147,15 @@
             "bnc": 6240,
             "frq": 6738,
             "exchange": "p:crouched/i:crouching/d:crouched/3:crouches",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "peacock",
-            "usphone": "'pikɑk",
-            "ukphone": "'pi:kɒk",
-            "definition": "n. European butterfly having reddish-brown wings each marked with a purple eyespot\nn. male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots",
-            "translation": "n. 孔雀, 好炫耀的人\nvi. 炫耀, 神气活现地行走",
+            "usphone": "/ˈpiːkɑːk/",
+            "ukphone": "/ˈpiːkɒk/",
+            "definition": "",
+            "translation": "n. （雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子\nv. 炫耀，神气活现地走\n【名】 （Peacock）（英）皮科克（人名）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -181,17 +163,15 @@
             "bnc": 10281,
             "frq": 15411,
             "exchange": "s:peacocks/i:peacocking",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "princess",
-            "usphone": "prɪnˌsɛs",
-            "ukphone": "'prinsis",
-            "definition": "n. a female member of a royal family other than the queen (especially the daughter of a sovereign)",
-            "translation": "n. 公主, 王妃, 女巨头",
+            "usphone": "/ˈprɪnses/",
+            "ukphone": "/ˌprɪnˈses/",
+            "definition": "",
+            "translation": "n. （除女王或王后外的）王室女成员，（尤指）公主；王妃，王公贵族夫人；（受宠溺而自以为优越的）娇小姐；<英，非正式>大小姐；小国女君主；出众的妇女（或事物），巾帼英雄\n【名】 （Princess）（英）普琳西丝（人名）",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -199,17 +179,15 @@
             "bnc": 2691,
             "frq": 6039,
             "exchange": "s:princesses",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "ethnic",
-            "usphone": "'ɛθnɪk",
-            "ukphone": "'eθnik",
-            "definition": "n. a person who is a member of an ethnic group",
-            "translation": "a. 人种的, 种族的\n[医] 人种的",
+            "usphone": "/ˈeθnɪk/",
+            "ukphone": "/ˈeθnɪk/",
+            "definition": "",
+            "translation": "adj. （有关）种族的，民族的；少数民族的；具有民族特色的，异国风味的；既非基督教亦非犹太教的，异教徒的\nn. 少数民族成员，某民族群体的人",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -217,17 +195,15 @@
             "bnc": 3244,
             "frq": 1729,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "abstract",
-            "usphone": "'æbstrækt",
-            "ukphone": "'æbstrækt",
-            "definition": "v. consider a concept without thinking of a specific example; consider abstractly or theoretically\nv. consider apart from a particular case or instance\nv. give an abstract (of)\na. existing only in the mind; separated from embodiment",
-            "translation": "a. 抽象的, 深奥的\nn. 摘要, 抽象概念\nvt. 摘要, 提炼, 使抽象化\n[计] 摘录; 摘要; 抽象",
+            "usphone": "/ˈæbstrækt/",
+            "ukphone": "/ˈæbstrækt/",
+            "definition": "",
+            "translation": "adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的\nn. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念\nv. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -235,17 +211,15 @@
             "bnc": 3729,
             "frq": 4007,
             "exchange": "s:abstracts/d:abstracted/i:abstracting/3:abstracts/p:abstracted",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "awe-inspiring",
-            "usphone": "'ɔ:in,spaiəriŋ",
-            "ukphone": "'ɔ:in,spaiәriŋ",
-            "definition": "s inspiring awe or admiration or wonder",
-            "translation": "a. 使人畏惧的",
+            "usphone": "/ˈɔː ɪnspaɪərɪŋ/",
+            "ukphone": "/ˈɔː ɪnspaɪərɪŋ/",
+            "definition": "",
+            "translation": "adj. 使人敬畏的；令人惊叹的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -253,17 +227,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "i:awe-inspiring/0:awe-inspiring/1:i",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "awe",
-            "usphone": "ɔ",
-            "ukphone": "ɒ:",
-            "definition": "n. an overwhelming feeling of wonder or admiration\nv. inspire awe in",
-            "translation": "n. 敬畏\nvt. 使敬畏",
+            "usphone": "/ɔː/",
+            "ukphone": "/ɔː/",
+            "definition": "",
+            "translation": "n. 敬畏，惊叹；<古>使人敬畏的力量\nv. 使敬畏，使惊叹\n【名】 （Awe）（英、美、德、尼日利亚）阿韦（人名）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -271,17 +243,15 @@
             "bnc": 8655,
             "frq": 7103,
             "exchange": "d:awed/p:awed/s:awes/3:awes/i:awing",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "installation",
-            "usphone": "'ɪnstə'leʃən",
-            "ukphone": ".instә'leiʃәn",
-            "definition": "n. the act of installing something (as equipment)",
-            "translation": "n. 安装, 装置, 就职\n[医] 结构, 装置, 设立",
+            "usphone": "/ˌɪnstəˈleɪʃ(ə)n/",
+            "ukphone": "/ˌɪnstəˈleɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 安装，设置；装置，设备；（工业或军事）设施；就职，就职仪式；现代雕塑装置（除物体外用声、光等元素）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -289,17 +259,15 @@
             "bnc": 3747,
             "frq": 4436,
             "exchange": "s:installations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "wire",
-            "usphone": "'waɪɚ",
-            "ukphone": "'waiә",
-            "definition": "n. ligament made of metal and used to fasten things or make cages or fences etc\nn. a metal conductor that carries electricity over a distance\nn. the finishing line on a racetrack\nv. provide with electrical circuits",
-            "translation": "n. 电线, 电报, 电信, 铁丝网, 金属丝\nvt. 用金属丝捆扎, 拍电报\nvi. 打电报",
+            "usphone": "/ˈwaɪər/",
+            "ukphone": "/ˈwaɪə(r)/",
+            "definition": "",
+            "translation": "n. 金属丝，金属线；电线，导线；隐蔽式电子收听器；<美>电报；<美>（赛马）起跑线，终点线（the wire）；铁丝网（the wire）；用金属丝制的，用金属线制的；<美>通讯社\nv. 给……接上电线，接通（电源）；（用电线）接通，连接；电汇（钱款）；发电报给（某人）；用金属线固定（或加固）；给……安装窃听器；用金属网诱捕（动物）；（槌球）在拱门边阻挡（球，射球，选手）\n【名】 （Wire）怀尔（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -307,17 +275,15 @@
             "bnc": 2748,
             "frq": 2370,
             "exchange": "s:wires/d:wired/p:wired/i:wiring/3:wires",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "cable",
-            "usphone": "'kebl",
-            "ukphone": "'keibl",
-            "definition": "n. a telegram sent abroad\nn. a conductor for transmitting electrical or optical signals or electric power\nn. a very strong thick rope made of twisted hemp or steel wire\nn. a nautical unit of depth",
-            "translation": "n. 电缆, 海底电报, 缆, 索\nvi. 打海底电报\nvt. 发海底电报, 缚住\n[计] 电缆",
+            "usphone": "/ˈkeɪb(ə)l/",
+            "ukphone": "/ˈkeɪb(ə)l/",
+            "definition": "",
+            "translation": "n. 电缆；钢缆，缆绳；电报；有线电视\nv. 给……安装有线电视；给……发电报",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -325,17 +291,15 @@
             "bnc": 3033,
             "frq": 2003,
             "exchange": "s:cables/p:cabled/d:cabled/i:cabling/3:cables",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "innovative",
-            "usphone": "'ɪnəvetɪv",
-            "ukphone": "'inәjveitiv",
-            "definition": "s. being or producing something like nothing done or experienced or created before",
-            "translation": "a. 革新的, 创新的, 富有革新精神的",
+            "usphone": "/ˈɪnəveɪtɪv/",
+            "ukphone": "/ˈɪnəveɪtɪv; ˈɪnəvətɪv/",
+            "definition": "",
+            "translation": "adj. 革新的，新颖的；富有革新精神的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -343,17 +307,15 @@
             "bnc": 5826,
             "frq": 4435,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "trend",
-            "usphone": "trɛnd",
-            "ukphone": "trend",
-            "definition": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
-            "translation": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+            "usphone": "/trend/",
+            "ukphone": "/trend/",
+            "definition": "",
+            "translation": "n. 趋势，动态；时尚，风尚；热门话题\nv. <美>趋向，倾向；（尤指地理特征的）走向；成为热门话题",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -361,17 +323,15 @@
             "bnc": 1949,
             "frq": 1697,
             "exchange": "s:trends/i:trending/p:trended/3:trends/d:trended",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "fence",
-            "usphone": "fɛns",
-            "ukphone": "fens",
-            "definition": "n. a barrier that serves to enclose an area\nn. a dealer in stolen property\nv. enclose with a fence\nv. receive stolen goods",
-            "translation": "n. 围墙, 栅栏, 买卖赃物的人, 剑术\nvt. 用篱笆围住, 练习剑术, 防护\nvi. 击剑, 搪塞",
+            "usphone": "/fens/",
+            "ukphone": "/fens/",
+            "definition": "",
+            "translation": "n. 篱笆，栅栏，围栏；（赛马中的）障碍物；<非正式>买卖赃物者，销赃犯；剑术；（刨子、锯子或其他工具的）防护装置，导向装置\nv. （用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -379,17 +339,15 @@
             "bnc": 3306,
             "frq": 2653,
             "exchange": "s:fences/d:fenced/p:fenced/i:fencing/3:fences",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "contrast",
-            "usphone": "'kɑntræst",
-            "ukphone": "kәn'træst",
-            "definition": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
-            "translation": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+            "usphone": "/ˈkɑːntræst/",
+            "ukphone": "/ˈkɒntrɑːst/",
+            "definition": "",
+            "translation": "n. 差异，对比；对照物，明显不同的事物；（摄影或绘画中的）颜色反差，明暗对比；（电视屏幕的）图像明暗对比度，反差\nv. 对比，对照；显出明显的差异，形成对比",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -397,17 +355,15 @@
             "bnc": 1451,
             "frq": 1762,
             "exchange": "s:contrasts/3:contrasts/d:contrasted/p:contrasted/i:contrasting",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "Greek",
-            "usphone": "",
-            "ukphone": "gri:k",
-            "definition": "n. the Hellenic branch of the Indo-European family of languages\nn. a native or inhabitant of Greece\na. of or relating to or characteristic of Greece or the Greeks or the Greek language",
-            "translation": "n. 希腊人, 希腊语\na. 希腊的, 希腊人的\n[计] 希腊",
+            "usphone": "/ɡriːk/",
+            "ukphone": "/ɡriːk/",
+            "definition": "",
+            "translation": "n. 希腊语；希腊人；（有希腊字母名称的）大学生联谊会会员\nadj. 希腊的；希腊人的，希腊语的\nn. （美）格雷克（人名）",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -415,17 +371,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "/s:Greeks",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "literally",
-            "usphone": "'lɪtərəli",
-            "ukphone": "'litәrәli",
-            "definition": "r. in a literal sense\nr. (intensifier before a figurative expression) without exaggeration",
-            "translation": "adv. 逐字地, 按照字面上地, 不夸张地",
+            "usphone": "/ˈlɪtərəli/",
+            "ukphone": "/ˈlɪtərəli/",
+            "definition": "",
+            "translation": "adv. 按照字面意义地，逐字地；真正地，确实地；（用于夸张地强调）简直",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -433,17 +387,15 @@
             "bnc": 3512,
             "frq": 2469,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "technician",
-            "usphone": "tɛk'nɪʃən",
-            "ukphone": "tek'niʃәn",
-            "definition": "n. someone whose occupation involves training in a specific technical process\nn. someone known for high skill in some intellectual or artistic technique",
-            "translation": "n. 技师\n[化] 技师",
+            "usphone": "/tekˈnɪʃ(ə)n/",
+            "ukphone": "/tekˈnɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 技师，技术人员；（体育、艺术等方面）技巧精湛者，精于技巧者",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 6423,
             "frq": 4831,
             "exchange": "s:technicians",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "animation",
-            "usphone": ",ænɪ'meʃən",
-            "ukphone": ".æni'meiʃәn",
-            "definition": "n. the condition of living or the state of being alive\nn. the property of being able to survive and grow\nn. quality of being active or spirited or alive and vigorous",
-            "translation": "n. 活泼, 生气, 激励, 卡通制作\n[计] 动画",
+            "usphone": "/ˌænɪˈmeɪʃ(ə)n/",
+            "ukphone": "/ˌænɪˈmeɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 活力，生气，热烈；动画片，动画游戏；动画制作",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -469,17 +419,15 @@
             "bnc": 10255,
             "frq": 7572,
             "exchange": "s:animations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "concept",
-            "usphone": "'kɑnsɛpt",
-            "ukphone": "'kɒnsept",
-            "definition": "n. an abstract or general idea inferred or derived from specific instances",
-            "translation": "n. 观念, 概念\n[医] 概念",
+            "usphone": "/ˈkɑːnsept/",
+            "ukphone": "/ˈkɒnsept/",
+            "definition": "",
+            "translation": "n. 概念，观念\nadj. （围绕）某主题的；为表达一种想法而创造的\nv. <非正式>想象，设想",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -487,17 +435,15 @@
             "bnc": 1101,
             "frq": 1158,
             "exchange": "s:concepts",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "distinct",
-            "usphone": "dɪ'stɪŋkt",
-            "ukphone": "dis'tiŋkt",
-            "definition": "s. (often followed by `from') not alike; different in nature or quality\na. easy to perceive; especially clearly outlined\ns. recognizable; marked",
-            "translation": "a. 清楚的, 显著的, 不同的",
+            "usphone": "/dɪˈstɪŋkt/",
+            "ukphone": "/dɪˈstɪŋkt/",
+            "definition": "",
+            "translation": "adj. 不同的，有区别的；清楚的，明显的；确切的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -505,17 +451,15 @@
             "bnc": 2609,
             "frq": 3254,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "innovation",
-            "usphone": ",ɪnə'veʃən",
-            "ukphone": ".inәu'veiʃәn",
-            "definition": "n a creation (a new device or process) resulting from study and experimentation\nn the creation of something in the mind\nn the act of starting something for the first time; introducing something new",
-            "translation": "n. 改革, 创新\n[法] 创新, 改革, 刷新",
+            "usphone": "/ˌɪnəˈveɪʃ(ə)n/",
+            "ukphone": "/ˌɪnəˈveɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 新事物，新方法；革新，创新",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -523,10 +467,8 @@
             "bnc": 3151,
             "frq": 3657,
             "exchange": "s:innovations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
