@@ -11,7 +11,7 @@
             "usphone": "/kwoʊt/",
             "ukphone": "/kwəʊt/",
             "definition": "",
-            "translation": "v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌\nn. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号（quotes）\n【名】 （Quote）（美、俄、澳、马、荷）克奥特（人名）",
+            "translation": "v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌\nn. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -19,15 +19,17 @@
             "bnc": 2039,
             "frq": 2255,
             "exchange": "d:quoted/p:quoted/i:quoting/3:quotes/s:quotes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Dutch",
             "usphone": "/dʌtʃ/",
             "ukphone": "/dʌtʃ/",
             "definition": "",
-            "translation": "adj. 荷兰的，荷兰人的，荷兰语的\nn. 荷兰人（the Dutch）；荷兰语",
+            "translation": "adj. 荷兰的，荷兰人的，荷兰语的\nn. 荷兰人；荷兰语",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -35,15 +37,17 @@
             "bnc": 3191,
             "frq": 4059,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "float",
             "usphone": "/floʊt/",
             "ukphone": "/fləʊt/",
             "definition": "",
-            "translation": "v. （使）漂浮，（使）浮动；轻盈走动，飘然移动；提出（想法或计划）；发行（股票）上市；使（货币汇率）自由浮动\nn. 彩车；鱼漂，浮子；（学游泳用的）浮板；<美，非正式>顶端加冰激凌的饮料；<英，非正式>（商店的）备用零钱；（公司股票）上市，开始发行\n【名】 （Float）（美、英、德）弗洛特（人名）",
+            "translation": "v. （使）漂浮，（使）浮动；轻盈走动，飘然移动；提出（想法或计划）；发行（股票）上市；使（货币汇率）自由浮动\nn. 彩车；鱼漂，浮子；（学游泳用的）浮板；<美，非正式>顶端加冰激凌的饮料；<英，非正式>（商店的）备用零钱；（公司股票）上市，开始发行",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -51,15 +55,17 @@
             "bnc": 3498,
             "frq": 3140,
             "exchange": "i:floating/p:floated/d:floated/s:floats/3:floats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "folk",
             "usphone": "/foʊk/",
             "ukphone": "/fəʊk/",
             "definition": "",
-            "translation": "n. 人们；家人，双亲；民间音乐；诸位，大伙儿\nadj. 民俗的，传统的；流传民间的，普通百姓的\n【名】 （Folk）（英、匈、捷）福克（人名）",
+            "translation": "n. 人们；家人，双亲；民间音乐；诸位，大伙儿\nadj. 民俗的，传统的；流传民间的，普通百姓的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -67,8 +73,10 @@
             "bnc": 2958,
             "frq": 1339,
             "exchange": "s:folks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "folk tale",
@@ -83,8 +91,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "motion",
@@ -99,8 +109,10 @@
             "bnc": 1767,
             "frq": 1822,
             "exchange": "s:motions/p:motioned/i:motioning/3:motions/d:motioned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in motion",
@@ -115,8 +127,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "compose",
@@ -131,15 +145,17 @@
             "bnc": 3128,
             "frq": 3379,
             "exchange": "d:composed/p:composed/i:composing/3:composes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crouch",
             "usphone": "/kraʊtʃ/",
             "ukphone": "/kraʊtʃ/",
             "definition": "",
-            "translation": "v. 蹲下，蹲伏；俯身接近；（动物）蜷伏\nn. 蹲（伏）的姿势\n【名】 （Crouch）（美）克劳奇（人名）",
+            "translation": "v. 蹲下，蹲伏；俯身接近；（动物）蜷伏\nn. 蹲（伏）的姿势",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -147,15 +163,17 @@
             "bnc": 6240,
             "frq": 6738,
             "exchange": "p:crouched/i:crouching/d:crouched/3:crouches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "peacock",
             "usphone": "/ˈpiːkɑːk/",
             "ukphone": "/ˈpiːkɒk/",
             "definition": "",
-            "translation": "n. （雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子\nv. 炫耀，神气活现地走\n【名】 （Peacock）（英）皮科克（人名）",
+            "translation": "n. （雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子\nv. 炫耀，神气活现地走",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -163,15 +181,17 @@
             "bnc": 10281,
             "frq": 15411,
             "exchange": "s:peacocks/i:peacocking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "princess",
             "usphone": "/ˈprɪnses/",
             "ukphone": "/ˌprɪnˈses/",
             "definition": "",
-            "translation": "n. （除女王或王后外的）王室女成员，（尤指）公主；王妃，王公贵族夫人；（受宠溺而自以为优越的）娇小姐；<英，非正式>大小姐；小国女君主；出众的妇女（或事物），巾帼英雄\n【名】 （Princess）（英）普琳西丝（人名）",
+            "translation": "n. （除女王或王后外的）王室女成员，（尤指）公主；王妃，王公贵族夫人；（受宠溺而自以为优越的）娇小姐；<英，非正式>大小姐；小国女君主；出众的妇女（或事物），巾帼英雄",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -179,8 +199,10 @@
             "bnc": 2691,
             "frq": 6039,
             "exchange": "s:princesses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ethnic",
@@ -195,8 +217,10 @@
             "bnc": 3244,
             "frq": 1729,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "abstract",
@@ -211,8 +235,10 @@
             "bnc": 3729,
             "frq": 4007,
             "exchange": "s:abstracts/d:abstracted/i:abstracting/3:abstracts/p:abstracted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "awe-inspiring",
@@ -227,15 +253,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "i:awe-inspiring/0:awe-inspiring/1:i",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "awe",
             "usphone": "/ɔː/",
             "ukphone": "/ɔː/",
             "definition": "",
-            "translation": "n. 敬畏，惊叹；<古>使人敬畏的力量\nv. 使敬畏，使惊叹\n【名】 （Awe）（英、美、德、尼日利亚）阿韦（人名）",
+            "translation": "n. 敬畏，惊叹；<古>使人敬畏的力量\nv. 使敬畏，使惊叹",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -243,8 +271,10 @@
             "bnc": 8655,
             "frq": 7103,
             "exchange": "d:awed/p:awed/s:awes/3:awes/i:awing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "installation",
@@ -259,15 +289,17 @@
             "bnc": 3747,
             "frq": 4436,
             "exchange": "s:installations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wire",
             "usphone": "/ˈwaɪər/",
             "ukphone": "/ˈwaɪə(r)/",
             "definition": "",
-            "translation": "n. 金属丝，金属线；电线，导线；隐蔽式电子收听器；<美>电报；<美>（赛马）起跑线，终点线（the wire）；铁丝网（the wire）；用金属丝制的，用金属线制的；<美>通讯社\nv. 给……接上电线，接通（电源）；（用电线）接通，连接；电汇（钱款）；发电报给（某人）；用金属线固定（或加固）；给……安装窃听器；用金属网诱捕（动物）；（槌球）在拱门边阻挡（球，射球，选手）\n【名】 （Wire）怀尔（人名）",
+            "translation": "n. 金属丝，金属线；电线，导线；隐蔽式电子收听器；<美>电报；<美>（赛马）起跑线，终点线；铁丝网；用金属丝制的，用金属线制的；<美>通讯社\nv. 给……接上电线，接通（电源）；（用电线）接通，连接；电汇（钱款）；发电报给（某人）；用金属线固定（或加固）；给……安装窃听器；用金属网诱捕（动物）；（槌球）在拱门边阻挡（球，射球，选手）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -275,8 +307,10 @@
             "bnc": 2748,
             "frq": 2370,
             "exchange": "s:wires/d:wired/p:wired/i:wiring/3:wires",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cable",
@@ -291,8 +325,10 @@
             "bnc": 3033,
             "frq": 2003,
             "exchange": "s:cables/p:cabled/d:cabled/i:cabling/3:cables",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "innovative",
@@ -307,8 +343,10 @@
             "bnc": 5826,
             "frq": 4435,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "trend",
@@ -323,8 +361,10 @@
             "bnc": 1949,
             "frq": 1697,
             "exchange": "s:trends/i:trending/p:trended/3:trends/d:trended",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fence",
@@ -339,8 +379,10 @@
             "bnc": 3306,
             "frq": 2653,
             "exchange": "s:fences/d:fenced/p:fenced/i:fencing/3:fences",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "contrast",
@@ -355,8 +397,10 @@
             "bnc": 1451,
             "frq": 1762,
             "exchange": "s:contrasts/3:contrasts/d:contrasted/p:contrasted/i:contrasting",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Greek",
@@ -371,8 +415,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "/s:Greeks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "literally",
@@ -387,8 +433,10 @@
             "bnc": 3512,
             "frq": 2469,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "technician",
@@ -403,8 +451,10 @@
             "bnc": 6423,
             "frq": 4831,
             "exchange": "s:technicians",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "animation",
@@ -419,8 +469,10 @@
             "bnc": 10255,
             "frq": 7572,
             "exchange": "s:animations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "concept",
@@ -435,8 +487,10 @@
             "bnc": 1101,
             "frq": 1158,
             "exchange": "s:concepts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "distinct",
@@ -451,8 +505,10 @@
             "bnc": 2609,
             "frq": 3254,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "innovation",
@@ -467,8 +523,10 @@
             "bnc": 3151,
             "frq": 3657,
             "exchange": "s:innovations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
