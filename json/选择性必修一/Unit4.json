@@ -1,0 +1,532 @@
+{
+    "name": "Unit4",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 29,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "quote",
+            "usphone": "kwot",
+            "ukphone": "kwәut",
+            "definition": "v. repeat a passage from\nv. name the price of\nv. refer to for illustration or proof\nv. put quote marks around",
+            "translation": "n. 引用\nvt. 引述, 举证, 报(价)\nvi. 引用",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky gre",
+            "bnc": 2039,
+            "frq": 2255,
+            "exchange": "d:quoted/p:quoted/i:quoting/3:quotes/s:quotes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Dutch",
+            "usphone": "",
+            "ukphone": "dʌtʃ",
+            "definition": "n. the people of the Netherlands\nn. the West Germanic language of the Netherlands\na. of or relating to the Netherlands or its people or culture",
+            "translation": "n. 荷兰人, 荷兰语\na. 荷兰的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 3191,
+            "frq": 4059,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "float",
+            "usphone": "flot",
+            "ukphone": "flәut",
+            "definition": "n. the time interval between the deposit of a check in a bank and its payment\nn. the number of shares outstanding and available for trading by the public\nn. an elaborate display mounted on a platform carried by a truck (or pulled by a truck) in a procession or parade\nn. a hand tool with a flat face used for smoothing and finishing the surface of plaster or cement or stucco",
+            "translation": "n. 漂流物, 浮舟, 漂浮, 浮萍, 彩车\nvi. 浮动, 飘动, 散播, 摇摆, 动摇, 浮动\nvt. 使漂浮, 容纳, 淹没, 发行, 实行\n[计] 浮动",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3498,
+            "frq": 3140,
+            "exchange": "i:floating/p:floated/d:floated/s:floats/3:floats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "folk",
+            "usphone": "fok",
+            "ukphone": "fәuk",
+            "definition": "n. people in general (often used in the plural)",
+            "translation": "n. 人们, 家人, 亲属, 民族\na. 民间的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2958,
+            "frq": 1339,
+            "exchange": "s:folks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "folk tale",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "民间故事；民间传说",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "motion",
+            "usphone": "'moʃən",
+            "ukphone": "'mәuʃәn",
+            "definition": "n. a change of position that does not entail a change of location\nn. a state of change\nn. a formal proposal for action made to a deliberative assembly for discussion and vote\nn. the act of changing location from one place to another",
+            "translation": "n. 移动, 手势, 动作, 意向, 请求, 提议\nv. 打手势",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 1767,
+            "frq": 1822,
+            "exchange": "s:motions/p:motioned/i:motioning/3:motions/d:motioned",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in motion",
+            "usphone": "",
+            "ukphone": "in ˈməuʃən",
+            "definition": "",
+            "translation": " 在开动中, 在运转中, 处于兴奋[骚动]状态",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "compose",
+            "usphone": "kəm'poz",
+            "ukphone": "kәm'pәuz",
+            "definition": "v. form the substance of\nv. write music\nv. put together out of existing material\nv. calm (someone, especially oneself); make quiet",
+            "translation": "vt. 组成, 写作, 作曲, 使平静\nvi. 创作, 排字\n[计] 编写",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3128,
+            "frq": 3379,
+            "exchange": "d:composed/p:composed/i:composing/3:composes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "crouch",
+            "usphone": "kraʊtʃ",
+            "ukphone": "'krautʃ",
+            "definition": "n. the act of bending low with the limbs close to the body\nv. bend one's back forward from the waist on down",
+            "translation": "n. 蹲伏, 蜷缩\nvi. 蹲下, 蜷着, 缩着\nvt. 低头",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl ielts gre",
+            "bnc": 6240,
+            "frq": 6738,
+            "exchange": "p:crouched/i:crouching/d:crouched/3:crouches",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "peacock",
+            "usphone": "'pikɑk",
+            "ukphone": "'pi:kɒk",
+            "definition": "n. European butterfly having reddish-brown wings each marked with a purple eyespot\nn. male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots",
+            "translation": "n. 孔雀, 好炫耀的人\nvi. 炫耀, 神气活现地行走",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6",
+            "bnc": 10281,
+            "frq": 15411,
+            "exchange": "s:peacocks/i:peacocking",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "princess",
+            "usphone": "prɪnˌsɛs",
+            "ukphone": "'prinsis",
+            "definition": "n. a female member of a royal family other than the queen (especially the daughter of a sovereign)",
+            "translation": "n. 公主, 王妃, 女巨头",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky",
+            "bnc": 2691,
+            "frq": 6039,
+            "exchange": "s:princesses",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ethnic",
+            "usphone": "'ɛθnɪk",
+            "ukphone": "'eθnik",
+            "definition": "n. a person who is a member of an ethnic group",
+            "translation": "a. 人种的, 种族的\n[医] 人种的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3244,
+            "frq": 1729,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "abstract",
+            "usphone": "'æbstrækt",
+            "ukphone": "'æbstrækt",
+            "definition": "v. consider a concept without thinking of a specific example; consider abstractly or theoretically\nv. consider apart from a particular case or instance\nv. give an abstract (of)\na. existing only in the mind; separated from embodiment",
+            "translation": "a. 抽象的, 深奥的\nn. 摘要, 抽象概念\nvt. 摘要, 提炼, 使抽象化\n[计] 摘录; 摘要; 抽象",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3729,
+            "frq": 4007,
+            "exchange": "s:abstracts/d:abstracted/i:abstracting/3:abstracts/p:abstracted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "awe-inspiring",
+            "usphone": "'ɔ:in,spaiəriŋ",
+            "ukphone": "'ɔ:in,spaiәriŋ",
+            "definition": "s inspiring awe or admiration or wonder",
+            "translation": "a. 使人畏惧的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "i:awe-inspiring/0:awe-inspiring/1:i",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "awe",
+            "usphone": "ɔ",
+            "ukphone": "ɒ:",
+            "definition": "n. an overwhelming feeling of wonder or admiration\nv. inspire awe in",
+            "translation": "n. 敬畏\nvt. 使敬畏",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ky toefl gre",
+            "bnc": 8655,
+            "frq": 7103,
+            "exchange": "d:awed/p:awed/s:awes/3:awes/i:awing",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "installation",
+            "usphone": "'ɪnstə'leʃən",
+            "ukphone": ".instә'leiʃәn",
+            "definition": "n. the act of installing something (as equipment)",
+            "translation": "n. 安装, 装置, 就职\n[医] 结构, 装置, 设立",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky",
+            "bnc": 3747,
+            "frq": 4436,
+            "exchange": "s:installations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wire",
+            "usphone": "'waɪɚ",
+            "ukphone": "'waiә",
+            "definition": "n. ligament made of metal and used to fasten things or make cages or fences etc\nn. a metal conductor that carries electricity over a distance\nn. the finishing line on a racetrack\nv. provide with electrical circuits",
+            "translation": "n. 电线, 电报, 电信, 铁丝网, 金属丝\nvt. 用金属丝捆扎, 拍电报\nvi. 打电报",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 2748,
+            "frq": 2370,
+            "exchange": "s:wires/d:wired/p:wired/i:wiring/3:wires",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cable",
+            "usphone": "'kebl",
+            "ukphone": "'keibl",
+            "definition": "n. a telegram sent abroad\nn. a conductor for transmitting electrical or optical signals or electric power\nn. a very strong thick rope made of twisted hemp or steel wire\nn. a nautical unit of depth",
+            "translation": "n. 电缆, 海底电报, 缆, 索\nvi. 打海底电报\nvt. 发海底电报, 缚住\n[计] 电缆",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3033,
+            "frq": 2003,
+            "exchange": "s:cables/p:cabled/d:cabled/i:cabling/3:cables",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "innovative",
+            "usphone": "'ɪnəvetɪv",
+            "ukphone": "'inәjveitiv",
+            "definition": "s. being or producing something like nothing done or experienced or created before",
+            "translation": "a. 革新的, 创新的, 富有革新精神的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 5826,
+            "frq": 4435,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "trend",
+            "usphone": "trɛnd",
+            "ukphone": "trend",
+            "definition": "n a general direction in which something tends to move\nn general line of orientation\nn a general tendency to change (as of opinion)\nn the popular taste at a given time\nv turn sharply; change direction abruptly",
+            "translation": "n. 趋势, 倾向, 走向\nvi. 倾向, 转向\n[计] 趋势",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1949,
+            "frq": 1697,
+            "exchange": "s:trends/i:trending/p:trended/3:trends/d:trended",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "fence",
+            "usphone": "fɛns",
+            "ukphone": "fens",
+            "definition": "n. a barrier that serves to enclose an area\nn. a dealer in stolen property\nv. enclose with a fence\nv. receive stolen goods",
+            "translation": "n. 围墙, 栅栏, 买卖赃物的人, 剑术\nvt. 用篱笆围住, 练习剑术, 防护\nvi. 击剑, 搪塞",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 3306,
+            "frq": 2653,
+            "exchange": "s:fences/d:fenced/p:fenced/i:fencing/3:fences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "contrast",
+            "usphone": "'kɑntræst",
+            "ukphone": "kәn'træst",
+            "definition": "n. the opposition or dissimilarity of things that are compared\nn. the act of distinguishing by comparing differences\nn. the perceptual effect of the juxtaposition of very different colors\nn. the range of optical density and tone on a photographic negative or print (or the extent to which adjacent areas on a television screen differ in brightness)",
+            "translation": "n. 差别, 对比, 对照物\nvt. 使对比\nvi. 成对照\n[计] 反差; 对比度",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 1451,
+            "frq": 1762,
+            "exchange": "s:contrasts/3:contrasts/d:contrasted/p:contrasted/i:contrasting",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Greek",
+            "usphone": "",
+            "ukphone": "gri:k",
+            "definition": "n. the Hellenic branch of the Indo-European family of languages\nn. a native or inhabitant of Greece\na. of or relating to or characteristic of Greece or the Greeks or the Greek language",
+            "translation": "n. 希腊人, 希腊语\na. 希腊的, 希腊人的\n[计] 希腊",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "/s:Greeks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "literally",
+            "usphone": "'lɪtərəli",
+            "ukphone": "'litәrәli",
+            "definition": "r. in a literal sense\nr. (intensifier before a figurative expression) without exaggeration",
+            "translation": "adv. 逐字地, 按照字面上地, 不夸张地",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 3512,
+            "frq": 2469,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "technician",
+            "usphone": "tɛk'nɪʃən",
+            "ukphone": "tek'niʃәn",
+            "definition": "n. someone whose occupation involves training in a specific technical process\nn. someone known for high skill in some intellectual or artistic technique",
+            "translation": "n. 技师\n[化] 技师",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 6423,
+            "frq": 4831,
+            "exchange": "s:technicians",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "animation",
+            "usphone": ",ænɪ'meʃən",
+            "ukphone": ".æni'meiʃәn",
+            "definition": "n. the condition of living or the state of being alive\nn. the property of being able to survive and grow\nn. quality of being active or spirited or alive and vigorous",
+            "translation": "n. 活泼, 生气, 激励, 卡通制作\n[计] 动画",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 10255,
+            "frq": 7572,
+            "exchange": "s:animations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "concept",
+            "usphone": "'kɑnsɛpt",
+            "ukphone": "'kɒnsept",
+            "definition": "n. an abstract or general idea inferred or derived from specific instances",
+            "translation": "n. 观念, 概念\n[医] 概念",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1101,
+            "frq": 1158,
+            "exchange": "s:concepts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "distinct",
+            "usphone": "dɪ'stɪŋkt",
+            "ukphone": "dis'tiŋkt",
+            "definition": "s. (often followed by `from') not alike; different in nature or quality\na. easy to perceive; especially clearly outlined\ns. recognizable; marked",
+            "translation": "a. 清楚的, 显著的, 不同的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2609,
+            "frq": 3254,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "innovation",
+            "usphone": ",ɪnə'veʃən",
+            "ukphone": ".inәu'veiʃәn",
+            "definition": "n a creation (a new device or process) resulting from study and experimentation\nn the creation of something in the mind\nn the act of starting something for the first time; introducing something new",
+            "translation": "n. 改革, 创新\n[法] 创新, 改革, 刷新",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3151,
+            "frq": 3657,
+            "exchange": "s:innovations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
