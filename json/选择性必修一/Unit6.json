@@ -8,10 +8,10 @@
     "wordList": [
         {
             "value": "steadily",
-            "usphone": "'stɛdəli",
-            "ukphone": "'stedili",
-            "definition": "r. at a steady rate or pace\nr. in a steady manner",
-            "translation": "adv. 稳定地, 无变化地, 有规则地",
+            "usphone": "/ˈstedəli/",
+            "ukphone": "/ˈstedəli/",
+            "definition": "",
+            "translation": "adv. 逐渐地，稳步地；不变地，稳定地；冷静地，镇定地；固定地，牢固地",
             "pos": "",
             "collins": 0,
             "oxford": true,
@@ -19,17 +19,15 @@
             "bnc": 3991,
             "frq": 4794,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "massive",
-            "usphone": "'mæsɪv",
-            "ukphone": "'mæsiv",
-            "definition": "s. imposing in size or bulk or solidity\ns. being the same substance throughout\ns. imposing in scale or scope or degree or power\ns. consisting of great mass; containing a great quantity of matter",
-            "translation": "a. 大而重的, 宽大的, 宏伟的\n[医] 大块的, 整块的, 大量的",
+            "usphone": "/ˈmæsɪv/",
+            "ukphone": "/ˈmæsɪv/",
+            "definition": "",
+            "translation": "adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的\nn. <英，非正式>（某一地区的年轻人群体）嬉蹦音乐迷（或丛林爵士音乐迷）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -37,17 +35,15 @@
             "bnc": 2037,
             "frq": 1996,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "delicate",
-            "usphone": "ˈdɛlɪkɪt",
-            "ukphone": "'delikәt",
-            "definition": "a. exquisitely fine and subtle and pleasing; susceptible to injury\ns. marked by great skill especially in meticulous technique\ns. easily broken or damaged or destroyed\ns. easily hurt",
-            "translation": "a. 细致优雅的, 微妙的, 美味的\n[医] 柔弱的",
+            "usphone": "/ˈdelɪkət/",
+            "ukphone": "/ˈdelɪkət/",
+            "definition": "",
+            "translation": "adj. 柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的\nn. 精美的衣物",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -55,17 +51,15 @@
             "bnc": 3775,
             "frq": 3787,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "landmark",
-            "usphone": "'lændmɑrk",
-            "ukphone": "'lændmɑ:k",
-            "definition": "n. the position of a prominent or well-known object in a particular landscape\nn. an event marking a unique or important historical change of course or one on which important developments depend\nn. a mark showing the boundary of a piece of land\nn. an anatomical structure used as a point of origin in locating other anatomical structures (as in surgery) or as point from which measurements can be taken",
-            "translation": "n. 陆标, 划时代的事, 地界标\n[医] 界标",
+            "usphone": "/ˈlændmɑːrk/",
+            "ukphone": "/ˈlændmɑːk/",
+            "definition": "",
+            "translation": "n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑\nv. 赋予地标的地位\n【名】 （Landmark）（瑞典、挪）兰德马克（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -73,17 +67,15 @@
             "bnc": 7019,
             "frq": 4715,
             "exchange": "s:landmarks/i:landmarking",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "permafrost",
-            "usphone": "",
-            "ukphone": "'pә:mәfrɔ(:)st",
-            "definition": "n. ground that is permanently frozen",
-            "translation": "n. [地]永久冻结带",
+            "usphone": "/ˈpɜːrməfrɔːst/",
+            "ukphone": "/ˈpɜːməfrɒst/",
+            "definition": "",
+            "translation": "n. 多年冻土；永久冻结带；永久冰冻",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -91,17 +83,15 @@
             "bnc": 41317,
             "frq": 21966,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "Tibetan",
-            "usphone": "",
-            "ukphone": "ti'betn",
-            "definition": "n. Himalayish language spoken in Tibet\nn. a native or inhabitant of Tibet\na. of or relating to or characteristic of Tibet or its people or their language",
-            "translation": "a. 西藏的\nn. 藏语, 西藏人",
+            "usphone": "/tɪˈbet(ə)n/",
+            "ukphone": "/tɪˈbet(ə)n/",
+            "definition": "",
+            "translation": "n. 西藏人；藏语\nadj. 西藏的；西藏人的；藏语的；西藏文化的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -109,17 +99,15 @@
             "bnc": 16253,
             "frq": 11874,
             "exchange": "s:tibetans",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "antelope",
-            "usphone": "'æntɪlop",
-            "ukphone": "'æntilәup",
-            "definition": "n. graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbucks; dik-diks",
-            "translation": "n. 羚羊",
+            "usphone": "/ˈæntɪloʊp/",
+            "ukphone": "/ˈæntɪləʊp/",
+            "definition": "",
+            "translation": "n.  羚羊",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -127,17 +115,15 @@
             "bnc": 21778,
             "frq": 11524,
             "exchange": "s:antelopes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "leisure",
-            "usphone": "'liʒɚ",
-            "ukphone": "'li:ʒә",
-            "definition": "n. time available for ease and relaxation\nn. freedom to choose a pastime or enjoyable activity",
-            "translation": "n. 空闲, 闲暇, 悠闲\na. 空闲的, 有闲的",
+            "usphone": "/ˈliːʒər/",
+            "ukphone": "/ˈleʒə(r)/",
+            "definition": "",
+            "translation": "n. 闲暇，业余时间；休闲活动\nadj. 空闲的，有闲的；业余的\n【名】 （Leisure）（英）莱热（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -145,10 +131,8 @@
             "bnc": 2752,
             "frq": 6269,
             "exchange": "p:leisured",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "at one's leisure",
@@ -163,17 +147,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "wetland",
-            "usphone": "",
-            "ukphone": "'wetlænd",
-            "definition": "n. a low area where the land is saturated with water",
-            "translation": "n. 湿地, 沼泽地\n[经] 湿地",
+            "usphone": "/ˈwetlənd/",
+            "ukphone": "/ˈwetlənd/",
+            "definition": "",
+            "translation": "n. 湿地；沼泽地\nn. （Wetland）（德）韦特兰（人名）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -181,17 +163,15 @@
             "bnc": 10916,
             "frq": 5790,
             "exchange": "s:wetlands",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "grassland",
-            "usphone": "'ɡræslænd",
-            "ukphone": "'græslænd",
-            "definition": "n. land where grass or grasslike vegetation grows and is the dominant form of plant life",
-            "translation": "n. 牧草地, 草原",
+            "usphone": "/ˈɡræslænd/",
+            "ukphone": "/ˈɡrɑːslænd/",
+            "definition": "",
+            "translation": "n. 草原；牧草地",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -199,17 +179,15 @@
             "bnc": 10622,
             "frq": 11859,
             "exchange": "s:grasslands",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "mirror-like",
-            "usphone": "",
-            "ukphone": "",
+            "usphone": "/ˈmɪrər laɪk/",
+            "ukphone": "/ˈmɪrə laɪk/",
             "definition": "",
-            "translation": "[医] 镜样的",
+            "translation": "adj. 镜样的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -217,17 +195,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "wander",
-            "usphone": "'wɑndɚ",
-            "ukphone": "'wɒndә",
-            "definition": "v. go via an indirect route or at no set pace",
-            "translation": "vi. 游荡, 漫步, 徘徊, 迷路, 离题, 蜿蜒\nvt. 在...漫游",
+            "usphone": "/ˈwɑːndər/",
+            "ukphone": "/ˈwɒndə(r)/",
+            "definition": "",
+            "translation": "v. 漫游，游荡，漫步，流浪；走神，开小差；偏离，走偏（道路、航线等）；（目光）游移，往别处看；（河流、道路等）蜿蜒曲折；离题；（因年老而）神志恍惚，精神错乱；在人的身上摸来摸去（尤指他人不情愿时）；（对固定的性伴侣）不忠\nn. 游荡，漫步\n【名】 （Wander）万德（人名）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -235,17 +211,15 @@
             "bnc": 3027,
             "frq": 3183,
             "exchange": "i:wandering/p:wandered/d:wandered/3:wanders",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "scenery",
-            "usphone": "'sinəri",
-            "ukphone": "'si:nәri",
-            "definition": "n. the painted structures of a stage set that are intended to suggest a particular locale\nn. the appearance of a place",
-            "translation": "n. 风景, 景色, 舞台布景",
+            "usphone": "/ˈsiːnəri/",
+            "ukphone": "/ˈsiːnəri/",
+            "definition": "",
+            "translation": "n. 风景，景色；舞台布景",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -253,17 +227,15 @@
             "bnc": 6478,
             "frq": 8152,
             "exchange": "s:sceneries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "plateau",
-            "usphone": "plæ'to",
-            "ukphone": "plæ'tәu",
-            "definition": "n a relatively flat highland",
-            "translation": "n. 高地, 高原, (上升后的)稳定水平\n[医] 高原, 平顶, 坪",
+            "usphone": "/plæˈtoʊ/",
+            "ukphone": "/ˈplætəʊ/",
+            "definition": "",
+            "translation": "n. 高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘\nv. （在一段时间的发展之后）趋于平稳，进入停滞期",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -271,17 +243,15 @@
             "bnc": 8761,
             "frq": 8339,
             "exchange": "s:plateaus",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "roar",
-            "usphone": "rɔr",
-            "ukphone": "rɒ:",
-            "definition": "n. the sound made by a lion\nv. make a loud noise, as of wind, water, or vehicles\nv. act or proceed in a riotous, turbulent, or disorderly way\nv. laugh unrestrainedly and heartily",
-            "translation": "n. 吼, 咆哮, 轰鸣\nvi. 吼, 大声说出, 叫喊, 喧闹\nvt. 呼喊, 使轰鸣",
+            "usphone": "/rɔːr/",
+            "ukphone": "/rɔː(r)/",
+            "definition": "",
+            "translation": "v. 吼叫，咆哮；（人群）用欢呼声激励，为......喝彩，为加油；哄笑，大笑；（尤指车辆）轰鸣着疾驶，呼啸而过；果断行事，迅速发生；熊熊燃烧\nn. 吼叫声， 咆哮声；（风或海的）呼啸声，（机器的）隆隆声；（狮等的）吼叫声；爆笑声\n【名】 （Roar）（挪）罗阿尔（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -289,17 +259,15 @@
             "bnc": 5769,
             "frq": 5275,
             "exchange": "p:roared/i:roaring/3:roars/s:roars/d:roared",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "economy",
-            "usphone": "ɪˈkɑnəmɪ",
-            "ukphone": "i'kɒnәmi",
-            "definition": "n. the system of production and distribution and consumption\nn. the efficient use of resources\nn. frugality in the expenditure of money or resources\nn. an act of economizing; reduction in cost",
-            "translation": "n. 经济, 理财, 节约\n[医] 经济, 整体",
+            "usphone": "/ɪˈkɑːnəmi/",
+            "ukphone": "/ɪˈkɒnəmi/",
+            "definition": "",
+            "translation": "n. 经济；节省，简练；经济舱\nadj. 经济实惠的\n【名】 （Economy）（英）伊科诺米（人名）",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -307,17 +275,15 @@
             "bnc": 817,
             "frq": 645,
             "exchange": "s:economies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "jungle",
-            "usphone": "'dʒʌŋɡl",
-            "ukphone": "'dʒʌŋgl",
-            "definition": "n. a location marked by an intense competition and struggle for survival\nn. an impenetrable equatorial forest",
-            "translation": "n. 丛林, 杂乱的一堆, 弱肉强食的地方",
+            "usphone": "/ˈdʒʌŋɡ(ə)l/",
+            "ukphone": "/ˈdʒʌŋɡ(ə)l/",
+            "definition": "",
+            "translation": "n. （热带）丛林；弱肉强食的地方；杂草丛生的地方；杂乱无章的一堆；丛林音乐（一种快速舞蹈音乐）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -325,17 +291,15 @@
             "bnc": 5317,
             "frq": 4507,
             "exchange": "s:jungles",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "disturb",
-            "usphone": "dɪ'stɝb",
-            "ukphone": "dis'tә:b",
-            "definition": "v. move deeply\nv. damage as if by shaking or jarring",
-            "translation": "vt. 扰乱, 妨碍, 使不安\n[法] 滋扰, 扰乱",
+            "usphone": "/dɪˈstɜːrb/",
+            "ukphone": "/dɪˈstɜːb/",
+            "definition": "",
+            "translation": "v. 打扰，妨碍；使焦虑，使烦恼；移动，弄乱",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -343,17 +307,15 @@
             "bnc": 3272,
             "frq": 4565,
             "exchange": "d:disturbed/i:disturbing/p:disturbed/3:disturbs",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "emission",
-            "usphone": "ɪ'mɪʃən",
-            "ukphone": "i'miʃәn",
-            "definition": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)",
-            "translation": "n. 发射, 射出, 发行\n[医] 发射, 遗精",
+            "usphone": "/ɪˈmɪʃ(ə)n/",
+            "ukphone": "/ɪˈmɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行\n【名】 （Emission)（英）埃米申（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -361,17 +323,15 @@
             "bnc": 3483,
             "frq": 2915,
             "exchange": "s:emissions",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "operator",
-            "usphone": "'ɑpəretɚ",
-            "ukphone": "'ɒpәreitә",
-            "definition": "n. (mathematics) a symbol or function representing a mathematical operation\nn. an agent that operates some apparatus or machine\nn. someone who owns or operates a business\nn. a speculator who trades aggressively on stock or commodity markets",
-            "translation": "n. 操作员, 行家, 经纪人, 算子, 运算符\n[计] 运算符",
+            "usphone": "/ˈɑːpəreɪtər/",
+            "ukphone": "/ˈɒpəreɪtə(r)/",
+            "definition": "",
+            "translation": "n. （设备、机器的）操作员；经营者；精明圆滑的人，善于取巧的人；电话员，接线员；运算符号",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -379,17 +339,15 @@
             "bnc": 2700,
             "frq": 3210,
             "exchange": "s:operators",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "conservationist",
-            "usphone": ",kɑnsɚ'veʃənɪst",
-            "ukphone": ",kәnsә'veiʃәnist",
-            "definition": "n someone who works to protect the environment from destruction or pollution",
-            "translation": "n. 自然资源保护论者",
+            "usphone": "/ˌkɑːnsərˈveɪʃənɪst/",
+            "ukphone": "/ˌkɒnsəˈveɪʃənɪst/",
+            "definition": "",
+            "translation": "n. （自然环境、野生动植物等）保护主义者",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -397,17 +355,15 @@
             "bnc": 12839,
             "frq": 11943,
             "exchange": "s:conservationists",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "via",
-            "usphone": "ˈvaɪə, ˈviə",
-            "ukphone": "vaiә",
-            "definition": "n. A road way.\nprep. By the way of; as, to send a letter via Queenstown to\n   London.",
-            "translation": "prep. 经由, 经过, 通过\n[医] 病毒灭活剂",
+            "usphone": "/ˈvaɪə/",
+            "ukphone": "/ˈvaɪə/",
+            "definition": "",
+            "translation": "prep. 经由，经过（某一地方）；通过，借助于（某种手段或人）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -415,17 +371,15 @@
             "bnc": 2004,
             "frq": 2576,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "candidate",
-            "usphone": "ˈkændɪˌdet, -dɪt",
-            "ukphone": "'kændideit",
-            "definition": "n. someone who is considered for something (for an office or prize or honor etc.)",
-            "translation": "n. 候选人, 投考者\n[法] 候选, 候补者",
+            "usphone": "/ˈkændɪdət/",
+            "ukphone": "/ˈkændɪdət/",
+            "definition": "",
+            "translation": "n. 候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -433,17 +387,15 @@
             "bnc": 1227,
             "frq": 957,
             "exchange": "s:candidates",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "applicant",
-            "usphone": "'æplɪkənt",
-            "ukphone": "'æplikәnt",
-            "definition": "n. a person who requests or seeks something such as assistance or employment or admission",
-            "translation": "n. 申请者\n[经] 申请人, 请求人, 谋事人",
+            "usphone": "/ˈæplɪkənt/",
+            "ukphone": "/ˈæplɪkənt/",
+            "definition": "",
+            "translation": "n. 申请人",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 3159,
             "frq": 5512,
             "exchange": "s:applicants",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "favour",
-            "usphone": "ˈfevɚ",
-            "ukphone": "'feivә",
-            "definition": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
-            "translation": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+            "usphone": "/ˈfeɪvər/",
+            "ukphone": "/ˈfeɪvə(r)/",
+            "definition": "",
+            "translation": "n. 支持，喜爱；帮忙，恩惠；偏爱；小礼物；同意性交\nv. 偏袒，偏爱；支持，更喜欢；有利于；长得像；悉心照料",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -469,10 +419,8 @@
             "bnc": 2781,
             "frq": 28142,
             "exchange": "d:favoured/p:favoured/3:favours/i:favouring/s:favours",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "in favour of",
@@ -487,17 +435,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "advertise",
-            "usphone": "'ædvɚtaɪz",
-            "ukphone": "'ædvәtaiz",
-            "definition": "v. call attention to\nv. make publicity for; try to sell (a product)",
-            "translation": "vt. 做广告, 通知, 公布\nvi. 做广告",
+            "usphone": "/ˈædvərtaɪz/",
+            "ukphone": "/ˈædvətaɪz/",
+            "definition": "",
+            "translation": "v. 为……做广告，登广告；公布，征聘；宣扬；使变得显眼；<古>提醒……注意",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -505,17 +451,15 @@
             "bnc": 4085,
             "frq": 5124,
             "exchange": "d:advertised/p:advertised/i:advertising/3:advertises",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "genuine",
-            "usphone": "'dʒɛnjʊɪn",
-            "ukphone": "'dʒenjuin",
-            "definition": "a. not fake or counterfeit\ns. not pretended; sincerely felt or expressed",
-            "translation": "a. 真正的, 真实的, 诚恳的\n[医] 真性的",
+            "usphone": "/ˈdʒenjuɪn/",
+            "ukphone": "/ˈdʒenjuɪn/",
+            "definition": "",
+            "translation": "adj. 真正的，非伪造的；真诚的，真心的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -523,17 +467,15 @@
             "bnc": 2524,
             "frq": 3747,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "salary",
-            "usphone": "'sæləri",
-            "ukphone": "'sælәri",
-            "definition": "n something that remunerates",
-            "translation": "n. 薪水\nvt. 给...加薪",
+            "usphone": "/ˈsæləri/",
+            "ukphone": "/ˈsæləri/",
+            "definition": "",
+            "translation": "n. 薪金，薪水\nv. <古> 给……薪金",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -541,17 +483,15 @@
             "bnc": 2751,
             "frq": 2455,
             "exchange": "s:salaries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "negotiable",
-            "usphone": "nɪ'ɡoʃɪəbl",
-            "ukphone": "ni'gәuʃiәbl",
-            "definition": "s. capable of being passed or negotiated\ns. able to be negotiated or arranged by compromise",
-            "translation": "a. 可磋商的, 可转让的, 可通行的\n[经] 可流通的, 可转让的",
+            "usphone": "/nɪˈɡoʊʃiəb(ə)l/",
+            "ukphone": "/nɪˈɡəʊʃiəb(ə)l/",
+            "definition": "",
+            "translation": "adj. 可协商的，可讨论的；流通的，可兑现的，可转让的；可通行的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -559,17 +499,15 @@
             "bnc": 15090,
             "frq": 19719,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "preference",
-            "usphone": "'prɛfrəns",
-            "ukphone": "'prefәrәns",
-            "definition": "n. a strong liking\nn. the right or chance to choose\nn. grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)",
-            "translation": "n. 偏爱, 优先, 喜爱物\n[计] 首选项",
+            "usphone": "/ˈprefrəns/",
+            "ukphone": "/ˈprefrəns/",
+            "definition": "",
+            "translation": "n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -577,17 +515,15 @@
             "bnc": 2642,
             "frq": 3022,
             "exchange": "s:preferences",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "qualification",
-            "usphone": ",kwɑlɪfɪ'keʃən",
-            "ukphone": ".kwɒlifi'keiʃәn",
-            "definition": "n. an attribute that must be met or complied with and that fits a person for something\nn. the act of modifying or changing the strength of some idea",
-            "translation": "n. 资格, 条件, 限制\n[计] 限定",
+            "usphone": "/ˌkwɑːlɪfɪˈkeɪʃ(ə)n/",
+            "ukphone": "/ˌkwɒlɪfɪˈkeɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. （通过考试或学习课程取得的）资格，学历；（胜任某一工作或职位所需的）资历，技能条件；获得资格，达到标准；先决条件，正式要求；限制，限定性条件；（语法）（尤指对名词等的）限定，修饰",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -595,17 +531,15 @@
             "bnc": 2396,
             "frq": 6828,
             "exchange": "s:qualifications",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "waist",
-            "usphone": "west",
-            "ukphone": "weist",
-            "definition": "n. the narrowing of the body between the ribs and hips",
-            "translation": "n. 腰部, 腰\n[医] 腰",
+            "usphone": "/weɪst/",
+            "ukphone": "/weɪst/",
+            "definition": "",
+            "translation": "n. 腰，腰围；（衣服的）腰部，腰身；船腰，飞机机身中部，（提琴、沙漏等的）中间细部，（黄蜂等的）细腰；<美>女衬衫，紧身胸衣",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -613,10 +547,8 @@
             "bnc": 4386,
             "frq": 4304,
             "exchange": "s:waists/p:waisted",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
