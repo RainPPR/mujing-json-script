@@ -11,7 +11,7 @@
             "usphone": "/siːd/",
             "ukphone": "/siːd/",
             "definition": "",
-            "translation": "n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）；<古，文>（古时用语，原用于《圣经》中）子嗣，子孙；（感情、过程的）起源，开端；（网球、羽毛球等体育项目中的）种子选手， 种子队；晶粒，晶种；辐射管，镭管\nv. 给（蔬菜，水果）去籽（去核），给......脱籽；选定......为种子选手（或种子队）；在（地里）播种；（植物）结籽，脱籽；（植物）自播；（喻）使萌芽，使发展；用晶粒物质使冷凝（结晶）（尤指促云化雨）\nadj. 用作种子的\n【名】 （Seed）（英）锡德（人名）",
+            "translation": "n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）；<古，文>（古时用语，原用于《圣经》中）子嗣，子孙；（感情、过程的）起源，开端；（网球、羽毛球等体育项目中的）种子选手， 种子队；晶粒，晶种；辐射管，镭管\nv. 给（蔬菜，水果）去籽（去核），给......脱籽；选定......为种子选手（或种子队）；在（地里）播种；（植物）结籽，脱籽；（植物）自播；（喻）使萌芽，使发展；用晶粒物质使冷凝（结晶）（尤指促云化雨）\nadj. 用作种子的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -19,8 +19,10 @@
             "bnc": 2590,
             "frq": 1919,
             "exchange": "s:seeds/p:seeded/d:seeded/i:seeding/3:seeds",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "distant",
@@ -35,8 +37,10 @@
             "bnc": 2745,
             "frq": 2630,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "answer",
@@ -51,8 +55,10 @@
             "bnc": 808,
             "frq": 767,
             "exchange": "s:answers/p:answered/d:answered/i:answering/3:answers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "disgrace",
@@ -67,8 +73,10 @@
             "bnc": 8519,
             "frq": 10352,
             "exchange": "p:disgraced/d:disgraced/i:disgracing/3:disgraces/s:disgraces",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "geologist",
@@ -83,15 +91,17 @@
             "bnc": 10665,
             "frq": 9704,
             "exchange": "s:geologists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sample",
             "usphone": "/ˈsæmp(ə)l/",
             "ukphone": "/ˈsɑːmp(ə)l/",
             "definition": "",
-            "translation": "n. 样本，样品；试用产品，试样；（供科学或医学检测用的）抽样样本；（抽查的）样本，抽选人员；（用于新乐曲中的）选录的歌曲片段\nv. 品尝，尝试（食品、饮料）；体验（活动）；对……作抽样调查；节录，选录（歌曲等，用于其他录音）；确定（模拟信号）瞬时值\nadj. 样品的，实例的\n【名】 （Sample）（美、英、爱尔兰）桑普尔（人名）",
+            "translation": "n. 样本，样品；试用产品，试样；（供科学或医学检测用的）抽样样本；（抽查的）样本，抽选人员；（用于新乐曲中的）选录的歌曲片段\nv. 品尝，尝试（食品、饮料）；体验（活动）；对……作抽样调查；节录，选录（歌曲等，用于其他录音）；确定（模拟信号）瞬时值\nadj. 样品的，实例的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -99,8 +109,10 @@
             "bnc": 1349,
             "frq": 1311,
             "exchange": "s:samples/d:sampled/i:sampling/p:sampled/3:samples",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "evolve",
@@ -115,15 +127,17 @@
             "bnc": 3445,
             "frq": 2821,
             "exchange": "d:evolved/p:evolved/i:evolving/3:evolves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "finch",
             "usphone": "/fɪntʃ/",
             "ukphone": "/fɪntʃ/",
             "definition": "",
-            "translation": "n. 雀科鸣鸟；雀类\nn. （Finch）人名；（英、俄、西）芬奇",
+            "translation": "n. 雀科鸣鸟；雀类",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -131,15 +145,17 @@
             "bnc": 13082,
             "frq": 17186,
             "exchange": "s:finches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "beak",
             "usphone": "/biːk/",
             "ukphone": "/biːk/",
             "definition": "",
-            "translation": "n. 鸟嘴，喙；鹰鈎鼻，尖鼻；<旧>法官，男教师\n【名】 （Beak）（英、西）比克（人名）",
+            "translation": "n. 鸟嘴，喙；鹰鈎鼻，尖鼻；<旧>法官，男教师",
             "pos": "",
             "collins": 1,
             "oxford": true,
@@ -147,8 +163,10 @@
             "bnc": 10354,
             "frq": 11092,
             "exchange": "s:beaks/i:beaking/p:beaked/f:beaks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "suspect",
@@ -163,8 +181,10 @@
             "bnc": 2155,
             "frq": 2100,
             "exchange": "p:suspected/d:suspected/s:suspects/3:suspects/i:suspecting",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ancestor",
@@ -179,8 +199,10 @@
             "bnc": 4793,
             "frq": 4137,
             "exchange": "s:ancestors",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "evolution",
@@ -195,8 +217,10 @@
             "bnc": 3069,
             "frq": 2946,
             "exchange": "s:evolutions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "generate",
@@ -211,8 +235,10 @@
             "bnc": 1716,
             "frq": 1692,
             "exchange": "d:generated/3:generates/p:generated/i:generating",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "characteristic",
@@ -227,8 +253,10 @@
             "bnc": 1811,
             "frq": 2032,
             "exchange": "s:characteristics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "decline",
@@ -243,8 +271,10 @@
             "bnc": 2190,
             "frq": 2000,
             "exchange": "d:declined/p:declined/i:declining/3:declines/s:declines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tortoise",
@@ -259,8 +289,10 @@
             "bnc": 12178,
             "frq": 13299,
             "exchange": "s:tortoises/i:tortoising/p:tortoised",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "blame",
@@ -275,15 +307,17 @@
             "bnc": 2043,
             "frq": 1797,
             "exchange": "d:blamed/p:blamed/i:blaming/3:blames",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "goat",
             "usphone": "/ɡoʊt/",
             "ukphone": "/ɡəʊt/",
             "definition": "",
-            "translation": "n. 山羊；<非正式>老色鬼；<美，非正式>替罪羊；<英，非正式>愚蠢的人；摩羯（星）座（the Goat）",
+            "translation": "n. 山羊；<非正式>老色鬼；<美，非正式>替罪羊；<英，非正式>愚蠢的人；摩羯（星）座",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -291,8 +325,10 @@
             "bnc": 5117,
             "frq": 4674,
             "exchange": "s:goats/d:goat/0:goat/1:d",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "be native to",
@@ -307,8 +343,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "primitive",
@@ -323,8 +361,10 @@
             "bnc": 4019,
             "frq": 5798,
             "exchange": "s:primitives",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "worldwide",
@@ -339,8 +379,10 @@
             "bnc": 5136,
             "frq": 4457,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "giant",
@@ -355,8 +397,10 @@
             "bnc": 3790,
             "frq": 2539,
             "exchange": "s:giants",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "giant tortoise",
@@ -371,8 +415,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mangrove",
@@ -387,8 +433,10 @@
             "bnc": 26599,
             "frq": 15533,
             "exchange": "s:mangroves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "iguana",
@@ -403,8 +451,10 @@
             "bnc": 36844,
             "frq": 18852,
             "exchange": "s:iguanas",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comb-like",
@@ -419,8 +469,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spine",
@@ -435,8 +487,10 @@
             "bnc": 4409,
             "frq": 4904,
             "exchange": "s:spines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "myth",
@@ -451,15 +505,17 @@
             "bnc": 3413,
             "frq": 3076,
             "exchange": "s:myths",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "legend",
             "usphone": "/ˈledʒənd/",
             "ukphone": "/ˈledʒənd/",
             "definition": "",
-            "translation": "n. 传说，传奇故事；传奇人物；（标志、徽记、硬币等物品上的）刻印文字，铭文；（图片或地图的）文字说明，图例\nadj. 十分出名的\n【名】 （Legend）（英）莱金德，（西）莱亨德（人名）",
+            "translation": "n. 传说，传奇故事；传奇人物；（标志、徽记、硬币等物品上的）刻印文字，铭文；（图片或地图的）文字说明，图例\nadj. 十分出名的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -467,8 +523,10 @@
             "bnc": 4020,
             "frq": 3383,
             "exchange": "s:legends",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "detect",
@@ -483,15 +541,17 @@
             "bnc": 2502,
             "frq": 2763,
             "exchange": "d:detected/i:detecting/p:detected/3:detects",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wasp",
             "usphone": "/wɑːsp/",
             "ukphone": "/wɒsp/",
             "definition": "",
-            "translation": "n.  黄蜂；<美>盎格鲁—撒克逊族裔的白人新教徒（指社会上拥有强大权力和影响力的白人）（Wasp，WASP）；<美>易怒的人",
+            "translation": "n.  黄蜂；<美>盎格鲁—撒克逊族裔的白人新教徒（指社会上拥有强大权力和影响力的白人）；<美>易怒的人",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -499,8 +559,10 @@
             "bnc": 8176,
             "frq": 11805,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pesticide",
@@ -515,15 +577,17 @@
             "bnc": 6790,
             "frq": 5225,
             "exchange": "s:pesticides",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "root",
             "usphone": "/ruːt/",
             "ukphone": "/ruːt/",
             "definition": "",
-            "translation": "n. 根，根茎；（牙齿、头发等的）根部；底部，基部；根源，起因；起源，背景；根脉，祖籍（roots）；与……的特殊关联（roots in）；词根；（数学）方根；（圣经）根苗，苗裔；翻找，搜寻；（神经的）根；（乐）根音（=root note）；<澳新，俚>性交；根用作物；根音乐\nv. （使）生根；扎根于，在……中根深蒂固；根源在于，由……产生（be rooted in）；翻寻；使（某人）无法移动；（与某人）性交；使精疲力竭，挫败\nadj. （蔬菜、作物等）块根的，根茎可食用的\n【名】 （Root）（英）鲁特，（德、瑞典）罗特（人名）",
+            "translation": "n. 根，根茎；（牙齿、头发等的）根部；底部，基部；根源，起因；起源，背景；根脉，祖籍；与……的特殊关联；词根；（数学）方根；（圣经）根苗，苗裔；翻找，搜寻；（神经的）根；（乐）根音；根用作物；根音乐\nv. （使）生根；扎根于，在……中根深蒂固；根源在于，由……产生；翻寻；使（某人）无法移动；（与某人）性交；使精疲力竭，挫败\nadj. （蔬菜、作物等）块根的，根茎可食用的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -531,8 +595,10 @@
             "bnc": 1992,
             "frq": 1734,
             "exchange": "s:roots/d:rooted/i:rooting/p:rooted/3:roots",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "chilli",
@@ -547,15 +613,17 @@
             "bnc": 17038,
             "frq": 38267,
             "exchange": "s:chillis",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "link",
             "usphone": "/lɪŋk/",
             "ukphone": "/lɪŋk/",
             "definition": "",
-            "translation": "v. 连接；与……有关联；挽住，钩住\nn. （事物间的）联系，关系；（交通上的）联系；（链状物的）环，节；（超文本）链接；<美>一节香肠；令（长度单位，1令等于1测链的百分之一，即7.92英寸）；（行路时照明用）沥青和麻屑火把\n【名】 （Link）（英、德、塞、捷、匈、瑞典）林克（人名）",
+            "translation": "v. 连接；与……有关联；挽住，钩住\nn. （事物间的）联系，关系；（交通上的）联系；（链状物的）环，节；（超文本）链接；<美>一节香肠；令；（行路时照明用）沥青和麻屑火把",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -563,8 +631,10 @@
             "bnc": 1277,
             "frq": 1730,
             "exchange": "d:linked/s:links/i:linking/3:links/p:linked",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fungus",
@@ -579,8 +649,10 @@
             "bnc": 8059,
             "frq": 7056,
             "exchange": "s:fungi",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fungal",
@@ -595,8 +667,10 @@
             "bnc": 22013,
             "frq": 12482,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cybercrime",
@@ -611,8 +685,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "centimetre",
@@ -627,8 +703,10 @@
             "bnc": 8893,
             "frq": 0,
             "exchange": "s:centimetres",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }

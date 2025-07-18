@@ -1,0 +1,622 @@
+{
+    "name": "Unit6",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 34,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "steadily",
+            "usphone": "'stɛdəli",
+            "ukphone": "'stedili",
+            "definition": "r. at a steady rate or pace\nr. in a steady manner",
+            "translation": "adv. 稳定地, 无变化地, 有规则地",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "cet4 cet6",
+            "bnc": 3991,
+            "frq": 4794,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "massive",
+            "usphone": "'mæsɪv",
+            "ukphone": "'mæsiv",
+            "definition": "s. imposing in size or bulk or solidity\ns. being the same substance throughout\ns. imposing in scale or scope or degree or power\ns. consisting of great mass; containing a great quantity of matter",
+            "translation": "a. 大而重的, 宽大的, 宏伟的\n[医] 大块的, 整块的, 大量的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2037,
+            "frq": 1996,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "delicate",
+            "usphone": "ˈdɛlɪkɪt",
+            "ukphone": "'delikәt",
+            "definition": "a. exquisitely fine and subtle and pleasing; susceptible to injury\ns. marked by great skill especially in meticulous technique\ns. easily broken or damaged or destroyed\ns. easily hurt",
+            "translation": "a. 细致优雅的, 微妙的, 美味的\n[医] 柔弱的",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3775,
+            "frq": 3787,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "landmark",
+            "usphone": "'lændmɑrk",
+            "ukphone": "'lændmɑ:k",
+            "definition": "n. the position of a prominent or well-known object in a particular landscape\nn. an event marking a unique or important historical change of course or one on which important developments depend\nn. a mark showing the boundary of a piece of land\nn. an anatomical structure used as a point of origin in locating other anatomical structures (as in surgery) or as point from which measurements can be taken",
+            "translation": "n. 陆标, 划时代的事, 地界标\n[医] 界标",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 7019,
+            "frq": 4715,
+            "exchange": "s:landmarks/i:landmarking",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "permafrost",
+            "usphone": "",
+            "ukphone": "'pә:mәfrɔ(:)st",
+            "definition": "n. ground that is permanently frozen",
+            "translation": "n. [地]永久冻结带",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 41317,
+            "frq": 21966,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Tibetan",
+            "usphone": "",
+            "ukphone": "ti'betn",
+            "definition": "n. Himalayish language spoken in Tibet\nn. a native or inhabitant of Tibet\na. of or relating to or characteristic of Tibet or its people or their language",
+            "translation": "a. 西藏的\nn. 藏语, 西藏人",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 16253,
+            "frq": 11874,
+            "exchange": "s:tibetans",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "antelope",
+            "usphone": "'æntɪlop",
+            "ukphone": "'æntilәup",
+            "definition": "n. graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbucks; dik-diks",
+            "translation": "n. 羚羊",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 21778,
+            "frq": 11524,
+            "exchange": "s:antelopes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "leisure",
+            "usphone": "'liʒɚ",
+            "ukphone": "'li:ʒә",
+            "definition": "n. time available for ease and relaxation\nn. freedom to choose a pastime or enjoyable activity",
+            "translation": "n. 空闲, 闲暇, 悠闲\na. 空闲的, 有闲的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 2752,
+            "frq": 6269,
+            "exchange": "p:leisured",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "at one's leisure",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "有空时",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wetland",
+            "usphone": "",
+            "ukphone": "'wetlænd",
+            "definition": "n. a low area where the land is saturated with water",
+            "translation": "n. 湿地, 沼泽地\n[经] 湿地",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts",
+            "bnc": 10916,
+            "frq": 5790,
+            "exchange": "s:wetlands",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "grassland",
+            "usphone": "'ɡræslænd",
+            "ukphone": "'græslænd",
+            "definition": "n. land where grass or grasslike vegetation grows and is the dominant form of plant life",
+            "translation": "n. 牧草地, 草原",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 10622,
+            "frq": 11859,
+            "exchange": "s:grasslands",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mirror-like",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "[医] 镜样的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wander",
+            "usphone": "'wɑndɚ",
+            "ukphone": "'wɒndә",
+            "definition": "v. go via an indirect route or at no set pace",
+            "translation": "vi. 游荡, 漫步, 徘徊, 迷路, 离题, 蜿蜒\nvt. 在...漫游",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3027,
+            "frq": 3183,
+            "exchange": "i:wandering/p:wandered/d:wandered/3:wanders",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "scenery",
+            "usphone": "'sinəri",
+            "ukphone": "'si:nәri",
+            "definition": "n. the painted structures of a stage set that are intended to suggest a particular locale\nn. the appearance of a place",
+            "translation": "n. 风景, 景色, 舞台布景",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 6478,
+            "frq": 8152,
+            "exchange": "s:sceneries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "plateau",
+            "usphone": "plæ'to",
+            "ukphone": "plæ'tәu",
+            "definition": "n a relatively flat highland",
+            "translation": "n. 高地, 高原, (上升后的)稳定水平\n[医] 高原, 平顶, 坪",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 8761,
+            "frq": 8339,
+            "exchange": "s:plateaus",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "roar",
+            "usphone": "rɔr",
+            "ukphone": "rɒ:",
+            "definition": "n. the sound made by a lion\nv. make a loud noise, as of wind, water, or vehicles\nv. act or proceed in a riotous, turbulent, or disorderly way\nv. laugh unrestrainedly and heartily",
+            "translation": "n. 吼, 咆哮, 轰鸣\nvi. 吼, 大声说出, 叫喊, 喧闹\nvt. 呼喊, 使轰鸣",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 5769,
+            "frq": 5275,
+            "exchange": "p:roared/i:roaring/3:roars/s:roars/d:roared",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "economy",
+            "usphone": "ɪˈkɑnəmɪ",
+            "ukphone": "i'kɒnәmi",
+            "definition": "n. the system of production and distribution and consumption\nn. the efficient use of resources\nn. frugality in the expenditure of money or resources\nn. an act of economizing; reduction in cost",
+            "translation": "n. 经济, 理财, 节约\n[医] 经济, 整体",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 817,
+            "frq": 645,
+            "exchange": "s:economies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "jungle",
+            "usphone": "'dʒʌŋɡl",
+            "ukphone": "'dʒʌŋgl",
+            "definition": "n. a location marked by an intense competition and struggle for survival\nn. an impenetrable equatorial forest",
+            "translation": "n. 丛林, 杂乱的一堆, 弱肉强食的地方",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 5317,
+            "frq": 4507,
+            "exchange": "s:jungles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "disturb",
+            "usphone": "dɪ'stɝb",
+            "ukphone": "dis'tә:b",
+            "definition": "v. move deeply\nv. damage as if by shaking or jarring",
+            "translation": "vt. 扰乱, 妨碍, 使不安\n[法] 滋扰, 扰乱",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "zk gk cet4 cet6 ky toefl ielts",
+            "bnc": 3272,
+            "frq": 4565,
+            "exchange": "d:disturbed/i:disturbing/p:disturbed/3:disturbs",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "emission",
+            "usphone": "ɪ'mɪʃən",
+            "ukphone": "i'miʃәn",
+            "definition": "n. the act of emitting; causing to flow forth\nn. the release of electrons from parent atoms\nn. the occurrence of a flow of water (as from a pipe)",
+            "translation": "n. 发射, 射出, 发行\n[医] 发射, 遗精",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 toefl",
+            "bnc": 3483,
+            "frq": 2915,
+            "exchange": "s:emissions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "operator",
+            "usphone": "'ɑpəretɚ",
+            "ukphone": "'ɒpәreitә",
+            "definition": "n. (mathematics) a symbol or function representing a mathematical operation\nn. an agent that operates some apparatus or machine\nn. someone who owns or operates a business\nn. a speculator who trades aggressively on stock or commodity markets",
+            "translation": "n. 操作员, 行家, 经纪人, 算子, 运算符\n[计] 运算符",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2700,
+            "frq": 3210,
+            "exchange": "s:operators",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "conservationist",
+            "usphone": ",kɑnsɚ'veʃənɪst",
+            "ukphone": ",kәnsә'veiʃәnist",
+            "definition": "n someone who works to protect the environment from destruction or pollution",
+            "translation": "n. 自然资源保护论者",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 12839,
+            "frq": 11943,
+            "exchange": "s:conservationists",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "via",
+            "usphone": "ˈvaɪə, ˈviə",
+            "ukphone": "vaiә",
+            "definition": "n. A road way.\nprep. By the way of; as, to send a letter via Queenstown to\n   London.",
+            "translation": "prep. 经由, 经过, 通过\n[医] 病毒灭活剂",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2004,
+            "frq": 2576,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "candidate",
+            "usphone": "ˈkændɪˌdet, -dɪt",
+            "ukphone": "'kændideit",
+            "definition": "n. someone who is considered for something (for an office or prize or honor etc.)",
+            "translation": "n. 候选人, 投考者\n[法] 候选, 候补者",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1227,
+            "frq": 957,
+            "exchange": "s:candidates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "applicant",
+            "usphone": "'æplɪkənt",
+            "ukphone": "'æplikәnt",
+            "definition": "n. a person who requests or seeks something such as assistance or employment or admission",
+            "translation": "n. 申请者\n[经] 申请人, 请求人, 谋事人",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 toefl ielts gre",
+            "bnc": 3159,
+            "frq": 5512,
+            "exchange": "s:applicants",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "favour",
+            "usphone": "ˈfevɚ",
+            "ukphone": "'feivә",
+            "definition": "n a feeling of favorable regard\nn an inclination to approve\nn an advantage to the benefit of someone or something\nn souvenir consisting of a small gift given to a guest at a party\nn an act of gracious kindness\nv treat gently or carefully\nv bestow a privilege upon\nv promote over another\nv consider as the favorite",
+            "translation": "n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物\nvt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ielts",
+            "bnc": 2781,
+            "frq": 28142,
+            "exchange": "d:favoured/p:favoured/3:favours/i:favouring/s:favours",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in favour of",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "[经] 同意, 支持, 有利于...",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "advertise",
+            "usphone": "'ædvɚtaɪz",
+            "ukphone": "'ædvәtaiz",
+            "definition": "v. call attention to\nv. make publicity for; try to sell (a product)",
+            "translation": "vt. 做广告, 通知, 公布\nvi. 做广告",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts gre",
+            "bnc": 4085,
+            "frq": 5124,
+            "exchange": "d:advertised/p:advertised/i:advertising/3:advertises",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "genuine",
+            "usphone": "'dʒɛnjʊɪn",
+            "ukphone": "'dʒenjuin",
+            "definition": "a. not fake or counterfeit\ns. not pretended; sincerely felt or expressed",
+            "translation": "a. 真正的, 真实的, 诚恳的\n[医] 真性的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2524,
+            "frq": 3747,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "salary",
+            "usphone": "'sæləri",
+            "ukphone": "'sælәri",
+            "definition": "n something that remunerates",
+            "translation": "n. 薪水\nvt. 给...加薪",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 2751,
+            "frq": 2455,
+            "exchange": "s:salaries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "negotiable",
+            "usphone": "nɪ'ɡoʃɪəbl",
+            "ukphone": "ni'gәuʃiәbl",
+            "definition": "s. capable of being passed or negotiated\ns. able to be negotiated or arranged by compromise",
+            "translation": "a. 可磋商的, 可转让的, 可通行的\n[经] 可流通的, 可转让的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts gre",
+            "bnc": 15090,
+            "frq": 19719,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "preference",
+            "usphone": "'prɛfrəns",
+            "ukphone": "'prefәrәns",
+            "definition": "n. a strong liking\nn. the right or chance to choose\nn. grant of favor or advantage to one over another (especially to a country or countries in matters of international trade, such as levying duties)",
+            "translation": "n. 偏爱, 优先, 喜爱物\n[计] 首选项",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2642,
+            "frq": 3022,
+            "exchange": "s:preferences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "qualification",
+            "usphone": ",kwɑlɪfɪ'keʃən",
+            "ukphone": ".kwɒlifi'keiʃәn",
+            "definition": "n. an attribute that must be met or complied with and that fits a person for something\nn. the act of modifying or changing the strength of some idea",
+            "translation": "n. 资格, 条件, 限制\n[计] 限定",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet6 ky toefl ielts",
+            "bnc": 2396,
+            "frq": 6828,
+            "exchange": "s:qualifications",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "waist",
+            "usphone": "west",
+            "ukphone": "weist",
+            "definition": "n. the narrowing of the body between the ribs and hips",
+            "translation": "n. 腰部, 腰\n[医] 腰",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 4386,
+            "frq": 4304,
+            "exchange": "s:waists/p:waisted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
