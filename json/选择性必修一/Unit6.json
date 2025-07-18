@@ -19,8 +19,10 @@
             "bnc": 3991,
             "frq": 4794,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "massive",
@@ -35,8 +37,10 @@
             "bnc": 2037,
             "frq": 1996,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "delicate",
@@ -51,15 +55,17 @@
             "bnc": 3775,
             "frq": 3787,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "landmark",
             "usphone": "/ˈlændmɑːrk/",
             "ukphone": "/ˈlændmɑːk/",
             "definition": "",
-            "translation": "n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑\nv. 赋予地标的地位\n【名】 （Landmark）（瑞典、挪）兰德马克（人名）",
+            "translation": "n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑\nv. 赋予地标的地位",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -67,8 +73,10 @@
             "bnc": 7019,
             "frq": 4715,
             "exchange": "s:landmarks/i:landmarking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "permafrost",
@@ -83,8 +91,10 @@
             "bnc": 41317,
             "frq": 21966,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Tibetan",
@@ -99,8 +109,10 @@
             "bnc": 16253,
             "frq": 11874,
             "exchange": "s:tibetans",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "antelope",
@@ -115,15 +127,17 @@
             "bnc": 21778,
             "frq": 11524,
             "exchange": "s:antelopes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "leisure",
             "usphone": "/ˈliːʒər/",
             "ukphone": "/ˈleʒə(r)/",
             "definition": "",
-            "translation": "n. 闲暇，业余时间；休闲活动\nadj. 空闲的，有闲的；业余的\n【名】 （Leisure）（英）莱热（人名）",
+            "translation": "n. 闲暇，业余时间；休闲活动\nadj. 空闲的，有闲的；业余的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -131,8 +145,10 @@
             "bnc": 2752,
             "frq": 6269,
             "exchange": "p:leisured",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "at one's leisure",
@@ -147,15 +163,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wetland",
             "usphone": "/ˈwetlənd/",
             "ukphone": "/ˈwetlənd/",
             "definition": "",
-            "translation": "n. 湿地；沼泽地\nn. （Wetland）（德）韦特兰（人名）",
+            "translation": "n. 湿地；沼泽地",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -163,8 +181,10 @@
             "bnc": 10916,
             "frq": 5790,
             "exchange": "s:wetlands",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "grassland",
@@ -179,8 +199,10 @@
             "bnc": 10622,
             "frq": 11859,
             "exchange": "s:grasslands",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mirror-like",
@@ -195,15 +217,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wander",
             "usphone": "/ˈwɑːndər/",
             "ukphone": "/ˈwɒndə(r)/",
             "definition": "",
-            "translation": "v. 漫游，游荡，漫步，流浪；走神，开小差；偏离，走偏（道路、航线等）；（目光）游移，往别处看；（河流、道路等）蜿蜒曲折；离题；（因年老而）神志恍惚，精神错乱；在人的身上摸来摸去（尤指他人不情愿时）；（对固定的性伴侣）不忠\nn. 游荡，漫步\n【名】 （Wander）万德（人名）",
+            "translation": "v. 漫游，游荡，漫步，流浪；走神，开小差；偏离，走偏（道路、航线等）；（目光）游移，往别处看；（河流、道路等）蜿蜒曲折；离题；（因年老而）神志恍惚，精神错乱；在人的身上摸来摸去（尤指他人不情愿时）；（对固定的性伴侣）不忠\nn. 游荡，漫步",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -211,8 +235,10 @@
             "bnc": 3027,
             "frq": 3183,
             "exchange": "i:wandering/p:wandered/d:wandered/3:wanders",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "scenery",
@@ -227,8 +253,10 @@
             "bnc": 6478,
             "frq": 8152,
             "exchange": "s:sceneries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "plateau",
@@ -243,15 +271,17 @@
             "bnc": 8761,
             "frq": 8339,
             "exchange": "s:plateaus",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "roar",
             "usphone": "/rɔːr/",
             "ukphone": "/rɔː(r)/",
             "definition": "",
-            "translation": "v. 吼叫，咆哮；（人群）用欢呼声激励，为......喝彩，为加油；哄笑，大笑；（尤指车辆）轰鸣着疾驶，呼啸而过；果断行事，迅速发生；熊熊燃烧\nn. 吼叫声， 咆哮声；（风或海的）呼啸声，（机器的）隆隆声；（狮等的）吼叫声；爆笑声\n【名】 （Roar）（挪）罗阿尔（人名）",
+            "translation": "v. 吼叫，咆哮；（人群）用欢呼声激励，为......喝彩，为加油；哄笑，大笑；（尤指车辆）轰鸣着疾驶，呼啸而过；果断行事，迅速发生；熊熊燃烧\nn. 吼叫声， 咆哮声；（风或海的）呼啸声，（机器的）隆隆声；（狮等的）吼叫声；爆笑声",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -259,15 +289,17 @@
             "bnc": 5769,
             "frq": 5275,
             "exchange": "p:roared/i:roaring/3:roars/s:roars/d:roared",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "economy",
             "usphone": "/ɪˈkɑːnəmi/",
             "ukphone": "/ɪˈkɒnəmi/",
             "definition": "",
-            "translation": "n. 经济；节省，简练；经济舱\nadj. 经济实惠的\n【名】 （Economy）（英）伊科诺米（人名）",
+            "translation": "n. 经济；节省，简练；经济舱\nadj. 经济实惠的",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -275,8 +307,10 @@
             "bnc": 817,
             "frq": 645,
             "exchange": "s:economies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jungle",
@@ -291,8 +325,10 @@
             "bnc": 5317,
             "frq": 4507,
             "exchange": "s:jungles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "disturb",
@@ -307,15 +343,17 @@
             "bnc": 3272,
             "frq": 4565,
             "exchange": "d:disturbed/i:disturbing/p:disturbed/3:disturbs",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "emission",
             "usphone": "/ɪˈmɪʃ(ə)n/",
             "ukphone": "/ɪˈmɪʃ(ə)n/",
             "definition": "",
-            "translation": "n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行\n【名】 （Emission)（英）埃米申（人名）",
+            "translation": "n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -323,8 +361,10 @@
             "bnc": 3483,
             "frq": 2915,
             "exchange": "s:emissions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "operator",
@@ -339,8 +379,10 @@
             "bnc": 2700,
             "frq": 3210,
             "exchange": "s:operators",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "conservationist",
@@ -355,8 +397,10 @@
             "bnc": 12839,
             "frq": 11943,
             "exchange": "s:conservationists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "via",
@@ -371,8 +415,10 @@
             "bnc": 2004,
             "frq": 2576,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "candidate",
@@ -387,8 +433,10 @@
             "bnc": 1227,
             "frq": 957,
             "exchange": "s:candidates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "applicant",
@@ -403,8 +451,10 @@
             "bnc": 3159,
             "frq": 5512,
             "exchange": "s:applicants",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "favour",
@@ -419,8 +469,10 @@
             "bnc": 2781,
             "frq": 28142,
             "exchange": "d:favoured/p:favoured/3:favours/i:favouring/s:favours",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in favour of",
@@ -435,8 +487,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "advertise",
@@ -451,8 +505,10 @@
             "bnc": 4085,
             "frq": 5124,
             "exchange": "d:advertised/p:advertised/i:advertising/3:advertises",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "genuine",
@@ -467,8 +523,10 @@
             "bnc": 2524,
             "frq": 3747,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "salary",
@@ -483,8 +541,10 @@
             "bnc": 2751,
             "frq": 2455,
             "exchange": "s:salaries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "negotiable",
@@ -499,8 +559,10 @@
             "bnc": 15090,
             "frq": 19719,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "preference",
@@ -515,8 +577,10 @@
             "bnc": 2642,
             "frq": 3022,
             "exchange": "s:preferences",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "qualification",
@@ -531,8 +595,10 @@
             "bnc": 2396,
             "frq": 6828,
             "exchange": "s:qualifications",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "waist",
@@ -547,8 +613,10 @@
             "bnc": 4386,
             "frq": 4304,
             "exchange": "s:waists/p:waisted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
