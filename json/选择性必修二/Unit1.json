@@ -1,0 +1,1090 @@
+{
+    "name": "Unit1",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 60,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "integrity",
+            "usphone": "ɪn'tɛɡrəti",
+            "ukphone": "in'tegriti",
+            "definition": "n. an undivided or unbroken completeness or totality with nothing wanting\nn. moral soundness",
+            "translation": "n. 正直, 廉正, 完整\n[计] 完整性",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 4364,
+            "frq": 3464,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "virtue",
+            "usphone": "'vɝtʃʊ",
+            "ukphone": "'vә:tju:",
+            "definition": "n. the quality of doing what is right and avoiding what is wrong\nn. morality with respect to sexual relations\nn. a particular moral excellence",
+            "translation": "n. 德行, 美德, 优点, 功效, 效力\n[法] 美德, 贞操, 优点",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2960,
+            "frq": 3362,
+            "exchange": "s:virtues",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "licence",
+            "usphone": "'laɪsəns",
+            "ukphone": "'laisns",
+            "definition": "n excessive freedom; lack of due restraint\nn freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech)\nn a legal document giving official permission to do something\nv authorize officially",
+            "translation": "n. 执照, 许可证, 特许\nvt. 许可, 特许, 认可",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 ielts",
+            "bnc": 2055,
+            "frq": 29631,
+            "exchange": "s:licences/d:licenced/i:licencing/p:licenced/3:licences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "loan",
+            "usphone": "lon",
+            "ukphone": "lәun",
+            "definition": "n. the temporary provision of money (usually at interest)",
+            "translation": "n. 贷款, 借出\nv. 借, 供应货款, 借给",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 1468,
+            "frq": 1699,
+            "exchange": "s:loans/d:loaned/p:loaned/i:loaning/3:loans",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "adulthood",
+            "usphone": "'ædʌlthʊd",
+            "ukphone": "ә'dʌlthud",
+            "definition": "n. the period of time in your life after your physical growth has stopped and you are fully developed\nn. the state (and responsibilities) of a person who has attained maturity",
+            "translation": "n. 成年\n[医] 成人期",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 11718,
+            "frq": 7780,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "milestone",
+            "usphone": "'maɪlston",
+            "ukphone": "'mailstәun",
+            "definition": "n. stone post at side of a road to show distances\nn. a significant event in your life (or in a project)",
+            "translation": "n. 里程碑, 里程石, 里程标",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 11721,
+            "frq": 9040,
+            "exchange": "s:milestones",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "election",
+            "usphone": "ɪ'lɛkʃən",
+            "ukphone": "i'lekʃәn",
+            "definition": "n. a vote to select the winner of a position or political office\nn. the act of selecting someone or something; the exercise of deliberate choice\nn. the status or fact of being elected\nn. the predestination of some individuals as objects of divine mercy (especially as conceived by Calvinists)",
+            "translation": "n. 选举, 当选, 选择权\n[法] 选举, 当选",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "cet4 cet6 toefl",
+            "bnc": 638,
+            "frq": 801,
+            "exchange": "s:elections",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wage",
+            "usphone": "wedʒ",
+            "ukphone": "weidʒ",
+            "definition": "n. something that remunerates",
+            "translation": "n. 工资, 报应, 报偿\nvt. 开展, 进行\nvi. 进行",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl gre",
+            "bnc": 1404,
+            "frq": 2586,
+            "exchange": "s:wages/d:waged/i:waging/p:waged/3:wages",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tax",
+            "usphone": "tæks",
+            "ukphone": "tæks",
+            "definition": "n. charge against a citizen's person or property or activity for the support of government\nv. levy a tax on\nv. set or determine the amount of (a payment such as a fine)\nv. use to the limit",
+            "translation": "n. 税, 税款, 重负, 会费\nvt. 课以税, 使负重荷, 斥责",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 545,
+            "frq": 509,
+            "exchange": "s:taxes/d:taxed/p:taxed/i:taxing/3:taxes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "have a say",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "有发言权,有理由说话",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ambulance",
+            "usphone": "'æmbjələns",
+            "ukphone": "'æmbjulәns",
+            "definition": "n. a vehicle that takes people to and from hospitals",
+            "translation": "n. 救护车\n[医] 救护车",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 ky ielts",
+            "bnc": 3860,
+            "frq": 5500,
+            "exchange": "s:ambulances",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "legal",
+            "usphone": "'ligl",
+            "ukphone": "'li:gәl",
+            "definition": "a. established by or founded upon law or official or accepted rules\na. of or relating to jurisprudence\ns. having legal efficacy or force\na. relating to or characteristic of the profession of law",
+            "translation": "a. 法律的, 法定的, 合法的\n[经] 法定权利; 法律(上)的, 合法的",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 764,
+            "frq": 883,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mature",
+            "usphone": "mə'tʃʊr",
+            "ukphone": "mә'tjuә",
+            "definition": "v. develop and reach maturity; undergo maturation\nv. develop and work out fully in one's mind\nv. become due for repayment\na. characteristic of maturity",
+            "translation": "a. 成熟的, 到期的, 充分考虑的\nvt. 使成熟\nvi. 成熟, 到期",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 4122,
+            "frq": 5133,
+            "exchange": "3:matures/d:matured/i:maturing/p:matured/r:maturer",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "instantly",
+            "usphone": "'ɪnstəntli",
+            "ukphone": "'instәntli",
+            "definition": "r without delay or hesitation; with no time intervening\nr without any delay",
+            "translation": "adv. 立即地, 即刻地",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet4 cet6",
+            "bnc": 4123,
+            "frq": 4170,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "childhood",
+            "usphone": "'tʃaɪldhʊd",
+            "ukphone": "'tʃaildhud",
+            "definition": "n. the time of person's life when they are a child\nn. the state of a child between infancy and adolescence",
+            "translation": "n. 孩童时期\n[医] 儿童期",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 ky",
+            "bnc": 2746,
+            "frq": 2107,
+            "exchange": "s:childhoods",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "obey",
+            "usphone": "ə'be",
+            "ukphone": "ә'bei",
+            "definition": "v. be obedient to",
+            "translation": "vt. 服从, 遵从, 顺从\nvi. 服从",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 4952,
+            "frq": 5672,
+            "exchange": "p:obeyed/d:obeyed/i:obeying/3:obeys",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "subtle",
+            "usphone": "'sʌtl",
+            "ukphone": "'sʌtl",
+            "definition": "s. able to make fine distinctions",
+            "translation": "a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的\n[医] 锐敏的; 精细的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3792,
+            "frq": 3435,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "gradual",
+            "usphone": "'ɡrædʒuəl",
+            "ukphone": "'grædʒuәl",
+            "definition": "n. (Roman Catholic Church) an antiphon (usually from the Book of Psalms) immediately after the epistle at Mass\na. proceeding in small stages\na. (of a topographical gradient) not steep or abrupt",
+            "translation": "a. 逐渐的, 渐增的\nn. 弥撒升阶圣歌",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 5327,
+            "frq": 6796,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "selfish",
+            "usphone": "'sɛlfɪʃ",
+            "ukphone": "'selfiʃ",
+            "definition": "a. concerned chiefly or only with yourself and your advantage to the exclusion of others",
+            "translation": "a. 自私的, 利己主义的, 自我中心的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 6992,
+            "frq": 7386,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "organ",
+            "usphone": "'ɔrɡən",
+            "ukphone": "'ɒ:gәn",
+            "definition": "n. a fully differentiated structural and functional unit in an animal that is specialized for some particular function\nn. a government agency or instrument devoted to the performance of some specific function\nn. a periodical that is published by a special interest group\nn. wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard",
+            "translation": "n. 风琴, 器官, 元件, 机构, 机关\n[电] 风琴",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 3101,
+            "frq": 3394,
+            "exchange": "s:organs",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "approval",
+            "usphone": "əˈpruvl",
+            "ukphone": "ә'pru:vl",
+            "definition": "n. a feeling of liking something or someone good\nn. acceptance as satisfactory\nn. a message expressing a favorable opinion",
+            "translation": "n. 赞成, 批准\n[化] 核准",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 2223,
+            "frq": 2549,
+            "exchange": "s:approvals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "steady",
+            "usphone": "'stɛdi",
+            "ukphone": "'stedi",
+            "definition": "v. make steady\na. not subject to change or variation especially in behavior\ns. securely in position; not shaky\ns. not easily excited or upset",
+            "translation": "a. 稳定的, 不动摇的, 沉着的, 稳固的, 坚定的, 经常的\nvt. 使稳定, 使坚定\nvi. 变为沉着, 稳固",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2922,
+            "frq": 2914,
+            "exchange": "p:steadied/i:steadying/d:steadied/r:steadier/3:steadies/t:steadiest",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tempt",
+            "usphone": "tɛmpt",
+            "ukphone": "tempt",
+            "definition": "v. dispose or incline or entice to\nv. give rise to a desire by being attractive or inviting\nv. try to seduce\nv. try presumptuously",
+            "translation": "vt. 诱惑, 引诱, 引起...的兴趣, 吸引, 冒...风险",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 4078,
+            "frq": 5592,
+            "exchange": "d:tempted/p:tempted/3:tempts/i:tempting",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "librarian",
+            "usphone": "laɪ'brɛrɪən",
+            "ukphone": "lai'brєәriәn",
+            "definition": "n. a professional person trained in library science and engaged in library services",
+            "translation": "n. 图书馆员, 图书管理员\n[计] 程序库管理程序; 程序库生成程序",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 4647,
+            "frq": 7502,
+            "exchange": "s:librarians",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "household",
+            "usphone": "'haʊshold",
+            "ukphone": "'haushәuld",
+            "definition": "n a social unit living together",
+            "translation": "n. 一家人, 家庭, 家族, 王室\na. 家庭的, 家常的, 王室的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 1644,
+            "frq": 1967,
+            "exchange": "s:households",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "commute",
+            "usphone": "kə'mjʊt",
+            "ukphone": "kә'mju:t",
+            "definition": "n. a regular journey of some distance to and from your place of work\nv. exchange positions without a change in value\nv. travel back and forth regularly, as between one's place of work and home\nv. exchange a penalty for a less severe one",
+            "translation": "vt. 交换, 折偿, 减轻\nvi. 代偿, 经常乘车来往",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 11235,
+            "frq": 6867,
+            "exchange": "i:commuting/d:commuted/p:commuted/3:commutes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "deposit",
+            "usphone": "dɪ'pɑzɪt",
+            "ukphone": "di'pɒzit",
+            "definition": "n. the phenomenon of sediment or gravel accumulating\nn. money deposited in a bank or some similar institution\nn. money given as security for an article acquired for temporary use\nn. a payment given as a guarantee that an obligation will be met",
+            "translation": "n. 存款, 定金, 堆积物\nvt. 存放, 堆积\nvi. 沉淀",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 2384,
+            "frq": 4692,
+            "exchange": "s:deposits/d:deposited/p:deposited/i:depositing/3:deposits",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "commitment",
+            "usphone": "kə'mɪtmənt",
+            "ukphone": "kә'mitmәnt",
+            "definition": "n. the act of binding yourself (intellectually or emotionally) to a course of action\nn. an engagement by contract involving financial obligation\nn. a message that makes a pledge\nn. the official act of consigning a person to confinement (as in a prison or mental hospital)",
+            "translation": "n. 委托, 交押, 承担义务, 赞助\n[医] 院禁",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 toefl ielts",
+            "bnc": 1355,
+            "frq": 1616,
+            "exchange": "s:commitments",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "suitable",
+            "usphone": "'sutəbl",
+            "ukphone": "'sju:tәbl",
+            "definition": "s. meant or adapted for an occasion or use",
+            "translation": "a. 适当的, 相配的\n[法] 合适的, 适宜的, 适当的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 1541,
+            "frq": 4756,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "minimum",
+            "usphone": "'mɪnɪməm",
+            "ukphone": "'minimәm",
+            "definition": "n. the smallest possible quantity\nn. the point on a curve where the tangent changes from negative on the left to positive on the right",
+            "translation": "a. 最小的, 最低的\nn. 最小值\n[计] 最小值",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2715,
+            "frq": 3633,
+            "exchange": "s:minima",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bittersweet",
+            "usphone": "",
+            "ukphone": "'bitәswi:t",
+            "definition": "n. poisonous perennial Old World vine having violet flowers and oval coral-red berries; widespread weed in North America\nn. twining shrub of North America having yellow capsules enclosing scarlet seeds\ns. tinged with sadness",
+            "translation": "a. 又苦又甜的, 苦乐参半的\n[医] 白英, 蜀羊泉",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 34583,
+            "frq": 11921,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "boarder",
+            "usphone": "'bɔrdɚ",
+            "ukphone": "'bɒ:dә",
+            "definition": "n. someone who forces their way aboard ship\nn. a pupil who lives at school during term time",
+            "translation": "n. 寄膳者, 寄膳宿者",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 20889,
+            "frq": 18018,
+            "exchange": "s:boarders",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "varied",
+            "usphone": "'vɛrɪd",
+            "ukphone": "'vєәrid",
+            "definition": "a. characterized by variety\ns. widely different\ns. broken away from sameness or identity or duplication",
+            "translation": "a. 不同的, 杂色的, 各式各样的\n[法] 不同的, 种种的, 变化的",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "toefl ielts",
+            "bnc": 4746,
+            "frq": 6384,
+            "exchange": "0:vary/1:dp/d:varied/p:varied",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cherish",
+            "usphone": "'tʃɛrɪʃ",
+            "ukphone": "'tʃeriʃ",
+            "definition": "v be fond of; be attached to",
+            "translation": "vt. 珍爱, 怀有, 爱护",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 11106,
+            "frq": 8660,
+            "exchange": "d:cherished/p:cherished/3:cherishes/i:cherishing",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "routine",
+            "usphone": "rʊ'tin",
+            "ukphone": "ru:'ti:n",
+            "definition": "n. an unvarying or habitual method or procedure\nn. a set sequence of steps, part of larger computer program",
+            "translation": "n. 常规, 日常工作, 惯例, 例行公事\na. 日常的, 常规的\n[计] 例程",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2421,
+            "frq": 2585,
+            "exchange": "s:routines",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "primeval",
+            "usphone": "prai'mi:vəl",
+            "ukphone": "prai'mi:vl",
+            "definition": "s having existed from the beginning; in an earliest or original stage or state",
+            "translation": "a. 初期的, 原始的, 远古的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 15652,
+            "frq": 18353,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "boa constrictor",
+            "usphone": "",
+            "ukphone": "",
+            "definition": " A large and powerful serpent of tropical America,\n   sometimes twenty or thirty feet long. See Illustration in Appendix.",
+            "translation": "n. 蟒蛇, 王蛇",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "swallow",
+            "usphone": "'swɑlo",
+            "ukphone": "'swɒlәu",
+            "definition": "n. a small amount of liquid food\nn. the act of swallowing\nn. small long-winged songbird noted for swift graceful flight and the regularity of its migrations\nv. pass through the esophagus as part of eating or drinking",
+            "translation": "n. 燕子, 吞咽, 喉\nvt. 咽, 淹没, 吞没, 耗尽, 轻信, 忍受, 抑制\nvi. 吞下, 咽下",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3290,
+            "frq": 3535,
+            "exchange": "p:swallowed/d:swallowed/i:swallowing/s:swallows/3:swallows",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "prey",
+            "usphone": "pre",
+            "ukphone": "prei",
+            "definition": "n. a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence\nn. animal hunted or caught for food\nv. profit from in an exploitatory manner",
+            "translation": "n. 被掠食者, 牺牲者\nvi. 捕食",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 4181,
+            "frq": 5502,
+            "exchange": "d:preyed/i:preying/p:preyed/s:preys/3:preys",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "chew",
+            "usphone": "tʃʊ",
+            "ukphone": "tʃu:",
+            "definition": "n. a wad of something chewable as tobacco\nn. biting and grinding food in your mouth so it becomes soft enough to swallow\nv. chew (food); to bite and grind with the teeth",
+            "translation": "vt. 咀嚼, 嚼碎\nvi. 咀嚼, 细想\nn. 咀嚼, 咀嚼物",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 5661,
+            "frq": 4631,
+            "exchange": "i:chewing/p:chewed/d:chewed/3:chews/s:chews",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "digestion",
+            "usphone": "daɪdʒɛstʃən",
+            "ukphone": "di'dʒestʃәn",
+            "definition": "n. the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat\nn. the organic process by which food is converted into substances that can be absorbed into the body\nn. learning and coming to understand ideas and information",
+            "translation": "n. 消化力, 领悟\n[化] 消化; 消化作用; 蒸煮; 蒸煮作用; 煮解; 浸提; 陈化",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 9262,
+            "frq": 13954,
+            "exchange": "s:digestions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ponder",
+            "usphone": "'pɑndɚ",
+            "ukphone": "'pɒndә",
+            "definition": "v reflect deeply on a subject",
+            "translation": "v. 沉思, 考虑",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 6954,
+            "frq": 5982,
+            "exchange": "p:pondered/i:pondering/3:ponders/d:pondered",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "masterpiece",
+            "usphone": "'mæstəpis",
+            "ukphone": "'mɑ:stәpi:s",
+            "definition": "n. the most outstanding work of a creative artist or craftsman\nn. an outstanding achievement",
+            "translation": "n. 杰作, 名著",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 7693,
+            "frq": 7685,
+            "exchange": "s:masterpieces",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "digest",
+            "usphone": "daɪ'dʒɛst",
+            "ukphone": "di'dʒest",
+            "definition": "n. a periodical that summarizes the news\nv. convert food into absorbable substances\nv. arrange and integrate in the mind\nv. put up with something or somebody unpleasant",
+            "translation": "n. 文摘\nvi. 消化\nvt. 消化, 理解\n[计] 摘要",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 7573,
+            "frq": 9447,
+            "exchange": "d:digested/i:digesting/p:digested/3:digests",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "lay aside",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "搁置, 积蓄",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "devote oneself to",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "献身于, 专心于",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "arithmetic",
+            "usphone": "ə'rɪθmətɪk",
+            "ukphone": "ә'riθmәtik",
+            "definition": "n. the branch of pure mathematics dealing with the theory of numerical calculations",
+            "translation": "n. 算术, 算术知识\n[机] 算术; 算术的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 8791,
+            "frq": 11378,
+            "exchange": "s:arithmetics",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "disheartened",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "v take away the enthusiasm of\ns made less hopeful or enthusiastic",
+            "translation": "a. 使失去勇气, 使气馁, 使沮丧, 使失去信心",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 41606,
+            "frq": 34933,
+            "exchange": "0:dishearten/1:dp/p:disheartened/d:disheartened",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tiresome",
+            "usphone": "'taɪɚsəm",
+            "ukphone": "'taiәsәm",
+            "definition": "s so lacking in interest as to cause mental weariness",
+            "translation": "a. 累人的, 烦人的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky",
+            "bnc": 13772,
+            "frq": 17944,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "at a glance",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "看一眼, 一下子",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "consequence",
+            "usphone": "'kɑnsəkwɛns",
+            "ukphone": "'kɒnsikwәns",
+            "definition": "n. a phenomenon that follows and is caused by some previous phenomenon\nn. the outcome of an event especially as relative to an individual\nn. having important effects or influence",
+            "translation": "n. 结果, 重要性\n[法] 结果, 后果, 推断",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1234,
+            "frq": 1626,
+            "exchange": "s:consequences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "intimately",
+            "usphone": "",
+            "ukphone": "'intimitli",
+            "definition": "r in a close manner\nr with great or especially intimate knowledge",
+            "translation": "adv. 亲切地, 亲密地, 个人性地",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 9642,
+            "frq": 9539,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "golf",
+            "usphone": "gɔlf",
+            "ukphone": "gɒlf",
+            "definition": "n. a game played on a large open course with 9 or 18 holes; the object is use as few strokes as possible in playing all the holes\nv. play golf",
+            "translation": "n. 高尔夫球\nvi. 打高尔夫球",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 2501,
+            "frq": 1801,
+            "exchange": "s:golfs/i:golfing/p:golfed/3:golfs/d:golfed",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "politics",
+            "usphone": "'pɑlətɪks",
+            "ukphone": "'pɒlitiks",
+            "definition": "n. social relations involving intrigue to gain authority or power\nn. the study of government of states and other political units\nn. the profession devoted to governing and to political affairs\nn. the opinion you hold with respect to political questions",
+            "translation": "n. 政治, 政治学, 政见, 政治活动\n[法] 政治, 政治学, 政纲",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1285,
+            "frq": 951,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "necktie",
+            "usphone": "",
+            "ukphone": "'nektai",
+            "definition": "n. neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front",
+            "translation": "n. 领带",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gk",
+            "bnc": 42992,
+            "frq": 17026,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "evidence",
+            "usphone": "'ɛvɪdəns",
+            "ukphone": "'evidәns",
+            "definition": "n. your basis for belief or disbelief; knowledge on which to base belief\nn. an indication that makes something evident\nn. (law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved",
+            "translation": "n. 根据, 证据, 迹象\n[经] 证据, 凭证",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 456,
+            "frq": 606,
+            "exchange": "d:evidenced/s:evidences/i:evidencing/p:evidenced/3:evidences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "airline",
+            "usphone": "'ɛrlaɪn",
+            "ukphone": "'єәlain",
+            "definition": "n. a hose that carries air under pressure\nn. a commercial enterprise that provides scheduled flights for passengers",
+            "translation": "n. 航线, 航线的设备, 航空公司",
+            "pos": "",
+            "collins": 4,
+            "oxford": false,
+            "tag": "zk gk cet4 ky",
+            "bnc": 3554,
+            "frq": 2128,
+            "exchange": "s:airlines",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "memorable",
+            "usphone": "'mɛmərəbl",
+            "ukphone": "'memәrәbl",
+            "definition": "s. worth remembering",
+            "translation": "a. 值得纪念的, 难忘的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 6063,
+            "frq": 6013,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bond",
+            "usphone": "bɑnd",
+            "ukphone": "bɒnd",
+            "definition": "n. a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal\nn. a superior quality of strong durable white writing paper; originally made for printing documents\nn. United States civil rights leader who was elected to the legislature in Georgia but was barred from taking his seat because he opposed the Vietnam War (born 1940)\nn. British secret operative 007 in novels by Ian Fleming",
+            "translation": "n. 捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留\nvt. 存入关栈, 使黏合\nvi. 结合",
+            "pos": "",
+            "collins": 4,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2385,
+            "frq": 1880,
+            "exchange": "s:bonds/d:bonded/p:bonded/3:bonds/i:bonding",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "conclusion",
+            "usphone": "kən'kluʒn",
+            "ukphone": "kәn'klu:ʒәn",
+            "definition": "n. an intuitive assumption\nn. the proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism)\nn. a final settlement\nn. the last section of a communication",
+            "translation": "n. 结论, 结尾, 推论\n[法] 缔结, 结论, 推论",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 1282,
+            "frq": 1666,
+            "exchange": "s:conclusions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
