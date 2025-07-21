@@ -19,15 +19,17 @@
             "bnc": 4364,
             "frq": 3464,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "virtue",
             "usphone": "/ˈvɜːrtʃuː/",
             "ukphone": "/ˈvɜːtʃuː/",
             "definition": "",
-            "translation": "n. 高尚的道德，德行；美德，优秀品质；优点，长处；<古>（尤指妇女的）贞操；功效；（传统基督教天使学）道德天使（天国九级制度的第七级）（virtues）\n【名】 （Virtue）弗丘（人名）",
+            "translation": "n. 高尚的道德，德行；美德，优秀品质；优点，长处；功效",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -35,8 +37,10 @@
             "bnc": 2960,
             "frq": 3362,
             "exchange": "s:virtues",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "licence",
@@ -51,8 +55,10 @@
             "bnc": 2055,
             "frq": 29631,
             "exchange": "s:licences/d:licenced/i:licencing/p:licenced/3:licences",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "loan",
@@ -67,8 +73,10 @@
             "bnc": 1468,
             "frq": 1699,
             "exchange": "s:loans/d:loaned/p:loaned/i:loaning/3:loans",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "adulthood",
@@ -83,15 +91,17 @@
             "bnc": 11718,
             "frq": 7780,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "milestone",
             "usphone": "/ˈmaɪlstoʊn/",
             "ukphone": "/ˈmaɪlstəʊn/",
             "definition": "",
-            "translation": "n. 重要事件，转折点；里程碑，里程标\n【名】  (Milestone) 迈尔斯通（人名）",
+            "translation": "n. 重要事件，转折点；里程碑，里程标",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -99,8 +109,10 @@
             "bnc": 11721,
             "frq": 9040,
             "exchange": "s:milestones",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "election",
@@ -115,8 +127,10 @@
             "bnc": 638,
             "frq": 801,
             "exchange": "s:elections",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wage",
@@ -131,15 +145,17 @@
             "bnc": 1404,
             "frq": 2586,
             "exchange": "s:wages/d:waged/i:waging/p:waged/3:wages",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tax",
             "usphone": "/tæks/",
             "ukphone": "/tæks/",
             "definition": "",
-            "translation": "n. 税款；负担，重负\nv. 对……征税；缴纳车辆牌照税；使负重担，使费力气；责备；<法律>审定（诉讼费用）\n【名】 （Tax）（美、荷、奥、印、俄、德）塔克斯（人名）",
+            "translation": "n. 税款；负担，重负\nv. 对……征税；缴纳车辆牌照税；使负重担，使费力气；责备；<法律>审定（诉讼费用）",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -147,8 +163,10 @@
             "bnc": 545,
             "frq": 509,
             "exchange": "s:taxes/d:taxed/p:taxed/i:taxing/3:taxes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "have a say",
@@ -163,8 +181,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ambulance",
@@ -179,15 +199,17 @@
             "bnc": 3860,
             "frq": 5500,
             "exchange": "s:ambulances",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "legal",
             "usphone": "/ˈliːɡ(ə)l/",
             "ukphone": "/ˈliːɡ(ə)l/",
             "definition": "",
-            "translation": "adj. 法律允许的，合法的；与法律有关的，法律的；（与衡平法相对）普通法或成文法确认的；神学律法的，与神学律法有关的；<美>（纸张）标准大小的\n【名】 （Legal）（法）勒加尔（人名）",
+            "translation": "adj. 法律允许的，合法的；与法律有关的，法律的；（与衡平法相对）普通法或成文法确认的；神学律法的，与神学律法有关的；<美>（纸张）标准大小的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -195,8 +217,10 @@
             "bnc": 764,
             "frq": 883,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mature",
@@ -211,8 +235,10 @@
             "bnc": 4122,
             "frq": 5133,
             "exchange": "3:matures/d:matured/i:maturing/p:matured/r:maturer",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "instantly",
@@ -227,8 +253,10 @@
             "bnc": 4123,
             "frq": 4170,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "childhood",
@@ -243,15 +271,17 @@
             "bnc": 2746,
             "frq": 2107,
             "exchange": "s:childhoods",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "obey",
             "usphone": "/əˈbeɪ/",
             "ukphone": "/əˈbeɪ/",
             "definition": "",
-            "translation": "v. 遵守，服从，听从；<非正式>顺……的意，按……的通常情况行事；遵循（原则、自然规律等）\n【名】 （Obey）（英、法）奥贝（人名）",
+            "translation": "v. 遵守，服从，听从；<非正式>顺……的意，按……的通常情况行事；遵循（原则、自然规律等）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -259,8 +289,10 @@
             "bnc": 4952,
             "frq": 5672,
             "exchange": "p:obeyed/d:obeyed/i:obeying/3:obeys",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "subtle",
@@ -275,8 +307,10 @@
             "bnc": 3792,
             "frq": 3435,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "gradual",
@@ -291,8 +325,10 @@
             "bnc": 5327,
             "frq": 6796,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "selfish",
@@ -307,15 +343,17 @@
             "bnc": 6992,
             "frq": 7386,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "organ",
             "usphone": "/ˈɔːrɡən/",
             "ukphone": "/ˈɔːɡən/",
             "definition": "",
-            "translation": "n. （人体或动植物的）器官；阴茎，阳物；风琴，管风琴；<正式>  （官方的）机构，机关；<正式>机关报刊，宣传工具\n【名】 （Organ）（英）奥根（人名）",
+            "translation": "n. （人体或动植物的）器官；阴茎，阳物；风琴，管风琴；<正式>  （官方的）机构，机关；<正式>机关报刊，宣传工具",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -323,8 +361,10 @@
             "bnc": 3101,
             "frq": 3394,
             "exchange": "s:organs",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "approval",
@@ -339,8 +379,10 @@
             "bnc": 2223,
             "frq": 2549,
             "exchange": "s:approvals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "steady",
@@ -355,8 +397,10 @@
             "bnc": 2922,
             "frq": 2914,
             "exchange": "p:steadied/i:steadying/d:steadied/r:steadier/3:steadies/t:steadiest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tempt",
@@ -371,8 +415,10 @@
             "bnc": 4078,
             "frq": 5592,
             "exchange": "d:tempted/p:tempted/3:tempts/i:tempting",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "librarian",
@@ -387,8 +433,10 @@
             "bnc": 4647,
             "frq": 7502,
             "exchange": "s:librarians",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "household",
@@ -403,8 +451,10 @@
             "bnc": 1644,
             "frq": 1967,
             "exchange": "s:households",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "commute",
@@ -419,8 +469,10 @@
             "bnc": 11235,
             "frq": 6867,
             "exchange": "i:commuting/d:commuted/p:commuted/3:commutes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "deposit",
@@ -435,8 +487,10 @@
             "bnc": 2384,
             "frq": 4692,
             "exchange": "s:deposits/d:deposited/p:deposited/i:depositing/3:deposits",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "commitment",
@@ -451,8 +505,10 @@
             "bnc": 1355,
             "frq": 1616,
             "exchange": "s:commitments",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "suitable",
@@ -467,8 +523,10 @@
             "bnc": 1541,
             "frq": 4756,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "minimum",
@@ -483,8 +541,10 @@
             "bnc": 2715,
             "frq": 3633,
             "exchange": "s:minima",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bittersweet",
@@ -499,8 +559,10 @@
             "bnc": 34583,
             "frq": 11921,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "boarder",
@@ -515,8 +577,10 @@
             "bnc": 20889,
             "frq": 18018,
             "exchange": "s:boarders",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "varied",
@@ -531,8 +595,10 @@
             "bnc": 4746,
             "frq": 6384,
             "exchange": "0:vary/1:dp/d:varied/p:varied",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cherish",
@@ -547,8 +613,10 @@
             "bnc": 11106,
             "frq": 8660,
             "exchange": "d:cherished/p:cherished/3:cherishes/i:cherishing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "routine",
@@ -563,8 +631,10 @@
             "bnc": 2421,
             "frq": 2585,
             "exchange": "s:routines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "primeval",
@@ -579,8 +649,10 @@
             "bnc": 15652,
             "frq": 18353,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "boa constrictor",
@@ -595,8 +667,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "swallow",
@@ -611,8 +685,10 @@
             "bnc": 3290,
             "frq": 3535,
             "exchange": "p:swallowed/d:swallowed/i:swallowing/s:swallows/3:swallows",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "prey",
@@ -627,8 +703,10 @@
             "bnc": 4181,
             "frq": 5502,
             "exchange": "d:preyed/i:preying/p:preyed/s:preys/3:preys",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "chew",
@@ -643,8 +721,10 @@
             "bnc": 5661,
             "frq": 4631,
             "exchange": "i:chewing/p:chewed/d:chewed/3:chews/s:chews",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "digestion",
@@ -659,8 +739,10 @@
             "bnc": 9262,
             "frq": 13954,
             "exchange": "s:digestions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ponder",
@@ -675,8 +757,10 @@
             "bnc": 6954,
             "frq": 5982,
             "exchange": "p:pondered/i:pondering/3:ponders/d:pondered",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "masterpiece",
@@ -691,8 +775,10 @@
             "bnc": 7693,
             "frq": 7685,
             "exchange": "s:masterpieces",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "digest",
@@ -707,8 +793,10 @@
             "bnc": 7573,
             "frq": 9447,
             "exchange": "d:digested/i:digesting/p:digested/3:digests",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "lay aside",
@@ -723,8 +811,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "devote oneself to",
@@ -739,8 +829,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "arithmetic",
@@ -755,8 +847,10 @@
             "bnc": 8791,
             "frq": 11378,
             "exchange": "s:arithmetics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "disheartened",
@@ -771,8 +865,10 @@
             "bnc": 41606,
             "frq": 34933,
             "exchange": "0:dishearten/1:dp/p:disheartened/d:disheartened",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tiresome",
@@ -787,8 +883,10 @@
             "bnc": 13772,
             "frq": 17944,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "at a glance",
@@ -803,8 +901,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consequence",
@@ -819,8 +919,10 @@
             "bnc": 1234,
             "frq": 1626,
             "exchange": "s:consequences",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intimately",
@@ -835,8 +937,10 @@
             "bnc": 9642,
             "frq": 9539,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "golf",
@@ -851,8 +955,10 @@
             "bnc": 2501,
             "frq": 1801,
             "exchange": "s:golfs/i:golfing/p:golfed/3:golfs/d:golfed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "politics",
@@ -867,8 +973,10 @@
             "bnc": 1285,
             "frq": 951,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "necktie",
@@ -883,8 +991,10 @@
             "bnc": 42992,
             "frq": 17026,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "evidence",
@@ -899,8 +1009,10 @@
             "bnc": 456,
             "frq": 606,
             "exchange": "d:evidenced/s:evidences/i:evidencing/p:evidenced/3:evidences",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "airline",
@@ -915,8 +1027,10 @@
             "bnc": 3554,
             "frq": 2128,
             "exchange": "s:airlines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "memorable",
@@ -931,8 +1045,10 @@
             "bnc": 6063,
             "frq": 6013,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bond",
@@ -947,8 +1063,10 @@
             "bnc": 2385,
             "frq": 1880,
             "exchange": "s:bonds/d:bonded/p:bonded/3:bonds/i:bonding",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "conclusion",
@@ -963,8 +1081,10 @@
             "bnc": 1282,
             "frq": 1666,
             "exchange": "s:conclusions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
