@@ -8,10 +8,10 @@
     "wordList": [
         {
             "value": "security",
-            "usphone": "sə'kjʊrəti",
-            "ukphone": "si'kjuriti",
-            "definition": "n. the state of being free from danger or injury\nn. defense against financial failure; financial independence\nn. freedom from anxiety or fear\nn. a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends",
-            "translation": "n. 安全, 安全性, 防护物, 保安, 可靠性, 担保人, 抵押品, 保证金\n[计] 安全性, 保密性, 安全检查程序",
+            "usphone": "/sɪˈkjʊrəti/",
+            "ukphone": "/sɪˈkjʊərəti/",
+            "definition": "",
+            "translation": "n. 保护措施，安全工作；保安部门；安检处；保障，保证；安全，安全感；抵押品，保证金；证券，债券",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -19,17 +19,15 @@
             "bnc": 632,
             "frq": 661,
             "exchange": "s:securities",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "moderator",
-            "usphone": "",
-            "ukphone": "'mɒdәreitә",
-            "definition": "n. any substance used to slow down neutrons in nuclear reactors\nn. in the Presbyterian church, the officer who presides over a synod or general assembly\nn. someone who presides over a forum or debate",
-            "translation": "n. 主席, 会议主持人, 仲裁人\n[计] 筛选人",
+            "usphone": "/ˈmɑːdəreɪtər/",
+            "ukphone": "/ˈmɒdəreɪtə(r)/",
+            "definition": "",
+            "translation": "n. 仲裁人，调解人；<英>（试卷）审核员，监考人；（会议或讨论的）主持人；长老会教长；留言板版主，聊天室版主；慢化剂，缓和剂； 长老会教长",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -37,17 +35,15 @@
             "bnc": 17548,
             "frq": 12436,
             "exchange": "s:moderators",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "detox",
-            "usphone": "",
-            "ukphone": "di:'tɔks",
-            "definition": "n. the hospital ward or clinic in which patients are detoxified\nv. treat for alcohol or drug dependence",
-            "translation": "n. 戒瘾病房；戒瘾诊所",
+            "usphone": "/ˈdiːtɑːks/",
+            "ukphone": "/ˈdiːtɒks/",
+            "definition": "",
+            "translation": "n. 排毒；（对吸毒者或酗酒者的）脱瘾治疗\nv. （使）脱瘾；戒酒，戒毒；给身体排毒",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -55,17 +51,15 @@
             "bnc": 0,
             "frq": 22010,
             "exchange": "d:detoxed/i:detoxing/p:detoxed/s:detoxes/3:detoxes/f:detoxes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "fundraising",
-            "usphone": "'fʌnd,rezɪŋ",
-            "ukphone": "'fʌndˌreɪzɪŋ",
-            "definition": "v raise money for a cause or project",
-            "translation": "n. 筹款, 募款\na. 筹款的",
+            "usphone": "/ˈfʌndreɪzɪŋ/",
+            "ukphone": "/ˈfʌndreɪzɪŋ/",
+            "definition": "",
+            "translation": "n. （尤指为慈善机构或政党而进行的）资金筹集，募捐\nadj. 募款的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -73,17 +67,15 @@
             "bnc": 15782,
             "frq": 0,
             "exchange": "i:fundraising/0:fundraising/1:i",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "switch",
-            "usphone": "swɪtʃ",
-            "ukphone": "switʃ",
-            "definition": "n. control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit\nn. hairpiece consisting of a tress of false hair; used by women to give shape to a coiffure\nn. railroad track having two movable rails and necessary connections; used to turn a train from one track to another or to store rolling stock\nn. a flexible implement used as an instrument of punishment",
-            "translation": "n. 开关, 电闸, 转换, 软枝, 鞭子, 道岔\nvt. 转变, 切换, 摆动, 转换, 使转轨\nvi. 转换, 变换, 摆动\n[计] 开关; 翻转; 转移",
+            "usphone": "/swɪtʃ/",
+            "ukphone": "/swɪtʃ/",
+            "definition": "",
+            "translation": "n. 开关，电闸；骤变，突变；交换机；（计算机）切换；<美> （铁路的）转辙器，道岔；（细软的）枝条，鞭子；假发；（在英国使用借记卡付账的一种）转换系统（Switch）\nv. （用开关）打开，关闭；（使）改变，转变；交换，调换；转移（注意力）；（与某人）交换工作，调班；<古> 用枝条击打，轻拂",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -91,10 +83,8 @@
             "bnc": 1952,
             "frq": 2604,
             "exchange": "p:switched/d:switched/i:switching/s:switches/3:switches",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "switch on",
@@ -109,17 +99,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "motivate",
-            "usphone": "'motə'vet",
-            "ukphone": "'mәutiveit",
-            "definition": "v. give an incentive for action",
-            "translation": "vt. 给与动机, 刺激, 提高...的学习欲望, 促动\n[经] 促动, 激发, 激励",
+            "usphone": "/ˈmoʊtɪveɪt/",
+            "ukphone": "/ˈməʊtɪveɪt/",
+            "definition": "",
+            "translation": "v. 成为……的动机，是……的原因；激励，激发；<南非>申请",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -127,17 +115,15 @@
             "bnc": 5069,
             "frq": 3534,
             "exchange": "d:motivated/3:motivates/i:motivating/p:motivated",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "occupy",
-            "usphone": "'ɑkjupaɪ",
-            "ukphone": "'ɒkjupai",
-            "definition": "v. live (in a certain place)\nv. occupy the whole of",
-            "translation": "vt. 占领, 占(时间、空间等), 住进, 担任, 使从事, 使全神贯注\n[法] 占领, 占据, 占有",
+            "usphone": "/ˈɑːkjupaɪ/",
+            "ukphone": "/ˈɒkjupaɪ/",
+            "definition": "",
+            "translation": "v. 使用（房屋、建筑），居住；占据（空间，时间）；使忙于（做某事）；使一直在想；（军事）占领，占据；（尤指为表示抗议而）非法强占（建筑物）；任职，位居",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -145,17 +131,15 @@
             "bnc": 1991,
             "frq": 2710,
             "exchange": "d:occupied/3:occupies/p:occupied/i:occupying",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "profile",
-            "usphone": "'profaɪl",
-            "ukphone": "'prәufail",
-            "definition": "n. an analysis (often in graphical form) representing the extent to which something exhibits various characteristics\nn. an outline of something (especially a human face as seen from one side)\nn. biographical sketch\nn. a vertical section of the Earth's crust showing the different horizons or layers",
-            "translation": "n. 侧面, 轮廓, 传略\nvt. 描绘...轮廓, 写...的传略\n[计] 提问档; 剖面图法; 剖面法",
+            "usphone": "/ˈproʊfaɪl/",
+            "ukphone": "/ˈprəʊfaɪl/",
+            "definition": "",
+            "translation": "n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案\nv. 概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓（be profiled）；（尤指用模板）铣出轮廓，使……成形",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -163,17 +147,15 @@
             "bnc": 2812,
             "frq": 2676,
             "exchange": "s:profiles/3:profiles/i:profiling/d:profiled/p:profiled/f:profiles",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "distract",
-            "usphone": "dɪ'strækt",
-            "ukphone": "dis'trækt",
-            "definition": "v. draw someone's attention away from something",
-            "translation": "vt. 转移, 分心, 使发狂",
+            "usphone": "/dɪˈstrækt/",
+            "ukphone": "/dɪˈstrækt/",
+            "definition": "",
+            "translation": "v. 使分心，使转移注意力；<古>使困惑，使迷惑",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -181,17 +163,15 @@
             "bnc": 5958,
             "frq": 4498,
             "exchange": "d:distracted/i:distracting/p:distracted/3:distracts",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "constantly",
-            "usphone": "'kɑnstəntli",
-            "ukphone": "'kɒnstәntli",
-            "definition": "r. without variation or change, in every case\nr. without interruption",
-            "translation": "adv. 不变地, 不断地, 时常地",
+            "usphone": "/ˈkɑːnstəntli/",
+            "ukphone": "/ˈkɒnstəntli/",
+            "definition": "",
+            "translation": "adv. 总是，经常地，不断地",
             "pos": "",
             "collins": 0,
             "oxford": true,
@@ -199,17 +179,15 @@
             "bnc": 2628,
             "frq": 2498,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "towel",
-            "usphone": "'taʊəl",
-            "ukphone": "'tauәl",
-            "definition": "n. a rectangular piece of absorbent cloth (or paper) for drying or wiping\nv. wipe with a towel",
-            "translation": "n. 手巾, 毛巾\nv. 擦干身子",
+            "usphone": "/ˈtaʊəl/",
+            "ukphone": "/ˈtaʊəl/",
+            "definition": "",
+            "translation": "n. 毛巾，抹布，纸巾；<英，旧>卫生巾\nv. 用毛巾擦，用毛巾擦干；<非正式，澳新>鞭打",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -217,10 +195,8 @@
             "bnc": 4814,
             "frq": 3682,
             "exchange": "s:towels/p:towelled/i:towelling/3:towels/d:towelled",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "throw in the towel",
@@ -235,17 +211,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "access",
-            "usphone": "'æksɛs",
-            "ukphone": "'ækses",
-            "definition": "n. the right to obtain or make use of or take advantage of something (as services or membership)\nn. a way of entering or leaving\nn. a code (a series of characters or digits) that must be entered in some way (typed or dialed or spoken) to get the use of something (a telephone line or a computer or a local area network etc.)\nn. (computer science) the operation of reading or writing stored information",
-            "translation": "n. 通路, 入口, 接近, 进入, 使用权, 发作\nvt. 访问, 存取, 接近, 使用\n[计] 访问, 存取",
+            "usphone": "/ˈækses/",
+            "ukphone": "/ˈækses/",
+            "definition": "",
+            "translation": "n. 入口，通道；获得的机会，使用权；（对计算机存储器的）访问，存取；（情感）爆发，发作；探视权\nv. 接近，进入；获取，访问（计算机信息）\nadj. <美>（电视节目或时间等）对外公开的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -253,17 +227,15 @@
             "bnc": 999,
             "frq": 1113,
             "exchange": "d:accessed/i:accessing/3:accesses/s:accesses/p:accessed",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "rely",
-            "usphone": "rɪ'laɪ",
-            "ukphone": "ri'lai",
-            "definition": "v have confidence or faith in",
-            "translation": "vi. 信赖, 依赖, 信任",
+            "usphone": "/rɪˈlaɪ/",
+            "ukphone": "/rɪˈlaɪ/",
+            "definition": "",
+            "translation": "v. 相信，信赖；依靠，依赖",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -271,10 +243,8 @@
             "bnc": 1734,
             "frq": 1857,
             "exchange": "i:relying/3:relies/d:relied/p:relied",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "rely on",
@@ -289,17 +259,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "deadline",
-            "usphone": "ˈdedlaɪn",
-            "ukphone": "'dedlain",
-            "definition": "n. the point in time at which something must be completed",
-            "translation": "n. 最后期限, 截止期限\n[经] 截止日期",
+            "usphone": "/ˈdedlaɪn/",
+            "ukphone": "/ˈdedlaɪn/",
+            "definition": "",
+            "translation": "n. 最后期限，截止日期；<史>（监狱周围的）死线",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -307,17 +275,15 @@
             "bnc": 5295,
             "frq": 4032,
             "exchange": "s:deadlines",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "procrastination",
-            "usphone": "",
-            "ukphone": "prәu,kræsti'neiʃәn",
-            "definition": "n. the act of procrastinating; putting off or delaying or defering an action to a later time",
-            "translation": "n. 拖延, 因循, 耽搁\n[法] 拖延, 耽搁, 因循",
+            "usphone": "/prəˌkræstɪˈneɪʃn/",
+            "ukphone": "/prəˌkræstɪˈneɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 耽搁，拖延；拖延症",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -325,17 +291,15 @@
             "bnc": 23277,
             "frq": 20478,
             "exchange": "s:procrastinations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "appropriate",
-            "usphone": "əˈproprɪət;(for v.) əˈproprɪet",
-            "ukphone": "ә'prәupriәt",
-            "definition": "v. take possession of by force, as after an invasion\na. suitable for a particular person or place or condition etc",
-            "translation": "a. 适当的\n[经] 适当的, 拨出, 占用",
+            "usphone": "/əˈproʊpriət/",
+            "ukphone": "/əˈprəʊpriət/",
+            "definition": "",
+            "translation": "adj. 合适的，相称的\nv. 拨出（款项）；私占，挪用",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -343,17 +307,15 @@
             "bnc": 883,
             "frq": 1493,
             "exchange": "d:appropriated/3:appropriates/p:appropriated/i:appropriating",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "spit",
-            "usphone": "spɪt",
-            "ukphone": "spit",
-            "definition": "n. a narrow strip of land that juts out into the sea\nn. a skewer for holding meat over a fire\nn. the act of spitting (forcefully expelling saliva)\nv. expel or eject (saliva or phlegm or sputum) from the mouth",
-            "translation": "n. 唾液, 唾吐, 小雨, 炙叉, 一铲的深度\nvt. 唾吐, 吐出, 降小雨, 用炙叉穿过\nvi. 吐唾沫, 吐痰, 唾弃, 飘霏霏细雨",
+            "usphone": "/spɪt/",
+            "ukphone": "/spɪt/",
+            "definition": "",
+            "translation": "v. 啐唾沫（常表示愤怒或鄙视）；吐出（食物，液体）；怒斥；（火，煮物）爆出火花，发出噼啪声，（使）迸溅；（发怒时）发呼噜呼噜声；下小雨；将烤肉扦子戳入（肉）中以便放在火上烤；表演说唱音乐\nn. 唾液，口水；烤肉扦子；岬角，海岬；几乎长得一模一样的人；锹深的泥土层；啐唾沫，吐痰，吐食物；沙嘴",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -361,17 +323,15 @@
             "bnc": 5395,
             "frq": 4932,
             "exchange": "d:spat/p:spat/i:spitting/3:spits/1:pd/0:spit/s:spits",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "headphones",
-            "usphone": "",
-            "ukphone": "",
-            "definition": "n electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
-            "translation": "n. 听筒；耳机；头戴式受话器（headphone的复数形式）",
+            "usphone": "/ˈhedfoʊnz/",
+            "ukphone": "/ˈhedfəʊnz/",
+            "definition": "",
+            "translation": "n. [电讯]耳机；听筒；[电子]头戴式受话器（headphone 的复数形式）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -379,17 +339,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "0:headphone/1:s",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "bin",
-            "usphone": "bɪn",
-            "ukphone": "bin",
-            "definition": "n. a container; usually has a lid\nn. the quantity contained in a bin\nv. store in bins",
-            "translation": "n. (贮存谷物等的)容器, 箱子\n[计] 二进制, 商业信息网",
+            "usphone": "/bɪn/",
+            "ukphone": "/bɪn/",
+            "definition": "",
+            "translation": "n. 垃圾桶；储物箱；瓶酒搁架；统计堆栈\nv. 把……扔进垃圾箱；摒弃，拒绝；把……放（或贮藏）在箱（或仓）中；把（酒等）放进搁架；把（数据）归入统计堆\n【名】 （Bin）（美、意）本（人名）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -397,17 +355,15 @@
             "bnc": 5370,
             "frq": 0,
             "exchange": "s:bins/p:binned/d:binned/i:binning/3:bins",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "considerate",
-            "usphone": "kənˈsɪdərɪt",
-            "ukphone": "kәn'sidәrit",
-            "definition": "a. showing concern for the rights and feelings of others",
-            "translation": "a. 体贴的, 体谅的, 考虑周到的",
+            "usphone": "/kənˈsɪdərət/",
+            "ukphone": "/kənˈsɪdərət/",
+            "definition": "",
+            "translation": "adj. 体贴的，考虑周到的；<旧>小心的，谨慎的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -415,17 +371,15 @@
             "bnc": 13960,
             "frq": 17092,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "promote",
-            "usphone": "prə'mot",
-            "ukphone": "prәu'mәut",
-            "definition": "v. contribute to the progress or growth of\nv. give a promotion to or assign to a higher position\nv. be changed for a superior chess or checker piece\nv. change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent",
-            "translation": "vt. 促进, 晋升, 创办, 推销\n[经] 促进, 推广, 推销",
+            "usphone": "/prəˈmoʊt/",
+            "ukphone": "/prəˈməʊt/",
+            "definition": "",
+            "translation": "v. 促进，提倡；升职，晋升；促销，推广； 将（运动队）晋级；使（学生）升年级；负责筹办，主办（大型活动，如音乐会或体育比赛）；促使（议会私法议案）通过；使（卒）升格为（尤指后等）；<英>（先打大牌）使（小牌）赢得一墩；使（催化剂）更活泼",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -433,17 +387,15 @@
             "bnc": 1433,
             "frq": 1328,
             "exchange": "d:promoted/i:promoting/3:promotes/p:promoted",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "clarify",
-            "usphone": "'klærəfaɪ",
-            "ukphone": "'klærifai",
-            "definition": "v. make clear and (more) comprehensible\nv. make clear by removing impurities or solids, as by heating",
-            "translation": "vi. 澄清, 阐明\nvt. 使明晰",
+            "usphone": "/ˈklærəfaɪ/",
+            "ukphone": "/ˈklærəfaɪ/",
+            "definition": "",
+            "translation": "v. 澄清，阐明；（通过加热）使净化，使纯净",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 4552,
             "frq": 5050,
             "exchange": "d:clarified/i:clarifying/3:clarifies/p:clarified",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "headline",
-            "usphone": "'hɛdlaɪn",
-            "ukphone": "'hedlain",
-            "definition": "n. the heading or caption of a newspaper article\nv. publicize widely or highly, as if with a headline\nv. provide (a newspaper page or a story) with a headline",
-            "translation": "n. 大标题, 新闻摘要\nvt. 为...做标题, 写标题",
+            "usphone": "/ˈhedlaɪn/",
+            "ukphone": "/ˈhedlaɪn/",
+            "definition": "",
+            "translation": "n. （报纸的）标题，大字标题；（广播或电视里的）新闻提要，头条新闻\nv. 给（报道、文章）加标题；在（演出）中担任主演；大肆宣传",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -469,14 +419,12 @@
             "bnc": 4488,
             "frq": 3293,
             "exchange": "s:headlines/p:headlined/i:headlining/d:headlined/3:headlines",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "max out",
-            "usphone": "",
+            "usphone": "/mæks aʊt/",
             "ukphone": "",
             "definition": "",
             "translation": " （军队用语）得最高分; （非正式美式用语） 达到最高极限, 刷爆（信用卡）",
@@ -487,10 +435,8 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "in contrast to",
@@ -505,17 +451,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "district",
-            "usphone": "'dɪstrɪkt",
-            "ukphone": "'distrikt",
-            "definition": "n. a region marked off for administrative or other purposes",
-            "translation": "n. 区域, 地方\n[医] 地区, 地段",
+            "usphone": "/ˈdɪstrɪkt/",
+            "ukphone": "/ˈdɪstrɪkt/",
+            "definition": "",
+            "translation": "n. 地区，区域；行政区，辖区；<英>（郡或区以下的）选区\nv. <美>把……划分成区",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -523,17 +467,15 @@
             "bnc": 1071,
             "frq": 1266,
             "exchange": "s:districts/i:districting/p:districted/3:districts/d:districted",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "necessity",
-            "usphone": "nə'sɛsəti",
-            "ukphone": "ni'sesәti",
-            "definition": "n. the condition of being essential or indispensable\nn. anything indispensable",
-            "translation": "n. 需要, 必需品, 必然\n[法] 必要性, 必然性, 必要",
+            "usphone": "/nəˈsesəti/",
+            "ukphone": "/nəˈsesəti/",
+            "definition": "",
+            "translation": "n. 必需品，必需的事物；必要，需要；必然性，不可避免的情况",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -541,17 +483,15 @@
             "bnc": 3374,
             "frq": 3951,
             "exchange": "s:necessities",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "toothpaste",
-            "usphone": "'tuθpest",
-            "ukphone": "'tu:θpeist",
-            "definition": "n. a dentifrice in the form of a paste",
-            "translation": "n. 牙膏\n[化] 牙膏",
+            "usphone": "/ˈtuːθpeɪst/",
+            "ukphone": "/ˈtuːθpeɪst/",
+            "definition": "",
+            "translation": "n. 牙膏",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -559,17 +499,15 @@
             "bnc": 15700,
             "frq": 14165,
             "exchange": "s:toothpastes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "soap",
-            "usphone": "sop",
-            "ukphone": "sәup",
-            "definition": "n. a cleansing agent made from the salts of vegetable or animal fats\nn. money offered as a bribe\nn. street names for gamma hydroxybutyrate\nv. rub soap all over, usually with the purpose of cleaning",
-            "translation": "n. 肥皂, 阿谀\nvt. 以肥皂洗, 阿谀\n[计] 评语",
+            "usphone": "/soʊp/",
+            "ukphone": "/səʊp/",
+            "definition": "",
+            "translation": "n. 肥皂；<非正式>肥皂剧\nv. 擦肥皂；<俚>对……拍马屁",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -577,17 +515,15 @@
             "bnc": 4288,
             "frq": 4344,
             "exchange": "s:soaps/i:soaping/p:soaped/3:soaps/d:soaped",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "item",
-            "usphone": "'aɪtəm",
-            "ukphone": "'aitәm",
-            "definition": "n. a distinct part that can be specified separately in a group of things that could be enumerated on a list\nn. a whole individual unit; especially when included in a list or collection\nr. (used when listing or enumerating items) also",
-            "translation": "n. 项目, 条款, 一则, 项\n[计] 项",
+            "usphone": "/ˈaɪtəm/",
+            "ukphone": "/ˈaɪtəm/",
+            "definition": "",
+            "translation": "n. 项目，条款；一件商品（或物品）；一则，一条（新闻）；（关系亲密的）一对\nadv. （用于介绍清单上逐个项目之前）又，此外还有\nv. 逐条列出，记下",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -595,16 +531,14 @@
             "bnc": 950,
             "frq": 1031,
             "exchange": "s:items",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "unprecedentedly",
-            "usphone": "",
-            "ukphone": "ʌn'presɪdentɪdlɪ",
-            "definition": "r. in an unprecedented manner",
+            "usphone": "/ʌnˈpresɪdentɪdli/",
+            "ukphone": "/ʌnˈpresɪdentɪdli/",
+            "definition": "",
             "translation": "adv. 空前地",
             "pos": "",
             "collins": 0,
@@ -613,10 +547,8 @@
             "bnc": 34974,
             "frq": 34911,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "personal finances",
@@ -631,17 +563,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "jar",
-            "usphone": "dʒɑr",
-            "ukphone": "dʒɑ:",
-            "definition": "n. a vessel (usually cylindrical) with a wide mouth and without handles\nn. the quantity contained in a jar\nv. shock physically\nv. affect in a disagreeable way",
-            "translation": "n. 广口瓶, 震动, 刺耳声\nvi. 震惊, 冲突, 发刺耳声, 不一致\nvt. 震动, 刺激",
+            "usphone": "/dʒɑːr/",
+            "ukphone": "/dʒɑː(r)/",
+            "definition": "",
+            "translation": "n. 玻璃罐，广口瓶；一瓶，一罐（的量或物）；震动\nv. 撞击，震动；刺激，对……产生不好的影响；不和谐，不相配；发出刺耳声\n【名】 （Jar） （罗）扎尔（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -649,17 +579,15 @@
             "bnc": 5688,
             "frq": 4262,
             "exchange": "s:jars/p:jarred/i:jarring/d:jarred/3:jars",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "invest",
-            "usphone": "ɪn'vɛst",
-            "ukphone": "in'vest",
-            "definition": "v. make an investment\nv. furnish with power or authority; of kings or emperors\nv. provide with power and authority",
-            "translation": "vt. 投资, 花费, 笼罩, 授予\nvi. 投资, 利用",
+            "usphone": "/ɪnˈvest/",
+            "ukphone": "/ɪnˈvest/",
+            "definition": "",
+            "translation": "v. 投资；投入（时间或精力）；赋予，授予；<旧>给……穿衣；<旧>包围，围攻",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -667,17 +595,15 @@
             "bnc": 2329,
             "frq": 2001,
             "exchange": "d:invested/i:investing/p:invested/3:invests",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "lifelong",
-            "usphone": "'laɪf'lɔŋ",
-            "ukphone": "'laiflɒŋ",
-            "definition": "s. continuing through life",
-            "translation": "a. 终身的, 毕生的",
+            "usphone": "/ˈlaɪflɔːŋ/",
+            "ukphone": "/ˈlaɪflɒŋ/",
+            "definition": "",
+            "translation": "adj. 终身的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -685,17 +611,15 @@
             "bnc": 9865,
             "frq": 5720,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "vision",
-            "usphone": "'vɪʒən",
-            "ukphone": "'viʒәn",
-            "definition": "n. a vivid mental image\nn. the perceptual experience of seeing\nn. a religious or mystical experience of a supernatural appearance",
-            "translation": "n. 视觉, 眼光, 视力, 幻想\nvt. 梦见, 想象, 显示",
+            "usphone": "/ˈvɪʒ(ə)n/",
+            "ukphone": "/ˈvɪʒn/",
+            "definition": "",
+            "translation": "n. 幻想，想象；幻觉，幻象；构想，展望；眼力，远见卓识；视力，视觉；视野；美好的人（或事物）；（电视或电影的）图像\nv. <罕>想像",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -703,17 +627,15 @@
             "bnc": 1921,
             "frq": 1216,
             "exchange": "s:visions",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "likewise",
-            "usphone": "'laɪkwaɪz",
-            "ukphone": "'laikwaiz",
-            "definition": "r in like or similar manner\nr in addition\nr equally",
-            "translation": "adv. 同样地, 也",
+            "usphone": "/ˈlaɪkwaɪz/",
+            "ukphone": "/ˈlaɪkwaɪz/",
+            "definition": "",
+            "translation": "adv. 同样地，类似地；（表示感觉相同）我也是，我有同感；也，还",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -721,16 +643,14 @@
             "bnc": 5011,
             "frq": 4530,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "objectively",
-            "usphone": "",
-            "ukphone": "әb'dʒektivli,ɔb-",
-            "definition": "r. with objectivity",
+            "usphone": "/əbˈdʒektɪvli/",
+            "ukphone": "/əbˈdʒektɪvli/",
+            "definition": "",
             "translation": "adv. 客观地",
             "pos": "",
             "collins": 0,
@@ -739,17 +659,15 @@
             "bnc": 11272,
             "frq": 12438,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "equip",
-            "usphone": "ɪ'kwɪp",
-            "ukphone": "i'kwip",
-            "definition": "v. provide with (something) usually for a specific purpose\nv. provide with abilities or understanding",
-            "translation": "vt. 装备, 配备\n[机] 设备, 装置",
+            "usphone": "/ɪˈkwɪp/",
+            "ukphone": "/ɪˈkwɪp/",
+            "definition": "",
+            "translation": "v. 装备，配备；使有所准备，使能够胜任",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -757,17 +675,15 @@
             "bnc": 3643,
             "frq": 4145,
             "exchange": "d:equipped/i:equipping/p:equipped/3:equips",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "nail",
-            "usphone": "nel",
-            "ukphone": "neil",
-            "definition": "n. horny plate covering and protecting part of the dorsal surface of the digits\nn. a thin pointed piece of metal that is hammered into materials as a fastener\nn. a former unit of length for cloth equal to 1/16 of a yard\nv. attach something somewhere by means of nails",
-            "translation": "n. 钉子, 指甲\nvt. 用钉钉牢, 使固定, 截住, 揭露",
+            "usphone": "/neɪl/",
+            "ukphone": "/neɪl/",
+            "definition": "",
+            "translation": "n. 钉子；指甲，趾甲；（一些软喙鸟类）上喙的硬甲壳；纳尔（布匹长度单位）\nv. （用钉子）钉住，钉牢；抓住，证明……有罪；戳穿，揭露；（尤指体育运动中）获得，赢得；（选手）锁定（胜局）；<非正式>用力击打；<美，非正式>完美地完成，漂亮地做；(棒球)（外场手）把（跑垒者）杀出局；<美>（选手）击败（或智胜）（对手）；<美，俚>（男性）与……性交；（外场手）把（跑垒者）杀出局\n【名】 （Nail）（英、美、法、俄）纳伊（人名）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -775,10 +691,8 @@
             "bnc": 3556,
             "frq": 3556,
             "exchange": "s:nails/d:nailed/i:nailing/p:nailed/3:nails",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
