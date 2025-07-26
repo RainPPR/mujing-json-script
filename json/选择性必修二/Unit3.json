@@ -8,10 +8,10 @@
     "wordList": [
         {
             "value": "decade",
-            "usphone": "'dɛked",
-            "ukphone": "'dekeid",
-            "definition": "n. a period of 10 years",
-            "translation": "n. 十年, 十",
+            "usphone": "/ˈdekeɪd/",
+            "ukphone": "/ˈdekeɪd/",
+            "definition": "",
+            "translation": "n. 十年，十年期；十进",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -19,17 +19,15 @@
             "bnc": 1539,
             "frq": 730,
             "exchange": "s:decades",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "legendary",
-            "usphone": "'lɛdʒən'dɛri",
-            "ukphone": "'ledʒәndәri",
-            "definition": "s. so celebrated as to having taken on the nature of a legend",
-            "translation": "a. 传说的, 传奇中说的, 传奇般的, 传说中的, 著名的",
+            "usphone": "/ˈledʒənderi/",
+            "ukphone": "/ˈledʒəndri/",
+            "definition": "",
+            "translation": "adj. 非常有名的，大名鼎鼎的；传说（中）的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -37,17 +35,15 @@
             "bnc": 7101,
             "frq": 4997,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "fixture",
-            "usphone": "'fɪkstʃɚ",
-            "ukphone": "'fikstʃә",
-            "definition": "n. an object firmly fixed in place (especially in a household)",
-            "translation": "n. 固定(状态), 固定物, 设备\n[计] 夹具",
+            "usphone": "/ˈfɪkstʃər/",
+            "ukphone": "/ˈfɪkstʃə(r)/",
+            "definition": "",
+            "translation": "n. 固定装置，固定家具；既定人选（或事物）；（预定的）体育赛事",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -55,17 +51,15 @@
             "bnc": 6192,
             "frq": 7036,
             "exchange": "s:fixtures/i:fixturing",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "elderly",
-            "usphone": "'ɛldɚli",
-            "ukphone": "'eldәli",
-            "definition": "n people who are old collectively\ns advanced in years; (`aged' is pronounced as two syllables)",
-            "translation": "a. 过了中年的, 稍老的",
+            "usphone": "/ˈeldərli/",
+            "ukphone": "/ˈeldəli/",
+            "definition": "",
+            "translation": "adj. 上了年纪的；老掉牙的\nn. 老人（the elderly）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -73,17 +67,15 @@
             "bnc": 1837,
             "frq": 2907,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "tablet",
-            "usphone": "ˈtæblɪt",
-            "ukphone": "'tæblit",
-            "definition": "n. a slab of stone or wood suitable for bearing an inscription\nn. a small flat compressed cake of some substance",
-            "translation": "n. 平板, 门牌, 笔记簿, 碑, 匾, 药片\n[化] 片剂",
+            "usphone": "/ˈtæblət/",
+            "ukphone": "/ˈtæblət/",
+            "definition": "",
+            "translation": "n. 药片，片剂；丸；（石头、黏土等制的刻字的）牌，碑，匾；平板电脑；<美> 便笺簿，拍纸簿；<旧> 一块肥皂；（单线）路牌；檐板；<苏格兰> 乳脂软糖；（计算机的）输入板，手写板",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -91,17 +83,15 @@
             "bnc": 4781,
             "frq": 7864,
             "exchange": "s:tablets",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "sympathy",
-            "usphone": "'sɪmpəθi",
-            "ukphone": "'simpәθi",
-            "definition": "n. an inclination to support or be loyal to or to agree with an opinion\nn. sharing the feelings of others (especially feelings of sorrow or anguish)\nn. a relation of affinity or harmony between people; whatever affects one correspondingly affects the other",
-            "translation": "n. 同情, 赞同, 怜悯, 慰问, 吊唁\n[医] 交感[作用], 同感[作用], 感应, 同情",
+            "usphone": "/ˈsɪmpəθi/",
+            "ukphone": "/ˈsɪmpəθi/",
+            "definition": "",
+            "translation": "n. 同情（心），理解；赞同，支持；（与某人的）同感，共鸣；和应",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -109,17 +99,15 @@
             "bnc": 3089,
             "frq": 4270,
             "exchange": "s:sympathies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "bunch",
-            "usphone": "bʌntʃ",
-            "ukphone": "bʌntʃ",
-            "definition": "n. a grouping of a number of similar things\nn. any collection in its entirety\nv. gather or cause to gather into a cluster",
-            "translation": "n. 串, 束\n[医] 骨肿块(马)",
+            "usphone": "/bʌntʃ/",
+            "ukphone": "/bʌntʃ/",
+            "definition": "",
+            "translation": "n. 束，串，扎；一伙，一群；大量；<英>发辫（bunches）；突起\nv. 捆，扎，使集中；收紧，起褶\n【名】 （Bunch）（英）邦奇（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -127,10 +115,8 @@
             "bnc": 4503,
             "frq": 2658,
             "exchange": "s:bunches/d:bunched/i:bunching/p:bunched/3:bunches",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "a bunch of",
@@ -145,17 +131,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "dusty",
-            "usphone": "'dʌsti",
-            "ukphone": "'dʌsti",
-            "definition": "s. covered with a layer of dust",
-            "translation": "a. 灰尘多的, 无聊的, 含糊的, 粉末状的",
+            "usphone": "/ˈdʌsti/",
+            "ukphone": "/ˈdʌsti/",
+            "definition": "",
+            "translation": "adj. 布满灰尘的；土灰色的；缺乏活力的，枯燥无味的；尘般的，粉状的；不明确的，不能令人满意的\n【名】 （Dusty）（美）杜史迪（人名）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -163,17 +147,15 @@
             "bnc": 6602,
             "frq": 5298,
             "exchange": "r:dustier",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "shelf",
-            "usphone": "ʃɛlf",
-            "ukphone": "ʃelf",
-            "definition": "n. a support that consists of a horizontal surface for holding objects",
-            "translation": "n. 架子, 搁板\n[化] 架子",
+            "usphone": "/ʃelf/",
+            "ukphone": "/ʃelf/",
+            "definition": "",
+            "translation": "n. 搁板，架子；（尤指水中）陆架，底岩；<非正式>告密者（复数 shelfs）\nv. <非正式>告发（某人）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -181,17 +163,15 @@
             "bnc": 2930,
             "frq": 2947,
             "exchange": "s:shelves",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "furniture",
-            "usphone": "'fɝnɪtʃɚ",
-            "ukphone": "'fәnitʃә",
-            "definition": "n. furnishings that make a room or other area ready for occupancy",
-            "translation": "n. 家具, 帆具",
+            "usphone": "/ˈfɜːrnɪtʃər/",
+            "ukphone": "/ˈfɜːnɪtʃə(r)/",
+            "definition": "",
+            "translation": "n. 家具；装置；惯常的见解；贮藏物，内容；步枪底托；（排版用的）大空铅，填空材料",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -199,17 +179,15 @@
             "bnc": 2428,
             "frq": 2669,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "mist",
-            "usphone": "mɪst",
-            "ukphone": "mist",
-            "definition": "n. a thin fog with condensation near the ground\nv. become covered with mist\nv. spray finely or cover with mist",
-            "translation": "n. 雾, 迷蒙, 朦胧不清\nvt. 使模糊, 使蒙上雾\nvi. 变模糊, 下雾",
+            "usphone": "/mɪst/",
+            "ukphone": "/mɪst/",
+            "definition": "",
+            "translation": "n. 薄雾，水汽；雾状物；使视线模糊的东西；迷雾，难以透彻了解的事物\nv. 使……蒙上雾气；（使）充满泪水；给……喷水；下毛毛细雨",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -217,17 +195,15 @@
             "bnc": 4784,
             "frq": 5967,
             "exchange": "s:mists/p:misted/i:misting/d:misted/3:mists",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "brick",
-            "usphone": "brɪk",
-            "ukphone": "brik",
-            "definition": "n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material\nn. a good fellow; helpful and trustworthy",
-            "translation": "n. 砖块, 积木\na. 用砖做的\nvt. 用砖造, 用砖砌",
+            "usphone": "/brɪk/",
+            "ukphone": "/brɪk/",
+            "definition": "",
+            "translation": "n. 砖，砖块；<旧>热心人，可靠的人；积木\nadj. 似砖的；用砖做的\nv. 用砖墙围起，用砖堵住\n【名】 （Brick）（英、法、瑞典）布里克（人名）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -235,17 +211,15 @@
             "bnc": 2814,
             "frq": 3315,
             "exchange": "s:bricks/d:bricked/i:bricking",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "exterior",
-            "usphone": "ɪk'stɪrɪɚ",
-            "ukphone": "ik'stiәriә",
-            "definition": "a. situated in or suitable for the outdoors or outside of a building",
-            "translation": "n. 外部, 表面, 外貌\na. 外部的, 外在的, 表面的",
+            "usphone": "/ɪkˈstɪriər/",
+            "ukphone": "/ɪkˈstɪəriə(r)/",
+            "definition": "",
+            "translation": "adj. 外部的，外面的；外表的，表面的；（电影场景）外部拍摄的\nn. 外观，外部；外貌",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -253,10 +227,8 @@
             "bnc": 8714,
             "frq": 8761,
             "exchange": "s:exteriors",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pore over",
@@ -271,17 +243,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "stationery",
-            "usphone": "'steʃənɛri",
-            "ukphone": "'steiʃәnәri",
-            "definition": "n. paper cut to an appropriate size for writing letters; usually with matching envelopes",
-            "translation": "n. 文具, 信纸\n[法] 文具",
+            "usphone": "/ˈsteɪʃəneri/",
+            "ukphone": "/ˈsteɪʃənri/",
+            "definition": "",
+            "translation": "n. （通常有配套信封的）信纸，信笺；文具",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -289,17 +259,15 @@
             "bnc": 10061,
             "frq": 14645,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "saleswoman",
-            "usphone": "",
-            "ukphone": "'seilzwumәn",
-            "definition": "n a woman salesperson",
-            "translation": "n. 女售货员, 女店员",
+            "usphone": "/ˈseɪlzwʊmən/",
+            "ukphone": "/ˈseɪlzwʊmən/",
+            "definition": "",
+            "translation": "n. [贸易] 女售货员；[贸易] 女店员",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -307,17 +275,15 @@
             "bnc": 41106,
             "frq": 20767,
             "exchange": "s:saleswomen",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "leadership",
-            "usphone": "'lidɚʃɪp",
-            "ukphone": "'li:dәʃip",
-            "definition": "n. the activity of leading\nn. the body of people who lead a group\nn. the status of a leader\nn. the ability to lead",
-            "translation": "n. 领导能力, 领导阶层",
+            "usphone": "/ˈliːdərʃɪp/",
+            "ukphone": "/ˈliːdəʃɪp/",
+            "definition": "",
+            "translation": "n. 领导，领导地位；领导才能；领导人员，领导层；领先地位",
             "pos": "",
             "collins": 4,
             "oxford": false,
@@ -325,17 +291,15 @@
             "bnc": 1873,
             "frq": 1304,
             "exchange": "s:leaderships",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "organic",
-            "usphone": "ɔr'gænɪk",
-            "ukphone": "ɒ:'gænik",
-            "definition": "n. a fertilizer that is derived from animal or vegetable matter\na. relating or belonging to the class of chemical compounds having a carbon basis\na. being or relating to or derived from or having properties characteristic of living organisms\na. involving or affecting physiology or bodily organs",
-            "translation": "a. 器官的, 有机的, 组织的, 根本的\n[医] 器官的, 有生命的, 有机的, 器质的",
+            "usphone": "/ɔːrˈɡænɪk/",
+            "ukphone": "/ɔːˈɡænɪk/",
+            "definition": "",
+            "translation": "adj. 有机的，绿色的；有机物的，生物的；构成有机整体的，不可分割的；（发生、发展过程）自然的，演进的；器官的，器质性的；仿自然形态的\nn. 有机物质；有机食品",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -343,17 +307,15 @@
             "bnc": 3457,
             "frq": 3070,
             "exchange": "s:organics",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "recital",
-            "usphone": "rɪ'saɪtl",
-            "ukphone": "ri'saitl",
-            "definition": "n. performance of music or dance especially by soloists\nn. a detailed statement giving facts and figures\nn. a detailed account or description of something",
-            "translation": "n. 背诵, 吟诵, 详述\n[法] 叙述, 评述, 列举",
+            "usphone": "/rɪˈsaɪt(ə)l/",
+            "ukphone": "/rɪˈsaɪt(ə)l/",
+            "definition": "",
+            "translation": "n. 朗诵，吟诵；独奏会；背诵；独唱会",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -361,17 +323,15 @@
             "bnc": 12076,
             "frq": 11952,
             "exchange": "s:recitals",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "jazz",
-            "usphone": "dʒæz",
-            "ukphone": "dʒæz",
-            "definition": "n. a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles\nn. a style of dance music popular in the 1920s; similar to New Orleans jazz but played by large bands\nv. play something in the style of jazz",
-            "translation": "n. 爵士乐, 喧闹\na. 爵士乐的, 喧吵的\nvi. 演奏爵士乐, 跳爵士舞, 游荡\nvt. 奏爵士乐, 使活泼",
+            "usphone": "/dʒæz/",
+            "ukphone": "/dʒæz/",
+            "definition": "",
+            "translation": "n. 爵士乐；爵士乐舞蹈（jazz ballet/jazz dance）；毫无意义的话；诸如此类的事情\nadj. 爵士乐的\nv. <旧>演奏爵士乐；<旧>跳爵士舞；使活泼；游荡\n【名】 （Jazz）（德）雅茨（人名）",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -379,10 +339,8 @@
             "bnc": 5759,
             "frq": 3848,
             "exchange": "i:jazzing/p:jazzed/3:jazzes/d:jazzed",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pop up",
@@ -397,17 +355,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "humble",
-            "usphone": "'hʌmbl",
-            "ukphone": "'hʌmbl",
-            "definition": "v. cause to be unpretentious\ns. low or inferior in station or quality\na. marked by meekness or modesty; not arrogant or prideful\ns. used of unskilled work (especially domestic work)",
-            "translation": "a. 低下的, 谦逊的, 粗陋的\nvt. 使...卑下, 降低...地位, 贬抑",
+            "usphone": "/ˈhʌmb(ə)l/",
+            "ukphone": "/ˈhʌmb(ə)l/",
+            "definition": "",
+            "translation": "adj. 谦虚的，谦卑的；（级别或地位）低下的，卑微的；简陋的，没有特别之处的\nv. 使谦卑，使感到自惭；（轻易）击败（强敌）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -415,17 +371,15 @@
             "bnc": 6375,
             "frq": 5970,
             "exchange": "d:humbled/p:humbled/3:humbles/i:humbling",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "compete",
-            "usphone": "kəm'pit",
-            "ukphone": "kәm'pi:t",
-            "definition": "v. compete for something; engage in a contest; measure oneself against others",
-            "translation": "vi. 竞争, 对抗",
+            "usphone": "/kəmˈpiːt/",
+            "ukphone": "/kəmˈpiːt/",
+            "definition": "",
+            "translation": "v. 竞争，对抗；争夺；参加比赛",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -433,17 +387,15 @@
             "bnc": 2583,
             "frq": 2065,
             "exchange": "i:competing/p:competed/3:competes/d:competed",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "emphasise",
-            "usphone": "'emfəsaiz",
-            "ukphone": "'emfəsaɪz",
-            "definition": "v give extra weight to (a communication)\nv to stress, single out as important",
-            "translation": "vt. 强调, 重读, 加强...的语气, 着重",
+            "usphone": "/ˈemfəsaɪz/",
+            "ukphone": "/ˈemfəsaɪz/",
+            "definition": "",
+            "translation": "v. 强调，着重：使某事物显得更为重要或显著。",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 2686,
             "frq": 0,
             "exchange": "d:emphasised/p:emphasised/3:emphasises/i:emphasising",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "reconstruction",
-            "usphone": ",rikən'strʌkʃən",
-            "ukphone": ".ri:kәn'strʌkʃәn",
-            "definition": "n. the period after the American Civil War when the southern states were reorganized and reintegrated into the Union; 1865-1877\nn. the activity of constructing something again\nn. an interpretation formed by piecing together bits of evidence",
-            "translation": "n. 改造, 再建\n[医] 改建, 改造, 翻造",
+            "usphone": "/ˌriːkənˈstrʌkʃ(ə)n/",
+            "ukphone": "/ˌriːkənˈstrʌkʃn/",
+            "definition": "",
+            "translation": "n. 再建，重建；改造；复兴",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -469,17 +419,15 @@
             "bnc": 5133,
             "frq": 5208,
             "exchange": "s:reconstructions",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "journalist",
-            "usphone": "ˈdʒɝ​nlɪst",
-            "ukphone": "'dʒә:nәlist",
-            "definition": "n. a writer for newspapers and magazines",
-            "translation": "n. 新闻记者, 从事新闻杂志业的人",
+            "usphone": "/ˈdʒɜːrnəlɪst/",
+            "ukphone": "/ˈdʒɜːnəlɪst/",
+            "definition": "",
+            "translation": "n. 新闻工作者，新闻记者；报人，报纸撰稿人",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -487,17 +435,15 @@
             "bnc": 2607,
             "frq": 2099,
             "exchange": "s:journalists",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "era",
-            "usphone": "'ɪrə",
-            "ukphone": "'iәrә",
-            "definition": "n. a period marked by distinctive character or reckoned from a fixed point or event\nn. a major division of geological time; an era is usually divided into two or more periods",
-            "translation": "n. 时代, 纪元, 时期",
+            "usphone": "/ˈɪrə/",
+            "ukphone": "/ˈɪərə/",
+            "definition": "",
+            "translation": "n. 时代，年代，纪元\n【名】 （Era）（意、芬、印）埃拉（人名）",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -505,17 +451,15 @@
             "bnc": 3312,
             "frq": 1884,
             "exchange": "s:eras",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "reform",
-            "usphone": "rɪ'fɔrm",
-            "ukphone": "ri'fɒ:m",
-            "definition": "n. a change for the better as a result of correcting abuses\nn. a campaign aimed to correct abuses or malpractices\nn. self-improvement in behavior or morals by abandoning some vice\nv. make changes for improvement in order to remove abuse and injustices",
-            "translation": "n. 改革, 改正, 改造\nvt. 改革, 改过, 革新, 重整\nvi. 革新, 改过",
+            "usphone": "/rɪˈfɔːrm/",
+            "ukphone": "/rɪˈfɔːm/",
+            "definition": "",
+            "translation": "v. 改革，革新；改邪归正，改造；（石油炼制）重整\nn. 改革，改良\nadj. 犹太教改革（仅保留犹太教部分的传统信条和习俗）（Reform）",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -523,10 +467,8 @@
             "bnc": 1211,
             "frq": 1112,
             "exchange": "s:reforms/d:reformed/i:reforming/p:reformed/3:reforms",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "reform and opening-up",
@@ -541,17 +483,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pave",
-            "usphone": "pev",
-            "ukphone": "peiv",
-            "definition": "n. a setting with precious stones so closely set that no metal shows\nv. cover with a material such as stone or concrete to make suitable for vehicle traffic",
-            "translation": "vt. 铺设, 安排, 铺满, 为...铺路\n[化] 铺设",
+            "usphone": "/peɪv/",
+            "ukphone": "/peɪv/",
+            "definition": "",
+            "translation": "v. 用石板（或砖）铺（路）；为……铺平道路，创造条件（pave the way for sth./sb.）\n【名】 （法、塞尔维亚、克罗地亚）帕韦（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -559,14 +499,12 @@
             "bnc": 8451,
             "frq": 7086,
             "exchange": "d:paved/i:paving/p:paved/3:paves",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pave the way",
-            "usphone": "",
+            "usphone": "/peɪv ðə weɪ/",
             "ukphone": "",
             "definition": "",
             "translation": "铺平道路；创造条件",
@@ -577,17 +515,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "socialist",
-            "usphone": "'soʃəlɪst",
-            "ukphone": "'sәuʃәlist",
-            "definition": "n. a political advocate of socialism",
-            "translation": "n. 社会主义者, 社会党党员\n[法] 社会主义的",
+            "usphone": "/ˈsoʊʃəlɪst/",
+            "ukphone": "/ˈsəʊʃəlɪst/",
+            "definition": "",
+            "translation": "adj. 支持社会主义的，与社会主义有关的\nn. 社会主义者",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -595,17 +531,15 @@
             "bnc": 2568,
             "frq": 5591,
             "exchange": "s:socialists",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "alongside",
-            "usphone": "ə'lɔŋ'saɪd",
-            "ukphone": "ә'lɒŋ'said",
-            "definition": "r side by side",
-            "translation": "adv. 在旁边, 靠拢着\nprep. 在...旁边, 与...在一起",
+            "usphone": "/əˌlɔːŋˈsaɪd/",
+            "ukphone": "/əˌlɒŋˈsaɪd/",
+            "definition": "",
+            "translation": "prep. 在……旁边；沿着……的边；与……一起，与……并肩（工作）；与……相比；与……同等重要的；同时，共存\nadv. 在旁边",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -613,17 +547,15 @@
             "bnc": 2737,
             "frq": 4203,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "initiative",
-            "usphone": "ɪ'nɪʃətɪv",
-            "ukphone": "i'niʃiәtiv",
-            "definition": "n readiness to embark on bold new ventures\nn the first of a series of actions\ns serving to set in motion",
-            "translation": "n. 主动行动, 首创精神, 主动权\na. 自发的, 起始的",
+            "usphone": "/ɪˈnɪʃətɪv/",
+            "ukphone": "/ɪˈnɪʃətɪv/",
+            "definition": "",
+            "translation": "n. 措施，倡议；主动性，积极性；主动权；（美国某些州的）公民立法提案程序",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -631,10 +563,8 @@
             "bnc": 1688,
             "frq": 2138,
             "exchange": "s:initiatives",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "the Belt and Road Initiative",
@@ -649,17 +579,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "solid",
-            "usphone": "'sɑlɪd",
-            "ukphone": "'sɒlid",
-            "definition": "n. matter that is solid at room temperature and pressure\nn. the state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape\nn. a three-dimensional shape\ns. characterized by good substantial quality",
-            "translation": "n. 固体\na. 坚硬的, 稳固的, 固体的, 实心的, 纯质的, 立体的, 立方的\n[计] 原色",
+            "usphone": "/ˈsɑːlɪd/",
+            "ukphone": "/ˈsɒlɪd/",
+            "definition": "",
+            "translation": "adj. 固体的，坚硬的；结实的，牢固的；实心的，无空隙的；纯质的；纯色的，单色的；可靠的，可信赖的；一致的，坚定的；不中断的，连续的；相当不错（但谈不上出色或独特）的；立体的，立方的；<美，非正式>关系融洽的；<澳新，非正式>严厉的，不公平的；<英，非正式>很难的\nn.  立体（图形）；固体；固体食物；（液体中的）固形物\n【名】 （Solid）（瑞典）索利德（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -667,17 +595,15 @@
             "bnc": 2417,
             "frq": 2011,
             "exchange": "s:solids",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "economic",
-            "usphone": "ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk",
-            "ukphone": ".i:kә'nɒmik",
-            "definition": "a. of or relating to an economy, the system of production and management of material wealth\na. of or relating to the science of economics\ns. using the minimum of time or resources necessary for effectiveness\ns. concerned with worldly necessities of life (especially money)",
-            "translation": "a. 经济上的, 实用的, 节省的\n[经] 经济的",
+            "usphone": "/ˌiːkəˈnɑːmɪk/",
+            "ukphone": "/ˌiːkəˈnɒmɪk/",
+            "definition": "",
+            "translation": "adj. 经济的，经济学的；有利可图的；节约的",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -685,17 +611,15 @@
             "bnc": 402,
             "frq": 453,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "occupation",
-            "usphone": ",ɑkju'peʃən",
-            "ukphone": ".ɒkju'peiʃәn",
-            "definition": "n. the principal activity in your life that you do to earn money\nn. the control of a country by military forces of a foreign power\nn. any activity that occupies a person's attention\nn. the act of occupying or taking possession of a building",
-            "translation": "n. 职业, 占有, 占有期, 占领, 占领军\n[经] 占有, 占用, 职业",
+            "usphone": "/ˌɑːkjuˈpeɪʃ(ə)n/",
+            "ukphone": "/ˌɒkjuˈpeɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 工作，职业；消遣，业余活动；（尤指军队的）占领，控制；（房屋等地方的）居住，使用\nadj. <英>仅供土地占有者使用的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -703,17 +627,15 @@
             "bnc": 2591,
             "frq": 3334,
             "exchange": "s:occupations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "cafeteria",
-            "usphone": ",kæfə'tɪrɪə",
-            "ukphone": ".kæfi'tiәriә",
-            "definition": "n. a restaurant where you serve yourself and pay a cashier",
-            "translation": "n. 自助餐厅\n[经] 自助餐厅",
+            "usphone": "/ˌkæfəˈtɪriə/",
+            "ukphone": "/ˌkæfəˈtɪəriə/",
+            "definition": "",
+            "translation": "n. 自助食堂，自助餐馆",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -721,17 +643,15 @@
             "bnc": 19059,
             "frq": 7076,
             "exchange": "s:cafeterias",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "emoji",
-            "usphone": "",
-            "ukphone": "",
+            "usphone": "/ɪˈmoʊdʒi/",
+            "ukphone": "/ɪˈməʊdʒi/",
             "definition": "",
-            "translation": "n. 表情符号",
+            "translation": "n. 表情符号，绘文字",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -739,17 +659,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "integral",
-            "usphone": "'ɪntɪɡrəl",
-            "ukphone": "'intigrәl",
-            "definition": "n. the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)\ns. constituting the undiminished entirety; lacking nothing essential especially not damaged\na. of or denoted by an integer",
-            "translation": "n. 整体, 积分, 整数\na. 固有的, 整体的, 整数的, 积分的\n[计] 积分",
+            "usphone": "/ˈɪntɪɡrəl/",
+            "ukphone": "/ˈɪntɪɡrəl/",
+            "definition": "",
+            "translation": "adj. 必需的，必要的，不可或缺的；作为组成部分的；完整的；整的，积分的\nn. 积分；完整",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -757,17 +675,15 @@
             "bnc": 5095,
             "frq": 5882,
             "exchange": "s:integrals",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "component",
-            "usphone": "kəm'ponənt",
-            "ukphone": "kәm'pәunәnt",
-            "definition": "n. an abstract part of something\nn. an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
-            "translation": "n. 元件, 组件, 成分\na. 组成的, 构成的\n[计] 组件",
+            "usphone": "/kəmˈpoʊnənt/",
+            "ukphone": "/kəmˈpəʊnənt/",
+            "definition": "",
+            "translation": "n. 组成部分，成分，部件\nadj. 组成的，构成的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -775,17 +691,15 @@
             "bnc": 1631,
             "frq": 1760,
             "exchange": "s:components",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "category",
-            "usphone": "'kætəɡɔri",
-            "ukphone": "'kætigәri",
-            "definition": "n. a general concept that marks divisions or coordinations in a conceptual scheme",
-            "translation": "n. 种类, 类项\n[计] 分类",
+            "usphone": "/ˈkætəɡɔːri/",
+            "ukphone": "/ˈkætəɡəri/",
+            "definition": "",
+            "translation": "n. 种类，范畴",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -793,17 +707,15 @@
             "bnc": 1419,
             "frq": 1461,
             "exchange": "s:categories",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "expand",
-            "usphone": "ɪk'spænd",
-            "ukphone": "ik'spænd",
-            "definition": "v. extend in one or more directions\nv. become larger in size or volume or quantity\nv. make bigger or wider in size, volume, or quantity",
-            "translation": "vt. 使膨胀, 详述, 扩张\nvi. 张开, 发展\nvt. 展开\nvi. 展开\n[计] 展开; DOS外部命令:将原始DOS磁盘上的压缩文件解压缩并拷贝到硬盘上",
+            "usphone": "/ɪkˈspænd/",
+            "ukphone": "/ɪkˈspænd/",
+            "definition": "",
+            "translation": "v. 扩大，增加；扩展，发展；细谈，详述；变得更自信（善谈）；（宇宙）膨胀",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -811,17 +723,15 @@
             "bnc": 2124,
             "frq": 1572,
             "exchange": "d:expanded/i:expanding/3:expands/p:expanded",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pictograph",
-            "usphone": "'pɪktoɡræf",
-            "ukphone": ".piktә'grɑ:f",
-            "definition": "n. a graphic character used in picture writing",
-            "translation": "n. 象形文字, 古代石壁画, 统计图表\n[医] 剪影儿童视力表",
+            "usphone": "/ˈpɪktəɡræf/",
+            "ukphone": "/ˈpɪktəɡrɑːf/",
+            "definition": "",
+            "translation": "n. [语] 象形文字；古代石壁画；统计图表",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -829,17 +739,15 @@
             "bnc": 0,
             "frq": 28499,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "emotional",
-            "usphone": "ɪ'moʃənl",
-            "ukphone": "i'mәuʃәnәl",
-            "definition": "a. determined or actuated by emotion rather than reason\na. of more than usual emotion\na. of or pertaining to emotion",
-            "translation": "a. 情绪的, 情感的\n[医] 情绪的",
+            "usphone": "/ɪˈmoʊʃən(ə)l/",
+            "ukphone": "/ɪˈməʊʃən(ə)l/",
+            "definition": "",
+            "translation": "adj. 情感的，情绪的；激动人心的，有感染力的；情绪激动的（尤指哭泣），情感流露的；（人）易动感情的，感情用事的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -847,17 +755,15 @@
             "bnc": 2389,
             "frq": 1617,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "gesture",
-            "usphone": "'dʒɛstʃɚ",
-            "ukphone": "'dʒestʃә",
-            "definition": "n. motion of hands or body to emphasize or help to express a thought or feeling\nn. the use of movements (especially of the hands) to communicate familiar or prearranged signals\nn. something done as an indication of intention",
-            "translation": "n. 手势, 姿态\nvi. 作手势, 作姿态",
+            "usphone": "/ˈdʒestʃər/",
+            "ukphone": "/ˈdʒestʃə(r)/",
+            "definition": "",
+            "translation": "n. 手势，姿势；姿态，表示\nV. 打手势，用动作示意",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -865,17 +771,15 @@
             "bnc": 2883,
             "frq": 2969,
             "exchange": "s:gestures/p:gestured/i:gesturing/3:gestures/d:gestured",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "facial",
-            "usphone": "'feʃl",
-            "ukphone": "'feiʃәl",
-            "definition": "n. cranial nerve that supplies facial muscles\nn. care for the face that usually involves cleansing and massage and the application of cosmetic creams\na. of or concerning the face\na. of or pertaining to the outside surface of an object",
-            "translation": "n. 美颜, 脸部按摩\na. 脸的, 表面的, 脸部用的",
+            "usphone": "/ˈfeɪʃ(ə)l/",
+            "ukphone": "/ˈfeɪʃ(ə)l/",
+            "definition": "",
+            "translation": "adj. 面部的，面部用的\nn. 面部护理，美容",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -883,14 +787,12 @@
             "bnc": 8701,
             "frq": 5735,
             "exchange": "s:facials",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "textspeak",
-            "usphone": "",
+            "usphone": "/ˈtekstspiːk/",
             "ukphone": "",
             "definition": "",
             "translation": "n. 短信简写语",
@@ -901,17 +803,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "intention",
-            "usphone": "ɪn'tɛnʃən",
-            "ukphone": "in'tenʃәn",
-            "definition": "n. (usually plural) the goal with respect to a marriage proposal\nn. an act of intending; a volition that you intend to carry out",
-            "translation": "n. 意图, 目的, 含义\n[医] 愈合, 意向",
+            "usphone": "/ɪnˈtenʃ(ə)n/",
+            "ukphone": "/ɪnˈtenʃ(ə)n/",
+            "definition": "",
+            "translation": "n.  意图，目的，打算；愈合；意念",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -919,17 +819,15 @@
             "bnc": 1523,
             "frq": 2517,
             "exchange": "s:intentions",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "adaptation",
-            "usphone": ",ædæp'teʃən",
-            "ukphone": ".ædæp'teiʃәn",
-            "definition": "n. a written work (as a novel) that has been recast in a new form\nn. the process of adapting to something (such as environmental conditions)\nn. (physiology) the responsive adjustment of a sense organ (as the eye) to varying conditions (as of light)",
-            "translation": "n. 适应, 改编, 改编本\n[医] 适应[作用]",
+            "usphone": "/ˌædæpˈteɪʃ(ə)n/",
+            "ukphone": "/ˌædæpˈteɪʃn/",
+            "definition": "",
+            "translation": "n. 改编本，改写本；适应，改变；适应（性），适应力；适应性变化",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -937,17 +835,15 @@
             "bnc": 5438,
             "frq": 5196,
             "exchange": "s:adaptations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "accessible",
-            "usphone": "ək'sɛsəbl",
-            "ukphone": "әk'sesәbl",
-            "definition": "a. capable of being reached\ns. capable of being read with comprehension\ns. easily obtained\ns. easy to get along with or talk to; friendly",
-            "translation": "a. 易接近的, 可进入的, 可使用的, 易受影响的, 可理解的",
+            "usphone": "/əkˈsesəb(ə)l/",
+            "ukphone": "/əkˈsesəb(ə)l/",
+            "definition": "",
+            "translation": "adj. 可到达的，可进入的；易得到的，可使用的；可以理解的，易懂的；平易近人的，随和的；易受影响的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -955,17 +851,15 @@
             "bnc": 4162,
             "frq": 4377,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "soul",
-            "usphone": "sol",
-            "ukphone": "sәul",
-            "definition": "n. the immaterial part of a person; the actuating cause of an individual life\nn. deep feeling or emotion\nn. the human embodiment of something\nn. a secular form of gospel that was a major Black musical genre in the 1960s and 1970s",
-            "translation": "n. 灵魂, 心灵, 精神, 精髓, 人, 化身, 典型, 鬼魂\na. 黑人的",
+            "usphone": "/soʊl/",
+            "ukphone": "/səʊl/",
+            "definition": "",
+            "translation": "n. 灵魂；心灵；某种人；（用于否定句中）一个人（也没有）；灵乐；感受强烈感情的能力；（艺术、音乐作品或文章中的）热情，气魄；精神，精髓；（某地的）人们，人口（souls）；（人类整体的）精神状况，道德品质；（某种品质的）典范，化身；美国黑人文化（或种族尊严）；鬼魂\nadj. 激情黑人的，黑人文化的\n【名】 （Soul）（英、法）苏尔（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -973,17 +867,15 @@
             "bnc": 2291,
             "frq": 1604,
             "exchange": "s:souls",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "tendency",
-            "usphone": "'tɛndənsi",
-            "ukphone": "'tendәnsi",
-            "definition": "n. a characteristic likelihood of or natural disposition toward a certain condition or character or effect\nn. a general direction in which something tends to move",
-            "translation": "n. 趋向, 倾向\n[医] 趋向, 趋势",
+            "usphone": "/ˈtendənsi/",
+            "ukphone": "/ˈtendənsi/",
+            "definition": "",
+            "translation": "n. 经常性行为，偏好；趋势，趋向；（性格中不良的）倾向；（政党内的）极端派别",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -991,17 +883,15 @@
             "bnc": 2377,
             "frq": 3040,
             "exchange": "s:tendencies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "facilitate",
-            "usphone": "fə'sɪlə'tet",
-            "ukphone": "fә'siliteit",
-            "definition": "v. make easier\nv. increase the likelihood of (a response)",
-            "translation": "vt. 使容易, 促进, 帮助\n[法] 使容易, 使便利, 推进",
+            "usphone": "/fəˈsɪlɪteɪt/",
+            "ukphone": "/fəˈsɪlɪteɪt/",
+            "definition": "",
+            "translation": "v. 使更容易，使便利；促进，推动",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -1009,17 +899,15 @@
             "bnc": 4044,
             "frq": 3568,
             "exchange": "d:facilitated/3:facilitates/i:facilitating/p:facilitated",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "educator",
-            "usphone": "'ɛdʒə'ketɚ",
-            "ukphone": "'edjukeitә",
-            "definition": "n. someone who educates young people",
-            "translation": "n. 教育家",
+            "usphone": "/ˈedʒukeɪtər/",
+            "ukphone": "/ˈedʒukeɪtə(r)/",
+            "definition": "",
+            "translation": "n. 教育工作者，教师；教育家",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -1027,17 +915,15 @@
             "bnc": 12905,
             "frq": 2429,
             "exchange": "s:educators",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pictorial",
-            "usphone": "pɪk'tɔrɪəl",
-            "ukphone": "pik'tɒ:riәl",
-            "definition": "n. a periodical (magazine or newspaper) containing many pictures\na. pertaining to or consisting of pictures",
-            "translation": "a. 绘画的, 插图的, 用图画表示的, 形象化的, 有象形文字特征的\nn. 画报, 画刊, 有图邮票, 插图杂志, 插图报纸",
+            "usphone": "/pɪkˈtɔːriəl/",
+            "ukphone": "/pɪkˈtɔːriəl/",
+            "definition": "",
+            "translation": "adj. 绘画的；形象化的\nn. 画报；画刊",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -1045,17 +931,15 @@
             "bnc": 12630,
             "frq": 10796,
             "exchange": "s:pictorials",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "secondary",
-            "usphone": "'sɛkəndɛri",
-            "ukphone": "'sekәndәri",
-            "definition": "n. the defensive football players who line up behind the linemen\na. being of second rank or importance or value; not direct or immediate\ns. depending on or incidental to what is original or primary\ns. not of major importance",
-            "translation": "a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的\n[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二",
+            "usphone": "/ˈsekənderi/",
+            "ukphone": "/ˈsekənd(ə)ri/",
+            "definition": "",
+            "translation": "adj. （教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的；<旧>（地质）中生代的（Secondary）\nn. 副手，下属；第二防线；<英>中学（secondary school 的简称）；（鸟）次级飞羽（secondary feather 的简称）；（变压器中的）次级线圈；<旧>（地质）中生代（the Secondary）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -1063,17 +947,15 @@
             "bnc": 2098,
             "frq": 3455,
             "exchange": "s:secondaries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "comic",
-            "usphone": "'kɑmɪk",
-            "ukphone": "'kɒmik",
-            "definition": "a. of or relating to or characteristic of comedy",
-            "translation": "n. 连环漫画, 喜剧演员, 滑稽的人\na. 滑稽的, 有趣的, 喜剧的",
+            "usphone": "/ˈkɑːmɪk/",
+            "ukphone": "/ˈkɒmɪk/",
+            "definition": "",
+            "translation": "adj. 滑稽的，好笑的；喜剧的\nn. 喜剧演员；连环漫画",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1081,17 +963,15 @@
             "bnc": 6002,
             "frq": 5277,
             "exchange": "s:comics",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "costume",
-            "usphone": "ˈkɑsˌtum",
-            "ukphone": "'kɒstju:m",
-            "definition": "n. the attire worn in a play or at a fancy dress ball\nn. unusual or period attire not characteristic of or appropriate to the time and place\nn. the prevalent fashion of dress (including accessories and hair style as well as garments)\nn. the attire characteristic of a country or a time or a social class",
-            "translation": "n. 装束, 服装",
+            "usphone": "/ˈkɑːstuːm/",
+            "ukphone": "/ˈkɒstjuːm/",
+            "definition": "",
+            "translation": "n. 服装，装束；戏服，表演服装；泳衣，泳装\nv. 给（某人）穿上特定服装\nadj. （戏剧）古装的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1099,17 +979,15 @@
             "bnc": 5080,
             "frq": 4152,
             "exchange": "s:costumes/p:costumed/d:costumed/i:costuming/3:costumes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "urgently",
-            "usphone": "",
-            "ukphone": "",
-            "definition": "r. with great urgency",
-            "translation": "adv. 急切地；迫切地；紧急地",
+            "usphone": "/ˈɜːrdʒəntli/",
+            "ukphone": "/ˈɜːdʒəntli/",
+            "definition": "",
+            "translation": "adv. 迫切地；紧急地；急切地",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -1117,17 +995,15 @@
             "bnc": 6019,
             "frq": 11314,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "convincing",
-            "usphone": "kən'vɪnsɪŋ",
-            "ukphone": "kәn'vinsiŋ",
-            "definition": "a. causing one to believe the truth of something",
-            "translation": "a. 使人信服的, 有力的, 令人心悦诚服的",
+            "usphone": "/kənˈvɪnsɪŋ/",
+            "ukphone": "/kənˈvɪnsɪŋ/",
+            "definition": "",
+            "translation": "adj. 令人信服的，有说服力的；（胜利）轻松的，确定无疑的\nv. 使确信，使信服；说服，劝服（convince 的现在分词形式）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1135,10 +1011,8 @@
             "bnc": 4925,
             "frq": 6135,
             "exchange": "0:convince/1:i/i:convincing",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
