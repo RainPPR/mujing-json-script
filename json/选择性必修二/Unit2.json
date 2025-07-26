@@ -19,8 +19,10 @@
             "bnc": 632,
             "frq": 661,
             "exchange": "s:securities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "moderator",
@@ -35,8 +37,10 @@
             "bnc": 17548,
             "frq": 12436,
             "exchange": "s:moderators",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "detox",
@@ -51,8 +55,10 @@
             "bnc": 0,
             "frq": 22010,
             "exchange": "d:detoxed/i:detoxing/p:detoxed/s:detoxes/3:detoxes/f:detoxes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fundraising",
@@ -67,15 +73,17 @@
             "bnc": 15782,
             "frq": 0,
             "exchange": "i:fundraising/0:fundraising/1:i",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "switch",
             "usphone": "/swɪtʃ/",
             "ukphone": "/swɪtʃ/",
             "definition": "",
-            "translation": "n. 开关，电闸；骤变，突变；交换机；（计算机）切换；<美> （铁路的）转辙器，道岔；（细软的）枝条，鞭子；假发；（在英国使用借记卡付账的一种）转换系统（Switch）\nv. （用开关）打开，关闭；（使）改变，转变；交换，调换；转移（注意力）；（与某人）交换工作，调班；<古> 用枝条击打，轻拂",
+            "translation": "n. 开关，电闸；骤变，突变；交换机；（计算机）切换；<美> （铁路的）转辙器，道岔；（细软的）枝条，鞭子；假发\nv. （用开关）打开，关闭；（使）改变，转变；交换，调换；转移（注意力）；（与某人）交换工作，调班；<古> 用枝条击打，轻拂",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -83,15 +91,17 @@
             "bnc": 1952,
             "frq": 2604,
             "exchange": "p:switched/d:switched/i:switching/s:switches/3:switches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "switch on",
             "usphone": "",
             "ukphone": "",
             "definition": "",
-            "translation": "接通\n[化] 接通",
+            "translation": " （用开关）开，打开 ",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -99,8 +109,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "motivate",
@@ -115,8 +127,10 @@
             "bnc": 5069,
             "frq": 3534,
             "exchange": "d:motivated/3:motivates/i:motivating/p:motivated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "occupy",
@@ -131,15 +145,17 @@
             "bnc": 1991,
             "frq": 2710,
             "exchange": "d:occupied/3:occupies/p:occupied/i:occupying",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "profile",
             "usphone": "/ˈproʊfaɪl/",
             "ukphone": "/ˈprəʊfaɪl/",
             "definition": "",
-            "translation": "n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案\nv. 概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓（be profiled）；（尤指用模板）铣出轮廓，使……成形",
+            "translation": "n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案\nv. 概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓；（尤指用模板）铣出轮廓，使……成形",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -147,8 +163,10 @@
             "bnc": 2812,
             "frq": 2676,
             "exchange": "s:profiles/3:profiles/i:profiling/d:profiled/p:profiled/f:profiles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "distract",
@@ -163,8 +181,10 @@
             "bnc": 5958,
             "frq": 4498,
             "exchange": "d:distracted/i:distracting/p:distracted/3:distracts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "constantly",
@@ -179,8 +199,10 @@
             "bnc": 2628,
             "frq": 2498,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "towel",
@@ -195,8 +217,10 @@
             "bnc": 4814,
             "frq": 3682,
             "exchange": "s:towels/p:towelled/i:towelling/3:towels/d:towelled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "throw in the towel",
@@ -211,8 +235,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "access",
@@ -227,8 +253,10 @@
             "bnc": 999,
             "frq": 1113,
             "exchange": "d:accessed/i:accessing/3:accesses/s:accesses/p:accessed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rely",
@@ -243,8 +271,10 @@
             "bnc": 1734,
             "frq": 1857,
             "exchange": "i:relying/3:relies/d:relied/p:relied",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rely on",
@@ -259,8 +289,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "deadline",
@@ -275,8 +307,10 @@
             "bnc": 5295,
             "frq": 4032,
             "exchange": "s:deadlines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "procrastination",
@@ -291,8 +325,10 @@
             "bnc": 23277,
             "frq": 20478,
             "exchange": "s:procrastinations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "appropriate",
@@ -307,8 +343,10 @@
             "bnc": 883,
             "frq": 1493,
             "exchange": "d:appropriated/3:appropriates/p:appropriated/i:appropriating",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spit",
@@ -323,15 +361,17 @@
             "bnc": 5395,
             "frq": 4932,
             "exchange": "d:spat/p:spat/i:spitting/3:spits/1:pd/0:spit/s:spits",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "headphones",
             "usphone": "/ˈhedfoʊnz/",
             "ukphone": "/ˈhedfəʊnz/",
             "definition": "",
-            "translation": "n. [电讯]耳机；听筒；[电子]头戴式受话器（headphone 的复数形式）",
+            "translation": "n. [电讯]耳机；听筒",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -339,15 +379,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "0:headphone/1:s",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bin",
             "usphone": "/bɪn/",
             "ukphone": "/bɪn/",
             "definition": "",
-            "translation": "n. 垃圾桶；储物箱；瓶酒搁架；统计堆栈\nv. 把……扔进垃圾箱；摒弃，拒绝；把……放（或贮藏）在箱（或仓）中；把（酒等）放进搁架；把（数据）归入统计堆\n【名】 （Bin）（美、意）本（人名）",
+            "translation": "n. 垃圾桶；储物箱；瓶酒搁架；统计堆栈\nv. 把……扔进垃圾箱；摒弃，拒绝；把……放（或贮藏）在箱（或仓）中；把（酒等）放进搁架；把（数据）归入统计堆",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -355,8 +397,10 @@
             "bnc": 5370,
             "frq": 0,
             "exchange": "s:bins/p:binned/d:binned/i:binning/3:bins",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "considerate",
@@ -371,8 +415,10 @@
             "bnc": 13960,
             "frq": 17092,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "promote",
@@ -387,8 +433,10 @@
             "bnc": 1433,
             "frq": 1328,
             "exchange": "d:promoted/i:promoting/3:promotes/p:promoted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "clarify",
@@ -403,8 +451,10 @@
             "bnc": 4552,
             "frq": 5050,
             "exchange": "d:clarified/i:clarifying/3:clarifies/p:clarified",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "headline",
@@ -419,8 +469,10 @@
             "bnc": 4488,
             "frq": 3293,
             "exchange": "s:headlines/p:headlined/i:headlining/d:headlined/3:headlines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "max out",
@@ -435,8 +487,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in contrast to",
@@ -451,8 +505,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "district",
@@ -467,8 +523,10 @@
             "bnc": 1071,
             "frq": 1266,
             "exchange": "s:districts/i:districting/p:districted/3:districts/d:districted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "necessity",
@@ -483,8 +541,10 @@
             "bnc": 3374,
             "frq": 3951,
             "exchange": "s:necessities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "toothpaste",
@@ -499,8 +559,10 @@
             "bnc": 15700,
             "frq": 14165,
             "exchange": "s:toothpastes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "soap",
@@ -515,8 +577,10 @@
             "bnc": 4288,
             "frq": 4344,
             "exchange": "s:soaps/i:soaping/p:soaped/3:soaps/d:soaped",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "item",
@@ -531,8 +595,10 @@
             "bnc": 950,
             "frq": 1031,
             "exchange": "s:items",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "unprecedentedly",
@@ -547,8 +613,10 @@
             "bnc": 34974,
             "frq": 34911,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "personal finances",
@@ -563,15 +631,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jar",
             "usphone": "/dʒɑːr/",
             "ukphone": "/dʒɑː(r)/",
             "definition": "",
-            "translation": "n. 玻璃罐，广口瓶；一瓶，一罐（的量或物）；震动\nv. 撞击，震动；刺激，对……产生不好的影响；不和谐，不相配；发出刺耳声\n【名】 （Jar） （罗）扎尔（人名）",
+            "translation": "n. 玻璃罐，广口瓶；一瓶，一罐（的量或物）；震动\nv. 撞击，震动；刺激，对……产生不好的影响；不和谐，不相配；发出刺耳声",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -579,8 +649,10 @@
             "bnc": 5688,
             "frq": 4262,
             "exchange": "s:jars/p:jarred/i:jarring/d:jarred/3:jars",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "invest",
@@ -595,8 +667,10 @@
             "bnc": 2329,
             "frq": 2001,
             "exchange": "d:invested/i:investing/p:invested/3:invests",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "lifelong",
@@ -611,8 +685,10 @@
             "bnc": 9865,
             "frq": 5720,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vision",
@@ -627,8 +703,10 @@
             "bnc": 1921,
             "frq": 1216,
             "exchange": "s:visions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "likewise",
@@ -643,8 +721,10 @@
             "bnc": 5011,
             "frq": 4530,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "objectively",
@@ -659,8 +739,10 @@
             "bnc": 11272,
             "frq": 12438,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "equip",
@@ -675,15 +757,17 @@
             "bnc": 3643,
             "frq": 4145,
             "exchange": "d:equipped/i:equipping/p:equipped/3:equips",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nail",
             "usphone": "/neɪl/",
             "ukphone": "/neɪl/",
             "definition": "",
-            "translation": "n. 钉子；指甲，趾甲；（一些软喙鸟类）上喙的硬甲壳；纳尔（布匹长度单位）\nv. （用钉子）钉住，钉牢；抓住，证明……有罪；戳穿，揭露；（尤指体育运动中）获得，赢得；（选手）锁定（胜局）；<非正式>用力击打；<美，非正式>完美地完成，漂亮地做；(棒球)（外场手）把（跑垒者）杀出局；<美>（选手）击败（或智胜）（对手）；<美，俚>（男性）与……性交；（外场手）把（跑垒者）杀出局\n【名】 （Nail）（英、美、法、俄）纳伊（人名）",
+            "translation": "n. 钉子；指甲，趾甲；（一些软喙鸟类）上喙的硬甲壳；纳尔（布匹长度单位）\nv. （用钉子）钉住，钉牢；抓住，证明……有罪；戳穿，揭露；（尤指体育运动中）获得，赢得；（选手）锁定（胜局）；<非正式>用力击打；<美，非正式>完美地完成，漂亮地做；(棒球)（外场手）把（跑垒者）杀出局；<美>（选手）击败（或智胜）（对手）；<美，俚>（男性）与……性交；（外场手）把（跑垒者）杀出局",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -691,8 +775,10 @@
             "bnc": 3556,
             "frq": 3556,
             "exchange": "s:nails/d:nailed/i:nailing/p:nailed/3:nails",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
