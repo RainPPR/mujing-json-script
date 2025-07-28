@@ -2,7 +2,7 @@
     "name": "Unit3",
     "type": "DOCUMENT",
     "language": "",
-    "size": 63,
+    "size": 62,
     "relateVideoPath": "",
     "subtitlesTrackId": 0,
     "wordList": [
@@ -19,8 +19,10 @@
             "bnc": 1539,
             "frq": 730,
             "exchange": "s:decades",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "legendary",
@@ -35,8 +37,10 @@
             "bnc": 7101,
             "frq": 4997,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fixture",
@@ -51,15 +55,17 @@
             "bnc": 6192,
             "frq": 7036,
             "exchange": "s:fixtures/i:fixturing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "elderly",
             "usphone": "/ˈeldərli/",
             "ukphone": "/ˈeldəli/",
             "definition": "",
-            "translation": "adj. 上了年纪的；老掉牙的\nn. 老人（the elderly）",
+            "translation": "adj. 上了年纪的；老掉牙的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -67,8 +73,10 @@
             "bnc": 1837,
             "frq": 2907,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tablet",
@@ -83,8 +91,10 @@
             "bnc": 4781,
             "frq": 7864,
             "exchange": "s:tablets",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sympathy",
@@ -99,15 +109,17 @@
             "bnc": 3089,
             "frq": 4270,
             "exchange": "s:sympathies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bunch",
             "usphone": "/bʌntʃ/",
             "ukphone": "/bʌntʃ/",
             "definition": "",
-            "translation": "n. 束，串，扎；一伙，一群；大量；<英>发辫（bunches）；突起\nv. 捆，扎，使集中；收紧，起褶\n【名】 （Bunch）（英）邦奇（人名）",
+            "translation": "n. 束，串，扎；一伙，一群；大量；<英>发辫；突起\nv. 捆，扎，使集中；收紧，起褶",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -115,8 +127,10 @@
             "bnc": 4503,
             "frq": 2658,
             "exchange": "s:bunches/d:bunched/i:bunching/p:bunched/3:bunches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "a bunch of",
@@ -131,15 +145,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dusty",
             "usphone": "/ˈdʌsti/",
             "ukphone": "/ˈdʌsti/",
             "definition": "",
-            "translation": "adj. 布满灰尘的；土灰色的；缺乏活力的，枯燥无味的；尘般的，粉状的；不明确的，不能令人满意的\n【名】 （Dusty）（美）杜史迪（人名）",
+            "translation": "adj. 布满灰尘的；土灰色的；缺乏活力的，枯燥无味的；尘般的，粉状的；不明确的，不能令人满意的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -147,15 +163,17 @@
             "bnc": 6602,
             "frq": 5298,
             "exchange": "r:dustier",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shelf",
             "usphone": "/ʃelf/",
             "ukphone": "/ʃelf/",
             "definition": "",
-            "translation": "n. 搁板，架子；（尤指水中）陆架，底岩；<非正式>告密者（复数 shelfs）\nv. <非正式>告发（某人）",
+            "translation": "n. 搁板，架子；（尤指水中）陆架，底岩；<非正式>告密者\nv. <非正式>告发（某人）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -163,8 +181,10 @@
             "bnc": 2930,
             "frq": 2947,
             "exchange": "s:shelves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "furniture",
@@ -179,8 +199,10 @@
             "bnc": 2428,
             "frq": 2669,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mist",
@@ -195,15 +217,17 @@
             "bnc": 4784,
             "frq": 5967,
             "exchange": "s:mists/p:misted/i:misting/d:misted/3:mists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "brick",
             "usphone": "/brɪk/",
             "ukphone": "/brɪk/",
             "definition": "",
-            "translation": "n. 砖，砖块；<旧>热心人，可靠的人；积木\nadj. 似砖的；用砖做的\nv. 用砖墙围起，用砖堵住\n【名】 （Brick）（英、法、瑞典）布里克（人名）",
+            "translation": "n. 砖，砖块；<旧>热心人，可靠的人；积木\nadj. 似砖的；用砖做的\nv. 用砖墙围起，用砖堵住",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -211,8 +235,10 @@
             "bnc": 2814,
             "frq": 3315,
             "exchange": "s:bricks/d:bricked/i:bricking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "exterior",
@@ -227,8 +253,10 @@
             "bnc": 8714,
             "frq": 8761,
             "exchange": "s:exteriors",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pore over",
@@ -243,8 +271,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "stationery",
@@ -259,8 +289,10 @@
             "bnc": 10061,
             "frq": 14645,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "saleswoman",
@@ -275,8 +307,10 @@
             "bnc": 41106,
             "frq": 20767,
             "exchange": "s:saleswomen",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "leadership",
@@ -291,8 +325,10 @@
             "bnc": 1873,
             "frq": 1304,
             "exchange": "s:leaderships",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "organic",
@@ -307,8 +343,10 @@
             "bnc": 3457,
             "frq": 3070,
             "exchange": "s:organics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "recital",
@@ -323,15 +361,17 @@
             "bnc": 12076,
             "frq": 11952,
             "exchange": "s:recitals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jazz",
             "usphone": "/dʒæz/",
             "ukphone": "/dʒæz/",
             "definition": "",
-            "translation": "n. 爵士乐；爵士乐舞蹈（jazz ballet/jazz dance）；毫无意义的话；诸如此类的事情\nadj. 爵士乐的\nv. <旧>演奏爵士乐；<旧>跳爵士舞；使活泼；游荡\n【名】 （Jazz）（德）雅茨（人名）",
+            "translation": "n. 爵士乐；爵士乐舞蹈；毫无意义的话；诸如此类的事情\nadj. 爵士乐的\nv. <旧>演奏爵士乐；<旧>跳爵士舞；使活泼；游荡",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -339,8 +379,10 @@
             "bnc": 5759,
             "frq": 3848,
             "exchange": "i:jazzing/p:jazzed/3:jazzes/d:jazzed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pop up",
@@ -355,8 +397,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "humble",
@@ -371,8 +415,10 @@
             "bnc": 6375,
             "frq": 5970,
             "exchange": "d:humbled/p:humbled/3:humbles/i:humbling",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "compete",
@@ -387,8 +433,10 @@
             "bnc": 2583,
             "frq": 2065,
             "exchange": "i:competing/p:competed/3:competes/d:competed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "emphasise",
@@ -403,8 +451,10 @@
             "bnc": 2686,
             "frq": 0,
             "exchange": "d:emphasised/p:emphasised/3:emphasises/i:emphasising",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reconstruction",
@@ -419,8 +469,10 @@
             "bnc": 5133,
             "frq": 5208,
             "exchange": "s:reconstructions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "journalist",
@@ -435,15 +487,17 @@
             "bnc": 2607,
             "frq": 2099,
             "exchange": "s:journalists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "era",
             "usphone": "/ˈɪrə/",
             "ukphone": "/ˈɪərə/",
             "definition": "",
-            "translation": "n. 时代，年代，纪元\n【名】 （Era）（意、芬、印）埃拉（人名）",
+            "translation": "n. 时代，年代，纪元",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -451,15 +505,17 @@
             "bnc": 3312,
             "frq": 1884,
             "exchange": "s:eras",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reform",
             "usphone": "/rɪˈfɔːrm/",
             "ukphone": "/rɪˈfɔːm/",
             "definition": "",
-            "translation": "v. 改革，革新；改邪归正，改造；（石油炼制）重整\nn. 改革，改良\nadj. 犹太教改革（仅保留犹太教部分的传统信条和习俗）（Reform）",
+            "translation": "v. 改革，革新；改邪归正，改造；（石油炼制）重整\nn. 改革，改良",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -467,8 +523,10 @@
             "bnc": 1211,
             "frq": 1112,
             "exchange": "s:reforms/d:reformed/i:reforming/p:reformed/3:reforms",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reform and opening-up",
@@ -483,15 +541,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pave",
             "usphone": "/peɪv/",
             "ukphone": "/peɪv/",
             "definition": "",
-            "translation": "v. 用石板（或砖）铺（路）；为……铺平道路，创造条件（pave the way for sth./sb.）\n【名】 （法、塞尔维亚、克罗地亚）帕韦（人名）",
+            "translation": "v. 用石板（或砖）铺（路）；为……铺平道路，创造条件",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -499,8 +559,10 @@
             "bnc": 8451,
             "frq": 7086,
             "exchange": "d:paved/i:paving/p:paved/3:paves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pave the way",
@@ -515,8 +577,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "socialist",
@@ -531,8 +595,10 @@
             "bnc": 2568,
             "frq": 5591,
             "exchange": "s:socialists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "alongside",
@@ -547,8 +613,10 @@
             "bnc": 2737,
             "frq": 4203,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "initiative",
@@ -563,31 +631,17 @@
             "bnc": 1688,
             "frq": 2138,
             "exchange": "s:initiatives",
-            "externalCaptions": [],
-            "captions": []
-        },
-        {
-            "value": "the Belt and Road Initiative",
-            "usphone": "",
-            "ukphone": "",
-            "definition": "",
-            "translation": "“一带一路”倡议",
-            "pos": "",
-            "collins": 0,
-            "oxford": false,
-            "tag": "",
-            "bnc": 0,
-            "frq": 0,
-            "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "solid",
             "usphone": "/ˈsɑːlɪd/",
             "ukphone": "/ˈsɒlɪd/",
             "definition": "",
-            "translation": "adj. 固体的，坚硬的；结实的，牢固的；实心的，无空隙的；纯质的；纯色的，单色的；可靠的，可信赖的；一致的，坚定的；不中断的，连续的；相当不错（但谈不上出色或独特）的；立体的，立方的；<美，非正式>关系融洽的；<澳新，非正式>严厉的，不公平的；<英，非正式>很难的\nn.  立体（图形）；固体；固体食物；（液体中的）固形物\n【名】 （Solid）（瑞典）索利德（人名）",
+            "translation": "adj. 固体的，坚硬的；结实的，牢固的；实心的，无空隙的；纯质的；纯色的，单色的；可靠的，可信赖的；一致的，坚定的；不中断的，连续的；相当不错（但谈不上出色或独特）的；立体的，立方的；<美，非正式>关系融洽的；<澳新，非正式>严厉的，不公平的；<英，非正式>很难的\nn.  立体（图形）；固体；固体食物；（液体中的）固形物",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -595,8 +649,10 @@
             "bnc": 2417,
             "frq": 2011,
             "exchange": "s:solids",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "economic",
@@ -611,8 +667,10 @@
             "bnc": 402,
             "frq": 453,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "occupation",
@@ -627,8 +685,10 @@
             "bnc": 2591,
             "frq": 3334,
             "exchange": "s:occupations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cafeteria",
@@ -643,8 +703,10 @@
             "bnc": 19059,
             "frq": 7076,
             "exchange": "s:cafeterias",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "emoji",
@@ -659,8 +721,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "integral",
@@ -675,8 +739,10 @@
             "bnc": 5095,
             "frq": 5882,
             "exchange": "s:integrals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "component",
@@ -691,8 +757,10 @@
             "bnc": 1631,
             "frq": 1760,
             "exchange": "s:components",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "category",
@@ -707,8 +775,10 @@
             "bnc": 1419,
             "frq": 1461,
             "exchange": "s:categories",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "expand",
@@ -723,8 +793,10 @@
             "bnc": 2124,
             "frq": 1572,
             "exchange": "d:expanded/i:expanding/3:expands/p:expanded",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pictograph",
@@ -739,8 +811,10 @@
             "bnc": 0,
             "frq": 28499,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "emotional",
@@ -755,15 +829,17 @@
             "bnc": 2389,
             "frq": 1617,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "gesture",
             "usphone": "/ˈdʒestʃər/",
             "ukphone": "/ˈdʒestʃə(r)/",
             "definition": "",
-            "translation": "n. 手势，姿势；姿态，表示\nV. 打手势，用动作示意",
+            "translation": "n. 手势，姿势；姿态，表示\nv. 打手势，用动作示意",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -771,8 +847,10 @@
             "bnc": 2883,
             "frq": 2969,
             "exchange": "s:gestures/p:gestured/i:gesturing/3:gestures/d:gestured",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "facial",
@@ -787,8 +865,10 @@
             "bnc": 8701,
             "frq": 5735,
             "exchange": "s:facials",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "textspeak",
@@ -803,8 +883,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intention",
@@ -819,8 +901,10 @@
             "bnc": 1523,
             "frq": 2517,
             "exchange": "s:intentions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "adaptation",
@@ -835,8 +919,10 @@
             "bnc": 5438,
             "frq": 5196,
             "exchange": "s:adaptations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "accessible",
@@ -851,15 +937,17 @@
             "bnc": 4162,
             "frq": 4377,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "soul",
             "usphone": "/soʊl/",
             "ukphone": "/səʊl/",
             "definition": "",
-            "translation": "n. 灵魂；心灵；某种人；（用于否定句中）一个人（也没有）；灵乐；感受强烈感情的能力；（艺术、音乐作品或文章中的）热情，气魄；精神，精髓；（某地的）人们，人口（souls）；（人类整体的）精神状况，道德品质；（某种品质的）典范，化身；美国黑人文化（或种族尊严）；鬼魂\nadj. 激情黑人的，黑人文化的\n【名】 （Soul）（英、法）苏尔（人名）",
+            "translation": "n. 灵魂；心灵；某种人；（用于否定句中）一个人（也没有）；灵乐；感受强烈感情的能力；（艺术、音乐作品或文章中的）热情，气魄；精神，精髓；（某地的）人们，人口；（人类整体的）精神状况，道德品质；（某种品质的）典范，化身；美国黑人文化（或种族尊严）；鬼魂\nadj. 激情黑人的，黑人文化的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -867,8 +955,10 @@
             "bnc": 2291,
             "frq": 1604,
             "exchange": "s:souls",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tendency",
@@ -883,8 +973,10 @@
             "bnc": 2377,
             "frq": 3040,
             "exchange": "s:tendencies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "facilitate",
@@ -899,8 +991,10 @@
             "bnc": 4044,
             "frq": 3568,
             "exchange": "d:facilitated/3:facilitates/i:facilitating/p:facilitated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "educator",
@@ -915,8 +1009,10 @@
             "bnc": 12905,
             "frq": 2429,
             "exchange": "s:educators",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pictorial",
@@ -931,15 +1027,17 @@
             "bnc": 12630,
             "frq": 10796,
             "exchange": "s:pictorials",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "secondary",
             "usphone": "/ˈsekənderi/",
             "ukphone": "/ˈsekənd(ə)ri/",
             "definition": "",
-            "translation": "adj. （教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的；<旧>（地质）中生代的（Secondary）\nn. 副手，下属；第二防线；<英>中学（secondary school 的简称）；（鸟）次级飞羽（secondary feather 的简称）；（变压器中的）次级线圈；<旧>（地质）中生代（the Secondary）",
+            "translation": "adj. （教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的；<旧>（地质）中生代的\nn. 副手，下属；第二防线；<英>中学；（变压器中的）次级线圈；<旧>（地质）中生代",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -947,8 +1045,10 @@
             "bnc": 2098,
             "frq": 3455,
             "exchange": "s:secondaries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comic",
@@ -963,8 +1063,10 @@
             "bnc": 6002,
             "frq": 5277,
             "exchange": "s:comics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "costume",
@@ -979,8 +1081,10 @@
             "bnc": 5080,
             "frq": 4152,
             "exchange": "s:costumes/p:costumed/d:costumed/i:costuming/3:costumes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "urgently",
@@ -995,15 +1099,17 @@
             "bnc": 6019,
             "frq": 11314,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "convincing",
             "usphone": "/kənˈvɪnsɪŋ/",
             "ukphone": "/kənˈvɪnsɪŋ/",
             "definition": "",
-            "translation": "adj. 令人信服的，有说服力的；（胜利）轻松的，确定无疑的\nv. 使确信，使信服；说服，劝服（convince 的现在分词形式）",
+            "translation": "adj. 令人信服的，有说服力的；（胜利）轻松的，确定无疑的\nv. 使确信，使信服；说服，劝服",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1011,8 +1117,10 @@
             "bnc": 4925,
             "frq": 6135,
             "exchange": "0:convince/1:i/i:convincing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
