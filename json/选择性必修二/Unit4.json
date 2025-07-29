@@ -1,0 +1,1018 @@
+{
+    "name": "Unit4",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 56,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "boundary",
+            "usphone": "'baʊndri",
+            "ukphone": "'baundri",
+            "definition": "n. the line or plane indicating the limit or extent of something\nn. a line determining the limits of an area",
+            "translation": "n. 边界, 分界线\n[计] 边界",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2050,
+            "frq": 2776,
+            "exchange": "s:boundaries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "statistic",
+            "usphone": "stə'tɪstɪk",
+            "ukphone": "stә'tistik",
+            "definition": "n. a datum that can be represented numerically",
+            "translation": "n. 统计量\na. 统计的, 统计学的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "",
+            "bnc": 14827,
+            "frq": 9631,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "assist",
+            "usphone": "ə'sɪst",
+            "ukphone": "ә'sist",
+            "definition": "n. (sports) the act of enabling another player to make a good play\nv. act as an assistant in a subordinate or supportive function",
+            "translation": "n. 帮助, 协助\nvt. 帮助, 促进\nvi. 协助, 参加",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2162,
+            "frq": 2475,
+            "exchange": "d:assisted/i:assisting/p:assisted/3:assists",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tackle",
+            "usphone": "'tækl",
+            "ukphone": "'tækl",
+            "definition": "n. the person who plays that position on a football team\nn. (American football) a position on the line of scrimmage\nn. (American football) grasping an opposing player with the intention of stopping by throwing to the ground\nv. seize and throw down an opponent player, who usually carries the ball",
+            "translation": "n. 工具, 复滑车, 滑车, 装备, 扭倒\nvt. 固定, 处理, 抓住\nvi. 扭倒",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 2634,
+            "frq": 4096,
+            "exchange": "i:tackling/d:tackled/p:tackled/3:tackles/s:tackles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vital",
+            "usphone": "'vaɪtl",
+            "ukphone": "'vaitl",
+            "definition": "s. performing an essential function in the living body\ns. manifesting or characteristic of life",
+            "translation": "a. 生命的, 重要的, 充满活力的, 生死攸关的, 致命的\n[医] 生命的, 生活的, 生活上必需的, 紧要的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1803,
+            "frq": 2916,
+            "exchange": "s:vitals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "comrade",
+            "usphone": "'kɑmræd",
+            "ukphone": "'kɒmreid",
+            "definition": "n. a fellow member of the Communist Party",
+            "translation": "n. 同志, 伙伴",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 6545,
+            "frq": 7425,
+            "exchange": "s:comrades",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tragic",
+            "usphone": "'trædʒɪk",
+            "ukphone": "'trædʒik",
+            "definition": "s. very sad; especially involving grief or death or destruction\na. of or relating to or characteristic of tragedy",
+            "translation": "a. 悲惨的, 悲剧的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky",
+            "bnc": 4967,
+            "frq": 4259,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Ebola",
+            "usphone": "",
+            "ukphone": "i'bəulə",
+            "definition": "n a severe and often fatal disease in humans and nonhuman primates (monkeys and chimpanzees) caused by the Ebola virus; characterized by high fever and severe internal bleeding; can be spread from person to person; is largely limited to Africa",
+            "translation": "n. 埃博拉病毒",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "combat",
+            "usphone": "'kɑmbæt",
+            "ukphone": "'kɒmbæt",
+            "definition": "n. an engagement fought between two military forces",
+            "translation": "n. 争斗, 战斗\nvi. 战斗, 争斗\nvt. 与...战斗, 与...斗争",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet6 ky ielts gre",
+            "bnc": 5622,
+            "frq": 3412,
+            "exchange": "i:combating/3:combats/d:combatted/p:combated",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "relieve",
+            "usphone": "rɪ'liv",
+            "ukphone": "ri'li:v",
+            "definition": "v. provide physical relief, as from pain\nv. free from a burden, evil, or distress\nv. take by stealing\nv. alleviate or remove (pressure or stress) or make less oppressive",
+            "translation": "vt. 减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著\nvi. 救济, 当替补投手, 呈鲜明突出",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 4260,
+            "frq": 3764,
+            "exchange": "p:relieved/d:relieved/i:relieving/3:relieves",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "specialist",
+            "usphone": "'spɛʃəlɪst",
+            "ukphone": "'speiʃәlist",
+            "definition": "n. an expert who is devoted to one occupation or branch of learning\nn. practices one branch of medicine",
+            "translation": "n. 专门医师, 专家\na. 专业的, 专家的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 1808,
+            "frq": 2546,
+            "exchange": "s:specialists",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "infectious",
+            "usphone": "ɪn'fɛkʃəs",
+            "ukphone": "in'fekʃәs",
+            "definition": "s. caused by infection or capable of causing infection\na. easily spread; children catch it from their elders\"- Bertrand Russell\na. of or relating to infection",
+            "translation": "a. 有传染性的, 易传染的\n[医] 传染性的",
+            "pos": "",
+            "collins": 1,
+            "oxford": true,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 8627,
+            "frq": 7091,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "clinic",
+            "usphone": "'klɪnɪk",
+            "ukphone": "'klinik",
+            "definition": "n. a medical establishment run by a group of medical specialists\nn. meeting for diagnosis of problems and instruction or remedial work in a particular activity\nn. a healthcare facility for outpatient care",
+            "translation": "n. 诊所, 临床教学\n[医] 诊所(门诊部); 临床(讲解); 临床(学)科",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet6 ky toefl ielts",
+            "bnc": 3298,
+            "frq": 2388,
+            "exchange": "s:clinics",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "disinfect",
+            "usphone": "'dɪsɪn'fɛkt",
+            "ukphone": ".disin'fekt",
+            "definition": "v. destroy microorganisms or pathogens by cleansing",
+            "translation": "vt. 消毒\n[医] 消毒",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 23822,
+            "frq": 20959,
+            "exchange": "p:disinfected/d:disinfected/i:disinfecting/3:disinfects",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "outbreak",
+            "usphone": "'aʊtbrek",
+            "ukphone": "'autbreik",
+            "definition": "n. a sudden violent spontaneous occurrence (usually of some undesirable condition)",
+            "translation": "n. 爆发, 暴动\n[医] 暴发",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 5060,
+            "frq": 5343,
+            "exchange": "s:outbreaks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "devotion",
+            "usphone": "dɪ'voʃən",
+            "ukphone": "di'vәuʃәn",
+            "definition": "n. feelings of ardent love\nn. commitment to some purpose\nn. (usually plural) religious observance or prayers (usually spoken silently)",
+            "translation": "n. 热爱, 投入",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet6 toefl",
+            "bnc": 6937,
+            "frq": 6466,
+            "exchange": "s:devotions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vomit",
+            "usphone": "'vɑmɪt",
+            "ukphone": "'vɒmit",
+            "definition": "n. the matter ejected in vomiting\nn. the reflex act of ejecting the contents of the stomach through the mouth\nv. eject the contents of the stomach through the mouth",
+            "translation": "vt. 吐出, 呕吐\nvi. 呕吐\nn. 呕吐, 呕吐物, 催吐剂",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts gre",
+            "bnc": 10114,
+            "frq": 8753,
+            "exchange": "i:vomiting/p:vomited/d:vomited/3:vomits/s:vomits",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "miracle",
+            "usphone": "'mɪrəkl",
+            "ukphone": "'mirәkl",
+            "definition": "n. any amazing or wonderful occurrence\nn. a marvellous event manifesting a supernatural act of a divine agent",
+            "translation": "n. 奇迹, 奇事",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 4110,
+            "frq": 3279,
+            "exchange": "s:miracles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "van",
+            "usphone": "væn",
+            "ukphone": "væn",
+            "definition": "n. (Great Britain) a closed railroad car that carries baggage or freight\nn. a camper equipped with living quarters\nn. a truck with an enclosed cargo space",
+            "translation": "n. 货车, 篷车, 先锋, 前驱, 前卫\nvt. 用货车搬运\n[计] 增值网",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky",
+            "bnc": 3028,
+            "frq": 3115,
+            "exchange": "s:vans",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "twin",
+            "usphone": "twɪn",
+            "ukphone": "twin",
+            "definition": "n. either of two offspring born at the same time from the same pregnancy\nn. a waterfall in the Snake River in southern Idaho\nv. duplicate or match\nv. grow as twins",
+            "translation": "n. 双胞胎中一人, 一对非常相像的人(或物)中的一个\na. 双胞胎的, 成对的, 孪生的\nvi. 生双胞胎, 成对\nvt. 怀(双胞胎), 使成对",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 2884,
+            "frq": 2376,
+            "exchange": "s:twins/d:twinned/i:twinning/3:twins/p:twinned",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ward",
+            "usphone": "wɔrd",
+            "ukphone": "wɒ:d",
+            "definition": "n. a person who is under the protection or in the custody of another\nn. a district into which a city or town is divided for the purpose of administration and elections\nn. block forming a division of a hospital (or a suite of rooms) shared by patients who need a similar kind of care\nn. English economist and conservationist (1914-1981)",
+            "translation": "n. 病房, 守卫, 保卫, 保护, 监护, 牢房, 行政区, 锁孔内的榫舌\nvt. 使入病房, 守护, 保卫",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet6 ky toefl ielts",
+            "bnc": 2949,
+            "frq": 5065,
+            "exchange": "s:wards/i:warding/d:warded/p:warded/3:wards",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "compensate",
+            "usphone": "'kɑmpɛnset",
+            "ukphone": "'kɒmpenseit",
+            "definition": "v. adjust for\nv. make amends for; pay compensation for\nv. make payment to; compensate",
+            "translation": "v. 偿还, 补偿, 付报酬",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet6 ky toefl ielts gre",
+            "bnc": 4464,
+            "frq": 5037,
+            "exchange": "d:compensated/i:compensating/3:compensates/p:compensated",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "collaborate",
+            "usphone": "kə'læbəret",
+            "ukphone": "kә'læbәreit",
+            "definition": "v. work together on a common enterprise of project\nv. cooperate as a traitor",
+            "translation": "vi. 合作, 勾结\n[法] 合作, 合著, 通敌",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl gre",
+            "bnc": 7961,
+            "frq": 6388,
+            "exchange": "i:collaborating/p:collaborated/d:collaborated/3:collaborates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "realistic",
+            "usphone": ",riə'lɪstɪk",
+            "ukphone": "riә'listik",
+            "definition": "a. aware or expressing awareness of things as they really are\na. of or relating to the philosophical doctrine of realism",
+            "translation": "a. 现实的, 逼真的, 现实主义的, 实在论的",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet6 ky",
+            "bnc": 3620,
+            "frq": 3993,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "minority",
+            "usphone": "maɪ'nɔrəti",
+            "ukphone": "mai'nɒriti",
+            "definition": "n. a group of people who differ racially or politically from a larger group of which it is a part\nn. being or relating to the smaller in number of two parts\nn. any age prior to the legal age",
+            "translation": "n. 少数, 未成年, 少数民族\na. 少数的, 属于少数派的",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2106,
+            "frq": 1633,
+            "exchange": "s:minorities",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cast",
+            "usphone": "kæst",
+            "ukphone": "kɑ:st. kæst",
+            "definition": "n. the actors in a play\nn. the distinctive form in which a thing is made\nn. bandage consisting of a firm covering (often made of plaster of Paris) that immobilizes broken bones while they heal\nn. object formed by a mold",
+            "translation": "n. 演员阵容, 投掷, 铸件, 预测, 特性\nvt. 投, 掷, 抛, 脱落, 铸, 使弯曲, 计算\nvi. 投, 计算, 浇铸成型",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 2328,
+            "frq": 2035,
+            "exchange": "d:cast/0:cast/1:dp/i:casting/p:cast/3:casts/s:casts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mankind",
+            "usphone": "mæn'kaɪnd",
+            "ukphone": "mæn'kaind",
+            "definition": "n all of the living human inhabitants of the earth",
+            "translation": "n. 人类, 男性",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 6480,
+            "frq": 7282,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "inclusive",
+            "usphone": "ɪn'klusɪv",
+            "ukphone": "in'klu:siv",
+            "definition": "a. including much or everything; and especially including stated limits",
+            "translation": "a. 包含的, 包括的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 11747,
+            "frq": 8272,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "culture shock",
+            "usphone": "",
+            "ukphone": "ˈkʌltʃə ʃɔk",
+            "definition": "",
+            "translation": "n. 文化冲击",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "joint",
+            "usphone": "dʒɔɪnt",
+            "ukphone": "dʒɒint",
+            "definition": "n. (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)\nn. a disreputable place of entertainment\nn. junction by which parts or objects are joined together\nn. marijuana leaves rolled into a cigarette for smoking",
+            "translation": "n. 连接处, 接合, 关节\na. 共同的, 联合的, 连接的, 合办的\nvt. 连接, 接合, 使有接头\nvi. 贴合, 长节",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky",
+            "bnc": 1489,
+            "frq": 2218,
+            "exchange": "s:joints/d:jointed/i:jointing/p:jointed/3:joints",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "harmonious",
+            "usphone": "hɑr'monɪəs",
+            "ukphone": "hɑ:'mәuniәs",
+            "definition": "a. musically pleasing\ns. exhibiting equivalence or correspondence among constituents of an entity or between different entities\ns. suitable and fitting\ns. existing together in harmony",
+            "translation": "a. 和睦的, 调和的, 和谐的, 协调的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 toefl",
+            "bnc": 11319,
+            "frq": 12523,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mutual",
+            "usphone": "'mjutʃuəl",
+            "ukphone": "'mju:tʃuәl",
+            "definition": "s common to or shared by two or more parties\na concerning each of two or more persons or things; especially given or done in return",
+            "translation": "a. 相互的, 共有的\n[经] 相互的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3301,
+            "frq": 2799,
+            "exchange": "s:mutuals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "rewarding",
+            "usphone": "rɪ'wɔrdɪŋ",
+            "ukphone": "ri'wɒ:diŋ",
+            "definition": "a. providing personal satisfaction",
+            "translation": "a. 有益的, 有报酬的, 报答的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 8516,
+            "frq": 9319,
+            "exchange": "0:reward/1:i/i:rewarding",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mount",
+            "usphone": "maʊnt",
+            "ukphone": "maunt",
+            "definition": "n. a mounting consisting of a piece of metal (as in a ring or other jewelry) that holds a gem in place\nv. attach to a support\nv. fix onto a backing, setting, or support\nv. put up or launch",
+            "translation": "n. 乘骑用马, 框, 衬纸, 山\nvi. 乘马, 爬上, 增长\nvt. 爬上, 使上马, 装上, 装裱, 安放, 制作...的标本, 设置, 上演\n[计] 安装",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 2596,
+            "frq": 2987,
+            "exchange": "d:mounted/i:mounting/p:mounted/s:mounts/3:mounts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "civil",
+            "usphone": "'sɪvl",
+            "ukphone": "'sivәl",
+            "definition": "s. applying to ordinary citizens as contrasted with the military\na. not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others\na. of or occurring within the state or between or among citizens of the state\na. of or relating to or befitting citizens as individuals",
+            "translation": "a. 市民的, 公民的, 有礼貌的\n[法] 公民的, 国民的, 民用的",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl gre",
+            "bnc": 1158,
+            "frq": 1050,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "civil war",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "内战",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "slave",
+            "usphone": "sleɪv",
+            "ukphone": "sleiv",
+            "definition": "n. a person who is owned by someone\nn. someone who works as hard as a slave\nn. someone entirely dominated by some influence or person\nv. work very hard, like a slave",
+            "translation": "n. 奴隶, 从动装置, 卑鄙的人\nvi. 拼命工作\n[计] 从设备",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 3948,
+            "frq": 2727,
+            "exchange": "s:slaves/i:slaving/d:slaved/p:slaved/3:slaves",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "confederate",
+            "usphone": "kən'fɛdəret",
+            "ukphone": "kәn'fedәrit",
+            "definition": "n. a supporter of the Confederate States of America\nn. someone who assists in a plot\nv. form a confederation with; of nations\ns. of or having to do with the southern Confederacy during the American Civil War",
+            "translation": "n. 同盟者, 同盟国\na. 同盟的, 联合的\nv. (使)联盟, (使)联合",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 24314,
+            "frq": 17239,
+            "exchange": "s:confederates/p:confederated/i:confederating/3:confederates/d:confederated",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "union",
+            "usphone": "'junɪən",
+            "ukphone": "'ju:njәn",
+            "definition": "n. an organization of employees formed to bargain with the employer\nn. the United States (especially the northern states during the American Civil War)\nn. the state of being joined or united or linked\nn. healing process involving the growing together of the edges of a wound or the growing together of broken bones",
+            "translation": "n. 联盟, 联合, 结合, 工会\n[化] 联合; 联管节; 活接头",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 467,
+            "frq": 1658,
+            "exchange": "s:unions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "civilian",
+            "usphone": "sə'vɪlɪən",
+            "ukphone": "si'viljәn",
+            "definition": "n. a nonmilitary citizen\na. associated with civil life or performed by persons who are not active members of the military",
+            "translation": "n. 平民, 民法专家\na. 平民的, 百姓的, 民用的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 5055,
+            "frq": 3219,
+            "exchange": "s:civilians",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "division",
+            "usphone": "də'vɪʒən",
+            "ukphone": "di'viʒәn",
+            "definition": "n. an army unit large enough to sustain combat\nn. the act or process of dividing\nn. an administrative unit in government or business\nn. discord that splits a group",
+            "translation": "n. 分, 分开, 除法, 部门(如部、处、系等), 师\n[计] 部分",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 891,
+            "frq": 1849,
+            "exchange": "s:divisions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bring forth",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "使产生，使出现",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "conceive",
+            "usphone": "kən'siv",
+            "ukphone": "kәn'si:v",
+            "definition": "v. become pregnant; undergo conception",
+            "translation": "vt. 构思, 认为\nvi. 怀孕",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3806,
+            "frq": 4169,
+            "exchange": "d:conceived/p:conceived/3:conceives/i:conceiving",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "liberty",
+            "usphone": "'lɪbɚti",
+            "ukphone": "'libәli",
+            "definition": "n. freedom of choice\nn. personal freedom from servitude or confinement or oppression",
+            "translation": "n. 自由, 特权, 许可, 冒失\n[法] 自由, 自由权, 自由区域",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl gre",
+            "bnc": 3629,
+            "frq": 3835,
+            "exchange": "s:liberties",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "endure",
+            "usphone": "ɪn'dʊr",
+            "ukphone": "in'djuә",
+            "definition": "v put up with something or somebody unpleasant\nv face and withstand with courage\nv continue to live through hardship or adversity\nv undergo or be subjected to\nv last and be usable\nv persist for a specified period of time\nv continue to exist",
+            "translation": "vt. 忍受, 忍耐, 容忍, 耐\nvi. (正式)持久, 持续\n[计] 仍能工作, 继续工作",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl gre",
+            "bnc": 5274,
+            "frq": 3650,
+            "exchange": "d:endured/p:endured/3:endures/i:enduring",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "battlefield",
+            "usphone": "'bætlfild",
+            "ukphone": "'bætlfi:ld",
+            "definition": "n. a region where a battle is being (or has been) fought",
+            "translation": "n. 战场, 沙场",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 9755,
+            "frq": 6003,
+            "exchange": "s:battlefields",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "portion",
+            "usphone": "'pɔrʃən",
+            "ukphone": "'pɒ:ʃәn",
+            "definition": "n something determined in relation to something that includes it\nn something less than the whole of a human artifact\nn the allotment of some amount by dividing something\nn assets belonging to or due to or contributed by an individual person or group\nn your overall circumstances or condition in life (including everything that happens to you)\nn money or property brought by a woman to her husband at marriage\nn an individual quantity of food or drink taken as part of a meal\nv give out",
+            "translation": "n. 部分, 一份, 命运, 嫁妆\nvt. 分配, 给...嫁妆",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 4270,
+            "frq": 2178,
+            "exchange": "s:portions/d:portioned/i:portioning/p:portioned/3:portions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "altogether",
+            "usphone": ",ɔltə'ɡɛðɚ",
+            "ukphone": ".ɒ:ltә'geðә",
+            "definition": "r. with everything included or counted",
+            "translation": "adv. 完全地, 总而言之",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 ky",
+            "bnc": 2575,
+            "frq": 3801,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "consecrate",
+            "usphone": "'kɔnsi,kreit",
+            "ukphone": "'kɒnsikreit",
+            "definition": "v. render holy by means of religious rites",
+            "translation": "vt. 把...供祭祀用, 奉献, 使神圣\na. 被献给神的, 神圣的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 16071,
+            "frq": 20656,
+            "exchange": "d:consecrated/p:consecrated/i:consecrating/3:consecrates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "hallow",
+            "usphone": "ˈhæləʊ",
+            "ukphone": "'hælәu",
+            "definition": "v render holy by means of religious rites",
+            "translation": "vt. 使...神圣, 视为神圣\nn. 圣徒",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 43681,
+            "frq": 0,
+            "exchange": "s:hallows/i:hallowing/p:hallowed/3:hallows/d:hallowed",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "detract",
+            "usphone": "dɪ'trækt",
+            "ukphone": "di'trækt",
+            "definition": "v take away a part from; diminish",
+            "translation": "vi. 减去, 贬低\nvt. 转移, 分散",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 11265,
+            "frq": 14366,
+            "exchange": "3:detracts/i:detracting/p:detracted/d:detracted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "nobly",
+            "usphone": "",
+            "ukphone": "'nәubli",
+            "definition": "r. in a noble manner",
+            "translation": "adv. 华丽地, 高尚地, 豪爽地",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 21653,
+            "frq": 26858,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in vain",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "徒然，白白地",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "perish",
+            "usphone": "'pɛrɪʃ",
+            "ukphone": "'periʃ",
+            "definition": "v pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+            "translation": "vi. 毁灭, 丧生, 凋谢, 颓丧, 死亡, 腐烂\nvt. 毁坏, 使麻木, 使丧生, 耗尽",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky ielts gre",
+            "bnc": 9526,
+            "frq": 9475,
+            "exchange": "p:perished/d:perished/i:perishing/3:perishes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "influential",
+            "usphone": ",ɪnflu'ɛnʃl",
+            "ukphone": ".infu'enʃәl",
+            "definition": "a. having or exercising influence or power",
+            "translation": "a. 有影响的, 有势力的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 3871,
+            "frq": 4289,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "communist",
+            "usphone": "kɑmjʊnɪst",
+            "ukphone": "'kɒmjunist",
+            "definition": "n. a member of the communist party\nn. a socialist who advocates communism\na. relating to or marked by communism",
+            "translation": "n. 共产主义者, 共产党员\n[法] 共产主义的, 共产党的",
+            "pos": "",
+            "collins": 4,
+            "oxford": false,
+            "tag": "gk cet4 cet6",
+            "bnc": 2146,
+            "frq": 5543,
+            "exchange": "s:communists",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
