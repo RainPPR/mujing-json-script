@@ -19,15 +19,17 @@
             "bnc": 2050,
             "frq": 2776,
             "exchange": "s:boundaries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "statistic",
             "usphone": "/stəˈtɪstɪk/",
             "ukphone": "/stəˈtɪstɪk/",
             "definition": "",
-            "translation": "n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据\nadj. 统计的，统计学的（同 statistical）",
+            "translation": "n. 统计数字，统计资料；统计学；（一项）统计数据\nadj. 统计的，统计学的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -35,8 +37,10 @@
             "bnc": 14827,
             "frq": 9631,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "assist",
@@ -51,15 +55,17 @@
             "bnc": 2162,
             "frq": 2475,
             "exchange": "d:assisted/i:assisting/p:assisted/3:assists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tackle",
             "usphone": "/ˈtæk(ə)l/",
             "ukphone": "/ˈtæk(ə)l/",
             "definition": "",
-            "translation": "v. 应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗\nn. （足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官",
+            "translation": "v. 应付，解决（难题或局面）；与……交涉；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗\nn. （吊起重物用的）索具，滑轮；<英，俚>男性性器官",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -67,15 +73,17 @@
             "bnc": 2634,
             "frq": 4096,
             "exchange": "i:tackling/d:tackled/p:tackled/3:tackles/s:tackles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vital",
             "usphone": "/ˈvaɪt(ə)l/",
             "ukphone": "/ˈvaɪt(ə)l/",
             "definition": "",
-            "translation": "adj. 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的\nn. 身体的重要内脏，维持生命的重要器官（vitals）\n【名】 （Vital）维塔尔（人名）",
+            "translation": "adj. 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的\nn. 身体的重要内脏，维持生命的重要器官",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -83,15 +91,17 @@
             "bnc": 1803,
             "frq": 2916,
             "exchange": "s:vitals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comrade",
             "usphone": "/ˈkɑːmræd/",
             "ukphone": "/ˈkɒmreɪd/",
             "definition": "",
-            "translation": "n. 伙伴，战友；同志（用于社会主义政党的成员之间）\n【名】 （Comrade）（尼日利）科姆拉德（人名）",
+            "translation": "n. 伙伴，战友；同志（用于社会主义政党的成员之间）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -99,8 +109,10 @@
             "bnc": 6545,
             "frq": 7425,
             "exchange": "s:comrades",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tragic",
@@ -115,8 +127,10 @@
             "bnc": 4967,
             "frq": 4259,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Ebola",
@@ -131,15 +145,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "combat",
             "usphone": "/ˈkɑːmbæt/",
             "ukphone": "/ˈkɒmbæt/",
             "definition": "",
-            "translation": "n. 战斗，搏斗；争论，反对\nv. 与……作斗争；防止，减轻\nadj. 战斗的；为……斗争的\n【名】 （Comb）（法）孔巴（人名）",
+            "translation": "n. 战斗，搏斗；争论，反对\nv. 与……作斗争；防止，减轻\nadj. 战斗的；为……斗争的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -147,8 +163,10 @@
             "bnc": 5622,
             "frq": 3412,
             "exchange": "i:combating/3:combats/d:combatted/p:combated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "relieve",
@@ -163,8 +181,10 @@
             "bnc": 4260,
             "frq": 3764,
             "exchange": "p:relieved/d:relieved/i:relieving/3:relieves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "specialist",
@@ -179,8 +199,10 @@
             "bnc": 1808,
             "frq": 2546,
             "exchange": "s:specialists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "infectious",
@@ -195,8 +217,10 @@
             "bnc": 8627,
             "frq": 7091,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "clinic",
@@ -211,8 +235,10 @@
             "bnc": 3298,
             "frq": 2388,
             "exchange": "s:clinics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "disinfect",
@@ -227,8 +253,10 @@
             "bnc": 23822,
             "frq": 20959,
             "exchange": "p:disinfected/d:disinfected/i:disinfecting/3:disinfects",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "outbreak",
@@ -243,8 +271,10 @@
             "bnc": 5060,
             "frq": 5343,
             "exchange": "s:outbreaks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "devotion",
@@ -259,8 +289,10 @@
             "bnc": 6937,
             "frq": 6466,
             "exchange": "s:devotions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vomit",
@@ -275,15 +307,17 @@
             "bnc": 10114,
             "frq": 8753,
             "exchange": "i:vomiting/p:vomited/d:vomited/3:vomits/s:vomits",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "miracle",
             "usphone": "/ˈmɪrək(ə)l/",
             "ukphone": "/ˈmɪrək(ə)l/",
             "definition": "",
-            "translation": "n. 奇迹，不可思议的事；杰出例子，精品\nadj. （药物或产品）神奇的，不可思议的\n【名】 （Miracle）（英）米勒克尔，（意、西）米拉克莱（人名）",
+            "translation": "n. 奇迹，不可思议的事；杰出例子，精品\nadj. （药物或产品）神奇的，不可思议的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -291,15 +325,17 @@
             "bnc": 4110,
             "frq": 3279,
             "exchange": "s:miracles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "van",
             "usphone": "/væn/",
             "ukphone": "/væn/",
             "definition": "",
-            "translation": "n. （厢式）小型货车；<美>面包车；<英>（铁路上运送包裹、邮件等的）车厢；<英>拖车；先锋\nv. 用车搬运\n【名】 （Van）（老、泰、柬、缅）万（人名）",
+            "translation": "n. （厢式）小型货车；<美>面包车；<英>（铁路上运送包裹、邮件等的）车厢；<英>拖车；先锋\nv. 用车搬运",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -307,15 +343,17 @@
             "bnc": 3028,
             "frq": 3115,
             "exchange": "s:vans",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "twin",
             "usphone": "/twɪn/",
             "ukphone": "/twɪn/",
             "definition": "",
-            "translation": "n. 双胞胎之一，孪生儿之一；两个极相似的事物之一，两个非常相像的人中的一个；（有一对单人床的）双人间；双引擎飞机；孪晶体；双子星座（the Twins）\nadj. 双胞胎的，孪生的；成对的，成双的；双重的，相关联的，同时出现的；<英>（镇或市）友好的，姐妹的；（植物）双生的；（卧室）有两张单人床的；（晶体）孪晶的\nv. 使结成姐妹城市，使结成友好城市；使（两人或两事物）紧密结合，使相连；生双胞胎\n【名】 （Twin）特温（人名）",
+            "translation": "n. 双胞胎之一，孪生儿之一；两个极相似的事物之一，两个非常相像的人中的一个；（有一对单人床的）双人间；双引擎飞机；孪晶体\nadj. 双胞胎的，孪生的；成对的，成双的；双重的，相关联的，同时出现的；<英>（镇或市）友好的，姐妹的；（植物）双生的；（卧室）有两张单人床的；（晶体）孪晶的\nv. 使结成姐妹城市，使结成友好城市；使（两人或两事物）紧密结合，使相连；生双胞胎",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -323,15 +361,17 @@
             "bnc": 2884,
             "frq": 2376,
             "exchange": "s:twins/d:twinned/i:twinning/3:twins/p:twinned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ward",
             "usphone": "/wɔːrd/",
             "ukphone": "/wɔːd/",
             "definition": "",
-            "translation": "n. 病房，病室；（城镇或村庄的）区，选区；被监护人（尤指儿童）；<美>牢房；<古>监视，看守；（锁内）齿凸（wards）；<史>城堡内空地，堡场\nv. 接受（病人）入病房；<古>看守，保护\n【名】 （Ward）沃德（人名）",
+            "translation": "n. 病房，病室；（城镇或村庄的）区，选区；被监护人（尤指儿童）；<美>牢房；<古>监视，看守；（锁内）齿凸；<史>城堡内空地，堡场\nv. 接受（病人）入病房；<古>看守，保护",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -339,8 +379,10 @@
             "bnc": 2949,
             "frq": 5065,
             "exchange": "s:wards/i:warding/d:warded/p:warded/3:wards",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "compensate",
@@ -355,8 +397,10 @@
             "bnc": 4464,
             "frq": 5037,
             "exchange": "d:compensated/i:compensating/3:compensates/p:compensated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "collaborate",
@@ -371,8 +415,10 @@
             "bnc": 7961,
             "frq": 6388,
             "exchange": "i:collaborating/p:collaborated/d:collaborated/3:collaborates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "realistic",
@@ -387,8 +433,10 @@
             "bnc": 3620,
             "frq": 3993,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "minority",
@@ -403,15 +451,17 @@
             "bnc": 2106,
             "frq": 1633,
             "exchange": "s:minorities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cast",
             "usphone": "/kæst/",
             "ukphone": "/kɑːst/",
             "definition": "",
-            "translation": "v. 投射（光，影）；将（视线，目光）投向；浇铸，铸造；分配角色；扔，掷，抛；描述，描写；投票；使人怀疑；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；（乡村舞蹈中的）转向；（猎）（狗）四处探寻失踪的嗅迹；放开（猎狗）以探寻嗅迹；用绳子绊倒（动物，尤指母牛）\nn. 演员阵容；铸型，模型；（固定断骨用的）石膏； 特性，外貌；（眼睛）斜视；掷，投，抛；浅淡的色调；（猎狗）探寻嗅迹；（蚯蚓钻洞时拱到地面的）小土堆；（鹰或猫头鹰的）颗粒状呕吐物；<罕>一群鹰，隼\n【名】 （Cast）（法）卡斯特（人名）",
+            "translation": "v. 投射（光，影）；将（视线，目光）投向；浇铸，铸造；分配角色；扔，掷，抛；描述，描写；投票；使人怀疑；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；（乡村舞蹈中的）转向；（猎）（狗）四处探寻失踪的嗅迹；放开（猎狗）以探寻嗅迹；用绳子绊倒（动物，尤指母牛）\nn. 演员阵容；铸型，模型；（固定断骨用的）石膏； 特性，外貌；（眼睛）斜视；掷，投，抛；浅淡的色调；（猎狗）探寻嗅迹；（蚯蚓钻洞时拱到地面的）小土堆；（鹰或猫头鹰的）颗粒状呕吐物；<罕>一群鹰，隼",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -419,8 +469,10 @@
             "bnc": 2328,
             "frq": 2035,
             "exchange": "d:cast/0:cast/1:dp/i:casting/p:cast/3:casts/s:casts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mankind",
@@ -435,8 +487,10 @@
             "bnc": 6480,
             "frq": 7282,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "inclusive",
@@ -451,8 +505,10 @@
             "bnc": 11747,
             "frq": 8272,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "culture shock",
@@ -467,15 +523,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "joint",
             "usphone": "/dʒɔɪnt/",
             "ukphone": "/dʒɔɪnt/",
             "definition": "",
-            "translation": "adj. 联合的，共同的，共有的；连带的\nn. 关节；（一般带有骨头的）一大块肉；（两个物体或部分的）接合处，接缝；<美，非正式>廉价娱乐场所，下等娱乐场所；<美，非正式>大麻烟卷\nv. 把……切成带骨的大块肉；接合，联合；使有接头\n【名】 （Joint）（美）茹安（人名）",
+            "translation": "adj. 联合的，共同的，共有的；连带的\nn. 关节；（一般带有骨头的）一大块肉；（两个物体或部分的）接合处，接缝；<美，非正式>廉价娱乐场所，下等娱乐场所；<美，非正式>大麻烟卷\nv. 把……切成带骨的大块肉；接合，联合；使有接头",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -483,8 +541,10 @@
             "bnc": 1489,
             "frq": 2218,
             "exchange": "s:joints/d:jointed/i:jointing/p:jointed/3:joints",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "harmonious",
@@ -499,8 +559,10 @@
             "bnc": 11319,
             "frq": 12523,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mutual",
@@ -515,15 +577,17 @@
             "bnc": 3301,
             "frq": 2799,
             "exchange": "s:mutuals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rewarding",
             "usphone": "/rɪˈwɔːrdɪŋ/",
             "ukphone": "/rɪˈwɔːdɪŋ/",
             "definition": "",
-            "translation": "adj. 值得的，有意义的；赚钱的，营利的\nv. 酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得（reward 的现在分词形式）",
+            "translation": "adj. 值得的，有意义的；赚钱的，营利的\nv. 酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -531,15 +595,17 @@
             "bnc": 8516,
             "frq": 9319,
             "exchange": "0:reward/1:i/i:rewarding",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mount",
             "usphone": "/maʊnt/",
             "ukphone": "/maʊnt/",
             "definition": "",
-            "translation": "v. 组织，开展；爬上，登上；骑上；增多，增加，上升；增强，加剧；镶嵌，裱贴，安置；上演，展出；爬上（雌性动物的背）进行交配；设置（岗哨），担任（警卫）；把（观察对象）固定于显微镜的载玻片\nn. 山，山峰；坐骑，马；登，骑；（相片）框，（艺术品）装帧，衬托纸；底座，底架；（贴邮票用的）透明胶纸；（显微镜观察的）封片；掌丘\n【名】 （Mount）（英）芒特（人名）",
+            "translation": "v. 组织，开展；爬上，登上；骑上；增多，增加，上升；增强，加剧；镶嵌，裱贴，安置；上演，展出；爬上（雌性动物的背）进行交配；设置（岗哨），担任（警卫）；把（观察对象）固定于显微镜的载玻片\nn. 山，山峰；坐骑，马；登，骑；（相片）框，（艺术品）装帧，衬托纸；底座，底架；（贴邮票用的）透明胶纸；（显微镜观察的）封片；掌丘",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -547,15 +613,17 @@
             "bnc": 2596,
             "frq": 2987,
             "exchange": "d:mounted/i:mounting/p:mounted/s:mounts/3:mounts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "civil",
             "usphone": "/ˈsɪv(ə)l/",
             "ukphone": "/ˈsɪv(ə)l/",
             "definition": "",
-            "translation": "adj. 公民的，国民的，国内的；平民的，民用的；文明的，有礼貌的；民法的（非刑法的），民事的；习俗规定的，历法规定的\n【名】 （Civil）（土）吉维尔，（法）西维尔（人名）",
+            "translation": "adj. 公民的，国民的，国内的；平民的，民用的；文明的，有礼貌的；民法的（非刑法的），民事的；习俗规定的，历法规定的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -563,8 +631,10 @@
             "bnc": 1158,
             "frq": 1050,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "civil war",
@@ -579,15 +649,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "slave",
             "usphone": "/sleɪv/",
             "ukphone": "/sleɪv/",
             "definition": "",
-            "translation": "n. 奴隶，苦工；完全受（某事物）控制的人；从动装置\nv. 苦干，拼命干；使（装置）从属于（另一装置）\n【名】  （Slave）（塞、罗）斯拉韦（人名）",
+            "translation": "n. 奴隶，苦工；完全受（某事物）控制的人；从动装置\nv. 苦干，拼命干；使（装置）从属于（另一装置）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -595,15 +667,17 @@
             "bnc": 3948,
             "frq": 2727,
             "exchange": "s:slaves/i:slaving/d:slaved/p:slaved/3:slaves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "confederate",
             "usphone": "/kənˈfedərət/",
             "ukphone": "/kənˈfedərət/",
             "definition": "",
-            "translation": "n. 共犯，同谋；盟友，盟国；南部邦联的居民（或士兵）（Confederate）\nadj. 联合的，同盟的，联邦的；（美国内战期间）南部邦联的（Confederate）\nv. 联合，结盟",
+            "translation": "n. 共犯，同谋；盟友，盟国；南部邦联的居民（或士兵）\nadj. 联合的，同盟的，联邦的；（美国内战期间）南部邦联的\nv. 联合，结盟",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -611,15 +685,17 @@
             "bnc": 24314,
             "frq": 17239,
             "exchange": "s:confederates/p:confederated/i:confederating/3:confederates/d:confederated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "union",
             "usphone": "/ˈjuːniən/",
             "ukphone": "/ˈjuːniən/",
             "definition": "",
-            "translation": "n. 工会；联邦，联盟；协会，俱乐部；联合，合并；结婚，婚姻；美利坚合众国（the Union）；（数）并，并集；联管节，接头；（印度次大陆）村落联合体；<英，史>教区联合济贫组织；旗帜上象征国家统一的部分；混纺织物",
+            "translation": "n. 工会；联邦，联盟；协会，俱乐部；联合，合并；结婚，婚姻；（数）并，并集；联管节，接头；（印度次大陆）村落联合体；<英，史>教区联合济贫组织；旗帜上象征国家统一的部分；混纺织物",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -627,8 +703,10 @@
             "bnc": 467,
             "frq": 1658,
             "exchange": "s:unions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "civilian",
@@ -643,8 +721,10 @@
             "bnc": 5055,
             "frq": 3219,
             "exchange": "s:civilians",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "division",
@@ -659,8 +739,10 @@
             "bnc": 891,
             "frq": 1849,
             "exchange": "s:divisions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bring forth",
@@ -675,8 +757,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "conceive",
@@ -691,15 +775,17 @@
             "bnc": 3806,
             "frq": 4169,
             "exchange": "d:conceived/p:conceived/3:conceives/i:conceiving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "liberty",
             "usphone": "/ˈlɪbərti/",
             "ukphone": "/ˈlɪbəti/",
             "definition": "",
-            "translation": "n. 自由，自由权；（某种）合法权利；冒犯行为（或言语），失礼；意志自由，选择自由；<非正式> 自以为是的言语，专断的行动；（水手的）上岸休假\n【名】 （Liberty）（英）利伯蒂（人名）",
+            "translation": "n. 自由，自由权；（某种）合法权利；冒犯行为（或言语），失礼；意志自由，选择自由；<非正式> 自以为是的言语，专断的行动；（水手的）上岸休假",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -707,8 +793,10 @@
             "bnc": 3629,
             "frq": 3835,
             "exchange": "s:liberties",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "endure",
@@ -723,8 +811,10 @@
             "bnc": 5274,
             "frq": 3650,
             "exchange": "d:endured/p:endured/3:endures/i:enduring",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "battlefield",
@@ -739,8 +829,10 @@
             "bnc": 9755,
             "frq": 6003,
             "exchange": "s:battlefields",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "portion",
@@ -755,8 +847,10 @@
             "bnc": 4270,
             "frq": 2178,
             "exchange": "s:portions/d:portioned/i:portioning/p:portioned/3:portions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "altogether",
@@ -771,8 +865,10 @@
             "bnc": 2575,
             "frq": 3801,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consecrate",
@@ -787,8 +883,10 @@
             "bnc": 16071,
             "frq": 20656,
             "exchange": "d:consecrated/p:consecrated/i:consecrating/3:consecrates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hallow",
@@ -803,8 +901,10 @@
             "bnc": 43681,
             "frq": 0,
             "exchange": "s:hallows/i:hallowing/p:hallowed/3:hallows/d:hallowed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "detract",
@@ -819,8 +919,10 @@
             "bnc": 11265,
             "frq": 14366,
             "exchange": "3:detracts/i:detracting/p:detracted/d:detracted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nobly",
@@ -835,8 +937,10 @@
             "bnc": 21653,
             "frq": 26858,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in vain",
@@ -851,8 +955,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "perish",
@@ -867,8 +973,10 @@
             "bnc": 9526,
             "frq": 9475,
             "exchange": "p:perished/d:perished/i:perishing/3:perishes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "influential",
@@ -883,15 +991,17 @@
             "bnc": 3871,
             "frq": 4289,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "communist",
             "usphone": "/ˈkɑːmjənɪst/",
             "ukphone": "/ˈkɒmjənɪst/",
             "definition": "",
-            "translation": "n. 共产主义者，共产党党员\nadj. 共产主义的，共产党党员的；共产党的（Communist）",
+            "translation": "n. 共产主义者，共产党党员\nadj. 共产主义的，共产党党员的；共产党的",
             "pos": "",
             "collins": 4,
             "oxford": false,
@@ -899,8 +1009,10 @@
             "bnc": 2146,
             "frq": 5543,
             "exchange": "s:communists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }

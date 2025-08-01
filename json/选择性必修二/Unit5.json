@@ -1,0 +1,1018 @@
+{
+    "name": "Unit5",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 56,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "halfway",
+            "usphone": ",hæf'we",
+            "ukphone": "'hɑ:f'wei",
+            "definition": "s. at a point midway between two extremes\ns. including only half or a portion\nr. at half the distance; at the middle",
+            "translation": "a. 中途的, 不彻底的, 部分的\nadv. 半路地, 在中途, 在半途",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 6848,
+            "frq": 4587,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "dramatically",
+            "usphone": "",
+            "ukphone": "drә'mætikli",
+            "definition": "r. in a very impressive manner\nr. in a dramatic manner\nr. with respect to dramatic value",
+            "translation": "adv. 戏剧地, 引人注目地, 突然地",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "toefl",
+            "bnc": 4280,
+            "frq": 3364,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "inhabitant",
+            "usphone": "ɪn'hæbɪtənt",
+            "ukphone": "in'hæbitәnt",
+            "definition": "n. a person who inhabits a particular place",
+            "translation": "n. 居民, 居住者\n[医] 居民",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 4166,
+            "frq": 5914,
+            "exchange": "s:inhabitants",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "penguin",
+            "usphone": "'pɛŋɡwɪn",
+            "ukphone": "'pengwin",
+            "definition": "n. short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers",
+            "translation": "n. 企鹅, 空军地勤人员",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 10464,
+            "frq": 10209,
+            "exchange": "s:penguins",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "habitat",
+            "usphone": "'hæbə'tæt",
+            "ukphone": "'hæbitæt",
+            "definition": "n. the type of environment in which an organism or group normally lives or occurs",
+            "translation": "n. 栖息地, 居留地, 自生地, 聚集处\n[医] 习生地, 产地, 生境, 栖所",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "ky toefl gre",
+            "bnc": 4609,
+            "frq": 3221,
+            "exchange": "s:habitats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "rat",
+            "usphone": "ræt",
+            "ukphone": "ræt",
+            "definition": "n. any of various long-tailed rodents similar to but larger than a mouse\nn. a pad (usually made of hair) worn as part of a woman's coiffure\nv. desert one's party or group of friends, for example, for one's personal advantage\nv. employ scabs or strike breakers in",
+            "translation": "n. 鼠, 卑鄙的人, 破坏者, 变节者\nvi. 捕鼠, 变节\nvt. 弄蓬松",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "zk gk cet4 cet6 ky toefl ielts",
+            "bnc": 3139,
+            "frq": 3558,
+            "exchange": "s:rats/i:ratting/d:ratted/p:ratted/3:rats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "subsequently",
+            "usphone": "'sʌbsɪkwəntli",
+            "ukphone": "'sʌbsikwәntli",
+            "definition": "r. happening at a time subsequent to a reference time",
+            "translation": "adv. 后来, 随后",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet6 toefl",
+            "bnc": 2357,
+            "frq": 5011,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "appetite",
+            "usphone": "'æpəˌtaɪt",
+            "ukphone": "'æpitait",
+            "definition": "n. a feeling of craving something",
+            "translation": "n. 食欲, 欲望, 爱好\n[医] 食欲",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 5325,
+            "frq": 5205,
+            "exchange": "s:appetites",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "multiply",
+            "usphone": "'mʌltɪplaɪ",
+            "ukphone": "'mʌltiplai",
+            "definition": "v. combine by multiplication\nv. combine or increase by multiplication\nr. in several ways; in a multiple manner",
+            "translation": "v. 繁殖, 乘, 增加\n[计] 乘",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 5028,
+            "frq": 6148,
+            "exchange": "d:multiplied/i:multiplying/p:multiplied/3:multiplies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vegetation",
+            "usphone": "'vɛdʒə'teʃən",
+            "ukphone": ".vedʒi'teiʃәn",
+            "definition": "n. all the plant life in a particular region or period\nn. the process of growth in plants\nn. an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart)\nn. inactivity that is passive and monotonous, comparable to the inactivity of plant life",
+            "translation": "n. 植物\n[医] 贽生物, 贽疣, 增殖体; 生长, 增殖",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 5829,
+            "frq": 6271,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "erosion",
+            "usphone": "ɪ'roʒən",
+            "ukphone": "i'rәuʒәn",
+            "definition": "n. (geology) the mechanical process of wearing or grinding something down (as by particles washing over it)\nn. condition in which the earth's surface is worn away by the action of water and wind\nn. a gradual decline of something",
+            "translation": "n. 腐蚀, 冲蚀, 侵蚀\n[化] 磨耗; 侵蚀",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 4884,
+            "frq": 5930,
+            "exchange": "s:erosions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "parakeet",
+            "usphone": "",
+            "ukphone": "'pærәki:t",
+            "definition": "n. any of numerous small slender long-tailed parrots",
+            "translation": "n. 长尾小鹦鹉, 鹦鹉",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 37642,
+            "frq": 24294,
+            "exchange": "s:parakeets",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "chaos",
+            "usphone": "'keɑs",
+            "ukphone": "'keiɒs",
+            "definition": "n. a state of extreme confusion and disorder\nn. the formless and disordered state of matter before the creation of the cosmos\nn. (Greek mythology) the most ancient of gods; the personification of the infinity of space preceding creation of the universe\nn. (physics) a dynamical system that is extremely sensitive to its initial conditions",
+            "translation": "n. 大混乱, 混沌\n[化] 混沌; 浑沌",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 4091,
+            "frq": 3727,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "conservation",
+            "usphone": ",kɑnsɚ'veʃən",
+            "ukphone": ".kɒnsә'veiʃәn",
+            "definition": "n. an occurrence of improvement by virtue of preventing loss or injury or other change\nn. the preservation and careful management of the environment and of natural resources\nn. (physics) the maintenance of a certain quantities unchanged during chemical reactions or physical transformations",
+            "translation": "n. 保护, 保存\n[医] 保存",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3076,
+            "frq": 2820,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "virus",
+            "usphone": "'vaɪrəs",
+            "ukphone": "'vaiәrәs",
+            "definition": "n. (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein\nn. a harmful or corrupting agency\nn. a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer",
+            "translation": "n. 病毒, 滤过性病毒, 毒害\n[化] 病毒",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3589,
+            "frq": 2701,
+            "exchange": "s:viruses",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "decrease",
+            "usphone": "dɪ'kris",
+            "ukphone": "'di:kri:s",
+            "definition": "n. a change downward\nn. a process of becoming smaller or shorter\nn. the amount by which something decreases\nn. the act of decreasing or reducing something",
+            "translation": "n. 减少, 减少量\nv. 减少",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 4237,
+            "frq": 3370,
+            "exchange": "d:decreased/3:decreases/p:decreased/i:decreasing/s:decreases",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "trap",
+            "usphone": "træp",
+            "ukphone": "træp",
+            "definition": "n. a device in which something (usually an animal) can be caught and penned\nn. drain consisting of a U-shaped section of drainpipe that holds liquid and so prevents a return flow of sewer gas\nn. something (often something deceptively attractive) that catches you unawares\nn. a device to hurl clay pigeons into the air for trapshooters",
+            "translation": "n. 圈套, 陷阱, 诡计, 存水弯\nvi. 设圈套, 设陷阱\nvt. 诱捕, 诱骗, 抓住, 使受限制\n[计] 俘获; 陷井",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3373,
+            "frq": 3538,
+            "exchange": "d:trapped/s:traps/p:trapped/i:trapping/3:traps",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "departure",
+            "usphone": "dɪ'pɑrtʃɚ",
+            "ukphone": "di'pɑ:tʃә",
+            "definition": "n. the act of departing",
+            "translation": "n. 离开, 出发, 违背, 偏离\n[经] 启运",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2903,
+            "frq": 3867,
+            "exchange": "s:departures",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "immunity",
+            "usphone": "ɪ'mjʊnəti",
+            "ukphone": "i'mju:niti",
+            "definition": "n. (medicine) the condition in which an organism can resist disease\nn. the quality of being unaffected by something",
+            "translation": "n. 免疫, 免疫性, 免除\n[化] 免疫性",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet6 toefl gre",
+            "bnc": 7113,
+            "frq": 6941,
+            "exchange": "s:immunities",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "explode",
+            "usphone": "ɪk'splod",
+            "ukphone": "ik'splәud",
+            "definition": "v. cause to burst with a violent release of energy\nv. burst outward, usually with noise\nv. show a violent emotional reaction\nv. be unleashed; emerge with violence or noise",
+            "translation": "vi. 爆炸, 爆发, 激增\nvt. 使爆炸",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3934,
+            "frq": 3106,
+            "exchange": "p:exploded/i:exploding/d:exploded/3:explodes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "collapse",
+            "usphone": "kə'læps",
+            "ukphone": "kә'læps",
+            "definition": "n. an abrupt failure of function or complete physical exhaustion\nn. a natural event caused by something suddenly falling down or caving in\nv. break down, literally or metaphorically\nv. fold or close up",
+            "translation": "n. 崩溃, 倒塌, 虚脱\nvi. 倒塌, 崩溃, 瓦解\nvt. 使倒塌, 折叠\n[计] 折叠",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3094,
+            "frq": 3212,
+            "exchange": "p:collapsed/d:collapsed/i:collapsing/s:collapses/3:collapses",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "substantial",
+            "usphone": "səbˈstænʃəl",
+            "ukphone": "sәb'stænʃәl",
+            "definition": "s. having a firm basis in reality and being therefore important, meaningful, or considerable\na. having substance or capable of being treated as fact; not imaginary",
+            "translation": "n. 重要材料(或事物), 有实际价值的东西\na. 实质上的, 物质的, 有内容的, 结实的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 1536,
+            "frq": 2544,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "incident",
+            "usphone": "'ɪnsɪdənt",
+            "ukphone": "'insidәnt",
+            "definition": "n. a single distinct event\nn. a public disturbance\na. falling or striking of light rays on something",
+            "translation": "n. 事件, 事变, 小事\na. 附带的, 易于发生的, 外来的, 入射的",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1785,
+            "frq": 1980,
+            "exchange": "s:incidents",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "intervention",
+            "usphone": ",ɪntɚ'vɛnʃən",
+            "ukphone": ".intә'venʃәn",
+            "definition": "n. the act of intervening (as to mediate a dispute, etc.)\nn. a policy of intervening in the affairs of other countries\nn. (law) a proceeding that permits a person to enter into a lawsuit already in progress; admission of person not an original party to the suit so that person can protect some right or interest that is allegedly affected by the proceedings",
+            "translation": "n. 插入, 介入, 调停\n[经] 干预",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet6 toefl ielts",
+            "bnc": 2405,
+            "frq": 1926,
+            "exchange": "s:interventions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "owe",
+            "usphone": "o",
+            "ukphone": "әu",
+            "definition": "v. be obliged to pay or repay\nv. be indebted to, in an abstract or intellectual sense\nv. be in debt",
+            "translation": "vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩\nvi. 欠钱",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 2323,
+            "frq": 2979,
+            "exchange": "i:owing/p:owed/3:owes/d:owed",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "postscript",
+            "usphone": "'postskrɪpt",
+            "ukphone": "'pәustskript",
+            "definition": "n. a note appended to a letter after the signature",
+            "translation": "n. 附言\n[计] PostScript页面描述语言",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "ielts gre",
+            "bnc": 13246,
+            "frq": 24579,
+            "exchange": "s:postscripts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "pest",
+            "usphone": "pɛst",
+            "ukphone": "pest",
+            "definition": "n. a persistently annoying person\nn. any unwanted and destructive insect or other animal that attacks food or crops or livestock etc.",
+            "translation": "n. 令人讨厌之物, 有害之物, 害虫, 瘟疫\n[医] 鼠疫, 瘟疫",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet6 ky toefl gre",
+            "bnc": 6622,
+            "frq": 6842,
+            "exchange": "s:pests",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ecology",
+            "usphone": "ɪ'kɑlədʒi",
+            "ukphone": "i:'kɒlәdʒi",
+            "definition": "n. the environment as it relates to living organisms\nn. the branch of biology concerned with the relations between organisms and their environment",
+            "translation": "n. 生态学, 社会生态学\n[化] 生态学",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet6 ky toefl ielts",
+            "bnc": 8093,
+            "frq": 6425,
+            "exchange": "s:ecologies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "dissolve",
+            "usphone": "dɪ'zɑlv",
+            "ukphone": "di'zɒlv",
+            "definition": "n. (film) a gradual transition from one scene to the next; the next scene is gradually superimposed as the former scene fades out\nv. become weaker\nv. cause to go into a solution\nv. come to an end",
+            "translation": "v. 溶解, 解散",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 4108,
+            "frq": 4295,
+            "exchange": "d:dissolved/3:dissolves/p:dissolved/i:dissolving",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "nutrient",
+            "usphone": "'nutrɪənt",
+            "ukphone": "'nju:triәnt",
+            "definition": "n. any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis",
+            "translation": "a. 营养的, 滋养的\nn. 营养物, 滋养物",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 toefl gre",
+            "bnc": 7424,
+            "frq": 4849,
+            "exchange": "s:nutrients",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "comparison",
+            "usphone": "kəm'pærɪsn",
+            "ukphone": "kәm'pærisn",
+            "definition": "n. the act of examining resemblances\nn. relation based on similarities and differences\nn. qualities that are comparable",
+            "translation": "n. 比较, 对照, 比喻\n[经] 比较, 对比",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 ky gre",
+            "bnc": 1968,
+            "frq": 2166,
+            "exchange": "s:comparisons",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "visual",
+            "usphone": "'vɪʒʊəl",
+            "ukphone": "'viʒuәl",
+            "definition": "a relating to or using sight\ns visible; give me the ocular proof\"- Shakespeare",
+            "translation": "a. 视觉的\n[医] 视觉的, 视力的, 视觉性记忆优势者",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2511,
+            "frq": 2156,
+            "exchange": "s:visuals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "session",
+            "usphone": "'sɛʃən",
+            "ukphone": "'seʃәn",
+            "definition": "n. a meeting for execution of a group's functions\nn. a meeting devoted to a particular activity",
+            "translation": "n. 期间, 开庭期, 会议, 学期\n[计] 会话, 对话, 会晤, 通用任务程序",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 1443,
+            "frq": 1544,
+            "exchange": "s:sessions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "on behalf of",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "代表",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "herbal",
+            "usphone": "'ɝbl",
+            "ukphone": "'hә:bәl",
+            "definition": "a. of or relating to herbs",
+            "translation": "a. 草药的\n[医] 本草书",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 15287,
+            "frq": 9052,
+            "exchange": "s:herbals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mysterious",
+            "usphone": "mɪ'stɪrɪəs",
+            "ukphone": "mis'tiәriәs",
+            "definition": "s. having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding",
+            "translation": "a. 神秘的, 难解的, 不可思议的",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 4760,
+            "frq": 4093,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "status",
+            "usphone": "ˈstetəs",
+            "ukphone": "'steitәs",
+            "definition": "n. the relative position or standing of things or especially persons in a society",
+            "translation": "n. 状态, 情形, 地位, 要人身份\n[计] 状态",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1137,
+            "frq": 1215,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "criterion",
+            "usphone": "kraɪˈtɪriən",
+            "ukphone": "krai'tiәriәn",
+            "definition": "n. the ideal in terms of which something can be judged",
+            "translation": "n. 标准, 准则, 规范\n[化] 判据",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet6 ky ielts gre",
+            "bnc": 1799,
+            "frq": 0,
+            "exchange": "s:criteria",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "prosper",
+            "usphone": "'prɑspɚ",
+            "ukphone": "'prɒspә",
+            "definition": "v make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+            "translation": "vi. 繁荣, 兴隆, 成功\nvt. 使成功, 使昌盛",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ky toefl",
+            "bnc": 8601,
+            "frq": 8251,
+            "exchange": "p:prospered/d:prospered/i:prospering/3:prospers",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "rare",
+            "usphone": "rɛr",
+            "ukphone": "rєә",
+            "definition": "s. not widely known; especially valued for its uncommonness\ns. recurring only at long intervals\ns. not widely distributed\ns. having low density",
+            "translation": "a. 稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的\nadv. 非常",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 1831,
+            "frq": 1872,
+            "exchange": "r:rarer/t:rarest/i:raring",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "biological",
+            "usphone": ",baɪə'lɑdʒɪkl",
+            "ukphone": ".baiәu'lɒdʒikәl",
+            "definition": "a. pertaining to biology or to life and living things\na. of parents and children; related by blood",
+            "translation": "a. 生物学的\n[医] 生物学的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "ielts",
+            "bnc": 3586,
+            "frq": 2564,
+            "exchange": "s:biologicals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "apparently",
+            "usphone": "ə'pærəntli",
+            "ukphone": "ә'pærәntli",
+            "definition": "r. from appearances alone",
+            "translation": "adv. 表面上, 清楚地, 显然地",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "",
+            "bnc": 1243,
+            "frq": 1407,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vast",
+            "usphone": "væst",
+            "ukphone": "vɑ:st",
+            "definition": "s unusually great in size or amount or degree or especially extent or scope",
+            "translation": "a. 巨大的, 广大的, 非常的, 大量的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1936,
+            "frq": 1965,
+            "exchange": "r:vaster",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "altitude",
+            "usphone": "'æltɪtud",
+            "ukphone": "'æltitju:d",
+            "definition": "n. elevation especially above sea level or above the earth's surface\nn. the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)",
+            "translation": "n. 高度, 海拔, 高处\n[电] 高度",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 8085,
+            "frq": 6370,
+            "exchange": "s:altitudes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "variation",
+            "usphone": ",vɛrɪ'eʃən",
+            "ukphone": ".vєәri'eiʃәn",
+            "definition": "n. an instance of change; the rate or magnitude of change\nn. an activity that varies from a norm or standard\nn. a repetition of a musical theme in which it is modified or embellished\nn. an artifact that deviates from a norm or standard",
+            "translation": "n. 变更, 变化, 变种, 变奏\n[医] 变异, 变易; 变度",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 1764,
+            "frq": 2927,
+            "exchange": "s:variations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "thrive",
+            "usphone": "θraɪv",
+            "ukphone": "θraiv",
+            "definition": "v. make steady progress; be at the high point in one's career or reach a high point in historical significance or importance",
+            "translation": "vi. 繁荣, 兴旺, 茁壮成长\n[经] 兴旺, 繁荣, 旺盛",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 6403,
+            "frq": 4628,
+            "exchange": "3:thrives/p:thrived/i:thriving/d:thrived",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "fossil",
+            "usphone": "'fɑsl",
+            "ukphone": "'fɒsәl",
+            "definition": "n. the remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil\na. characteristic of a fossil",
+            "translation": "n. 化石, 古物\na. 化石的, 陈腐的, 守旧的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 4637,
+            "frq": 5043,
+            "exchange": "s:fossils",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "floral",
+            "usphone": "'flɔrəl",
+            "ukphone": "'flɒ:rәl",
+            "definition": "s. resembling or made of or suggestive of flowers\na. relating to or associated with flowers\na. of or relating to the plant life in a particular region",
+            "translation": "a. 花似的, 花的, 植物的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 9758,
+            "frq": 8357,
+            "exchange": "s:florals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vertebrate",
+            "usphone": "'vɝtɪbrət",
+            "ukphone": "'vә:tibreit",
+            "definition": "n. animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull or cranium\na. having a backbone or spinal column",
+            "translation": "n. 脊椎动物\na. 有椎骨的, 有脊椎的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 17414,
+            "frq": 18088,
+            "exchange": "s:vertebrates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "beehive",
+            "usphone": "'bihaɪv",
+            "ukphone": "'bi:haiv",
+            "definition": "n. any workplace where people are very busy\nn. a structure that provides a natural habitation for bees; as in a hollow tree\nn. a hairdo resembling a beehive",
+            "translation": "n. 蜂窝, 蜂箱\n[机] 集气架, 蜂巢",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gk",
+            "bnc": 19831,
+            "frq": 17858,
+            "exchange": "s:beehives",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "endangered",
+            "usphone": "ɪn'dendʒɚd",
+            "ukphone": "in'deindʒәd",
+            "definition": "s. (of flora or fauna) in imminent danger of extinction",
+            "translation": "a. 有生命危险的；濒临灭绝的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 10530,
+            "frq": 5283,
+            "exchange": "0:endanger/1:dp/d:endangered/p:endangered",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "elsewhere",
+            "usphone": "",
+            "ukphone": "'elshwєә",
+            "definition": "r. in or to another place",
+            "translation": "adv. 在别处",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 1639,
+            "frq": 2279,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "invasion",
+            "usphone": "ɪn'veʒn",
+            "ukphone": "in'veiʒәn",
+            "definition": "n. the act of invading; the act of an army that invades for conquest or plunder\nn. any entry into an area not previously occupied\nn. (pathology) the spread of pathogenic microorganisms or malignant cells to new sites in the body",
+            "translation": "n. 侵犯, 侵入, 侵害\n[医] 侵袭, 侵入, 发病",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 3416,
+            "frq": 3295,
+            "exchange": "s:invasions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "coexist",
+            "usphone": ",koɪɡ'zɪst",
+            "ukphone": ".kәuig'zist",
+            "definition": "v. coexist peacefully, as of nations\nv. exist together",
+            "translation": "vi. 共存",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 15845,
+            "frq": 9957,
+            "exchange": "p:coexisted/i:coexisting/3:coexists/d:coexisted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "secure",
+            "usphone": "sə'kjʊr",
+            "ukphone": "si'kjuә",
+            "definition": "v. assure payment of\na. free from fear or doubt; easy in mind\na. free from danger or risk\na. not likely to fail or give way",
+            "translation": "a. 无虑的, 安心的, 安全的, 可靠的, 保险的\nvt. 固定, 获得, 保证, 使安全, 掩护, 招致\nvi. 停止操作, 船抛锚",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl gre",
+            "bnc": 1654,
+            "frq": 2489,
+            "exchange": "d:secured/i:securing/p:secured/3:secures",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "greeting",
+            "usphone": "'ɡritɪŋ",
+            "ukphone": "'gri:tiŋ",
+            "definition": "n. (usually plural) an acknowledgment or expression of good will (especially on meeting)",
+            "translation": "n. 祝贺, 问候",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "zk gk cet4 cet6 ky",
+            "bnc": 6498,
+            "frq": 6324,
+            "exchange": "0:greet/1:i/s:greetings/i:greeting",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
