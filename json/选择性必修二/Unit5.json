@@ -2,7 +2,7 @@
     "name": "Unit5",
     "type": "DOCUMENT",
     "language": "",
-    "size": 56,
+    "size": 55,
     "relateVideoPath": "",
     "subtitlesTrackId": 0,
     "wordList": [
@@ -19,8 +19,10 @@
             "bnc": 6848,
             "frq": 4587,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dramatically",
@@ -35,8 +37,10 @@
             "bnc": 4280,
             "frq": 3364,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "inhabitant",
@@ -51,8 +55,10 @@
             "bnc": 4166,
             "frq": 5914,
             "exchange": "s:inhabitants",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "penguin",
@@ -67,15 +73,17 @@
             "bnc": 10464,
             "frq": 10209,
             "exchange": "s:penguins",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "habitat",
             "usphone": "/ˈhæbɪtæt/",
             "ukphone": "/ˈhæbɪtæt/",
             "definition": "",
-            "translation": "n. （动植物的）生活环境，栖息地\n【名】 （Habitat）（德）哈比塔特（人名）",
+            "translation": "n. （动植物的）生活环境，栖息地",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -83,15 +91,17 @@
             "bnc": 4609,
             "frq": 3221,
             "exchange": "s:habitats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rat",
             "usphone": "/ræt/",
             "ukphone": "/ræt/",
             "definition": "",
-            "translation": "n. 老鼠；<非正式>卑鄙小人（尤指欺诈或变节者）；<非正式> 常客，常待在某处的人；<美>（为头发定型做出饱满效果的）女用发垫\nv. 捕（捉）老鼠，灭鼠；<非正式> 告发，告密；<非正式> 背信弃义，食言；<美>用发垫给（头发）定型\nint. （rats） <非正式>胡说，去你的（用以表示轻度烦恼，恼怒）\n【名】 （Rat）（法、意、印、瑞典）拉特，（泰）叻（人名）",
+            "translation": "n. 老鼠；<非正式>卑鄙小人（尤指欺诈或变节者）；<非正式> 常客，常待在某处的人\nv. 捕（捉）老鼠，灭鼠；<非正式> 告发，告密；<非正式> 背信弃义，食言",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -99,8 +109,10 @@
             "bnc": 3139,
             "frq": 3558,
             "exchange": "s:rats/i:ratting/d:ratted/p:ratted/3:rats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "subsequently",
@@ -115,8 +127,10 @@
             "bnc": 2357,
             "frq": 5011,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "appetite",
@@ -131,15 +145,17 @@
             "bnc": 5325,
             "frq": 5205,
             "exchange": "s:appetites",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "multiply",
             "usphone": "/ˈmʌltɪplaɪ/",
             "ukphone": "/ˈmʌltɪplaɪ/",
             "definition": "",
-            "translation": "v. 大大增加，倍增；乘，乘以；繁殖，滋生\nadv. 多样地，多方面地\nadj. 多层的（multi-ply）",
+            "translation": "v. 大大增加，倍增；乘，乘以；繁殖，滋生\nadv. 多样地，多方面地\nadj. 多层的",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -147,8 +163,10 @@
             "bnc": 5028,
             "frq": 6148,
             "exchange": "d:multiplied/i:multiplying/p:multiplied/3:multiplies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vegetation",
@@ -163,8 +181,10 @@
             "bnc": 5829,
             "frq": 6271,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "erosion",
@@ -179,31 +199,17 @@
             "bnc": 4884,
             "frq": 5930,
             "exchange": "s:erosions",
-            "externalCaptions": [],
-            "captions": []
-        },
-        {
-            "value": "parakeet",
-            "usphone": "/ˈpærəkiːt/",
-            "ukphone": "/ˈpærəkiːt/",
-            "definition": "",
-            "translation": "n. [鸟] 长尾小鹦鹉",
-            "pos": "",
-            "collins": 0,
-            "oxford": false,
-            "tag": "",
-            "bnc": 37642,
-            "frq": 24294,
-            "exchange": "s:parakeets",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "chaos",
             "usphone": "/ˈkeɪɑːs/",
             "ukphone": "/ˈkeɪɒs/",
             "definition": "",
-            "translation": "n. 混乱，无秩序状态；混沌\n【名】 （Chaos）（西）查奥斯（人名）",
+            "translation": "n. 混乱，无秩序状态；混沌",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -211,8 +217,10 @@
             "bnc": 4091,
             "frq": 3727,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "conservation",
@@ -227,15 +235,17 @@
             "bnc": 3076,
             "frq": 2820,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "virus",
             "usphone": "/ˈvaɪrəs/",
             "ukphone": "/ˈvaɪrəs/",
             "definition": "",
-            "translation": "n. 病毒；病毒性疾病，病毒感染；（计算机）病毒，（手机的）短信病毒；有害影响，毒害；<古>毒液\n【名】 （Virus）比鲁斯（人名）",
+            "translation": "n. 病毒；病毒性疾病，病毒感染；（计算机）病毒，（手机的）短信病毒；有害影响，毒害；<古>毒液",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -243,8 +253,10 @@
             "bnc": 3589,
             "frq": 2701,
             "exchange": "s:viruses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "decrease",
@@ -259,15 +271,17 @@
             "bnc": 4237,
             "frq": 3370,
             "exchange": "d:decreased/3:decreases/p:decreased/i:decreasing/s:decreases",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "trap",
             "usphone": "/træp/",
             "ukphone": "/træp/",
             "definition": "",
-            "translation": "n. （捕捉动物的）陷阱，网，夹子；圈套，诡计；伏击；牢笼，困境；<俚>嘴；（尤指旧时使用的）双轮轻便马车；（应该避免的）错误，问题；（赛狗开始时的）放狗隔栏；（高尔夫球场的）沙坑，凹地；容器，存贮装置；（水管）存水弯，U形管；抛靶器（将泥鸽等抛于空中以打靶）；<史>（射球戏用的）抛球器\nv. 设陷阱（或夹子、捕捉器）捕捉；使陷入圈套，使中计；诱捕，抓捕；使无力改变，使受限制；把……困在，使陷于（尤指危险之地）；（尤指身体某部位等）被卡住；聚集（空气、气体或能量等）；（英足）停（球）；（棒球）抓住（从地上弹起的球）\nn. <美>暗色岩\n【名】 （Trap）（美、丹、法、荷）特拉普（人名）",
+            "translation": "n. （捕捉动物的）陷阱，网，夹子；圈套，诡计；伏击；牢笼，困境；<俚>嘴；（应该避免的）错误，问题；容器，存贮装置；（水管）存水弯，U形管\nv. 设陷阱（或夹子、捕捉器）捕捉；使陷入圈套，使中计；诱捕，抓捕；使无力改变，使受限制；把……困在，使陷于（尤指危险之地）；（尤指身体某部位等）被卡住；聚集（空气、气体或能量等）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -275,8 +289,10 @@
             "bnc": 3373,
             "frq": 3538,
             "exchange": "d:trapped/s:traps/p:trapped/i:trapping/3:traps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "departure",
@@ -291,8 +307,10 @@
             "bnc": 2903,
             "frq": 3867,
             "exchange": "s:departures",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "immunity",
@@ -307,8 +325,10 @@
             "bnc": 7113,
             "frq": 6941,
             "exchange": "s:immunities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "explode",
@@ -323,8 +343,10 @@
             "bnc": 3934,
             "frq": 3106,
             "exchange": "p:exploded/i:exploding/d:exploded/3:explodes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "collapse",
@@ -339,8 +361,10 @@
             "bnc": 3094,
             "frq": 3212,
             "exchange": "p:collapsed/d:collapsed/i:collapsing/s:collapses/3:collapses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "substantial",
@@ -355,8 +379,10 @@
             "bnc": 1536,
             "frq": 2544,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "incident",
@@ -371,8 +397,10 @@
             "bnc": 1785,
             "frq": 1980,
             "exchange": "s:incidents",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intervention",
@@ -387,15 +415,17 @@
             "bnc": 2405,
             "frq": 1926,
             "exchange": "s:interventions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "owe",
             "usphone": "/oʊ/",
             "ukphone": "/əʊ/",
             "definition": "",
-            "translation": "v. 欠（钱），负账；应该做，应给予；欠（人情），应该感激；归因于，归功于\n【名】 （Owe）（瑞典、挪）奥弗（人名）",
+            "translation": "v. 欠（钱），负账；应该做，应给予；欠（人情），应该感激；归因于，归功于",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -403,8 +433,10 @@
             "bnc": 2323,
             "frq": 2979,
             "exchange": "i:owing/p:owed/3:owes/d:owed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "postscript",
@@ -419,15 +451,17 @@
             "bnc": 13246,
             "frq": 24579,
             "exchange": "s:postscripts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pest",
             "usphone": "/pest/",
             "ukphone": "/pest/",
             "definition": "",
-            "translation": "n. 害虫，有害动物；<非正式>讨厌的人（或物）\n【名】 （Pest）（德、捷）佩斯特（人名）",
+            "translation": "n. 害虫，有害动物；<非正式>讨厌的人（或物）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -435,8 +469,10 @@
             "bnc": 6622,
             "frq": 6842,
             "exchange": "s:pests",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ecology",
@@ -451,8 +487,10 @@
             "bnc": 8093,
             "frq": 6425,
             "exchange": "s:ecologies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dissolve",
@@ -467,8 +505,10 @@
             "bnc": 4108,
             "frq": 4295,
             "exchange": "d:dissolved/3:dissolves/p:dissolved/i:dissolving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nutrient",
@@ -483,8 +523,10 @@
             "bnc": 7424,
             "frq": 4849,
             "exchange": "s:nutrients",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comparison",
@@ -499,8 +541,10 @@
             "bnc": 1968,
             "frq": 2166,
             "exchange": "s:comparisons",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "visual",
@@ -515,8 +559,10 @@
             "bnc": 2511,
             "frq": 2156,
             "exchange": "s:visuals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "session",
@@ -531,8 +577,10 @@
             "bnc": 1443,
             "frq": 1544,
             "exchange": "s:sessions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "on behalf of",
@@ -547,8 +595,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "herbal",
@@ -563,8 +613,10 @@
             "bnc": 15287,
             "frq": 9052,
             "exchange": "s:herbals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mysterious",
@@ -579,8 +631,10 @@
             "bnc": 4760,
             "frq": 4093,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "status",
@@ -595,8 +649,10 @@
             "bnc": 1137,
             "frq": 1215,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "criterion",
@@ -611,15 +667,17 @@
             "bnc": 1799,
             "frq": 0,
             "exchange": "s:criteria",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "prosper",
             "usphone": "/ˈprɑːspər/",
             "ukphone": "/ˈprɒspə(r)/",
             "definition": "",
-            "translation": "v. 繁荣，成功；蓬勃发展，健康成长；<古>使成功，使兴旺\n【名】 （Prosper）（英、德、罗、法）普罗斯珀（人名）",
+            "translation": "v. 繁荣，成功；蓬勃发展，健康成长；<古>使成功，使兴旺",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -627,8 +685,10 @@
             "bnc": 8601,
             "frq": 8251,
             "exchange": "p:prospered/d:prospered/i:prospering/3:prospers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rare",
@@ -643,8 +703,10 @@
             "bnc": 1831,
             "frq": 1872,
             "exchange": "r:rarer/t:rarest/i:raring",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "biological",
@@ -659,8 +721,10 @@
             "bnc": 3586,
             "frq": 2564,
             "exchange": "s:biologicals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "apparently",
@@ -675,15 +739,17 @@
             "bnc": 1243,
             "frq": 1407,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vast",
             "usphone": "/væst/",
             "ukphone": "/vɑːst/",
             "definition": "",
-            "translation": "adj. 巨大的，广大的\nn. <古>广阔空间\n【名】 （Vast）（法）瓦斯特（人名）",
+            "translation": "adj. 巨大的，广大的\nn. <古>广阔空间",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -691,8 +757,10 @@
             "bnc": 1936,
             "frq": 1965,
             "exchange": "r:vaster",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "altitude",
@@ -707,8 +775,10 @@
             "bnc": 8085,
             "frq": 6370,
             "exchange": "s:altitudes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "variation",
@@ -723,8 +793,10 @@
             "bnc": 1764,
             "frq": 2927,
             "exchange": "s:variations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "thrive",
@@ -739,8 +811,10 @@
             "bnc": 6403,
             "frq": 4628,
             "exchange": "3:thrives/p:thrived/i:thriving/d:thrived",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fossil",
@@ -755,8 +829,10 @@
             "bnc": 4637,
             "frq": 5043,
             "exchange": "s:fossils",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "floral",
@@ -771,8 +847,10 @@
             "bnc": 9758,
             "frq": 8357,
             "exchange": "s:florals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "vertebrate",
@@ -787,8 +865,10 @@
             "bnc": 17414,
             "frq": 18088,
             "exchange": "s:vertebrates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "beehive",
@@ -803,8 +883,10 @@
             "bnc": 19831,
             "frq": 17858,
             "exchange": "s:beehives",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "endangered",
@@ -819,8 +901,10 @@
             "bnc": 10530,
             "frq": 5283,
             "exchange": "0:endanger/1:dp/d:endangered/p:endangered",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "elsewhere",
@@ -835,8 +919,10 @@
             "bnc": 1639,
             "frq": 2279,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "invasion",
@@ -851,8 +937,10 @@
             "bnc": 3416,
             "frq": 3295,
             "exchange": "s:invasions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "coexist",
@@ -867,8 +955,10 @@
             "bnc": 15845,
             "frq": 9957,
             "exchange": "p:coexisted/i:coexisting/3:coexists/d:coexisted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "secure",
@@ -883,15 +973,17 @@
             "bnc": 1654,
             "frq": 2489,
             "exchange": "d:secured/i:securing/p:secured/3:secures",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "greeting",
             "usphone": "/ˈɡriːtɪŋ/",
             "ukphone": "/ˈɡriːtɪŋ/",
             "definition": "",
-            "translation": "n. 问候，招呼；贺词，祝福\nv. 欢迎，迎接；对……作出反应；映入眼帘，扑鼻而来（greet 的现在分词形式）",
+            "translation": "n. 问候，招呼；贺词，祝福\nv. 欢迎，迎接；对……作出反应；映入眼帘，扑鼻而来",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -899,8 +991,10 @@
             "bnc": 6498,
             "frq": 6324,
             "exchange": "0:greet/1:i/s:greetings/i:greeting",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
