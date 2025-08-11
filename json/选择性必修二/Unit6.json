@@ -11,7 +11,7 @@
             "usphone": "/fɑːks/",
             "ukphone": "/fɒks/",
             "definition": "",
-            "translation": "n. 狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人\nv. 欺骗，耍弄；把……难住，使……猜不透\n【名】  （Fox） （英、美、德、丹、爱）福克斯（人名）",
+            "translation": "n. 狐狸；狐裘；狡猾的人；<非正式> 妖精，性感的人；福克斯族，福克斯族语；<非正式>妖精，性感的人\nv. 欺骗，耍弄；把……难住，使……猜不透",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -19,8 +19,10 @@
             "bnc": 4616,
             "frq": 6537,
             "exchange": "s:foxes/d:foxed/p:foxed/i:foxing/3:foxes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crime",
@@ -35,15 +37,17 @@
             "bnc": 1125,
             "frq": 828,
             "exchange": "s:crimes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "seaside",
             "usphone": "/ˈsiːsaɪd/",
             "ukphone": "/ˈsiːsaɪd/",
             "definition": "",
-            "translation": "n. （尤指作为度假地的） 海边，海滨（the seaside）\nadj. 海边的，海滨的",
+            "translation": "n. （尤指作为度假地的） 海边，海滨\nadj. 海边的，海滨的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -51,8 +55,10 @@
             "bnc": 7563,
             "frq": 12240,
             "exchange": "s:seasides",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "suburb",
@@ -67,8 +73,10 @@
             "bnc": 5306,
             "frq": 3531,
             "exchange": "s:suburbs",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "greedy",
@@ -83,8 +91,10 @@
             "bnc": 8585,
             "frq": 8908,
             "exchange": "r:greedier/t:greediest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "thief",
@@ -99,8 +109,10 @@
             "bnc": 3965,
             "frq": 5007,
             "exchange": "s:thieves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "commit",
@@ -115,15 +127,17 @@
             "bnc": 1393,
             "frq": 1394,
             "exchange": "d:committed/i:committing/p:committed/3:commits",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "urban",
             "usphone": "/ˈɜːrbən/",
             "ukphone": "/ˈɜːbən/",
             "definition": "",
-            "translation": "adj. 城市的，城镇的；黑人音乐的；住在都市的\n【名】 （Urban）（英）厄本，（法）于尔邦（人名）",
+            "translation": "adj. 城市的，城镇的；黑人音乐的；住在都市的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -131,8 +145,10 @@
             "bnc": 1749,
             "frq": 1583,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "predator",
@@ -147,15 +163,17 @@
             "bnc": 4858,
             "frq": 4699,
             "exchange": "s:predators",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "newcomer",
             "usphone": "/ˈnuːkʌmər/",
             "ukphone": "/ˈnjuːkʌmə(r)/",
             "definition": "",
-            "translation": "n. 新来者，新手；新鲜事物\nn. （Newcomer）（美）纽科默（人名）",
+            "translation": "n. 新来者，新手；新鲜事物",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -163,8 +181,10 @@
             "bnc": 5316,
             "frq": 5610,
             "exchange": "s:newcomers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "flourish",
@@ -179,8 +199,10 @@
             "bnc": 5548,
             "frq": 6209,
             "exchange": "p:flourished/d:flourished/i:flourishing/s:flourishes/3:flourishes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "container",
@@ -195,15 +217,17 @@
             "bnc": 4126,
             "frq": 3361,
             "exchange": "s:containers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "garbage",
             "usphone": "/ˈɡɑːrbɪdʒ/",
             "ukphone": "/ˈɡɑːbɪdʒ/",
             "definition": "",
-            "translation": "n. <美>垃圾，废物；<美>垃圾箱；<非正式>废话，无聊的东西；无用信息\n【名】 （Garbage）（法）加尔巴热（人名）",
+            "translation": "n. <美>垃圾，废物；<美>垃圾箱；<非正式>废话，无聊的东西；无用信息",
             "pos": "",
             "collins": 1,
             "oxford": true,
@@ -211,15 +235,17 @@
             "bnc": 12130,
             "frq": 3934,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "lamb",
             "usphone": "/læm/",
             "ukphone": "/læm/",
             "definition": "",
-            "translation": "n. 羔羊，小羊；羊羔肉；<非正式>宝贝，乖乖\nv. 产羊羔；照看（产羔母羊）；<非正式> 怂恿（某人）大笔花钱（尤指花钱纵酒）\n【名】 （Lamb）（英）兰姆，（德）兰布（人名）",
+            "translation": "n. 羔羊，小羊；羊羔肉；<非正式>宝贝，乖乖\nv. 产羊羔；照看（产羔母羊）；<非正式> 怂恿（某人）大笔花钱（尤指花钱纵酒）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -227,15 +253,17 @@
             "bnc": 4170,
             "frq": 5590,
             "exchange": "s:lambs/i:lambing/p:lambed/3:lambs/d:lambed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "kebab",
             "usphone": "/kɪˈbɑːb/",
             "ukphone": "/kɪˈbæb/",
             "definition": "",
-            "translation": "n. 烤肉串；烤肉块；烤腌羊肉串（同 kabob）",
+            "translation": "n. 烤肉串；烤肉块；烤腌羊肉串",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -243,8 +271,10 @@
             "bnc": 24038,
             "frq": 24359,
             "exchange": "s:kebabs/3:kebabs",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "garlic",
@@ -259,8 +289,10 @@
             "bnc": 6745,
             "frq": 2956,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "estimate",
@@ -275,8 +307,10 @@
             "bnc": 1826,
             "frq": 1798,
             "exchange": "d:estimated/s:estimates/p:estimated/3:estimates/i:estimating",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "migratory",
@@ -291,8 +325,10 @@
             "bnc": 22629,
             "frq": 12179,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "appreciate",
@@ -307,8 +343,10 @@
             "bnc": 1989,
             "frq": 1738,
             "exchange": "d:appreciated/p:appreciated/i:appreciating/3:appreciates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crucial",
@@ -323,8 +361,10 @@
             "bnc": 2013,
             "frq": 2397,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "restrict",
@@ -339,8 +379,10 @@
             "bnc": 2207,
             "frq": 3539,
             "exchange": "d:restricted/i:restricting/3:restricts/p:restricted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hiker",
@@ -355,15 +397,17 @@
             "bnc": 33870,
             "frq": 9687,
             "exchange": "s:hikers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "kit",
             "usphone": "/kɪt/",
             "ukphone": "/kɪt/",
             "definition": "",
-            "translation": "n. 成套工具，成套设备；配套元件；<英>全套衣服及装备；成套资料，成套材料；<英>（尤指盛鱼的）大篮子，箱子；（尤指职业舞蹈教师用的）小型小提琴；（海狸、白鼬、貂等动物的）幼崽\nv. 装备；预备\n【名】 （英）基特，姬特（女名）（教名 Christopher、Katherine 的昵称），（俄）基特，（东南亚国家华语）吉（人名）",
+            "translation": "n. 成套工具，成套设备；配套元件；<英>全套衣服及装备；成套资料，成套材料；<英>（尤指盛鱼的）大篮子，箱子；（尤指职业舞蹈教师用的）小型小提琴；（海狸、白鼬、貂等动物的）幼崽\nv. 装备；预备",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -371,8 +415,10 @@
             "bnc": 3278,
             "frq": 4018,
             "exchange": "s:kits/d:kitted/i:kitting/p:kitted/3:kits/f:kits",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "optimistic",
@@ -387,15 +433,17 @@
             "bnc": 4963,
             "frq": 4141,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "clay",
             "usphone": "/kleɪ/",
             "ukphone": "/kleɪ/",
             "definition": "",
-            "translation": "n. 黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西；黄棕翼欧洲蛾\nv. 用黏土处理\n【名】 （Clay）（英、法、西、意、葡）克莱（人名）",
+            "translation": "n. 黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西；黄棕翼欧洲蛾\nv. 用黏土处理",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -403,15 +451,17 @@
             "bnc": 3961,
             "frq": 4771,
             "exchange": "s:clays",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cave",
             "usphone": "/keɪv/",
             "ukphone": "/keɪv/",
             "definition": "",
-            "translation": "n. 洞穴，山洞；地窖\nv. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落\nint. <英，俚>当心！\n【名】 （Cave）（美、爱）凯夫（人名）",
+            "translation": "n. 洞穴，山洞；地窖\nv. 洞穴探险；（在压力下）屈服，屈从；挖洞；塌落\nint. <英，俚>当心！",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -419,8 +469,10 @@
             "bnc": 4161,
             "frq": 3562,
             "exchange": "s:caves/p:caved/d:caved/i:caving/3:caves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "heat wave",
@@ -435,8 +487,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "indoors",
@@ -451,8 +505,10 @@
             "bnc": 7741,
             "frq": 8145,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cope with",
@@ -467,15 +523,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fuel",
             "usphone": "/ˈfjuːəl/",
             "ukphone": "/ˈfjuːəl/",
             "definition": "",
-            "translation": "n. 燃料，燃烧剂；刺激因素，刺激性言行；（为身体提供能量的）食物，饮料，药剂\nv. （给……）提供燃料，加油；刺激，加剧\n【名】 （Fuel）（美）傅爱乐（人名）",
+            "translation": "n. 燃料，燃烧剂；刺激因素，刺激性言行；（为身体提供能量的）食物，饮料，药剂\nv. （给……）提供燃料，加油；刺激，加剧",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -483,8 +541,10 @@
             "bnc": 1933,
             "frq": 1558,
             "exchange": "s:fuels/d:fuelled/p:fuelled/i:fuelling/3:fuels",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consumption",
@@ -499,8 +559,10 @@
             "bnc": 2561,
             "frq": 3146,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "supplement",
@@ -515,8 +577,10 @@
             "bnc": 4371,
             "frq": 5192,
             "exchange": "s:supplements/d:supplemented/i:supplementing/p:supplemented/3:supplements",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "eliminate",
@@ -531,8 +595,10 @@
             "bnc": 3110,
             "frq": 1838,
             "exchange": "d:eliminated/i:eliminating/3:eliminates/p:eliminated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "firefighter",
@@ -547,8 +613,10 @@
             "bnc": 17650,
             "frq": 5511,
             "exchange": "s:firefighters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bring under control",
@@ -563,15 +631,17 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "blaze",
             "usphone": "/bleɪz/",
             "ukphone": "/bleɪz/",
             "definition": "",
-            "translation": "v. 熊熊燃烧；闪耀，发亮光；<正式>怒视，（怒火）燃烧；醒目地刊登在报纸等上，大肆宣扬；（枪炮）连续射击（或开火）；<非正式> 夺取，摘取；大力击（球）；在树皮上刻路标；<喻>带头，开拓；快速移动\nn. 大火，烈火；火焰；（光或色彩等的）展现，灿烂；（强烈感情的）迸发；（刻在树上用于指示道路的）标记，记号；（尤指马面部的一条）白斑\n【名】 （Blaze）（美）布拉兹（人名）",
+            "translation": "v. 熊熊燃烧；闪耀，发亮光；<正式>怒视，（怒火）燃烧；醒目地刊登在报纸等上，大肆宣扬；（枪炮）连续射击（或开火）；<非正式> 夺取，摘取；大力击（球）；在树皮上刻路标；<喻>带头，开拓；快速移动\nn. 大火，烈火；火焰；（光或色彩等的）展现，灿烂；（强烈感情的）迸发；（刻在树上用于指示道路的）标记，记号；（尤指马面部的一条）白斑",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -579,15 +649,17 @@
             "bnc": 7128,
             "frq": 8056,
             "exchange": "i:blazing/p:blazed/s:blazes/d:blazed/3:blazes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fierce",
             "usphone": "/fɪrs/",
             "ukphone": "/fɪəs/",
             "definition": "",
-            "translation": "adj. （动作或情感）强烈的，激烈的；（人或动物）凶猛的，狂怒的；（天气等）狂暴的，恶劣的\nadv. <美，非正式>很，非常\n【名】 （Fierce）（英）菲尔斯（人名）",
+            "translation": "adj. （动作或情感）强烈的，激烈的；（人或动物）凶猛的，狂怒的；（天气等）狂暴的，恶劣的\nadv. <美，非正式>很，非常",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -595,8 +667,10 @@
             "bnc": 3932,
             "frq": 4482,
             "exchange": "t:fiercest/r:fiercer",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "react",
@@ -611,8 +685,10 @@
             "bnc": 2923,
             "frq": 2666,
             "exchange": "p:reacted/i:reacting/d:reacted/3:reacts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "monthly",
@@ -627,8 +703,10 @@
             "bnc": 3652,
             "frq": 3520,
             "exchange": "s:monthlies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "get rid of",
@@ -643,8 +721,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "Mars",
@@ -658,16 +738,18 @@
             "tag": "cet6",
             "bnc": 7631,
             "frq": 0,
-            "exchange": "0:mar/1:3",
-            "externalCaptions": [],
-            "captions": []
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "advanced",
             "usphone": "/ədˈvænst/",
             "ukphone": "/ədˈvɑːnst/",
             "definition": "",
-            "translation": "adj. 先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的\nv. 行进；发展，进步；预付（advance 的过去式和过去分词形式）",
+            "translation": "adj. 先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的\nv. 行进；发展，进步；预付",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -675,8 +757,10 @@
             "bnc": 2557,
             "frq": 2797,
             "exchange": "0:advance/1:dp/p:advanced/d:advanced",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wipe",
@@ -691,8 +775,10 @@
             "bnc": 3112,
             "frq": 2711,
             "exchange": "p:wiped/i:wiping/d:wiped/3:wipes/s:wipes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wipe out",
@@ -707,8 +793,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nuclear",
@@ -723,15 +811,17 @@
             "bnc": 1221,
             "frq": 1176,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "terrifying",
             "usphone": "/ˈterɪfaɪɪŋ/",
             "ukphone": "/ˈterɪfaɪɪŋ/",
             "definition": "",
-            "translation": "adj. 吓人的，令人害怕的\nv. 使害怕，使恐惧（terrify 的现在分词）",
+            "translation": "adj. 吓人的，令人害怕的\nv. 使害怕，使恐惧",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -739,8 +829,10 @@
             "bnc": 8739,
             "frq": 8585,
             "exchange": "i:terrifying/0:terrifying/1:i",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hostile",
@@ -755,15 +847,17 @@
             "bnc": 4148,
             "frq": 4163,
             "exchange": "s:hostiles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "unmanned",
             "usphone": "/ˌʌnˈmænd/",
             "ukphone": "/ˌʌnˈmænd/",
             "definition": "",
-            "translation": "adj. 无人的；无人操纵的；被阉割的\nv. 使失去男子气质（unman 的过去式和过去分词形式）",
+            "translation": "adj. 无人的；无人操纵的；被阉割的\nv. 使失去男子气质",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -771,8 +865,10 @@
             "bnc": 21846,
             "frq": 14126,
             "exchange": "1:pd/0:unman",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spacecraft",
@@ -787,8 +883,10 @@
             "bnc": 17270,
             "frq": 6442,
             "exchange": "s:spacecrafts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "orbit",
@@ -803,15 +901,17 @@
             "bnc": 6177,
             "frq": 4178,
             "exchange": "s:orbits/i:orbiting/p:orbited/3:orbits/d:orbited",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "stunning",
             "usphone": "/ˈstʌnɪŋ/",
             "ukphone": "/ˈstʌnɪŋ/",
             "definition": "",
-            "translation": "adj. 极好的，极吸引人的；令人震惊的\nv. 使震惊，使惊讶；打昏，击昏；给（某人）以深刻印象，使深深感动（stun 的现在分词形式）",
+            "translation": "adj. 极好的，极吸引人的；令人震惊的\nv. 使震惊，使惊讶；打昏，击昏；给（某人）以深刻印象，使深深感动",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -819,8 +919,10 @@
             "bnc": 6073,
             "frq": 5045,
             "exchange": "i:stunning/0:stunning/1:i",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "agency",
@@ -835,8 +937,10 @@
             "bnc": 1036,
             "frq": 694,
             "exchange": "s:agencies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consist",
@@ -851,8 +955,10 @@
             "bnc": 1493,
             "frq": 2190,
             "exchange": "3:consists/i:consisting/p:consisted/d:consisted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consist of",
@@ -867,8 +973,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "in the meantime",
@@ -883,8 +991,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "infer",
@@ -899,8 +1009,10 @@
             "bnc": 7194,
             "frq": 9219,
             "exchange": "d:inferred/i:inferring/3:infers/p:inferred",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "expose",
@@ -915,8 +1027,10 @@
             "bnc": 2577,
             "frq": 2005,
             "exchange": "d:exposed/i:exposing/p:exposed/3:exposes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "astronaut",
@@ -931,15 +1045,17 @@
             "bnc": 16330,
             "frq": 5656,
             "exchange": "s:astronauts/3:astronauts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dust",
             "usphone": "/dʌst/",
             "ukphone": "/dʌst/",
             "definition": "",
-            "translation": "n. 沙尘；灰尘；粉末；尘雾；除尘，掸灰；<文>尸骨，遗骸；<文>凡身，肉体\nv. 擦去……的灰尘；把粉末撒于；<美，非正式>狠揍，杀死（某人）\n【名】 （Dust）（德、俄）杜斯特（人名）",
+            "translation": "n. 沙尘；灰尘；粉末；尘雾；除尘，掸灰；<文>尸骨，遗骸；<文>凡身，肉体\nv. 擦去……的灰尘；把粉末撒于；<美，非正式>狠揍，杀死（某人）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -947,8 +1063,10 @@
             "bnc": 2933,
             "frq": 2263,
             "exchange": "i:dusting/p:dusted/d:dusted/s:dusts/3:dusts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "capsule",
@@ -963,8 +1081,10 @@
             "bnc": 10031,
             "frq": 7480,
             "exchange": "s:capsules/i:capsuling/p:capsuled/3:capsules/d:capsuled/f:capsules",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "exposure",
@@ -979,15 +1099,17 @@
             "bnc": 3141,
             "frq": 2229,
             "exchange": "s:exposures",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "trunk",
             "usphone": "/trʌŋk/",
             "ukphone": "/trʌŋk/",
             "definition": "",
-            "translation": "n. 树干；（人或动物的）躯干；象鼻；<美>（汽车后部的）行李箱，后备箱；旅行箱，衣箱；男式游泳裤（trunks）；大血管，神经干；电缆管道，通风管；拳击手短裤（trunks）\nadj. 干线的\n【名】 （Trunk）（德、匈、西）特伦克（人名）",
+            "translation": "n. 树干；（人或动物的）躯干；象鼻；<美>（汽车后部的）行李箱，后备箱；旅行箱，衣箱；男式游泳裤；大血管，神经干；电缆管道，通风管；拳击手短裤\nadj. 干线的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -995,8 +1117,10 @@
             "bnc": 4993,
             "frq": 3533,
             "exchange": "s:trunks/i:trunking",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
