@@ -19,8 +19,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "freckle",
@@ -35,15 +37,17 @@
             "bnc": 22724,
             "frq": 13714,
             "exchange": "s:freckles/p:freckled/d:freckled/i:freckling/3:freckles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "enlarge",
             "usphone": "/ɪnˈlɑːrdʒ/",
             "ukphone": "/ɪnˈlɑːdʒ/",
             "definition": "",
-            "translation": "v. 扩大，增大，放大；详述（enlarge on）",
+            "translation": "v. 扩大，增大，放大",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -51,8 +55,10 @@
             "bnc": 6348,
             "frq": 7530,
             "exchange": "d:enlarged/i:enlarging/p:enlarged/3:enlarges/s:enlarges",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jawline",
@@ -67,15 +73,17 @@
             "bnc": 36746,
             "frq": 27564,
             "exchange": "s:jawlines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "boost",
             "usphone": "/buːst/",
             "ukphone": "/buːst/",
             "definition": "",
-            "translation": "v. 使增长，推动；<美，非正式>偷窃；宣扬，推广\nn. 推动，促进；广告，宣扬\n【名】 （Boost）（英）布斯特，（德）博斯特（人名）",
+            "translation": "v. 使增长，推动；<美，非正式>偷窃；宣扬，推广\nn. 推动，促进；广告，宣扬",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -83,11 +91,13 @@
             "bnc": 4022,
             "frq": 3691,
             "exchange": "d:boosted/i:boosting/p:boosted/3:boosts/s:boosts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
-            "value": "boost one‘s confidence",
+            "value": "boost one's confidence",
             "usphone": "",
             "ukphone": "",
             "definition": "",
@@ -99,8 +109,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "narcissist",
@@ -115,8 +127,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "s:narcissists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "obsessive",
@@ -131,15 +145,17 @@
             "bnc": 11469,
             "frq": 10199,
             "exchange": "s:obsessives/3:obsessives",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pretend",
             "usphone": "/prɪˈtend/",
             "ukphone": "/prɪˈtend/",
             "definition": "",
-            "translation": "v. 伪装，假装；（玩游戏时）假扮，装扮；自诩，自称（pretend to）\nadj. <非正式>假装的，假想的（尤为儿童使用）",
+            "translation": "v. 伪装，假装；（玩游戏时）假扮，装扮；自诩，自称\nadj. <非正式>假装的，假想的（尤为儿童使用）",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -147,8 +163,10 @@
             "bnc": 2885,
             "frq": 2905,
             "exchange": "i:pretending/p:pretended/3:pretends/d:pretended",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "misjudge",
@@ -163,8 +181,10 @@
             "bnc": 18432,
             "frq": 18197,
             "exchange": "d:misjudged/p:misjudged/i:misjudging/3:misjudges/s:misjudges",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "lipstick",
@@ -179,8 +199,10 @@
             "bnc": 10587,
             "frq": 7372,
             "exchange": "s:lipsticks/i:lipsticking/p:lipsticked/f:lipsticks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "identical",
@@ -195,8 +217,10 @@
             "bnc": 3273,
             "frq": 3822,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dormitory",
@@ -211,8 +235,10 @@
             "bnc": 14248,
             "frq": 10947,
             "exchange": "s:dormitories",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "roommate",
@@ -227,8 +253,10 @@
             "bnc": 0,
             "frq": 6877,
             "exchange": "s:roommates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bizarre",
@@ -243,8 +271,10 @@
             "bnc": 5305,
             "frq": 4957,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "from head to toe",
@@ -259,8 +289,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "makeover",
@@ -275,8 +307,10 @@
             "bnc": 0,
             "frq": 10495,
             "exchange": "3:makeovers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "overlook",
@@ -291,8 +325,10 @@
             "bnc": 3391,
             "frq": 3139,
             "exchange": "i:overlooking/d:overlooked/3:overlooks/p:overlooked",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bother",
@@ -307,15 +343,17 @@
             "bnc": 2132,
             "frq": 2189,
             "exchange": "d:bothered/i:bothering/p:bothered/3:bothers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pill",
             "usphone": "/pɪl/",
             "ukphone": "/pɪl/",
             "definition": "",
-            "translation": "n. 药片，药丸；（女用）口服避孕药 （the pill）；<美>（衣服或布料上的）球粒，纤维绒球； <美>讨厌的家伙；<非正式>（某些运动用的）球，弹\nv. （衣服或布料）起球粒，结绒；把……制成丸剂；（使）服用药丸；<古>抢劫，掠夺\n【名】 （pill）（英）皮尔（人名）",
+            "translation": "n. 药片，药丸；（女用）口服避孕药 ；<美>（衣服或布料上的）球粒，纤维绒球； <美>讨厌的家伙；<非正式>（某些运动用的）球，弹\nv. （衣服或布料）起球粒，结绒；把……制成丸剂；（使）服用药丸；<古>抢劫，掠夺",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -323,8 +361,10 @@
             "bnc": 4969,
             "frq": 3425,
             "exchange": "s:pills",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "stereotype",
@@ -339,8 +379,10 @@
             "bnc": 7958,
             "frq": 4936,
             "exchange": "s:stereotypes/i:stereotyping/p:stereotyped/3:stereotypes/d:stereotyped",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "skinny",
@@ -355,8 +397,10 @@
             "bnc": 12497,
             "frq": 5402,
             "exchange": "r:skinnier/s:skinnys/t:skinniest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "acknowledge",
@@ -371,8 +415,10 @@
             "bnc": 2105,
             "frq": 1654,
             "exchange": "p:acknowledged/d:acknowledged/3:acknowledges/i:acknowledging",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "assumption",
@@ -387,8 +433,10 @@
             "bnc": 1693,
             "frq": 2606,
             "exchange": "s:assumptions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "saving",
@@ -403,8 +451,10 @@
             "bnc": 2163,
             "frq": 2193,
             "exchange": "0:save/1:i/s:savings/i:saving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "welfare",
@@ -419,8 +469,10 @@
             "bnc": 1883,
             "frq": 1933,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "psychology",
@@ -435,8 +487,10 @@
             "bnc": 2980,
             "frq": 2972,
             "exchange": "s:psychologies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "finding",
@@ -451,8 +505,10 @@
             "bnc": 2027,
             "frq": 1476,
             "exchange": "0:find/1:i/s:findings/i:finding",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "frightful",
@@ -467,8 +523,10 @@
             "bnc": 15262,
             "frq": 20695,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "monstrous",
@@ -483,8 +541,10 @@
             "bnc": 11642,
             "frq": 10332,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "righteous",
@@ -499,8 +559,10 @@
             "bnc": 14454,
             "frq": 10845,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "outward",
@@ -515,8 +577,10 @@
             "bnc": 8743,
             "frq": 8599,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "beast",
@@ -531,8 +595,10 @@
             "bnc": 4515,
             "frq": 4428,
             "exchange": "s:beasts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "timid",
@@ -547,8 +613,10 @@
             "bnc": 11482,
             "frq": 11301,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "coward",
@@ -563,8 +631,10 @@
             "bnc": 14789,
             "frq": 11476,
             "exchange": "s:cowards",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bookish",
@@ -579,8 +649,10 @@
             "bnc": 34908,
             "frq": 23510,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "loyal",
@@ -595,8 +667,10 @@
             "bnc": 4461,
             "frq": 4770,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "novelist",
@@ -611,8 +685,10 @@
             "bnc": 6213,
             "frq": 6348,
             "exchange": "s:novelists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "kidnap",
@@ -627,8 +703,10 @@
             "bnc": 8885,
             "frq": 6993,
             "exchange": "d:kidnapped/p:kidnapped/i:kidnapping/3:kidnaps/s:kidnaps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "torture",
@@ -643,8 +721,10 @@
             "bnc": 7091,
             "frq": 5272,
             "exchange": "d:tortured/p:tortured/i:torturing/s:tortures/3:tortures",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "execution",
@@ -659,8 +739,10 @@
             "bnc": 3988,
             "frq": 4234,
             "exchange": "s:executions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "predicament",
@@ -675,8 +757,10 @@
             "bnc": 9473,
             "frq": 9468,
             "exchange": "s:predicaments",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "repulsive",
@@ -691,8 +775,10 @@
             "bnc": 19199,
             "frq": 15753,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "defect",
@@ -707,8 +793,10 @@
             "bnc": 4403,
             "frq": 5946,
             "exchange": "s:defects/p:defected/d:defected/i:defecting/3:defects",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hunched",
@@ -723,8 +811,10 @@
             "bnc": 23629,
             "frq": 23128,
             "exchange": "0:hunch/1:dp/d:hunched",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comprehension",
@@ -739,8 +829,10 @@
             "bnc": 7886,
             "frq": 7826,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "melancholy",
@@ -755,8 +847,10 @@
             "bnc": 14439,
             "frq": 13596,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wretch",
@@ -771,8 +865,10 @@
             "bnc": 21259,
             "frq": 23396,
             "exchange": "s:wretches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "exclaim",
@@ -787,8 +883,10 @@
             "bnc": 5494,
             "frq": 6297,
             "exchange": "p:exclaimed/i:exclaiming/3:exclaims/d:exclaimed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "expression",
@@ -803,8 +901,10 @@
             "bnc": 1139,
             "frq": 1533,
             "exchange": "s:expressions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "heartfelt",
@@ -819,8 +919,10 @@
             "bnc": 18472,
             "frq": 12265,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "compassion",
@@ -835,8 +937,10 @@
             "bnc": 7736,
             "frq": 4986,
             "exchange": "s:compassions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "exquisite",
@@ -851,8 +955,10 @@
             "bnc": 8931,
             "frq": 8096,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "accent",
@@ -867,8 +973,10 @@
             "bnc": 3701,
             "frq": 4140,
             "exchange": "s:accents/p:accented/i:accenting/d:accented/3:accents",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "utter",
@@ -883,8 +991,10 @@
             "bnc": 6129,
             "frq": 6873,
             "exchange": "p:uttered/d:uttered/i:uttering/3:utters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "syllable",
@@ -899,8 +1009,10 @@
             "bnc": 6237,
             "frq": 9192,
             "exchange": "s:syllables/p:syllabled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "immense",
@@ -915,8 +1027,10 @@
             "bnc": 4545,
             "frq": 5645,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "monster",
@@ -931,8 +1045,10 @@
             "bnc": 3985,
             "frq": 3565,
             "exchange": "s:monsters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "resemble",
@@ -947,8 +1063,10 @@
             "bnc": 3822,
             "frq": 3058,
             "exchange": "3:resembles/i:resembling/p:resembled/d:resembled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "savage",
@@ -963,8 +1081,10 @@
             "bnc": 7623,
             "frq": 10011,
             "exchange": "s:savages/d:savaged/p:savaged/i:savaging/3:savages",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dew",
@@ -979,8 +1099,10 @@
             "bnc": 14303,
             "frq": 14536,
             "exchange": "s:dews/p:dewed/d:dewed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "whilst",
@@ -995,8 +1117,10 @@
             "bnc": 1612,
             "frq": 18717,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "coarse",
@@ -1011,8 +1135,10 @@
             "bnc": 7031,
             "frq": 7903,
             "exchange": "r:coarser/t:coarsest/i:coarsing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "downtrodden",
@@ -1027,8 +1153,10 @@
             "bnc": 32921,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pebble",
@@ -1043,8 +1171,10 @@
             "bnc": 7993,
             "frq": 11162,
             "exchange": "s:pebbles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "heartbreaking",
@@ -1059,8 +1189,10 @@
             "bnc": 23112,
             "frq": 12509,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intently",
@@ -1075,8 +1207,10 @@
             "bnc": 10714,
             "frq": 8948,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "repay",
@@ -1091,8 +1225,10 @@
             "bnc": 5271,
             "frq": 7971,
             "exchange": "d:repaid/i:repaying/p:repaid/3:repays",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "",
@@ -1107,8 +1243,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "profound",
@@ -1123,8 +1261,10 @@
             "bnc": 4372,
             "frq": 3735,
             "exchange": "t:profoundest/r:profounder",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tenderness",
@@ -1139,8 +1279,10 @@
             "bnc": 10448,
             "frq": 11011,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "motive",
@@ -1155,8 +1297,10 @@
             "bnc": 3406,
             "frq": 3578,
             "exchange": "s:motives",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
