@@ -1,7 +1,8 @@
 {
-    "name": "选择性必修二",
+    "name": "选择性必修三",
     "file": [
-        "Unit1.json"
+        "Unit1.json",
+        "Unit2.json"
     ],
     "completed": [
         "Unit1.json"
