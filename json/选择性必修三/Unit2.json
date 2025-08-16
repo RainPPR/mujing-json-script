@@ -8,10 +8,10 @@
     "wordList": [
         {
             "value": "lens",
-            "usphone": "lɛnz",
-            "ukphone": "lenz",
-            "definition": "n. a transparent optical device used to converge or diverge transmitted light and to form images\nn. genus of small erect or climbing herbs with pinnate leaves and small inconspicuous white flowers and small flattened pods: lentils\nn. (metaphor) a channel through which something can be seen or understood\nn. biconvex transparent body situated behind the iris in the eye; its role (along with the cornea) is to focuses light on the retina",
-            "translation": "n. 透镜, 镜头, 镜片, 晶状体\nvt. 给...摄影",
+            "usphone": "/lenz/",
+            "ukphone": "/lenz/",
+            "definition": "",
+            "translation": "n. 透镜，镜片；（相机的）镜头；（眼球的）晶状体；隐形眼镜\nv. 给……摄影",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -19,17 +19,15 @@
             "bnc": 7125,
             "frq": 3544,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "pose",
-            "usphone": "poz",
-            "ukphone": "pәuz",
-            "definition": "n. a posture assumed by models for photographic or artistic purposes\nv. pretend to be someone you are not; sometimes with fraudulent intentions\nv. behave affectedly or unnaturally in order to impress others",
-            "translation": "n. 姿势, 姿态, 装模作样, 伪装\nvi. 摆姿势, 装模作样, 假装\nvt. 使摆好姿势, 提出, 造成",
+            "usphone": "/poʊz/",
+            "ukphone": "/pəʊz/",
+            "definition": "",
+            "translation": "v. 造成，引起（威胁、危险、问题等）；提出（问题）；（为照相、画像等）摆好姿势；假扮，冒充（pose as）；（举止或穿戴）装腔作势，招摇过市；<古>把……难住，使为难\nn. （为拍照、画像等摆的）姿势；故作姿态，装腔作势",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -37,17 +35,15 @@
             "bnc": 2739,
             "frq": 2230,
             "exchange": "d:posed/3:poses/p:posed/i:posing/s:poses",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "grocery",
-            "usphone": "'ɡrosəri",
-            "ukphone": "'grәusәri",
-            "definition": "n. (usually plural) consumer goods sold by a grocer",
-            "translation": "n. 食品杂货店, 食品杂货业",
+            "usphone": "/ˈɡroʊsəri/",
+            "ukphone": "/ˈɡrəʊsəri/",
+            "definition": "",
+            "translation": "n. 食品杂货店，食品杂货业；食品杂货（groceries）",
             "pos": "",
             "collins": 0,
             "oxford": true,
@@ -55,10 +51,8 @@
             "bnc": 9714,
             "frq": 3301,
             "exchange": "s:groceries",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "grocery store",
@@ -73,17 +67,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "fascination",
-            "usphone": ",fæsɪ'neʃən",
-            "ukphone": ".fæsi'neiʃәn",
-            "definition": "n. the state of being intensely interested (as by awe or terror)\nn. the capacity to attract intense interest",
-            "translation": "n. 令人着迷的事物, 入迷, 魅力",
+            "usphone": "/ˌfæsɪˈneɪʃ(ə)n/",
+            "ukphone": "/ˌfæsɪˈneɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 入迷，着迷；魅力，令人着迷的事物",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -91,17 +83,15 @@
             "bnc": 7139,
             "frq": 6681,
             "exchange": "s:fascinations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "fashion",
-            "usphone": "'fæʃən",
-            "ukphone": "'fæʃәn",
-            "definition": "n. characteristic or habitual practice\nn. the latest and most admired style in clothes and cosmetics and behavior\nn. consumer goods (especially clothing) in the current mode\nv. make out of components (often in an improvising manner)",
-            "translation": "n. 流行, 风尚, 时样\nvt. 形成, 造, 作",
+            "usphone": "/ˈfæʃ(ə)n/",
+            "ukphone": "/ˈfæʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 时髦打扮，流行装扮；时尚，时兴；（做事的）方式；时装领域，时尚界\nv. （尤指用手工）制作，使成形；塑造",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -109,17 +99,15 @@
             "bnc": 1852,
             "frq": 1922,
             "exchange": "d:fashioned/s:fashions/p:fashioned/i:fashioning/3:fashions",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "uncomplicated",
-            "usphone": "",
-            "ukphone": "'ʌn'kɔmplikeitid",
-            "definition": "s. lacking complexity",
-            "translation": "a. 简单的；不复杂的",
+            "usphone": "/ʌnˈkɑːmplɪkeɪtɪd/",
+            "ukphone": "/ʌnˈkɒmplɪkeɪtɪd/",
+            "definition": "",
+            "translation": "adj. 简单的；不复杂的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -127,17 +115,15 @@
             "bnc": 14396,
             "frq": 17758,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "faraway",
-            "usphone": "'fɑrəwe",
-            "ukphone": "'fɑ:rәwei",
-            "definition": "s. very far away in space or time\ns. far removed mentally",
-            "translation": "a. 遥远的, 恍惚的, 出神的",
+            "usphone": "/ˈfɑːrəweɪ/",
+            "ukphone": "/ˈfɑːrəweɪ/",
+            "definition": "",
+            "translation": "adj. 遥远的；恍惚的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -145,17 +131,15 @@
             "bnc": 21476,
             "frq": 12293,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "celebrity",
-            "usphone": "sə'lɛbrəti",
-            "ukphone": "si'lebrti",
-            "definition": "n. a widely known person",
-            "translation": "n. 名声, 名人",
+            "usphone": "/səˈlebrəti/",
+            "ukphone": "/səˈlebrəti/",
+            "definition": "",
+            "translation": "n. 名声，名望；名人，明星",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -163,17 +147,15 @@
             "bnc": 6973,
             "frq": 2960,
             "exchange": "s:celebrities",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "craft",
-            "usphone": "kræft",
-            "ukphone": "kræft",
-            "definition": "n. a vehicle designed for navigation in or on water or air or through outer space\nn. people who perform a particular kind of skilled work\nn. skill in an occupation or trade\nn. shrewdness as demonstrated by being skilled in deception",
-            "translation": "n. 技艺, 手艺, 诡计\nvt. 精心制作",
+            "usphone": "/kræft/",
+            "ukphone": "/krɑːft/",
+            "definition": "",
+            "translation": "n. 工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品\nv. 精心制作\n【名】 （Craft）（英、德、罗）克拉夫特（人名）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -181,16 +163,14 @@
             "bnc": 3022,
             "frq": 2839,
             "exchange": "s:crafts/p:crafted/d:crafted/i:crafting/3:crafts",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "anthropologist",
-            "usphone": ",ænθrə'pɑlədʒɪst",
-            "ukphone": ".ænθrә'pɒlәdʒist",
-            "definition": "n. a social scientist who specializes in anthropology",
+            "usphone": "/ˌænθrəˈpɑːlədʒɪst/",
+            "ukphone": "/ˌænθrəˈpɒlədʒɪst/",
+            "definition": "",
             "translation": "n. 人类学家",
             "pos": "",
             "collins": 0,
@@ -199,17 +179,15 @@
             "bnc": 7410,
             "frq": 6282,
             "exchange": "s:anthropologists",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "trial",
-            "usphone": "'traɪəl",
-            "ukphone": "'traiәl",
-            "definition": "n. trying something to find out about it\nn. (law) the determination of a person's innocence or guilt by due process of law\nn. (sports) a preliminary competition to determine qualifications\nn. an annoying or frustrating or catastrophic event",
-            "translation": "n. 审判, 试验, 艰苦, 麻烦事, 考验\na. 审讯的, 试验性的",
+            "usphone": "/ˈtraɪəl/",
+            "ukphone": "/ˈtraɪəl/",
+            "definition": "",
+            "translation": "n. 审判，审理；试验，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演\nv. 测试，试验；（马、狗等动物）参加比赛\nadj. 试验性的\n【名】 （Trial）（法）特里亚尔（人名）",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -217,10 +195,8 @@
             "bnc": 1166,
             "frq": 898,
             "exchange": "s:trials/p:trialled",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "by trial and error",
@@ -235,17 +211,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "craftsmanship",
-            "usphone": "'kræftsmənʃɪp",
-            "ukphone": "'krɑːf(t)smənʃɪp",
-            "definition": "n skill in an occupation or trade",
-            "translation": "n. 技术, 技艺",
+            "usphone": "/ˈkræftsmənʃɪp/",
+            "ukphone": "/ˈkrɑːftsmənʃɪp/",
+            "definition": "",
+            "translation": "n. 手艺，工艺；精工细作；手工艺品",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -253,17 +227,15 @@
             "bnc": 15459,
             "frq": 15188,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "atomic",
-            "usphone": "ə'tɑmɪk",
-            "ukphone": "ә'tɒmik",
-            "definition": "a. of or relating to or comprising atoms\ns. immeasurably small",
-            "translation": "a. 原子的, 原子能的\n[医] 原子的",
+            "usphone": "/əˈtɑːmɪk/",
+            "ukphone": "/əˈtɒmɪk/",
+            "definition": "",
+            "translation": "adj. 原子的，与原子有关的；原子能的，核能的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -271,14 +243,12 @@
             "bnc": 5441,
             "frq": 5438,
             "exchange": "s:atomics",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "back down",
-            "usphone": "",
+            "usphone": "/bæk daʊn/",
             "ukphone": "",
             "definition": "",
             "translation": "退让；认输",
@@ -289,10 +259,8 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "the cutting edge",
@@ -307,10 +275,8 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "think outside the box",
@@ -325,10 +291,8 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "break new ground",
@@ -343,17 +307,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "hydrogen",
-            "usphone": "'haɪdrədʒən",
-            "ukphone": "'haidrәdʒәn",
-            "definition": "n. a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe",
-            "translation": "n. 氢\n[化] 氢H-2",
+            "usphone": "/ˈhaɪdrədʒən/",
+            "ukphone": "/ˈhaɪdrədʒən/",
+            "definition": "",
+            "translation": "n. 氢，氢气",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -361,17 +323,15 @@
             "bnc": 5200,
             "frq": 5103,
             "exchange": "s:hydrogens",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "propulsion",
-            "usphone": "prə'pʌlʃən",
-            "ukphone": "prә'pʌlʃәn",
-            "definition": "n. a propelling force\nn. the act of propelling",
-            "translation": "n. 推进, 推进力\n[医] 前冲, 慌张步态",
+            "usphone": "/prəˈpʌlʃn/",
+            "ukphone": "/prəˈpʌlʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 推进；推进力",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -379,17 +339,15 @@
             "bnc": 21313,
             "frq": 10762,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "jet propulsion",
-            "usphone": "",
-            "ukphone": "",
+            "usphone": "/ˌdʒet prəˈpʌlʃn/",
+            "ukphone": "/ˌdʒet prəˈpʌlʃ(ə)n/",
             "definition": "",
-            "translation": "喷气推进",
+            "translation": "喷气推进：通过向后排放流体喷射产生的反作用力，推动物体向前运动的一种推进方式，尤其是指飞机通过喷气发动机进行推进的方式。",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -397,17 +355,15 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "acclaim",
-            "usphone": "ə'klem",
-            "ukphone": "ә'kleim",
-            "definition": "n. enthusiastic approval\nv. praise vociferously",
-            "translation": "n. 喝彩, 欢呼, 赞同\nv. 欢呼, 喝彩, 称赞",
+            "usphone": "/əˈkleɪm/",
+            "ukphone": "/əˈkleɪm/",
+            "definition": "",
+            "translation": "v. 赞扬，称赞，为……喝彩\nn. 赞扬，称誉，高度评价",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -415,17 +371,15 @@
             "bnc": 11847,
             "frq": 12422,
             "exchange": "d:acclaimed/p:acclaimed/i:acclaiming/s:acclaims/3:acclaims",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "shun",
-            "usphone": "ʃʌn",
-            "ukphone": "ʃʌn",
-            "definition": "v. avoid and stay away from deliberately; stay clear of",
-            "translation": "vt. 避开, 规避, 避免",
+            "usphone": "/ʃʌn/",
+            "ukphone": "/ʃʌn/",
+            "definition": "",
+            "translation": "v. （故意）避开，躲开\n【名】 （Shun）（日）春（姓氏）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -433,17 +387,15 @@
             "bnc": 14061,
             "frq": 9114,
             "exchange": "d:shunned/p:shunned/i:shunning/3:shuns",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "spotlight",
-            "usphone": "'spɑtlaɪt",
-            "ukphone": "'spɒtlait",
-            "definition": "n. a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer\nv. illuminate with a spotlight, as in the theater",
-            "translation": "n. 照明灯, 反光灯, 聚光灯",
+            "usphone": "/ˈspɑːtlaɪt/",
+            "ukphone": "/ˈspɒtlaɪt/",
+            "definition": "",
+            "translation": "n. 聚光灯，反光灯；媒体和公众的注意；聚光灯照明圈\nvt. 聚光照明；使公众注意",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -451,17 +403,15 @@
             "bnc": 8607,
             "frq": 5487,
             "exchange": "s:spotlights/i:spotlighting/p:spotlighted/d:spotlighted/3:spotlights",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "harsh",
-            "usphone": "hɑrʃ",
-            "ukphone": "hɑ:ʃ",
-            "definition": "s. unpleasantly stern\ns. disagreeable to the senses\ns. unkind or cruel or uncivil\ns. severe",
-            "translation": "a. 粗糙的, 刺耳的, 严厉的\n[法] 粗糙的, 严厉的, 苛刻的",
+            "usphone": "/hɑːrʃ/",
+            "ukphone": "/hɑːʃ/",
+            "definition": "",
+            "translation": "adj. （环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；刺眼的，耀眼的；丑陋的；刺激性强的，太强力的\n【名】 （Harsh）哈什（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -469,17 +419,15 @@
             "bnc": 3931,
             "frq": 3471,
             "exchange": "r:harsher/t:harshest",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "prosperous",
-            "usphone": "'prɑspərəs",
-            "ukphone": "'prɒspәrәs",
-            "definition": "s in fortunate circumstances financially; moderately rich\ns very lively and profitable\ns marked by peace and prosperity\ns presaging or likely to bring good luck",
-            "translation": "a. 成功的, 繁盛的, 幸运的\n[经] 繁荣的, 昌盛的",
+            "usphone": "/ˈprɑːspərəs/",
+            "ukphone": "/ˈprɒspərəs/",
+            "definition": "",
+            "translation": "adj. 繁荣的，富足的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -487,17 +435,15 @@
             "bnc": 6904,
             "frq": 7343,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "courtyard",
-            "usphone": "'kɔrtjɑrd",
-            "ukphone": "'kɒ:tjɑ:d",
-            "definition": "n an area wholly or partly surrounded by walls or buildings",
-            "translation": "n. 庭院, 天井",
+            "usphone": "/ˈkɔːrtjɑːrd/",
+            "ukphone": "/ˈkɔːtjɑːd/",
+            "definition": "",
+            "translation": "n. 庭院，院子",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -505,17 +451,15 @@
             "bnc": 5755,
             "frq": 5825,
             "exchange": "s:courtyards",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "precious",
-            "usphone": "'prɛʃəs",
-            "ukphone": "'preʃәs",
-            "definition": "s. of high worth or cost\nr. extremely",
-            "translation": "a. 宝贵的, 珍贵的, 过于精致的, 珍爱的",
+            "usphone": "/ˈpreʃəs/",
+            "ukphone": "/ˈpreʃəs/",
+            "definition": "",
+            "translation": "adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的\nn. （用作称呼）宝贝，亲爱的\nadv. 非常，极其\n【名】 （Precious）（英）普雷舍斯，普雷舍丝（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -523,17 +467,15 @@
             "bnc": 4109,
             "frq": 3989,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "antique",
-            "usphone": "æn'tik",
-            "ukphone": "æn'ti:k",
-            "definition": "n. any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity\nv. shop for antiques\nv. give an antique appearance to\ns. made in or typical of earlier times and valued for its age",
-            "translation": "n. 古董, 古物\na. 古老的, 古风的, 旧式的, 过时的",
+            "usphone": "/ænˈtiːk/",
+            "ukphone": "/ænˈtiːk/",
+            "definition": "",
+            "translation": "adj. 古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的\nn. 古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体\nv. 以仿古式样制作；觅购古玩",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -541,17 +483,15 @@
             "bnc": 6477,
             "frq": 5748,
             "exchange": "s:antiques/p:antiqued/i:antiquing/3:antiques/d:antiqued",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "restoration",
-            "usphone": "'rɛstə'reʃən",
-            "ukphone": ".restә'reiʃәn",
-            "definition": "n. the reign of Charles II in England; 1660-1685\nn. the act of restoring something or someone to a satisfactory state\nn. some artifact that has been restored or reconstructed\nn. a model that represents the landscape of a former geological age or that represents and extinct animal etc.",
-            "translation": "n. 恢复, 归还, 复位\n[医] 恢复, 康复, 复位, 回复, 修复",
+            "usphone": "/ˌrestəˈreɪʃn/",
+            "ukphone": "/ˌrestəˈreɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. （对艺术品、建筑等的）修复；（做法、权利、惯例或情况的）恢复，重新实施；归还，返还；（软件程序的）恢复，还原；（牙科）修补；（模拟已灭绝动物或被毁建筑等原型的）修复物（或图），重建物（或图）；（君主、元首、政权等的）原有地位的恢复，复位；王政复辟时期（1660 年英王查理二世复辟及其后的一段时期）（the Restoration）；法国波旁王朝王政复辟（the Restoration）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -559,17 +499,15 @@
             "bnc": 3578,
             "frq": 5002,
             "exchange": "s:restorations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "crimson",
-            "usphone": "'krɪmzn",
-            "ukphone": "'krimzәn",
-            "definition": "n. a deep and vivid red color\ns. characterized by violence or bloodshed\ns. (especially of the face) reddened or suffused with or as if with blood from emotion or exertion",
-            "translation": "n. 深红色\na. 深红色的\nv. (使)变为深红色, 脸红",
+            "usphone": "/ˈkrɪmz(ə)n/",
+            "ukphone": "/ˈkrɪmz(ə)n/",
+            "definition": "",
+            "translation": "adj. 深红色的；（脸）通红的\nn. 深红色\nv. （尤指因尴尬）（脸）变红；（使）深红\nn. （Crimson）（美）克里姆荪（人名）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -577,17 +515,15 @@
             "bnc": 15596,
             "frq": 12173,
             "exchange": "s:crimsons/p:crimsoned/i:crimsoning/3:crimsons/d:crimsoned",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "workplace",
-            "usphone": "'wɝkples",
-            "ukphone": "'wɜːkpleɪs",
-            "definition": "n. a place where work is done",
-            "translation": "n. 工作场所, 工厂, 车间",
+            "usphone": "/ˈwɜːrkpleɪs/",
+            "ukphone": "/ˈwɜːkpleɪs/",
+            "definition": "",
+            "translation": "n.  （办公室，工厂）等工作场所；（办公室，工厂）等工作场所",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -595,17 +531,15 @@
             "bnc": 5821,
             "frq": 4282,
             "exchange": "s:workplaces",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "timepiece",
-            "usphone": "",
-            "ukphone": "'taimpi:s",
-            "definition": "n. a measuring instrument or device for keeping time",
-            "translation": "n. 时钟, 钟",
+            "usphone": "/ˈtaɪmpiːs/",
+            "ukphone": "/ˈtaɪmpiːs/",
+            "definition": "",
+            "translation": "n. 钟等各种计时器",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -613,17 +547,15 @@
             "bnc": 36551,
             "frq": 25742,
             "exchange": "s:timepieces",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "envoy",
-            "usphone": "'ɛnvɔɪ",
-            "ukphone": "'envɒi",
-            "definition": "n. a diplomat having less authority than an ambassador\nn. a brief stanza concluding certain forms of poetry",
-            "translation": "n. 外交使节, 特使\n[法] 使者, 代表, 使节",
+            "usphone": "/ˈenvɔɪ/",
+            "ukphone": "/ˈenvɔɪ/",
+            "definition": "",
+            "translation": "n. 使者，使节，（谈判等的）代表；公使（级别在大使之下）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -631,17 +563,15 @@
             "bnc": 10593,
             "frq": 9956,
             "exchange": "s:envoys",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "intricate",
-            "usphone": "ˈɪntrəkət",
-            "ukphone": "'intrikit",
-            "definition": "s. having many complexly arranged elements; elaborate",
-            "translation": "a. 复杂的, 错综的, 缠结的, 难懂的",
+            "usphone": "/ˈɪntrɪkət/",
+            "ukphone": "/ˈɪntrɪkət/",
+            "definition": "",
+            "translation": "adj. 错综复杂的；难理解的，难学会的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -649,17 +579,15 @@
             "bnc": 8539,
             "frq": 7255,
             "exchange": "i:intricating",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "maximum",
-            "usphone": "ˈmæksəməm",
-            "ukphone": "'mæksimәn",
-            "definition": "n. the largest possible quantity\nn. the point on a curve where the tangent changes from positive on the left to negative on the right",
-            "translation": "n. 极点, 最大量, 极大\na. 最高的, 最大的, 最大极限的\n[计] 最大值",
+            "usphone": "/ˈmæksɪməm/",
+            "ukphone": "/ˈmæksɪməm/",
+            "definition": "",
+            "translation": "adj. 最大限度的；（数量）极大的，极多的\nn. 最大量，最大限度\nadv. 最多，充其量",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -667,17 +595,15 @@
             "bnc": 2427,
             "frq": 3603,
             "exchange": "s:maxima",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "painstaking",
-            "usphone": "'penztekɪŋ",
-            "ukphone": "'peinzteikiŋ",
-            "definition": "s characterized by extreme care and great effort",
-            "translation": "n. 辛苦, 苦心, 工夫\na. 辛苦的, 勤勉的, 小心的",
+            "usphone": "/ˈpeɪnzteɪkɪŋ/",
+            "ukphone": "/ˈpeɪnzteɪkɪŋ/",
+            "definition": "",
+            "translation": "adj. 刻苦的，下苦功的\nn. 辛苦，勤勉",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -685,17 +611,15 @@
             "bnc": 13779,
             "frq": 14458,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "workshop",
-            "usphone": "'wɝkʃɑp",
-            "ukphone": "'wә:kʃɒp",
-            "definition": "n. small workplace where handcrafts or manufacturing are done\nn. a brief intensive course for a small group; emphasizes problem solving",
-            "translation": "n. 工场, 车间, 研讨会\n[计] 讨论会; 专题研究组",
+            "usphone": "/ˈwɜːrkʃɑːp/",
+            "ukphone": "/ˈwɜːkʃɒp/",
+            "definition": "",
+            "translation": "n. 车间，工场，作坊；研讨会，讲习班\nv. （在正式上演前）研讨性演出（戏剧）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -703,17 +627,15 @@
             "bnc": 2587,
             "frq": 3130,
             "exchange": "s:workshops",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "melody",
-            "usphone": "'mɛlədi",
-            "ukphone": "'melәdi",
-            "definition": "n. the perception of pleasant arrangements of musical notes",
-            "translation": "n. 曲子, 美妙音乐, 曲调",
+            "usphone": "/ˈmelədi/",
+            "ukphone": "/ˈmelədi/",
+            "definition": "",
+            "translation": "n. 主旋律，曲调；歌，曲子；婉转，悦耳\n【名】 （Melody）（英）梅洛迪（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -721,17 +643,15 @@
             "bnc": 7282,
             "frq": 5565,
             "exchange": "s:melodies",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "polish",
-            "usphone": "'pɑlɪʃ",
-            "ukphone": "'pɒliʃ",
-            "definition": "n. the property of being smooth and shiny\nn. a highly developed state of perfection; having a flawless or impeccable quality\nn. a preparation used in polishing\nn. the Slavic language of Poland",
-            "translation": "a. 波兰的\nn. 波兰人, 上光剂, 光泽, 优雅\nvt. 擦亮, 擦去, 使完美\nvi. 擦亮, 变得光亮",
+            "usphone": "/ˈpɑːlɪʃ/",
+            "ukphone": "/ˈpɒlɪʃ/",
+            "definition": "",
+            "translation": "v. 擦亮，磨光；改进，使完美，给……润色；涂指甲油\nn. 上光剂，亮光剂；抛光，擦亮；擦光的面，打磨光亮的面；（表演或作品的）完美，优美；<旧>文雅，礼貌\nn. （Polish）波兰人；波兰语\nadj. （Polish）波兰的",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -739,17 +659,15 @@
             "bnc": 4344,
             "frq": 5749,
             "exchange": "d:polished/i:polishing/p:polished/s:polishes/3:polishes",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "gigantic",
-            "usphone": "dʒaɪ'ɡæntɪk",
-            "ukphone": "dʒai'gæntik",
-            "definition": "s. so exceedingly large or extensive as to suggest a giant or mammoth",
-            "translation": "a. 巨人般的, 巨大的",
+            "usphone": "/dʒaɪˈɡæntɪk/",
+            "ukphone": "/dʒaɪˈɡæntɪk/",
+            "definition": "",
+            "translation": "adj. 巨大的，庞大的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -757,17 +675,15 @@
             "bnc": 9583,
             "frq": 7783,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "bark",
-            "usphone": "bɑrk",
-            "ukphone": "bɑ:k",
-            "definition": "n. tough protective covering of the woody stems and roots of trees and other woody plants\nn. a noise resembling the bark of a dog\nn. a sailing ship with 3 (or more) masts\nn. the sound made by a dog",
-            "translation": "n. 树皮, 吠声\nvi. 吠, 叫骂\nvt. 喊出, 剥树皮",
+            "usphone": "/bɑːrk/",
+            "ukphone": "/bɑːk/",
+            "definition": "",
+            "translation": "v. 大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮\nn. 狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船\n【名】 （Bark）（英、西、德、捷、法、芬、瑞典）巴克，（阿拉伯、俄）巴尔克（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -775,17 +691,15 @@
             "bnc": 6605,
             "frq": 5831,
             "exchange": "p:barked/i:barking/s:barks/d:barked/3:barks",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "flap",
-            "usphone": "flæp",
-            "ukphone": "flæp",
-            "definition": "n. any broad thin and limber covering attached at one edge; hangs loose or projects freely\nn. the motion made by flapping up and down\nn. a movable piece of tissue partly connected to the body\nn. a movable airfoil that is part of an aircraft wing; used to increase lift or drag",
-            "translation": "n. 飘, 摆动, 拍打, 拍打声, 片状垂悬物\nv. 拍打, 鼓翼而飞, 飘动",
+            "usphone": "/flæp/",
+            "ukphone": "/flæp/",
+            "definition": "",
+            "translation": "n. 片状悬垂物；拍打，拍动；（飞机的）襟翼；<非正式>混乱，激动；<美>群众愤怒，大众批评\nv. <非正式>激动，紧张；摆动，拍打",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -793,17 +707,15 @@
             "bnc": 8726,
             "frq": 8113,
             "exchange": "i:flapping/p:flapped/s:flaps/3:flaps/d:flapped",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "spin",
-            "usphone": "spɪn",
-            "ukphone": "spin",
-            "definition": "n. a swift whirling motion (usually of a missile)\nn. the act of rotating rapidly\nn. a short drive in a car\nn. a distinctive interpretation (especially as used by politicians to sway public opinion)",
-            "translation": "n. 旋转, 自旋, 疾驰, 情绪低落\nvt. 纺织, 纺, 使旋转, 编造\nvi. 纺纱, 吐丝, 作茧, 结网, 旋转, 自旋, 疾驰",
+            "usphone": "/spɪn/",
+            "ukphone": "/spɪn/",
+            "definition": "",
+            "translation": "v. （使）快速旋转；（使）急转身；（头感到）眩晕；纺纱，纺织；飞驰，疾驰；编故事；有倾向性地陈述；（用甩干机或洗衣机）甩干（衣服）；（昆虫）吐（丝），结（网）；（用旋式诱饵）钓鱼；播放（唱片）；抛（硬币）；（球）旋转；（用车床将金属薄板）旋压成形\nn. 高速旋转；兜风；带倾向性的解释（或说法）；（政治上的）倾向性报道；（尤指板球、网球、斯诺克球中的）旋转球；（飞机的）旋冲，螺旋下降；晕头转向，焦虑不安；（物理）核素总角动量",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -811,17 +723,15 @@
             "bnc": 3841,
             "frq": 2644,
             "exchange": "i:spinning/p:spun/d:spun/3:spins/s:spins",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "exaggeration",
-            "usphone": "ɪɡ,zædʒə'reʃən",
-            "ukphone": "ig.zædʒә'reiʃәn",
-            "definition": "n. the act of making something more noticeable than usual\nn. making to seem more important than it really is",
-            "translation": "n. 夸张, 夸大的事物, 夸大之词",
+            "usphone": "/ɪɡˌzædʒəˈreɪʃ(ə)n/",
+            "ukphone": "/ɪɡˌzædʒəˈreɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 夸张，言过其实；（艺术等的）夸张手法",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -829,17 +739,15 @@
             "bnc": 9504,
             "frq": 10878,
             "exchange": "s:exaggerations",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "metaphor",
-            "usphone": "'mɛtəfɚ",
-            "ukphone": "'metәfә",
-            "definition": "n. a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity",
-            "translation": "n. 隐喻",
+            "usphone": "/ˈmetəfər/",
+            "ukphone": "/ˈmetəfə(r)/",
+            "definition": "",
+            "translation": "n. 隐喻，暗喻；象征，标志",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -847,17 +755,15 @@
             "bnc": 5128,
             "frq": 3927,
             "exchange": "s:metaphors",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "nonetheless",
-            "usphone": "'nʌnðə'lɛs",
-            "ukphone": ",nʌnðә'les",
-            "definition": "r despite anything to the contrary (usually following a concession)",
-            "translation": "conj. 然而, 尽管, 不过\nadv. 不过, 仍然, 尽管如此, 然而",
+            "usphone": "/ˌnʌnðəˈles/",
+            "ukphone": "/ˌnʌnðəˈles/",
+            "definition": "",
+            "translation": "adv. 然而，尽管如此",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -865,17 +771,15 @@
             "bnc": 4823,
             "frq": 3298,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "artisan",
-            "usphone": "'ɑrtəzn",
-            "ukphone": ".ɑ:ti'zæn",
-            "definition": "n a skilled worker who practices some trade or handicraft",
-            "translation": "n. 工匠, 技工\n[经] 熟练技术工, 匠人",
+            "usphone": "/ˈɑːrtɪzən/",
+            "ukphone": "/ˌɑːtɪˈzæn/",
+            "definition": "",
+            "translation": "n. 工匠，技工",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -883,17 +787,15 @@
             "bnc": 10214,
             "frq": 9296,
             "exchange": "s:artisans",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "preserve",
-            "usphone": "prɪ'zɝv",
-            "ukphone": "pri'zә:v",
-            "definition": "n. a domain that seems to be specially reserved for someone\nn. a reservation where animals are protected\nv. prevent (food) from rotting\nv. keep undisturbed for personal or private use for hunting, shooting, or fishing",
-            "translation": "vt. 保护, 保持, 保存, 维持, 腌, 禁猎\nvi. 加工食品, 禁猎\nn. 加工成的食品, 禁猎地, 保护区, 防护物",
+            "usphone": "/prɪˈzɜːrv/",
+            "ukphone": "/prɪˈzɜːv/",
+            "definition": "",
+            "translation": "v. 保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎\nn. 果酱，腌菜；（某人或某个团体的）专属领域，独有活动；动物保护区，外人禁入的猎地",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -901,17 +803,15 @@
             "bnc": 2287,
             "frq": 2209,
             "exchange": "d:preserved/i:preserving/3:preserves/p:preserved/s:preserves",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "apt",
-            "usphone": "æpt",
-            "ukphone": "æpt",
-            "definition": "s. (usually followed by `to') naturally disposed toward\ns. at risk of or subject to experiencing something usually unpleasant\ns. mentally quick and resourceful",
-            "translation": "a. 有...倾向的, 易于的, 恰当的, 聪明的\n[计] 自动数控语言, 自动图象传输, 自动程序控制, 自动程序设计工具",
+            "usphone": "/æpt/",
+            "ukphone": "/æpt/",
+            "definition": "",
+            "translation": "adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的\n【名】 （Apt）（英、法、波）阿普特（人名）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -919,17 +819,15 @@
             "bnc": 7584,
             "frq": 6999,
             "exchange": "s:apts/r:apter/t:aptest",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "timeless",
-            "usphone": "",
-            "ukphone": "'taimlis",
-            "definition": "s unaffected by time",
-            "translation": "a. 无时间限制的, 不受时间影响的, 永恒的",
+            "usphone": "/ˈtaɪmləs/",
+            "ukphone": "/ˈtaɪmləs/",
+            "definition": "",
+            "translation": "adj. 永恒的；不受时间影响的；不合时宜的",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -937,17 +835,15 @@
             "bnc": 11675,
             "frq": 9725,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "sedately",
-            "usphone": "",
-            "ukphone": "sɪ'deɪtlɪ",
-            "definition": "r. in a sedate manner",
-            "translation": "adv. 镇静地, 安详地",
+            "usphone": "/sɪˈdeɪtli/",
+            "ukphone": "/sɪˈdeɪtli/",
+            "definition": "",
+            "translation": "adv. 安详地；镇静地",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -955,17 +851,15 @@
             "bnc": 25874,
             "frq": 33697,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "modest",
-            "usphone": "'mɑdɪst",
-            "ukphone": "'mɒdist",
-            "definition": "a. marked by simplicity; having a humble opinion of yourself\ns. not large but sufficient in size or amount\ns. free from pomp or affectation\na. not offensive to sexual mores in conduct or appearance",
-            "translation": "a. 谦逊的, 羞怯的, 端庄的, 适度的\n[经] 适当的",
+            "usphone": "/ˈmɑːdɪst/",
+            "ukphone": "/ˈmɒdɪst/",
+            "definition": "",
+            "translation": "adj. 不太多的，适中的；谦虚的，谦逊的；保守的，端庄的；不错的；（服装）不显身材的；羞怯的，腼腆的\n【名】 （Modest）（罗）莫代斯特，（德）莫德斯特，（俄）莫杰斯特（人名）",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -973,17 +867,15 @@
             "bnc": 3176,
             "frq": 3101,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "dominate",
-            "usphone": "'dɑmɪnet",
-            "ukphone": "'dɒmineit",
-            "definition": "v. be in control\nv. have dominance or the power to defeat over\nv. look down on",
-            "translation": "v. 支配, 占优势",
+            "usphone": "/ˈdɑːmɪneɪt/",
+            "ukphone": "/ˈdɒmɪneɪt/",
+            "definition": "",
+            "translation": "v. 统治，支配；在……中占首要地位；俯视，高耸于；占绝对优势",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -991,17 +883,15 @@
             "bnc": 2041,
             "frq": 2312,
             "exchange": "d:dominated/p:dominated/3:dominates/i:dominating",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "architecture",
-            "usphone": "'ɑrkə'tɛktʃɚ",
-            "ukphone": "'ɑ:kitektʃә",
-            "definition": "n. an architectural product or work\nn. the discipline dealing with the principles of design and construction and ornamentation of fine buildings\nn. the profession of designing buildings and environments with consideration for their esthetic effect",
-            "translation": "n. 建筑学, 建筑式样\n[计] 体系结构",
+            "usphone": "/ˈɑːrkɪtektʃər/",
+            "ukphone": "/ˈɑːkɪtektʃə(r)/",
+            "definition": "",
+            "translation": "n. 建筑设计，建筑风格；建筑学；结构；计算机的体系结构，架构",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1009,17 +899,15 @@
             "bnc": 2712,
             "frq": 3509,
             "exchange": "s:architectures",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "ambitious",
-            "usphone": "æm'bɪʃəs",
-            "ukphone": "æm'biʃәs",
-            "definition": "a. having a strong desire for success or achievement\ns. requiring full use of your abilities or resources",
-            "translation": "a. 有野心的, 抱负不凡的, 雄心勃勃的",
+            "usphone": "/æmˈbɪʃəs/",
+            "ukphone": "/æmˈbɪʃəs/",
+            "definition": "",
+            "translation": "adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1027,17 +915,15 @@
             "bnc": 4298,
             "frq": 4287,
             "exchange": "",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "associate",
-            "usphone": "ə'soʃɪet",
-            "ukphone": "ә'sәuʃieit",
-            "definition": "n. a person who joins with others in some activity or endeavor\nn. a person with subordinate membership in a society, institution, or commercial enterprise\nn. any event that usually accompanies or is closely connected with another\nv. make a logical or causal connection",
-            "translation": "n. 同伴, 伙伴, 关联的事物\nvt. 使联合, 使发生联系\nvi. 交往\n[计] 关联",
+            "usphone": "/əˈsoʊsieɪt; əˈsoʊʃieɪt/",
+            "ukphone": "/əˈsəʊsieɪt; əˈsəʊʃieɪt/",
+            "definition": "",
+            "translation": "v. 联想，联系；支持，同意；交往，（尤指）混在一起\nn. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想\nadj. 副的，准的，非正式的；联合的，有关连的",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -1045,17 +931,15 @@
             "bnc": 1216,
             "frq": 1354,
             "exchange": "d:associated/s:associates/i:associating/p:associated/3:associates",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "analysis",
-            "usphone": "ə'næləsɪs",
-            "ukphone": "ә'nælәsis",
-            "definition": "n. an investigation of the component parts of a whole and their relations in making up the whole\nn. the abstract separation of a whole into its constituent parts in order to study the parts and their relations\nn. a form of literary criticism in which the structure of a piece of writing is analyzed\nn. the use of closed-class words instead of inflections: e.g., `the father of the bride' instead of `the bride's father'",
-            "translation": "n. 分析\n[计] 分析机; 分析员; 分析; 分析程序",
+            "usphone": "/əˈnæləsɪs/",
+            "ukphone": "/əˈnæləsɪs/",
+            "definition": "",
+            "translation": "n. 分析；化验分析；心理分析，精神分析；分析报告",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -1063,17 +947,15 @@
             "bnc": 707,
             "frq": 811,
             "exchange": "s:analyses",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         },
         {
             "value": "comprise",
-            "usphone": "kəm'praɪz",
-            "ukphone": "kәm'praiz",
-            "definition": "v be composed of\nv include or contain; have as a component\nv form or compose",
-            "translation": "vt. 包含, 构成",
+            "usphone": "/kəmˈpraɪz/",
+            "ukphone": "/kəmˈpraɪz/",
+            "definition": "",
+            "translation": "v. 包括，包含；构成，组成",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -1081,10 +963,8 @@
             "bnc": 2504,
             "frq": 4392,
             "exchange": "i:comprising/3:comprises/p:comprised/d:comprised",
-            "externalCaptions": [
-            ],
-            "captions": [
-            ]
+            "externalCaptions": [],
+            "captions": []
         }
     ]
 }
