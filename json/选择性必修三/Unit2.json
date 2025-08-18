@@ -19,15 +19,17 @@
             "bnc": 7125,
             "frq": 3544,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pose",
             "usphone": "/poʊz/",
             "ukphone": "/pəʊz/",
             "definition": "",
-            "translation": "v. 造成，引起（威胁、危险、问题等）；提出（问题）；（为照相、画像等）摆好姿势；假扮，冒充（pose as）；（举止或穿戴）装腔作势，招摇过市；<古>把……难住，使为难\nn. （为拍照、画像等摆的）姿势；故作姿态，装腔作势",
+            "translation": "v. 造成，引起（威胁、危险、问题等）；提出（问题）；（为照相、画像等）摆好姿势；假扮，冒充；（举止或穿戴）装腔作势，招摇过市；<古>把……难住，使为难\nn. （为拍照、画像等摆的）姿势；故作姿态，装腔作势",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -35,15 +37,17 @@
             "bnc": 2739,
             "frq": 2230,
             "exchange": "d:posed/3:poses/p:posed/i:posing/s:poses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "grocery",
             "usphone": "/ˈɡroʊsəri/",
             "ukphone": "/ˈɡrəʊsəri/",
             "definition": "",
-            "translation": "n. 食品杂货店，食品杂货业；食品杂货（groceries）",
+            "translation": "n. 食品杂货店，食品杂货业；食品杂货",
             "pos": "",
             "collins": 0,
             "oxford": true,
@@ -51,8 +55,10 @@
             "bnc": 9714,
             "frq": 3301,
             "exchange": "s:groceries",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "grocery store",
@@ -67,8 +73,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fascination",
@@ -83,8 +91,10 @@
             "bnc": 7139,
             "frq": 6681,
             "exchange": "s:fascinations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fashion",
@@ -99,8 +109,10 @@
             "bnc": 1852,
             "frq": 1922,
             "exchange": "d:fashioned/s:fashions/p:fashioned/i:fashioning/3:fashions",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "uncomplicated",
@@ -115,8 +127,10 @@
             "bnc": 14396,
             "frq": 17758,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "faraway",
@@ -131,8 +145,10 @@
             "bnc": 21476,
             "frq": 12293,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "celebrity",
@@ -147,15 +163,17 @@
             "bnc": 6973,
             "frq": 2960,
             "exchange": "s:celebrities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "craft",
             "usphone": "/kræft/",
             "ukphone": "/krɑːft/",
             "definition": "",
-            "translation": "n. 工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品\nv. 精心制作\n【名】 （Craft）（英、德、罗）克拉夫特（人名）",
+            "translation": "n. 工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品\nv. 精心制作",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -163,8 +181,10 @@
             "bnc": 3022,
             "frq": 2839,
             "exchange": "s:crafts/p:crafted/d:crafted/i:crafting/3:crafts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "anthropologist",
@@ -179,15 +199,17 @@
             "bnc": 7410,
             "frq": 6282,
             "exchange": "s:anthropologists",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "trial",
             "usphone": "/ˈtraɪəl/",
             "ukphone": "/ˈtraɪəl/",
             "definition": "",
-            "translation": "n. 审判，审理；试验，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演\nv. 测试，试验；（马、狗等动物）参加比赛\nadj. 试验性的\n【名】 （Trial）（法）特里亚尔（人名）",
+            "translation": "n. 审判，审理；试验，试用；（对人的忍耐、自制力的）考验，磨练；烦人的事，惹麻烦的人；预赛，选拔赛；（检验车手技能的）摩托车障碍检验赛；（动物的）比赛，表演\nv. 测试，试验；（马、狗等动物）参加比赛\nadj. 试验性的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -195,8 +217,10 @@
             "bnc": 1166,
             "frq": 898,
             "exchange": "s:trials/p:trialled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "by trial and error",
@@ -211,8 +235,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "craftsmanship",
@@ -227,8 +253,10 @@
             "bnc": 15459,
             "frq": 15188,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "atomic",
@@ -243,8 +271,10 @@
             "bnc": 5441,
             "frq": 5438,
             "exchange": "s:atomics",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "back down",
@@ -259,8 +289,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "the cutting edge",
@@ -275,8 +307,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "think outside the box",
@@ -291,8 +325,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "break new ground",
@@ -307,8 +343,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hydrogen",
@@ -323,8 +361,10 @@
             "bnc": 5200,
             "frq": 5103,
             "exchange": "s:hydrogens",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "propulsion",
@@ -339,8 +379,10 @@
             "bnc": 21313,
             "frq": 10762,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jet propulsion",
@@ -355,8 +397,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "acclaim",
@@ -371,15 +415,17 @@
             "bnc": 11847,
             "frq": 12422,
             "exchange": "d:acclaimed/p:acclaimed/i:acclaiming/s:acclaims/3:acclaims",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shun",
             "usphone": "/ʃʌn/",
             "ukphone": "/ʃʌn/",
             "definition": "",
-            "translation": "v. （故意）避开，躲开\n【名】 （Shun）（日）春（姓氏）",
+            "translation": "v. （故意）避开，躲开",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -387,8 +433,10 @@
             "bnc": 14061,
             "frq": 9114,
             "exchange": "d:shunned/p:shunned/i:shunning/3:shuns",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spotlight",
@@ -403,15 +451,17 @@
             "bnc": 8607,
             "frq": 5487,
             "exchange": "s:spotlights/i:spotlighting/p:spotlighted/d:spotlighted/3:spotlights",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "harsh",
             "usphone": "/hɑːrʃ/",
             "ukphone": "/hɑːʃ/",
             "definition": "",
-            "translation": "adj. （环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；刺眼的，耀眼的；丑陋的；刺激性强的，太强力的\n【名】 （Harsh）哈什（人名）",
+            "translation": "adj. （环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；刺眼的，耀眼的；丑陋的；刺激性强的，太强力的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -419,8 +469,10 @@
             "bnc": 3931,
             "frq": 3471,
             "exchange": "r:harsher/t:harshest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "prosperous",
@@ -435,8 +487,10 @@
             "bnc": 6904,
             "frq": 7343,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "courtyard",
@@ -451,15 +505,17 @@
             "bnc": 5755,
             "frq": 5825,
             "exchange": "s:courtyards",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "precious",
             "usphone": "/ˈpreʃəs/",
             "ukphone": "/ˈpreʃəs/",
             "definition": "",
-            "translation": "adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的\nn. （用作称呼）宝贝，亲爱的\nadv. 非常，极其\n【名】 （Precious）（英）普雷舍斯，普雷舍丝（人名）",
+            "translation": "adj. 宝贵的，珍贵的；珍视的，重要的；珍稀的，珍奇的；<非正式>（表示气愤）宝贝似的；（言行）矫揉造作的，过分讲究的；<美，非正式>可爱的，讨人喜欢的\nn. （用作称呼）宝贝，亲爱的\nadv. 非常，极其",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -467,8 +523,10 @@
             "bnc": 4109,
             "frq": 3989,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "antique",
@@ -483,15 +541,17 @@
             "bnc": 6477,
             "frq": 5748,
             "exchange": "s:antiques/p:antiqued/i:antiquing/3:antiques/d:antiqued",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "restoration",
             "usphone": "/ˌrestəˈreɪʃn/",
             "ukphone": "/ˌrestəˈreɪʃ(ə)n/",
             "definition": "",
-            "translation": "n. （对艺术品、建筑等的）修复；（做法、权利、惯例或情况的）恢复，重新实施；归还，返还；（软件程序的）恢复，还原；（牙科）修补；（模拟已灭绝动物或被毁建筑等原型的）修复物（或图），重建物（或图）；（君主、元首、政权等的）原有地位的恢复，复位；王政复辟时期（1660 年英王查理二世复辟及其后的一段时期）（the Restoration）；法国波旁王朝王政复辟（the Restoration）",
+            "translation": "n. （对艺术品、建筑等的）修复；（做法、权利、惯例或情况的）恢复，重新实施；归还，返还；（软件程序的）恢复，还原；（牙科）修补；（模拟已灭绝动物或被毁建筑等原型的）修复物（或图），重建物（或图）；（君主、元首、政权等的）原有地位的恢复，复位",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -499,15 +559,17 @@
             "bnc": 3578,
             "frq": 5002,
             "exchange": "s:restorations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crimson",
             "usphone": "/ˈkrɪmz(ə)n/",
             "ukphone": "/ˈkrɪmz(ə)n/",
             "definition": "",
-            "translation": "adj. 深红色的；（脸）通红的\nn. 深红色\nv. （尤指因尴尬）（脸）变红；（使）深红\nn. （Crimson）（美）克里姆荪（人名）",
+            "translation": "adj. 深红色的；（脸）通红的\nn. 深红色\nv. （尤指因尴尬）（脸）变红；（使）深红",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -515,8 +577,10 @@
             "bnc": 15596,
             "frq": 12173,
             "exchange": "s:crimsons/p:crimsoned/i:crimsoning/3:crimsons/d:crimsoned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "workplace",
@@ -531,8 +595,10 @@
             "bnc": 5821,
             "frq": 4282,
             "exchange": "s:workplaces",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "timepiece",
@@ -547,8 +613,10 @@
             "bnc": 36551,
             "frq": 25742,
             "exchange": "s:timepieces",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "envoy",
@@ -563,8 +631,10 @@
             "bnc": 10593,
             "frq": 9956,
             "exchange": "s:envoys",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "intricate",
@@ -579,8 +649,10 @@
             "bnc": 8539,
             "frq": 7255,
             "exchange": "i:intricating",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "maximum",
@@ -595,8 +667,10 @@
             "bnc": 2427,
             "frq": 3603,
             "exchange": "s:maxima",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "painstaking",
@@ -611,8 +685,10 @@
             "bnc": 13779,
             "frq": 14458,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "workshop",
@@ -627,15 +703,17 @@
             "bnc": 2587,
             "frq": 3130,
             "exchange": "s:workshops",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "melody",
             "usphone": "/ˈmelədi/",
             "ukphone": "/ˈmelədi/",
             "definition": "",
-            "translation": "n. 主旋律，曲调；歌，曲子；婉转，悦耳\n【名】 （Melody）（英）梅洛迪（人名）",
+            "translation": "n. 主旋律，曲调；歌，曲子；婉转，悦耳",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -643,15 +721,17 @@
             "bnc": 7282,
             "frq": 5565,
             "exchange": "s:melodies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "polish",
             "usphone": "/ˈpɑːlɪʃ/",
             "ukphone": "/ˈpɒlɪʃ/",
             "definition": "",
-            "translation": "v. 擦亮，磨光；改进，使完美，给……润色；涂指甲油\nn. 上光剂，亮光剂；抛光，擦亮；擦光的面，打磨光亮的面；（表演或作品的）完美，优美；<旧>文雅，礼貌\nn. （Polish）波兰人；波兰语\nadj. （Polish）波兰的",
+            "translation": "v. 擦亮，磨光；改进，使完美，给……润色；涂指甲油\nn. 上光剂，亮光剂；抛光，擦亮；擦光的面，打磨光亮的面；（表演或作品的）完美，优美；<旧>文雅，礼貌\nn. 波兰人；波兰语\nadj. 波兰的",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -659,8 +739,10 @@
             "bnc": 4344,
             "frq": 5749,
             "exchange": "d:polished/i:polishing/p:polished/s:polishes/3:polishes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "gigantic",
@@ -675,15 +757,17 @@
             "bnc": 9583,
             "frq": 7783,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bark",
             "usphone": "/bɑːrk/",
             "ukphone": "/bɑːk/",
             "definition": "",
-            "translation": "v. 大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮\nn. 狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船\n【名】 （Bark）（英、西、德、捷、法、芬、瑞典）巴克，（阿拉伯、俄）巴尔克（人名）",
+            "translation": "v. 大声嚷，吼叫；（狗）吠，叫；擦破（胫部的）皮；剥去（树，木头的）皮\nn. 狗叫声，吠声；吼叫声；树皮；小帆船，三桅帆船",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -691,8 +775,10 @@
             "bnc": 6605,
             "frq": 5831,
             "exchange": "p:barked/i:barking/s:barks/d:barked/3:barks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "flap",
@@ -707,8 +793,10 @@
             "bnc": 8726,
             "frq": 8113,
             "exchange": "i:flapping/p:flapped/s:flaps/3:flaps/d:flapped",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "spin",
@@ -723,8 +811,10 @@
             "bnc": 3841,
             "frq": 2644,
             "exchange": "i:spinning/p:spun/d:spun/3:spins/s:spins",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "exaggeration",
@@ -739,8 +829,10 @@
             "bnc": 9504,
             "frq": 10878,
             "exchange": "s:exaggerations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "metaphor",
@@ -755,8 +847,10 @@
             "bnc": 5128,
             "frq": 3927,
             "exchange": "s:metaphors",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "nonetheless",
@@ -771,8 +865,10 @@
             "bnc": 4823,
             "frq": 3298,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "artisan",
@@ -787,8 +883,10 @@
             "bnc": 10214,
             "frq": 9296,
             "exchange": "s:artisans",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "preserve",
@@ -803,15 +901,17 @@
             "bnc": 2287,
             "frq": 2209,
             "exchange": "d:preserved/i:preserving/3:preserves/p:preserved/s:preserves",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "apt",
             "usphone": "/æpt/",
             "ukphone": "/æpt/",
             "definition": "",
-            "translation": "adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的\n【名】 （Apt）（英、法、波）阿普特（人名）",
+            "translation": "adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -819,8 +919,10 @@
             "bnc": 7584,
             "frq": 6999,
             "exchange": "s:apts/r:apter/t:aptest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "timeless",
@@ -835,8 +937,10 @@
             "bnc": 11675,
             "frq": 9725,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sedately",
@@ -851,15 +955,17 @@
             "bnc": 25874,
             "frq": 33697,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "modest",
             "usphone": "/ˈmɑːdɪst/",
             "ukphone": "/ˈmɒdɪst/",
             "definition": "",
-            "translation": "adj. 不太多的，适中的；谦虚的，谦逊的；保守的，端庄的；不错的；（服装）不显身材的；羞怯的，腼腆的\n【名】 （Modest）（罗）莫代斯特，（德）莫德斯特，（俄）莫杰斯特（人名）",
+            "translation": "adj. 不太多的，适中的；谦虚的，谦逊的；保守的，端庄的；不错的；（服装）不显身材的；羞怯的，腼腆的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -867,8 +973,10 @@
             "bnc": 3176,
             "frq": 3101,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dominate",
@@ -883,8 +991,10 @@
             "bnc": 2041,
             "frq": 2312,
             "exchange": "d:dominated/p:dominated/3:dominates/i:dominating",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "architecture",
@@ -899,8 +1009,10 @@
             "bnc": 2712,
             "frq": 3509,
             "exchange": "s:architectures",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ambitious",
@@ -915,8 +1027,10 @@
             "bnc": 4298,
             "frq": 4287,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "associate",
@@ -931,8 +1045,10 @@
             "bnc": 1216,
             "frq": 1354,
             "exchange": "d:associated/s:associates/i:associating/p:associated/3:associates",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "analysis",
@@ -947,8 +1063,10 @@
             "bnc": 707,
             "frq": 811,
             "exchange": "s:analyses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "comprise",
@@ -963,8 +1081,10 @@
             "bnc": 2504,
             "frq": 4392,
             "exchange": "i:comprising/3:comprises/p:comprised/d:comprised",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
