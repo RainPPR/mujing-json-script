@@ -1,0 +1,784 @@
+{
+    "name": "Unit4",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 43,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "artificial",
+            "usphone": ",ɑrtɪ'fɪʃl",
+            "ukphone": ".ɑ:ti'fiʃәl",
+            "definition": "a. contrived by art rather than nature\ns. artificially formal\ns. not arising from natural growth or characterized by vital processes",
+            "translation": "a. 人造的, 假的, 非原地产的\n[医] 人工的, 人造的, 伟牟",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3499,
+            "frq": 4003,
+            "exchange": "s:artificials",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "artificial intelligence",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "人工智能",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "humanity",
+            "usphone": "hjʊ'mænəti",
+            "ukphone": "hju:'mæniti",
+            "definition": "n. the quality of being humane",
+            "translation": "n. 人性, 人类, 博爱",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 4999,
+            "frq": 3501,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "assistant",
+            "usphone": "ə'sɪstənt",
+            "ukphone": "ә'sistәnt",
+            "definition": "n. a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+            "translation": "n. 助手, 助理, 助教\na. 有帮助的, 辅助的, 助理的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2875,
+            "frq": 2706,
+            "exchange": "s:assistants",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "susceptible",
+            "usphone": "sə'sɛptəbl",
+            "ukphone": "sә'septәbl",
+            "definition": "a. (often followed by `of' or `to') yielding readily to or capable of\ns. easily impressed emotionally",
+            "translation": "a. 易受影响的, 易感动的, 容许...的\n[法] 易感的, 易受影响的, 容许",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 6934,
+            "frq": 7030,
+            "exchange": "s:susceptibles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "victim",
+            "usphone": "'vɪktɪm",
+            "ukphone": "'viktim",
+            "definition": "n. an unfortunate person who suffers from some adverse circumstance\nn. a person who is tricked or swindled",
+            "translation": "n. 受害人, 牺牲者, 牺牲品\n[法] 受害人, 被害人, 遭难者",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 1371,
+            "frq": 1063,
+            "exchange": "s:victims",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "potentially",
+            "usphone": "",
+            "ukphone": "pә'tenʃәli",
+            "definition": "r. with a possibility of becoming actual",
+            "translation": "adv. 可能地, 潜在地",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "",
+            "bnc": 3126,
+            "frq": 2831,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "automation",
+            "usphone": ",ɔtə'meʃən",
+            "ukphone": ".ɒ:tә'meiʃәn",
+            "definition": "n. the act of implementing the control of equipment with advanced technology; usually involving electronic hardware\nn. the condition of being automatically operated or controlled\nn. equipment used to achieve automatic control or operation",
+            "translation": "n. 自动化, 自动操作\n[计] 自动学; 自动化",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet4 cet6 ky ielts gre",
+            "bnc": 10701,
+            "frq": 13580,
+            "exchange": "s:automations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "capacity",
+            "usphone": "kə'pæsəti",
+            "ukphone": "kә'pæsiti",
+            "definition": "n. capability to perform or produce\nn. the amount that can be contained\nn. the maximum production possible\nn. a specified function",
+            "translation": "n. 容量, 能力, 才能, 资格\n[计] 容量",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 1507,
+            "frq": 1777,
+            "exchange": "s:capacities",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "analyse",
+            "usphone": "'æn(ə)laɪz",
+            "ukphone": "'ænәlaiz",
+            "definition": "v consider in detail and subject to an analysis in order to discover essential features or meaning\nv break down into components or essential features\nv make a mathematical, chemical, or grammatical analysis of; break down into components or essential features\nv subject to psychoanalytic treatment",
+            "translation": "vt. 分析, 细察, 分解\n[经] 分析",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet4 cet6 ky",
+            "bnc": 2142,
+            "frq": 12788,
+            "exchange": "d:analysed/i:analysing/p:analysed/3:analyses/s:analyses",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "leap",
+            "usphone": "lip",
+            "ukphone": "li:p",
+            "definition": "n. a light, self-propelled movement upwards or forwards\nn. an abrupt transition\nn. the distance leaped (or to be leaped)\nv. pass abruptly from one state or topic to another",
+            "translation": "n. 跳跃, 剧增, 急变, 被越过之物\nvi. 跳跃, 突然经过\nvt. 跃过, 使跃过",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3425,
+            "frq": 3621,
+            "exchange": "p:leapt/i:leaping/s:leaps/3:leaps/d:leapt",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "regulate",
+            "usphone": "'rɛɡjulet",
+            "ukphone": "'regjuleit",
+            "definition": "v. fix or adjust the time, amount, degree, or rate of\nv. bring into conformity with rules or principles or usage; impose regulations",
+            "translation": "vt. 管理, 控制, 调节, 调整, 校准\n[经] 控制, 管理",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3890,
+            "frq": 3384,
+            "exchange": "d:regulated/i:regulating/3:regulates/p:regulated",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "illegal",
+            "usphone": "ɪ'ligl",
+            "ukphone": "i'li:gәl",
+            "definition": "a. prohibited by law or by official or accepted rules",
+            "translation": "a. 违法的, 不合规定的\n[经] 非法的, 犯规的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts gre",
+            "bnc": 3103,
+            "frq": 2071,
+            "exchange": "s:illegals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "immoral",
+            "usphone": "ɪ'mɔrəl",
+            "ukphone": "i'mɒrәl",
+            "definition": "a. deliberately violating accepted principles of right and wrong",
+            "translation": "a. 不道德的, 邪恶的, 放荡的\n[法] 不道德的, 道德败坏的, 邪恶的",
+            "pos": "",
+            "collins": 1,
+            "oxford": true,
+            "tag": "",
+            "bnc": 11318,
+            "frq": 9751,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "client",
+            "usphone": "'klaɪənt",
+            "ukphone": "'klaiәnt",
+            "definition": "n. a person who seeks the advice of a lawyer",
+            "translation": "n. 客户, 顾客, 委托人\n[计] 客户, 客户机, 客户机程序",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet6 ky ielts",
+            "bnc": 907,
+            "frq": 1157,
+            "exchange": "s:clients",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cite",
+            "usphone": "saɪt",
+            "ukphone": "sait",
+            "definition": "n a short note recognizing a source of information or of a quoted passage\nv make reference to\nv commend\nv refer to\nv repeat a passage from\nv refer to for illustration or proof\nv advance evidence for\nv call in an official matter, such as to attend court",
+            "translation": "vt. 引用, 引证, 表彰\n[建] 引证, 指引",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 2993,
+            "frq": 1932,
+            "exchange": "d:cited/3:cites/i:citing/p:cited",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "assess",
+            "usphone": "ə'sɛs",
+            "ukphone": "ә'ses",
+            "definition": "v. charge (a person or a property) with a payment, such as a tax or a fine\nv. estimate the value of (property) for taxation",
+            "translation": "vt. 估定, 对...征税, 评定\n[经] 估计, 估价, 确定(税款罚款等)的金额",
+            "pos": "",
+            "collins": 4,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1488,
+            "frq": 2042,
+            "exchange": "d:assessed/i:assessing/3:assesses/p:assessed",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bank on",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "依靠，指望",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "horizon",
+            "usphone": "hə'raɪzn",
+            "ukphone": "hә'raizәn",
+            "definition": "n. the line at which the sky and Earth appear to meet\nn. the range of interest or activity that can be anticipated\nn. a specific layer or stratum of soil or subsoil in a vertical cross section of land\nn. the great circle on the celestial sphere whose plane passes through the sensible horizon and the center of the Earth",
+            "translation": "n. 地平线, 眼界, (天)视地平",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3831,
+            "frq": 3113,
+            "exchange": "s:horizons",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "on the horizon",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "将要发生",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "reckon",
+            "usphone": "'rɛkən",
+            "ukphone": "'rekәn",
+            "definition": "v. take account of",
+            "translation": "vt. 计算, 总计, 估计, 认为, 猜想\nvi. 数, 计算, 估计, 依赖, 料想",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 2203,
+            "frq": 8525,
+            "exchange": "3:reckons/p:reckoned/d:reckoned/i:reckoning",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cell",
+            "usphone": "sɛl",
+            "ukphone": "sel",
+            "definition": "n. any small compartment\nn. (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals\nn. a device that delivers an electric current as the result of a chemical reaction\nn. a small unit serving as part of or as the nucleus of a larger political movement",
+            "translation": "n. 单元, 细胞, 电池\n[计] 单元",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 769,
+            "frq": 895,
+            "exchange": "s:cells",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bound",
+            "usphone": "baʊnd",
+            "ukphone": "baund",
+            "definition": "v. form the boundary of; be contiguous to\na. confined by bonds\na. held with another element, substance or material in chemical or physical union\na. secured with a cover or binding; often used as a combining form",
+            "translation": "n. 跃, 回跳, 范围, 边界\na. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的\nvi. 跳跃, 弹起\nvt. 使跳, 限制, 形成...的疆界\nbind过去式和过去分词\n[计] 装订的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3174,
+            "frq": 8004,
+            "exchange": "0:bind/1:dp/s:bounds/d:bounded/i:bounding/p:bound/3:bounds",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "be bound to",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "很有可能，肯定会",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cycle",
+            "usphone": "'saɪkl",
+            "ukphone": "'saikl",
+            "definition": "n. an interval during which a recurring sequence of events occurs\nn. a series of poems or songs on the same theme\nn. a periodically repeated sequence of events\nn. a single complete execution of a periodically repeated phenomenon",
+            "translation": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 2200,
+            "frq": 2220,
+            "exchange": "s:cycles/i:cycling/p:cycled/d:cycled/3:cycles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "demand",
+            "usphone": "dɪ'mænd",
+            "ukphone": "di'mɑ:nd",
+            "definition": "n. an urgent or peremptory request\nn. the ability and desire to purchase goods and services\nn. the act of demanding\nv. request urgently and forcefully",
+            "translation": "n. 要求, 需求, 需要\nv. 要求, 查询",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky gre",
+            "bnc": 723,
+            "frq": 1287,
+            "exchange": "s:demands/p:demanded/i:demanding/d:demanded/3:demands",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "crater",
+            "usphone": "'kretɚ",
+            "ukphone": "'kreitә",
+            "definition": "n. a faint constellation in the southern hemisphere near Hydra and Corvus\nn. a bowl-shaped depression formed by the impact of a meteorite or bomb",
+            "translation": "n. 火山口, 环行山, 弹坑\n[化] 焊口; 火山石; 弧坑; 焰口",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl ielts gre",
+            "bnc": 10495,
+            "frq": 6886,
+            "exchange": "s:craters/d:cratered/i:cratering/p:cratered",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "agile",
+            "usphone": "'ædʒl",
+            "ukphone": "'ædʒail",
+            "definition": "s. moving quickly and lightly\ns. mentally quick",
+            "translation": "a. 敏捷的, 灵活的, 机敏的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 14554,
+            "frq": 14174,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "slope",
+            "usphone": "slop",
+            "ukphone": "slәup",
+            "definition": "n. an elevated geological formation\nv. be at an angle",
+            "translation": "n. 倾斜, 斜坡, 斜率, 扛枪姿势\nvt. 使倾斜, 弄斜, 扛\nvi. 倾斜, 走, 逃走",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3119,
+            "frq": 3434,
+            "exchange": "s:slopes/p:sloped/i:sloping/3:slopes/d:sloped",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "hop",
+            "usphone": "hɑp",
+            "ukphone": "hɒp",
+            "definition": "n. the act of hopping; jumping upward or forward (especially on one foot)\nn. twining perennials having cordate leaves and flowers arranged in conelike spikes; the dried flowers of this plant are used in brewing to add the characteristic bitter taste to beer\nn. an informal dance where popular music is played\nv. jump lightly",
+            "translation": "n. 单脚跳, 跳跃, 舞会, 飞行\nvi. 单脚跳, 跳跃\nvt. 跃过, 跳上, 加蛇麻子于, 服麻醉药\n[计] 跳跃式传输",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky ielts",
+            "bnc": 7840,
+            "frq": 5647,
+            "exchange": "s:hops/i:hopping/p:hopped/d:hopped/3:hops",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "squeak",
+            "usphone": "skwik",
+            "ukphone": "skwi:k",
+            "definition": "n. a short high-pitched noise",
+            "translation": "n. 吱吱声, 侥幸\nvi. 吱吱叫, 告密, 侥幸成功\nvt. 以短促尖声发出",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 15740,
+            "frq": 12246,
+            "exchange": "p:squeaked/s:squeaks/i:squeaking/3:squeaks/d:squeaked",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tendon",
+            "usphone": "'tɛndən",
+            "ukphone": "'tendәn",
+            "definition": "n. a cord or band of inelastic tissue connecting a muscle with its bony attachment",
+            "translation": "n. 腱\n[医] 腱",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 12675,
+            "frq": 10370,
+            "exchange": "s:tendons/p:tendoned",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wavelength",
+            "usphone": "'wevlɛŋθ",
+            "ukphone": "'weivleŋθ",
+            "definition": "n. the distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave\nn. a shared orientation leading to mutual understanding",
+            "translation": "n. 波长\n[化] 波长",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet4 cet6",
+            "bnc": 8243,
+            "frq": 8023,
+            "exchange": "s:wavelengths",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mechanical",
+            "usphone": "mɪ'kænɪkəl",
+            "ukphone": "mi'kænikәl",
+            "definition": "a. using (or as if using) mechanisms or tools or devices\na. relating to or concerned with machinery or tools\na. relating to or governed by or in accordance with mechanics",
+            "translation": "a. 机械的, 机械性的, 力学的\n[医] 机械的, 力学的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl gre",
+            "bnc": 3521,
+            "frq": 3729,
+            "exchange": "s:mechanicals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "imitation",
+            "usphone": ",ɪmɪ'teʃən",
+            "ukphone": ".imi'teiʃәn",
+            "definition": "n. the doctrine that representations of nature or human behavior should be accurate imitations\nn. something copied or derived from an original\nn. copying (or trying to copy) the actions of someone else",
+            "translation": "n. 模仿, 效法, 冒充, 赝品\n[医] 模仿, 仿制, 仿制品",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 6994,
+            "frq": 7375,
+            "exchange": "s:imitations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mutt",
+            "usphone": "",
+            "ukphone": "mʌt",
+            "definition": "n an inferior dog or one of mixed breed",
+            "translation": "n. 傻子, 笨蛋, 狗",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 37429,
+            "frq": 16202,
+            "exchange": "s:mutts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "frown",
+            "usphone": "fraʊn",
+            "ukphone": "fraun",
+            "definition": "n. a facial expression of dislike or displeasure\nv. look angry or sullen, wrinkle one's forehead, as if to signal disapproval",
+            "translation": "n. 皱眉\nvi. 皱眉头\nvt. 皱眉表示",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3759,
+            "frq": 4784,
+            "exchange": "p:frowned/i:frowning/d:frowned/3:frowns/s:frowns",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "positronic",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "adj. 正电子的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tightly",
+            "usphone": "'taɪtli",
+            "ukphone": "'taitli",
+            "definition": "r. in a tight or constricted manner\nr. securely fixed or fastened",
+            "translation": "adv. 紧紧地, 坚固地",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "cet6",
+            "bnc": 3946,
+            "frq": 4107,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "desperate",
+            "usphone": "'dɛspərət",
+            "ukphone": "'despәrәt",
+            "definition": "n. a person who is frightened and in need of help\ns. desperately determined\ns. (of persons) dangerously reckless or violent as from urgency or despair\ns. showing extreme courage; especially of actions courageously undertaken in desperation as a last resort",
+            "translation": "a. 不顾一切的, 危急的, 令人绝望的, 极渴望的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 2935,
+            "frq": 3091,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "clue",
+            "usphone": "klʊ",
+            "ukphone": "klu:",
+            "definition": "n. evidence that helps to solve a problem\nv. roll into a ball",
+            "translation": "n. 线索, 暗示\nvt. 暗示, 提供线索",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3489,
+            "frq": 3331,
+            "exchange": "s:clues/d:clued/p:clued/i:cluing/3:clues",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "faulty",
+            "usphone": "'fɔlti",
+            "ukphone": "'fɒ:lti",
+            "definition": "s. characterized by errors; not agreeing with a model or not following established rules; the wrong side of the road\"",
+            "translation": "a. 有过失的, 有缺点的, 不完美的, 应受责备的\n[经] 缺点多的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "cet4 cet6 ky",
+            "bnc": 8415,
+            "frq": 9993,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "consistent",
+            "usphone": "kən'sɪstənt",
+            "ukphone": "kәn'sistәnt",
+            "definition": "a. (sometimes followed by `with') in agreement or consistent or reliable\ns. the same throughout in structure or composition",
+            "translation": "a. 一致的, 坚持的, 并立的, 坚固的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl gre",
+            "bnc": 2670,
+            "frq": 2225,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}
