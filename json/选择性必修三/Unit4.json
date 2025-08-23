@@ -19,8 +19,10 @@
             "bnc": 3499,
             "frq": 4003,
             "exchange": "s:artificials",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "artificial intelligence",
@@ -35,8 +37,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "humanity",
@@ -51,8 +55,10 @@
             "bnc": 4999,
             "frq": 3501,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "assistant",
@@ -67,8 +73,10 @@
             "bnc": 2875,
             "frq": 2706,
             "exchange": "s:assistants",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "susceptible",
@@ -83,8 +91,10 @@
             "bnc": 6934,
             "frq": 7030,
             "exchange": "s:susceptibles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "victim",
@@ -99,8 +109,10 @@
             "bnc": 1371,
             "frq": 1063,
             "exchange": "s:victims",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "potentially",
@@ -115,8 +127,10 @@
             "bnc": 3126,
             "frq": 2831,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "automation",
@@ -131,8 +145,10 @@
             "bnc": 10701,
             "frq": 13580,
             "exchange": "s:automations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "capacity",
@@ -147,8 +163,10 @@
             "bnc": 1507,
             "frq": 1777,
             "exchange": "s:capacities",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "analyse",
@@ -163,15 +181,17 @@
             "bnc": 2142,
             "frq": 12788,
             "exchange": "d:analysed/i:analysing/p:analysed/3:analyses/s:analyses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "leap",
             "usphone": "/liːp/",
             "ukphone": "/liːp/",
             "definition": "",
-            "translation": "v. 猛冲，突然而迅速地移动；剧增，猛涨；赶紧抓住（机会）；（心）猛跳；跳，跳跃\nn. 跳跃，跳高；骤变，激增；（对新事物的）认真尝试\n【名】 （Leap）（美、法、英）莱亚（人名）",
+            "translation": "v. 猛冲，突然而迅速地移动；剧增，猛涨；赶紧抓住（机会）；（心）猛跳；跳，跳跃\nn. 跳跃，跳高；骤变，激增；（对新事物的）认真尝试",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -179,8 +199,10 @@
             "bnc": 3425,
             "frq": 3621,
             "exchange": "p:leapt/i:leaping/s:leaps/3:leaps/d:leapt",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "regulate",
@@ -195,8 +217,10 @@
             "bnc": 3890,
             "frq": 3384,
             "exchange": "d:regulated/i:regulating/3:regulates/p:regulated",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "illegal",
@@ -211,8 +235,10 @@
             "bnc": 3103,
             "frq": 2071,
             "exchange": "s:illegals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "immoral",
@@ -227,8 +253,10 @@
             "bnc": 11318,
             "frq": 9751,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "client",
@@ -243,8 +271,10 @@
             "bnc": 907,
             "frq": 1157,
             "exchange": "s:clients",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cite",
@@ -259,8 +289,10 @@
             "bnc": 2993,
             "frq": 1932,
             "exchange": "d:cited/3:cites/i:citing/p:cited",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "assess",
@@ -275,8 +307,10 @@
             "bnc": 1488,
             "frq": 2042,
             "exchange": "d:assessed/i:assessing/3:assesses/p:assessed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bank on",
@@ -291,8 +325,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "horizon",
@@ -307,8 +343,10 @@
             "bnc": 3831,
             "frq": 3113,
             "exchange": "s:horizons",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "on the horizon",
@@ -323,8 +361,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reckon",
@@ -339,15 +379,17 @@
             "bnc": 2203,
             "frq": 8525,
             "exchange": "3:reckons/p:reckoned/d:reckoned/i:reckoning",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cell",
             "usphone": "/sel/",
             "ukphone": "/sel/",
             "definition": "",
-            "translation": "n. 细胞；小牢房；电解槽，电池；电芯；（政治组织的）小组，基层组织；（修道院中的）单人小室；（巢穴中单个的）巢室；（计算机屏幕上的）单元格\n【名】 （Cell）（英）塞尔（人名）",
+            "translation": "n. 细胞；小牢房；电解槽，电池；电芯；（政治组织的）小组，基层组织；（修道院中的）单人小室；（巢穴中单个的）巢室；（计算机屏幕上的）单元格",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -355,15 +397,17 @@
             "bnc": 769,
             "frq": 895,
             "exchange": "s:cells",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bound",
             "usphone": "/baʊnd/",
             "ukphone": "/baʊnd/",
             "definition": "",
-            "translation": "adj. 必然的，肯定的；受约束的，有义务的；被……所限制的，被……所束缚的；要到……去的，驶往……的；装订好的，有封面的；（与……）紧密相连的，关系密切；准备就绪的；（语法要素）黏附的\nv. 跳跃，蹦跳着走；形成……的边界，划界；限制，约束；突然增长，急剧上升；（尤指圆形的物体）弹回，弹开\nn. 界限，限制；蹦跳，跳跃\nv. 捆绑；使团结；凝结（bind 的过去式和过去分词形式）",
+            "translation": "adj. 必然的，肯定的；受约束的，有义务的；被……所限制的，被……所束缚的；要到……去的，驶往……的；装订好的，有封面的；（与……）紧密相连的，关系密切；准备就绪的；（语法要素）黏附的\nv. 跳跃，蹦跳着走；形成……的边界，划界；限制，约束；突然增长，急剧上升；（尤指圆形的物体）弹回，弹开\nn. 界限，限制；蹦跳，跳跃\nv. 捆绑；使团结；凝结",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -371,8 +415,10 @@
             "bnc": 3174,
             "frq": 8004,
             "exchange": "0:bind/1:dp/s:bounds/d:bounded/i:bounding/p:bound/3:bounds",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "be bound to",
@@ -387,8 +433,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cycle",
@@ -403,15 +451,17 @@
             "bnc": 2200,
             "frq": 2220,
             "exchange": "s:cycles/i:cycling/p:cycled/d:cycled/3:cycles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "demand",
             "usphone": "/dɪˈmænd/",
             "ukphone": "/dɪˈmɑːnd/",
             "definition": "",
-            "translation": "v. 强烈要求；需要，需求\nn. 坚决的要求；需求，需求量；（困难的）要求\n【名】 （Demand）（德）德曼德（人名）",
+            "translation": "v. 强烈要求；需要，需求\nn. 坚决的要求；需求，需求量；（困难的）要求",
             "pos": "",
             "collins": 5,
             "oxford": true,
@@ -419,8 +469,10 @@
             "bnc": 723,
             "frq": 1287,
             "exchange": "s:demands/p:demanded/i:demanding/d:demanded/3:demands",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "crater",
@@ -435,8 +487,10 @@
             "bnc": 10495,
             "frq": 6886,
             "exchange": "s:craters/d:cratered/i:cratering/p:cratered",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "agile",
@@ -451,8 +505,10 @@
             "bnc": 14554,
             "frq": 14174,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "slope",
@@ -467,15 +523,17 @@
             "bnc": 3119,
             "frq": 3434,
             "exchange": "s:slopes/p:sloped/i:sloping/3:slopes/d:sloped",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "hop",
             "usphone": "/hɑːp/",
             "ukphone": "/hɒp/",
             "definition": "",
-            "translation": "v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味\nn. 单脚跳；（鸟、小动物）双脚跳；短途旅行；忽布，啤酒花；舞会；霍普舞；毒品（尤指鸦片）\n【名】（Hop）（美）合（人名）",
+            "translation": "v. 单脚跳行；齐足（或双足）跳行；快速移动，快速前往；登上（飞机、火车等）；（尤指搭乘飞机）短途旅行；换来换去；<非正式>速递，快运；用啤酒花调味\nn. 单脚跳；（鸟、小动物）双脚跳；短途旅行；忽布，啤酒花；舞会；霍普舞；毒品（尤指鸦片）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -483,8 +541,10 @@
             "bnc": 7840,
             "frq": 5647,
             "exchange": "s:hops/i:hopping/p:hopped/d:hopped/3:hops",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "squeak",
@@ -499,15 +559,17 @@
             "bnc": 15740,
             "frq": 12246,
             "exchange": "p:squeaked/s:squeaks/i:squeaking/3:squeaks/d:squeaked",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tendon",
             "usphone": "/ˈtendən/",
             "ukphone": "/ˈtendən/",
             "definition": "",
-            "translation": "n. [解剖]腱\nn. （Tendon）人名；（法）唐东",
+            "translation": "n. 腱",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -515,15 +577,17 @@
             "bnc": 12675,
             "frq": 10370,
             "exchange": "s:tendons/p:tendoned",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wavelength",
             "usphone": "/ˈweɪvleŋkθ/",
             "ukphone": "/ˈweɪvleŋkθ/",
             "definition": "",
-            "translation": "n. [物] 波长",
+            "translation": "n. 波长",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -531,8 +595,10 @@
             "bnc": 8243,
             "frq": 8023,
             "exchange": "s:wavelengths",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mechanical",
@@ -547,8 +613,10 @@
             "bnc": 3521,
             "frq": 3729,
             "exchange": "s:mechanicals",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "imitation",
@@ -563,8 +631,10 @@
             "bnc": 6994,
             "frq": 7375,
             "exchange": "s:imitations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "mutt",
@@ -579,15 +649,17 @@
             "bnc": 37429,
             "frq": 16202,
             "exchange": "s:mutts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "frown",
             "usphone": "/fraʊn/",
             "ukphone": "/fraʊn/",
             "definition": "",
-            "translation": "v. 皱眉，蹙额；皱眉对……表示不满；不同意，不许可（frown on/upon）\nn. 皱眉，蹙额",
+            "translation": "v. 皱眉，蹙额；皱眉对……表示不满；不同意，不许可\nn. 皱眉，蹙额",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -595,15 +667,17 @@
             "bnc": 3759,
             "frq": 4784,
             "exchange": "p:frowned/i:frowning/d:frowned/3:frowns/s:frowns",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "positronic",
             "usphone": "/ˌpɑːzɪˈtrɑːnɪk/",
             "ukphone": "/ˌpɒzɪˈtrɒnɪk/",
             "definition": "",
-            "translation": "adj. 正电子的，与正电子有关的\nn. （Positronic）美商宝西（公司名）",
+            "translation": "adj. 正电子的，与正电子有关的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -611,8 +685,10 @@
             "bnc": 0,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tightly",
@@ -627,8 +703,10 @@
             "bnc": 3946,
             "frq": 4107,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "desperate",
@@ -643,8 +721,10 @@
             "bnc": 2935,
             "frq": 3091,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "clue",
@@ -659,8 +739,10 @@
             "bnc": 3489,
             "frq": 3331,
             "exchange": "s:clues/d:clued/p:clued/i:cluing/3:clues",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "faulty",
@@ -675,8 +757,10 @@
             "bnc": 8415,
             "frq": 9993,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "consistent",
@@ -691,8 +775,10 @@
             "bnc": 2670,
             "frq": 2225,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
