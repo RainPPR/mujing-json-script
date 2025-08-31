@@ -19,8 +19,10 @@
             "bnc": 3186,
             "frq": 3220,
             "exchange": "s:weeklies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "inspector",
@@ -35,8 +37,10 @@
             "bnc": 2267,
             "frq": 3550,
             "exchange": "s:inspectors",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "insist",
@@ -51,8 +55,10 @@
             "bnc": 1411,
             "frq": 1359,
             "exchange": "p:insisted/3:insists/i:insisting/d:insisted",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "secrecy",
@@ -67,15 +73,17 @@
             "bnc": 6899,
             "frq": 7130,
             "exchange": "s:secrecies",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "shaving",
             "usphone": "/ˈʃeɪvɪŋ/",
             "ukphone": "/ˈʃeɪvɪŋ/",
             "definition": "",
-            "translation": "v. 修面，剃（shave 的现在分词）\nn. 刨削下的薄片，刨花；刮胡子；削",
+            "translation": "v. 修面，剃\nn. 刨削下的薄片，刨花；刮胡子；削",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -83,8 +91,10 @@
             "bnc": 23918,
             "frq": 18858,
             "exchange": "0:shave/1:i/s:shavings/i:shaving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "flush",
@@ -99,15 +109,17 @@
             "bnc": 5416,
             "frq": 5935,
             "exchange": "p:flushed/i:flushing/d:flushed/s:flushes/3:flushes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "plum",
             "usphone": "/plʌm/",
             "ukphone": "/plʌm/",
             "definition": "",
-            "translation": "n. 李子，李树；紫红色，李子色；<非正式>令人垂涎之物\nadj. 称心的，值得拥有的；紫红色的，李子色的\nadv. <美，非正式>正好地，准确地\n【名】 （Plum）（德、西）普卢姆，（英）普拉姆（人名）",
+            "translation": "n. 李子，李树；紫红色，李子色；<非正式>令人垂涎之物\nadj. 称心的，值得拥有的；紫红色的，李子色的\nadv. <美，非正式>正好地，准确地",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -115,8 +127,10 @@
             "bnc": 9821,
             "frq": 7666,
             "exchange": "s:plums",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "faintly",
@@ -131,8 +145,10 @@
             "bnc": 7351,
             "frq": 9681,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dispose",
@@ -147,8 +163,10 @@
             "bnc": 4101,
             "frq": 6900,
             "exchange": "i:disposing/d:disposed/p:disposed/3:disposes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sparkle",
@@ -163,8 +181,10 @@
             "bnc": 8882,
             "frq": 10602,
             "exchange": "p:sparkled/i:sparkling/3:sparkles/s:sparkles/d:sparkled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "prospect",
@@ -179,15 +199,17 @@
             "bnc": 1724,
             "frq": 2323,
             "exchange": "s:prospects/i:prospecting/p:prospected/3:prospects/d:prospected",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "redden",
             "usphone": "/ˈred(ə)n/",
             "ukphone": "/ˈred(ə)n/",
             "definition": "",
-            "translation": "v. （使）变红；（人）脸红，害羞；（眼睛）哭红\nn. （Redden）（美）雷登（人名）",
+            "translation": "v. （使）变红；（人）脸红，害羞；（眼睛）哭红",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -195,8 +217,10 @@
             "bnc": 23074,
             "frq": 16258,
             "exchange": "d:reddened/p:reddened/i:reddening/3:reddens",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "glare",
@@ -211,15 +235,17 @@
             "bnc": 5510,
             "frq": 6371,
             "exchange": "p:glared/i:glaring/3:glares/s:glares/d:glared",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "flake",
             "usphone": "/fleɪk/",
             "ukphone": "/fleɪk/",
             "definition": "",
-            "translation": "n. 小薄片，碎片；古怪的人；搁架；坚硬石片；（卷绳或盘索的）一圈\nv. 剥落，将……剥落；使……成薄片；（非正式）入睡，筋疲力尽；把（绳子）松松挽好\nn. （Flake）（美）弗拉克（人名）",
+            "translation": "n. 小薄片，碎片；古怪的人；搁架；坚硬石片；（卷绳或盘索的）一圈\nv. 剥落，将……剥落；使……成薄片；（非正式）入睡，筋疲力尽；把（绳子）松松挽好",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -227,15 +253,17 @@
             "bnc": 10159,
             "frq": 7753,
             "exchange": "s:flakes/i:flaking/p:flaked/d:flaked/3:flakes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bend",
             "usphone": "/bend/",
             "ukphone": "/bend/",
             "definition": "",
-            "translation": "v. 弯曲（身体关节）；（路）转弯；歪曲（事实）；篡改；屈从；系，缚（帆，缆绳）；使弯曲，弄弯\nn. （道路或河流的）拐弯，弯道；（身体的）弯曲（动作）；（尤指潜水员的）潜涵病，减压病（the bends）；绑结；（纹章盾形）左上方至右下方的对角斜纹\n【名】 （Bend）（美、丹、德）本德（人名）",
+            "translation": "v. 弯曲（身体关节）；（路）转弯；歪曲（事实）；篡改；屈从；系，缚（帆，缆绳）；使弯曲，弄弯\nn. （道路或河流的）拐弯，弯道；（身体的）弯曲（动作）；（尤指潜水员的）潜涵病，减压病；绑结；（纹章盾形）左上方至右下方的对角斜纹",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -243,8 +271,10 @@
             "bnc": 2445,
             "frq": 2194,
             "exchange": "p:bent/i:bending/d:bent/s:bends/3:bends",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "weathercock",
@@ -259,15 +289,17 @@
             "bnc": 44085,
             "frq": 0,
             "exchange": "i:weathercocking/s:weathercocks",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "church",
             "usphone": "/tʃɜːrtʃ/",
             "ukphone": "/tʃɜːtʃ/",
             "definition": "",
-            "translation": "n. 教堂；礼拜仪式；教派，教会\nv. <古>把（产妇等）带到教堂做感恩礼拜；<美>对……进行教会裁决\nadj. 教会的；礼拜的\n【名】 （Church）（英）丘奇（人名）",
+            "translation": "n. 教堂；礼拜仪式；教派，教会\nv. <古>把（产妇等）带到教堂做感恩礼拜；<美>对……进行教会裁决\nadj. 教会的；礼拜的",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -275,8 +307,10 @@
             "bnc": 393,
             "frq": 648,
             "exchange": "s:churches/i:churching/p:churched/3:churches/d:churched",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "rhyme",
@@ -291,15 +325,17 @@
             "bnc": 8663,
             "frq": 10200,
             "exchange": "s:rhymes/3:rhymes/i:rhyming/p:rhymed/d:rhymed/f:rhymes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "alabaster",
             "usphone": "/ˈæləbæstər/",
             "ukphone": "/ˈæləbɑːstə(r)/",
             "definition": "",
-            "translation": "n. 雪花石膏\nadj. 以雪花石膏制的；（像雪花石膏一样）光洁雪白的\nn. （Alabaster）阿拉巴斯特（人名）",
+            "translation": "n. 雪花石膏\nadj. 以雪花石膏制的；（像雪花石膏一样）光洁雪白的",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -307,15 +343,17 @@
             "bnc": 24934,
             "frq": 22647,
             "exchange": "s:alabasters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "goose",
             "usphone": "/ɡuːs/",
             "ukphone": "/ɡuːs/",
             "definition": "",
-            "translation": "n. 鹅；鹅肉；雌鹅；<非正式> 傻瓜；（裁缝用的）熨斗\nv. <美，非正式> 触摸（或捏）某人的臀部；<美，非正式> 推动，激励；<非正式>开大（汽车等）的油门；<非正式>作嘘嘘声反对（某人）\n【名】 （Goose）（英）古斯，（德）戈泽（人名）",
+            "translation": "n. 鹅；鹅肉；雌鹅；<非正式> 傻瓜；（裁缝用的）熨斗\nv. <美，非正式> 触摸（或捏）某人的臀部；<美，非正式> 推动，激励；<非正式>开大（汽车等）的油门；<非正式>作嘘嘘声反对（某人）",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -323,15 +361,17 @@
             "bnc": 6076,
             "frq": 5529,
             "exchange": "s:geese/d:goosed/p:goosed/i:goosing/3:gooses",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "feather",
             "usphone": "/ˈfeðər/",
             "ukphone": "/ˈfeðə(r)/",
             "definition": "",
-            "translation": "n. 羽毛\nv. 用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；小心翼翼地把……混合起来（或把……弄平）；（油墨、口红等抹上后）化开，变模糊\n【名】 （Feather）（英）费瑟（人名）",
+            "translation": "n. 羽毛\nv. 用羽毛装饰；长羽毛；使（螺旋桨）顺流交距；使（旋翼）周期变距；（划船）平掠回（桨）；如羽毛般浮动（或移动、飘动）；小心翼翼地把……混合起来（或把……弄平）；（油墨、口红等抹上后）化开，变模糊",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -339,15 +379,17 @@
             "bnc": 4798,
             "frq": 4531,
             "exchange": "s:feathers/p:feathered/i:feathering/d:feathered/3:feathers",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "innocent",
             "usphone": "/ˈɪnəs(ə)nt/",
             "ukphone": "/ˈɪnəs(ə)nt/",
             "definition": "",
-            "translation": "adj. 天真的，幼稚的；清白的，无罪的；无辜受害的；没有恶意的，无冒犯之意的\nn. 天真无邪的人，幼稚的人；无辜的受害者（尤指犯罪或战争的受害者）\n【名】 （Innocent）（英、西）因诺森特，（法）伊诺桑（人名）",
+            "translation": "adj. 天真的，幼稚的；清白的，无罪的；无辜受害的；没有恶意的，无冒犯之意的\nn. 天真无邪的人，幼稚的人；无辜的受害者（尤指犯罪或战争的受害者）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -355,8 +397,10 @@
             "bnc": 3421,
             "frq": 2775,
             "exchange": "s:innocents",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "enhance",
@@ -371,15 +415,17 @@
             "bnc": 2669,
             "frq": 2331,
             "exchange": "d:enhanced/i:enhancing/3:enhances/p:enhanced",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bloom",
             "usphone": "/bluːm/",
             "ukphone": "/bluːm/",
             "definition": "",
-            "translation": "n. 花，花朵；花期；青春焕发，风华正茂；（肤色的）红润；（一些水果和植物的）粉衣，粉霜；（尤指音乐录音中）饱满响亮的声音；方坯\nv. 开花，绽放；繁荣，兴旺；精神焕发；给（透镜）敷膜；把（铸块）铸成方坯\n【名】 （Bloom）（英）布卢姆，（瑞典、西）布洛姆（人名）",
+            "translation": "n. 花，花朵；花期；青春焕发，风华正茂；（肤色的）红润；（一些水果和植物的）粉衣，粉霜；（尤指音乐录音中）饱满响亮的声音；方坯\nv. 开花，绽放；繁荣，兴旺；精神焕发；给（透镜）敷膜；把（铸块）铸成方坯",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -387,8 +433,10 @@
             "bnc": 7980,
             "frq": 6582,
             "exchange": "s:blooms/p:bloomed/i:blooming/d:bloomed/3:blooms",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "bleak",
@@ -403,15 +451,17 @@
             "bnc": 5960,
             "frq": 7297,
             "exchange": "r:bleaker/t:bleakest",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fade",
             "usphone": "/feɪd/",
             "ukphone": "/feɪd/",
             "definition": "",
-            "translation": "v. 逐渐消失；（使）褪色，（使）变暗；枯萎，凋谢；变得虚弱；退步；（车辆的刹车因摩擦发热而）暂时失灵；（使）（电影或电视画面）淡入（或淡出）另一画面；变得默默无闻，变得无关紧要；（高尔夫球）偏离直线；<美，非正式>接受（掷骰子者）的打赌\nn. 淡入，淡出；褪色，变暗；（高尔夫球运动员故意击出的）向右偏离球\nadj. 平淡的，乏味的\n【名】 （Fade）（法）法德（人名）",
+            "translation": "v. 逐渐消失；（使）褪色，（使）变暗；枯萎，凋谢；变得虚弱；退步；（车辆的刹车因摩擦发热而）暂时失灵；（使）（电影或电视画面）淡入（或淡出）另一画面；变得默默无闻，变得无关紧要；（高尔夫球）偏离直线；<美，非正式>接受（掷骰子者）的打赌\nn. 淡入，淡出；褪色，变暗；（高尔夫球运动员故意击出的）向右偏离球\nadj. 平淡的，乏味的",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -419,15 +469,17 @@
             "bnc": 3506,
             "frq": 2882,
             "exchange": "i:fading/d:faded/p:faded/3:fades/s:fades",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "orchard",
             "usphone": "/ˈɔːrtʃərd/",
             "ukphone": "/ˈɔːtʃəd/",
             "definition": "",
-            "translation": "n. 果园；果树林\n【名】 （Orchard）（英、西）奥查德（人名）",
+            "translation": "n. 果园；果树林",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -435,15 +487,17 @@
             "bnc": 7245,
             "frq": 7259,
             "exchange": "s:orchards",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "cluster",
             "usphone": "/ˈklʌstər/",
             "ukphone": "/ˈklʌstə(r)/",
             "definition": "",
-            "translation": "n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀；基\nv. 群聚，聚集；（数据点）具近似数值\n【名】 （Cluster）（英）克拉斯特（人名）",
+            "translation": "n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀；基\nv. 群聚，聚集；（数据点）具近似数值",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -451,15 +505,17 @@
             "bnc": 4369,
             "frq": 3200,
             "exchange": "s:clusters/p:clustered/d:clustered/i:clustering/3:clusters",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wheat",
             "usphone": "/wiːt/",
             "ukphone": "/wiːt/",
             "definition": "",
-            "translation": "n. 小麦（植物），小麦（籽实）；<美>小麦面包；小麦色\n【名】 （Wheat）（英）惠特（人名）",
+            "translation": "n. 小麦（植物），小麦（籽实）；<美>小麦面包；小麦色",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -467,15 +523,17 @@
             "bnc": 5619,
             "frq": 4479,
             "exchange": "s:wheats",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "pile",
             "usphone": "/paɪl/",
             "ukphone": "/paɪl/",
             "definition": "",
-            "translation": "n. 一堆，一叠；一大堆，大量；大笔钱财；（地毯的）绒面；地桩；宏伟建筑物；痔疮；（纹章）（尖头朝下的）楔形普通图记；电池组\nv. 堆放；堆满；聚集；将（女子头发）高高盘起；蜂拥，拥挤；（车）撞（~ into）；<非正式>夸大（~ something on）；用桩加固（或支撑）\n【名】 （Pile）（西）皮莱，（英）派尔（人名）",
+            "translation": "n. 一堆，一叠；一大堆，大量；大笔钱财；（地毯的）绒面；地桩；宏伟建筑物；痔疮；（纹章）（尖头朝下的）楔形普通图记；电池组\nv. 堆放；堆满；聚集；将（女子头发）高高盘起；蜂拥，拥挤；（车）撞；<非正式>夸大；用桩加固（或支撑）",
             "pos": "",
             "collins": 3,
             "oxford": true,
@@ -483,8 +541,10 @@
             "bnc": 3229,
             "frq": 3003,
             "exchange": "s:piles/d:piled/i:piling/p:piled/3:piles",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "sweep",
@@ -499,8 +559,10 @@
             "bnc": 2636,
             "frq": 2639,
             "exchange": "d:swept/p:swept/i:sweeping/3:sweeps/s:sweeps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tinge",
@@ -515,15 +577,17 @@
             "bnc": 14082,
             "frq": 14630,
             "exchange": "d:tinged/p:tinged/s:tinges/3:tinges/i:tingeing",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wagon",
             "usphone": "/ˈwæɡən/",
             "ukphone": "/ˈwæɡən/",
             "definition": "",
-            "translation": "n. （一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人\nv. 用运货马车运输货物\n【名】 （Wagon）（法、德）瓦贡（人名）",
+            "translation": "n. （一般由马拉的）四轮运货车；<英>（无顶的）铁路货车车厢，车皮；旅行轿车（station wagon 的简称）；<美>（用作食品货摊的）手推车；儿童玩具小车；（吉卜赛人或马戏团用的）大篷车；<爱尔兰，非正式>令人不快的女人\nv. 用运货马车运输货物",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -531,15 +595,17 @@
             "bnc": 6118,
             "frq": 4194,
             "exchange": "s:wagons",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reap",
             "usphone": "/riːp/",
             "ukphone": "/riːp/",
             "definition": "",
-            "translation": "v. 获得，收获；收割（庄稼等）\n【名】 （Reap）（英）里普（人名）",
+            "translation": "v. 获得，收获；收割（庄稼等）",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -547,15 +613,17 @@
             "bnc": 8430,
             "frq": 7589,
             "exchange": "i:reaping/p:reaped/d:reaped/3:reaps",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "ban",
             "usphone": "/bæn/",
             "ukphone": "/bæn/",
             "definition": "",
-            "translation": "n. 禁止，禁令；逐出令；<史>褫夺公民权的判决；<古>诅咒；巴尼（罗马尼亚货币单位，复数bani）\nv. 禁止，取缔；（官方）把（某人）逐出某地\n【名】 （Ban）（美、罗马、克罗地亚）班恩（人名）",
+            "translation": "n. 禁止，禁令；逐出令；<史>褫夺公民权的判决；<古>诅咒\nv. 禁止，取缔；（官方）把（某人）逐出某地",
             "pos": "",
             "collins": 4,
             "oxford": true,
@@ -563,15 +631,17 @@
             "bnc": 2824,
             "frq": 3273,
             "exchange": "d:banned/i:banning/p:banned/s:bans/3:bans",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "puzzled",
             "usphone": "/ˈpʌz(ə)ld/",
             "ukphone": "/ˈpʌz(ə)ld/",
             "definition": "",
-            "translation": "adj. 困惑的，迷惑不解的\nv. 使困惑，使迷惑；绞尽脑汁，冥思苦想（puzzle over）（puzzle 的过去式和过去分词形式）",
+            "translation": "adj. 困惑的，迷惑不解的\nv. 使困惑，使迷惑；绞尽脑汁，冥思苦想",
             "pos": "",
             "collins": 0,
             "oxford": false,
@@ -579,8 +649,10 @@
             "bnc": 5694,
             "frq": 7319,
             "exchange": "0:puzzle/1:pd/p:puzzled/d:puzzled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "backyard",
@@ -595,8 +667,10 @@
             "bnc": 14656,
             "frq": 4387,
             "exchange": "s:backyards",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "moribund",
@@ -611,15 +685,17 @@
             "bnc": 19128,
             "frq": 0,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "tremble",
             "usphone": "/ˈtremb(ə)l/",
             "ukphone": "/ˈtremb(ə)l/",
             "definition": "",
-            "translation": "v. （因害怕、紧张、兴奋等）颤抖，哆嗦；颤动，轻轻摇晃；害怕，紧张；（声音）颤抖\nn. 颤抖，战栗； <非正式>震颤病 (the trembles)；乳毒病（同 milk sickness）",
+            "translation": "v. （因害怕、紧张、兴奋等）颤抖，哆嗦；颤动，轻轻摇晃；害怕，紧张；（声音）颤抖\nn. 颤抖，战栗；<非正式>震颤病",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -627,8 +703,10 @@
             "bnc": 4432,
             "frq": 5233,
             "exchange": "i:trembling/p:trembled/3:trembles/d:trembled",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "throb",
@@ -643,15 +721,17 @@
             "bnc": 16789,
             "frq": 14799,
             "exchange": "p:throbbed/i:throbbing/s:throbs/3:throbs/d:throbbed",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "chorus",
             "usphone": "/ˈkɔːrəs/",
             "ukphone": "/ˈkɔːrəs/",
             "definition": "",
-            "translation": "n. 副歌，叠句；合唱团，歌咏队；齐声，异口同声；合唱歌曲；（古希腊戏剧）合唱队，解说演员；(伊丽莎白时期戏剧）旁白；乐器扩音器；（演出中伴舞的）歌舞队\nv. 齐声说，齐唱\n【名】 （Chorus）（法）肖吕斯（人名）",
+            "translation": "n. 副歌，叠句；合唱团，歌咏队；齐声，异口同声；合唱歌曲；（古希腊戏剧）合唱队，解说演员；(伊丽莎白时期戏剧）旁白；乐器扩音器；（演出中伴舞的）歌舞队\nv. 齐声说，齐唱",
             "pos": "",
             "collins": 2,
             "oxford": false,
@@ -659,8 +739,10 @@
             "bnc": 5335,
             "frq": 5274,
             "exchange": "s:choruses/p:chorused/i:chorusing/3:choruses/d:chorused",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "robin",
@@ -675,8 +757,10 @@
             "bnc": 3695,
             "frq": 15954,
             "exchange": "s:robins",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "catbird",
@@ -691,15 +775,17 @@
             "bnc": 0,
             "frq": 35327,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dove",
             "usphone": "/dʌv/",
             "ukphone": "/dʌv/",
             "definition": "",
-            "translation": "n. 鸽子；鸽派人士，主和派人士\nn. （Dove）（基督教艺术作品和诗歌中的）圣灵\nv. 跳水；潜水；突然大幅贬值，暴跌（dive 的过去式和过去分词）\n【名】 （Dove）（美）达夫（人名）",
+            "translation": "n. 鸽子；鸽派人士，主和派人士\nn. （基督教艺术作品和诗歌中的）圣灵\nv. 跳水；潜水；突然大幅贬值，暴跌",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -707,15 +793,17 @@
             "bnc": 9864,
             "frq": 7715,
             "exchange": "0:dive/1:p/s:doves/i:doving",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "jay",
             "usphone": "/dʒeɪ/",
             "ukphone": "/dʒeɪ/",
             "definition": "",
-            "translation": "n. 鸟；松鸦；喋喋不休的人\nn. （Jay）人名；（英）杰伊；（法）热",
+            "translation": "n. 鸟；松鸦；喋喋不休的人",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -723,15 +811,17 @@
             "bnc": 6282,
             "frq": 18401,
             "exchange": "s:jays",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "wren",
             "usphone": "/ren/",
             "ukphone": "/ren/",
             "definition": "",
-            "translation": "n. 鹪鹩\nn. （Wren）人名；（英）雷恩",
+            "translation": "n. 鹪鹩",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -739,15 +829,17 @@
             "bnc": 16089,
             "frq": 21349,
             "exchange": "s:wrens",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "marsh",
             "usphone": "/mɑːrʃ/",
             "ukphone": "/mɑːʃ/",
             "definition": "",
-            "translation": "n. 沼泽，湿地\n【名】 （Marsh）（俄）马尔什，（英、瑞典）马什（人名）",
+            "translation": "n. 沼泽，湿地",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -755,15 +847,17 @@
             "bnc": 6540,
             "frq": 6794,
             "exchange": "s:marshes",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "fable",
             "usphone": "/ˈfeɪb(ə)l/",
             "ukphone": "/ˈfeɪb(ə)l/",
             "definition": "",
-            "translation": "n. 寓言；谎言，无稽之谈；神话，传说\nv. 虚构，撒谎；讲寓言，编寓言；煞有介事地讲述\n【名】 （Fable）（英）费布尔，（法）法布勒（人名）",
+            "translation": "n. 寓言；谎言，无稽之谈；神话，传说\nv. 虚构，撒谎；讲寓言，编寓言；煞有介事地讲述",
             "pos": "",
             "collins": 1,
             "oxford": false,
@@ -771,15 +865,17 @@
             "bnc": 14705,
             "frq": 12174,
             "exchange": "s:fables",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "alert",
             "usphone": "/əˈlɜːrt/",
             "ukphone": "/əˈlɜːt/",
             "definition": "",
-            "translation": "adj. 警惕的，警觉的；机敏的，敏捷的；意识到，注意到（alert to）\nv. 向……报警，使警觉；提示，提醒（某人）\nn. 警报，警示；警戒，警惕；（电子设备的）提示信号；警戒期\n【名】 （Alert）（美、德、俄、西、印）阿莱尔特（人名）",
+            "translation": "adj. 警惕的，警觉的；机敏的，敏捷的；意识到，注意到\nv. 向……报警，使警觉；提示，提醒（某人）\nn. 警报，警示；警戒，警惕；（电子设备的）提示信号；警戒期",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -787,8 +883,10 @@
             "bnc": 4966,
             "frq": 5318,
             "exchange": "d:alerted/p:alerted/i:alerting/3:alerts/s:alerts",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "knowingly",
@@ -803,8 +901,10 @@
             "bnc": 11288,
             "frq": 11110,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "dozen",
@@ -819,8 +919,10 @@
             "bnc": 2371,
             "frq": 1194,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "thorough",
@@ -835,8 +937,10 @@
             "bnc": 5257,
             "frq": 5852,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "precise",
@@ -851,8 +955,10 @@
             "bnc": 2761,
             "frq": 3826,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "launch",
@@ -867,8 +973,10 @@
             "bnc": 1427,
             "frq": 1743,
             "exchange": "d:launched/p:launched/i:launching/3:launches/s:launches",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "posthumous",
@@ -883,15 +991,17 @@
             "bnc": 18886,
             "frq": 19140,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "marine",
             "usphone": "/məˈriːn/",
             "ukphone": "/məˈriːn/",
             "definition": "",
-            "translation": "adj. 海洋的，海产的；海运的，海事的\nn. 水兵，海军陆战队士兵；（一个国家的）船舶\n【名】 （Marine）（英）马林，（西）马里内（人名）",
+            "translation": "adj. 海洋的，海产的；海运的，海事的\nn. 水兵，海军陆战队士兵；（一个国家的）船舶",
             "pos": "",
             "collins": 3,
             "oxford": false,
@@ -899,8 +1009,10 @@
             "bnc": 3580,
             "frq": 4916,
             "exchange": "s:marines",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "reputation",
@@ -915,8 +1027,10 @@
             "bnc": 2235,
             "frq": 2411,
             "exchange": "s:reputations",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "elegance",
@@ -931,8 +1045,10 @@
             "bnc": 8720,
             "frq": 9284,
             "exchange": "s:elegances",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "passionate",
@@ -947,15 +1063,17 @@
             "bnc": 6041,
             "frq": 5175,
             "exchange": "",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         },
         {
             "value": "diamond",
             "usphone": "/ˈdaɪmənd; ˈdaɪəmənd/",
             "ukphone": "/ˈdaɪmənd; ˈdaɪəmənd/",
             "definition": "",
-            "translation": "n. 钻石；菱形；（纸牌的）方块；（棒球场的）内场；菱形铁路道口\n【名】 （Diamond）（英、意、葡）戴蒙德，（法）迪亚蒙（人名）",
+            "translation": "n. 钻石；菱形；（纸牌的）方块；（棒球场的）内场；菱形铁路道口",
             "pos": "",
             "collins": 2,
             "oxford": true,
@@ -963,8 +1081,10 @@
             "bnc": 3941,
             "frq": 4044,
             "exchange": "s:diamonds",
-            "externalCaptions": [],
-            "captions": []
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
         }
     ]
 }
