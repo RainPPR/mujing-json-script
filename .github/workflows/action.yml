@@ -1,4 +1,4 @@
-name: Action
+name: Auto Vocabulary Update
 
 on:
   push:
@@ -26,22 +26,22 @@ permissions:
 
 jobs:
   action:
-    name: Action
+    name: Vocabulary Update Job
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: Setup Python
+      - name: Setup Python 3.12 Environment
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
           cache: 'pip'
           cache-dependency-path: requirements.txt
-      - name: Install Dependencies
+      - name: Install Python Dependencies
         run: pip install -r requirements.txt
-      - name: Action
+      - name: Run Vocabulary Update Script
         run: python scripts/main.py
-      - name: Commit and push changes
+      - name: Commit and Push Updated Vocabulary
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "[bot] automatic vocabulary updates"
