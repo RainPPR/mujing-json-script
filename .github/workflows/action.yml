@@ -31,10 +31,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Config Git
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -44,16 +40,12 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Action
-        run: python script/main.py
-      - name: Update
-        run: |
-          git submodule sync
-          git submodule update --init --recursive
-          git submodule update --remote
-          if [[ `git status --porcelain` ]]; then
-            git add .
-            git commit -m "Auto Update"
-            git push
-          else
-            echo pass
-          fi
+        run: python scripts/main.py
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[bot] automatic vocabulary updates"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          file_pattern: data/config.json data/**/*.json

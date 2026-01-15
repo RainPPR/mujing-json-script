@@ -1,0 +1,532 @@
+{
+    "name": "Unit4",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 29,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "quote",
+            "usphone": "/kwoʊt/",
+            "ukphone": "/kwəʊt/",
+            "definition": "",
+            "translation": "v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌\nn. 引文，引语；报价，开价；（股票）报价，牌价；（建成某物或修理某物的）报价单；引号",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky gre",
+            "bnc": 2039,
+            "frq": 2255,
+            "exchange": "d:quoted/p:quoted/i:quoting/3:quotes/s:quotes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Dutch",
+            "usphone": "/dʌtʃ/",
+            "ukphone": "/dʌtʃ/",
+            "definition": "",
+            "translation": "adj. 荷兰的，荷兰人的，荷兰语的\nn. 荷兰人；荷兰语",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 3191,
+            "frq": 4059,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "float",
+            "usphone": "/floʊt/",
+            "ukphone": "/fləʊt/",
+            "definition": "",
+            "translation": "v. （使）漂浮，（使）浮动；轻盈走动，飘然移动；提出（想法或计划）；发行（股票）上市；使（货币汇率）自由浮动\nn. 彩车；鱼漂，浮子；（学游泳用的）浮板；<美，非正式>顶端加冰激凌的饮料；<英，非正式>（商店的）备用零钱；（公司股票）上市，开始发行",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3498,
+            "frq": 3140,
+            "exchange": "i:floating/p:floated/d:floated/s:floats/3:floats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "folk",
+            "usphone": "/foʊk/",
+            "ukphone": "/fəʊk/",
+            "definition": "",
+            "translation": "n. 人们；家人，双亲；民间音乐；诸位，大伙儿\nadj. 民俗的，传统的；流传民间的，普通百姓的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2958,
+            "frq": 1339,
+            "exchange": "s:folks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "folk tale",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "民间故事；民间传说",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "motion",
+            "usphone": "/ˈmoʊʃ(ə)n/",
+            "ukphone": "/ˈməʊʃn/",
+            "definition": "",
+            "translation": "n. 运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请\nv. 打手势，示意",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 1767,
+            "frq": 1822,
+            "exchange": "s:motions/p:motioned/i:motioning/3:motions/d:motioned",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in motion",
+            "usphone": "",
+            "ukphone": "in ˈməuʃən",
+            "definition": "",
+            "translation": " 在开动中, 在运转中, 处于兴奋[骚动]状态",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "compose",
+            "usphone": "/kəmˈpoʊz/",
+            "ukphone": "/kəmˈpəʊz/",
+            "definition": "",
+            "translation": "v. 组成，构成；作曲；撰写（信、诗或演讲稿）；使镇静，使平静；为（照片、图像）构图；排版，排稿",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3128,
+            "frq": 3379,
+            "exchange": "d:composed/p:composed/i:composing/3:composes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "crouch",
+            "usphone": "/kraʊtʃ/",
+            "ukphone": "/kraʊtʃ/",
+            "definition": "",
+            "translation": "v. 蹲下，蹲伏；俯身接近；（动物）蜷伏\nn. 蹲（伏）的姿势",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl ielts gre",
+            "bnc": 6240,
+            "frq": 6738,
+            "exchange": "p:crouched/i:crouching/d:crouched/3:crouches",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "peacock",
+            "usphone": "/ˈpiːkɑːk/",
+            "ukphone": "/ˈpiːkɒk/",
+            "definition": "",
+            "translation": "n. （雄）孔雀；注重仪表和衣饰的男子，虚荣骄傲的男子\nv. 炫耀，神气活现地走",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6",
+            "bnc": 10281,
+            "frq": 15411,
+            "exchange": "s:peacocks/i:peacocking",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "princess",
+            "usphone": "/ˈprɪnses/",
+            "ukphone": "/ˌprɪnˈses/",
+            "definition": "",
+            "translation": "n. （除女王或王后外的）王室女成员，（尤指）公主；王妃，王公贵族夫人；（受宠溺而自以为优越的）娇小姐；<英，非正式>大小姐；小国女君主；出众的妇女（或事物），巾帼英雄",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "cet4 cet6 ky",
+            "bnc": 2691,
+            "frq": 6039,
+            "exchange": "s:princesses",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ethnic",
+            "usphone": "/ˈeθnɪk/",
+            "ukphone": "/ˈeθnɪk/",
+            "definition": "",
+            "translation": "adj. （有关）种族的，民族的；少数民族的；具有民族特色的，异国风味的；既非基督教亦非犹太教的，异教徒的\nn. 少数民族成员，某民族群体的人",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3244,
+            "frq": 1729,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "abstract",
+            "usphone": "/ˈæbstrækt/",
+            "ukphone": "/ˈæbstrækt/",
+            "definition": "",
+            "translation": "adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的\nn. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念\nv. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3729,
+            "frq": 4007,
+            "exchange": "s:abstracts/d:abstracted/i:abstracting/3:abstracts/p:abstracted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "awe-inspiring",
+            "usphone": "/ˈɔː ɪnspaɪərɪŋ/",
+            "ukphone": "/ˈɔː ɪnspaɪərɪŋ/",
+            "definition": "",
+            "translation": "adj. 使人敬畏的；令人惊叹的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "i:awe-inspiring/0:awe-inspiring/1:i",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "awe",
+            "usphone": "/ɔː/",
+            "ukphone": "/ɔː/",
+            "definition": "",
+            "translation": "n. 敬畏，惊叹；<古>使人敬畏的力量\nv. 使敬畏，使惊叹",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ky toefl gre",
+            "bnc": 8655,
+            "frq": 7103,
+            "exchange": "d:awed/p:awed/s:awes/3:awes/i:awing",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "installation",
+            "usphone": "/ˌɪnstəˈleɪʃ(ə)n/",
+            "ukphone": "/ˌɪnstəˈleɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 安装，设置；装置，设备；（工业或军事）设施；就职，就职仪式；现代雕塑装置（除物体外用声、光等元素）",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky",
+            "bnc": 3747,
+            "frq": 4436,
+            "exchange": "s:installations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wire",
+            "usphone": "/ˈwaɪər/",
+            "ukphone": "/ˈwaɪə(r)/",
+            "definition": "",
+            "translation": "n. 金属丝，金属线；电线，导线；隐蔽式电子收听器；<美>电报；<美>（赛马）起跑线，终点线；铁丝网；用金属丝制的，用金属线制的；<美>通讯社\nv. 给……接上电线，接通（电源）；（用电线）接通，连接；电汇（钱款）；发电报给（某人）；用金属线固定（或加固）；给……安装窃听器；用金属网诱捕（动物）；（槌球）在拱门边阻挡（球，射球，选手）",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 2748,
+            "frq": 2370,
+            "exchange": "s:wires/d:wired/p:wired/i:wiring/3:wires",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cable",
+            "usphone": "/ˈkeɪb(ə)l/",
+            "ukphone": "/ˈkeɪb(ə)l/",
+            "definition": "",
+            "translation": "n. 电缆；钢缆，缆绳；电报；有线电视\nv. 给……安装有线电视；给……发电报",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3033,
+            "frq": 2003,
+            "exchange": "s:cables/p:cabled/d:cabled/i:cabling/3:cables",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "innovative",
+            "usphone": "/ˈɪnəveɪtɪv/",
+            "ukphone": "/ˈɪnəveɪtɪv; ˈɪnəvətɪv/",
+            "definition": "",
+            "translation": "adj. 革新的，新颖的；富有革新精神的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 5826,
+            "frq": 4435,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "trend",
+            "usphone": "/trend/",
+            "ukphone": "/trend/",
+            "definition": "",
+            "translation": "n. 趋势，动态；时尚，风尚；热门话题\nv. <美>趋向，倾向；（尤指地理特征的）走向；成为热门话题",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1949,
+            "frq": 1697,
+            "exchange": "s:trends/i:trending/p:trended/3:trends/d:trended",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "fence",
+            "usphone": "/fens/",
+            "ukphone": "/fens/",
+            "definition": "",
+            "translation": "n. 篱笆，栅栏，围栏；（赛马中的）障碍物；<非正式>买卖赃物者，销赃犯；剑术；（刨子、锯子或其他工具的）防护装置，导向装置\nv. （用栅栏、篱笆或围栏）围住，隔开；击剑；巧妙回答，搪塞；出售（赃物）；防护，保卫",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 3306,
+            "frq": 2653,
+            "exchange": "s:fences/d:fenced/p:fenced/i:fencing/3:fences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "contrast",
+            "usphone": "/ˈkɑːntræst/",
+            "ukphone": "/ˈkɒntrɑːst/",
+            "definition": "",
+            "translation": "n. 差异，对比；对照物，明显不同的事物；（摄影或绘画中的）颜色反差，明暗对比；（电视屏幕的）图像明暗对比度，反差\nv. 对比，对照；显出明显的差异，形成对比",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 1451,
+            "frq": 1762,
+            "exchange": "s:contrasts/3:contrasts/d:contrasted/p:contrasted/i:contrasting",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Greek",
+            "usphone": "/ɡriːk/",
+            "ukphone": "/ɡriːk/",
+            "definition": "",
+            "translation": "n. 希腊语；希腊人；（有希腊字母名称的）大学生联谊会会员\nadj. 希腊的；希腊人的，希腊语的\nn. （美）格雷克（人名）",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "/s:Greeks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "literally",
+            "usphone": "/ˈlɪtərəli/",
+            "ukphone": "/ˈlɪtərəli/",
+            "definition": "",
+            "translation": "adv. 按照字面意义地，逐字地；真正地，确实地；（用于夸张地强调）简直",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts",
+            "bnc": 3512,
+            "frq": 2469,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "technician",
+            "usphone": "/tekˈnɪʃ(ə)n/",
+            "ukphone": "/tekˈnɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 技师，技术人员；（体育、艺术等方面）技巧精湛者，精于技巧者",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 6423,
+            "frq": 4831,
+            "exchange": "s:technicians",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "animation",
+            "usphone": "/ˌænɪˈmeɪʃ(ə)n/",
+            "ukphone": "/ˌænɪˈmeɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 活力，生气，热烈；动画片，动画游戏；动画制作",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 10255,
+            "frq": 7572,
+            "exchange": "s:animations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "concept",
+            "usphone": "/ˈkɑːnsept/",
+            "ukphone": "/ˈkɒnsept/",
+            "definition": "",
+            "translation": "n. 概念，观念\nadj. （围绕）某主题的；为表达一种想法而创造的\nv. <非正式>想象，设想",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1101,
+            "frq": 1158,
+            "exchange": "s:concepts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "distinct",
+            "usphone": "/dɪˈstɪŋkt/",
+            "ukphone": "/dɪˈstɪŋkt/",
+            "definition": "",
+            "translation": "adj. 不同的，有区别的；清楚的，明显的；确切的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2609,
+            "frq": 3254,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "innovation",
+            "usphone": "/ˌɪnəˈveɪʃ(ə)n/",
+            "ukphone": "/ˌɪnəˈveɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 新事物，新方法；革新，创新",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 3151,
+            "frq": 3657,
+            "exchange": "s:innovations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}

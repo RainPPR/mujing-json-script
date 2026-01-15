@@ -1,0 +1,19 @@
+{
+    "name": "选择性必修三",
+    "file": [
+        "Unit1.json",
+        "Unit2.json",
+        "Unit3.json",
+        "Unit4.json",
+        "Unit5.json",
+        "Unit6.json"
+    ],
+    "completed": [
+        "Unit1.json",
+        "Unit2.json",
+        "Unit3.json",
+        "Unit4.json",
+        "Unit5.json",
+        "Unit6.json"
+    ]
+}

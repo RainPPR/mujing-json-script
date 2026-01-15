@@ -1,0 +1,622 @@
+{
+    "name": "Unit6",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 34,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "steadily",
+            "usphone": "/ˈstedəli/",
+            "ukphone": "/ˈstedəli/",
+            "definition": "",
+            "translation": "adv. 逐渐地，稳步地；不变地，稳定地；冷静地，镇定地；固定地，牢固地",
+            "pos": "",
+            "collins": 0,
+            "oxford": true,
+            "tag": "cet4 cet6",
+            "bnc": 3991,
+            "frq": 4794,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "massive",
+            "usphone": "/ˈmæsɪv/",
+            "ukphone": "/ˈmæsɪv/",
+            "definition": "",
+            "translation": "adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的\nn. <英，非正式>（某一地区的年轻人群体）嬉蹦音乐迷（或丛林爵士音乐迷）",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2037,
+            "frq": 1996,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "delicate",
+            "usphone": "/ˈdelɪkət/",
+            "ukphone": "/ˈdelɪkət/",
+            "definition": "",
+            "translation": "adj. 柔和的，清淡的；虚弱的，纤弱的；脆弱的，易碎的；小巧玲珑的，纤细的；微妙的，棘手的；精致的，精巧的；灵巧的，熟练的；（仪器）灵敏的\nn. 精美的衣物",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 3775,
+            "frq": 3787,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "landmark",
+            "usphone": "/ˈlændmɑːrk/",
+            "ukphone": "/ˈlændmɑːk/",
+            "definition": "",
+            "translation": "n. 陆标，地标；里程碑，转折点；<美>有历史意义的建筑（或遗址）；边界，界碑\nv. 赋予地标的地位",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl gre",
+            "bnc": 7019,
+            "frq": 4715,
+            "exchange": "s:landmarks/i:landmarking",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "permafrost",
+            "usphone": "/ˈpɜːrməfrɔːst/",
+            "ukphone": "/ˈpɜːməfrɒst/",
+            "definition": "",
+            "translation": "n. 多年冻土；永久冻结带；永久冰冻",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 41317,
+            "frq": 21966,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "Tibetan",
+            "usphone": "/tɪˈbet(ə)n/",
+            "ukphone": "/tɪˈbet(ə)n/",
+            "definition": "",
+            "translation": "n. 西藏人；藏语\nadj. 西藏的；西藏人的；藏语的；西藏文化的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 16253,
+            "frq": 11874,
+            "exchange": "s:tibetans",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "antelope",
+            "usphone": "/ˈæntɪloʊp/",
+            "ukphone": "/ˈæntɪləʊp/",
+            "definition": "",
+            "translation": "n.  羚羊",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 21778,
+            "frq": 11524,
+            "exchange": "s:antelopes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "leisure",
+            "usphone": "/ˈliːʒər/",
+            "ukphone": "/ˈleʒə(r)/",
+            "definition": "",
+            "translation": "n. 闲暇，业余时间；休闲活动\nadj. 空闲的，有闲的；业余的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 2752,
+            "frq": 6269,
+            "exchange": "p:leisured",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "at one's leisure",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "有空时",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wetland",
+            "usphone": "/ˈwetlənd/",
+            "ukphone": "/ˈwetlənd/",
+            "definition": "",
+            "translation": "n. 湿地；沼泽地",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts",
+            "bnc": 10916,
+            "frq": 5790,
+            "exchange": "s:wetlands",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "grassland",
+            "usphone": "/ˈɡræslænd/",
+            "ukphone": "/ˈɡrɑːslænd/",
+            "definition": "",
+            "translation": "n. 草原；牧草地",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 10622,
+            "frq": 11859,
+            "exchange": "s:grasslands",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "mirror-like",
+            "usphone": "/ˈmɪrər laɪk/",
+            "ukphone": "/ˈmɪrə laɪk/",
+            "definition": "",
+            "translation": "adj. 镜样的",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "wander",
+            "usphone": "/ˈwɑːndər/",
+            "ukphone": "/ˈwɒndə(r)/",
+            "definition": "",
+            "translation": "v. 漫游，游荡，漫步，流浪；走神，开小差；偏离，走偏（道路、航线等）；（目光）游移，往别处看；（河流、道路等）蜿蜒曲折；离题；（因年老而）神志恍惚，精神错乱；在人的身上摸来摸去（尤指他人不情愿时）；（对固定的性伴侣）不忠\nn. 游荡，漫步",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 3027,
+            "frq": 3183,
+            "exchange": "i:wandering/p:wandered/d:wandered/3:wanders",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "scenery",
+            "usphone": "/ˈsiːnəri/",
+            "ukphone": "/ˈsiːnəri/",
+            "definition": "",
+            "translation": "n. 风景，景色；舞台布景",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 6478,
+            "frq": 8152,
+            "exchange": "s:sceneries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "plateau",
+            "usphone": "/plæˈtoʊ/",
+            "ukphone": "/ˈplætəʊ/",
+            "definition": "",
+            "translation": "n. 高原；（发展、增长后的）稳定期，停滞期；高原印第安人；托盘\nv. （在一段时间的发展之后）趋于平稳，进入停滞期",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 8761,
+            "frq": 8339,
+            "exchange": "s:plateaus",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "roar",
+            "usphone": "/rɔːr/",
+            "ukphone": "/rɔː(r)/",
+            "definition": "",
+            "translation": "v. 吼叫，咆哮；（人群）用欢呼声激励，为......喝彩，为加油；哄笑，大笑；（尤指车辆）轰鸣着疾驶，呼啸而过；果断行事，迅速发生；熊熊燃烧\nn. 吼叫声， 咆哮声；（风或海的）呼啸声，（机器的）隆隆声；（狮等的）吼叫声；爆笑声",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 5769,
+            "frq": 5275,
+            "exchange": "p:roared/i:roaring/3:roars/s:roars/d:roared",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "economy",
+            "usphone": "/ɪˈkɑːnəmi/",
+            "ukphone": "/ɪˈkɒnəmi/",
+            "definition": "",
+            "translation": "n. 经济；节省，简练；经济舱\nadj. 经济实惠的",
+            "pos": "",
+            "collins": 5,
+            "oxford": true,
+            "tag": "cet4 cet6 ky ielts",
+            "bnc": 817,
+            "frq": 645,
+            "exchange": "s:economies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "jungle",
+            "usphone": "/ˈdʒʌŋɡ(ə)l/",
+            "ukphone": "/ˈdʒʌŋɡ(ə)l/",
+            "definition": "",
+            "translation": "n. （热带）丛林；弱肉强食的地方；杂草丛生的地方；杂乱无章的一堆；丛林音乐（一种快速舞蹈音乐）",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 5317,
+            "frq": 4507,
+            "exchange": "s:jungles",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "disturb",
+            "usphone": "/dɪˈstɜːrb/",
+            "ukphone": "/dɪˈstɜːb/",
+            "definition": "",
+            "translation": "v. 打扰，妨碍；使焦虑，使烦恼；移动，弄乱",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "zk gk cet4 cet6 ky toefl ielts",
+            "bnc": 3272,
+            "frq": 4565,
+            "exchange": "d:disturbed/i:disturbing/p:disturbed/3:disturbs",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "emission",
+            "usphone": "/ɪˈmɪʃ(ə)n/",
+            "ukphone": "/ɪˈmɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 排放物，散发物；（尤指光、热、气等的）散发，排放；射精，遗精；<古>发行",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 toefl",
+            "bnc": 3483,
+            "frq": 2915,
+            "exchange": "s:emissions",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "operator",
+            "usphone": "/ˈɑːpəreɪtər/",
+            "ukphone": "/ˈɒpəreɪtə(r)/",
+            "definition": "",
+            "translation": "n. （设备、机器的）操作员；经营者；精明圆滑的人，善于取巧的人；电话员，接线员；运算符号",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2700,
+            "frq": 3210,
+            "exchange": "s:operators",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "conservationist",
+            "usphone": "/ˌkɑːnsərˈveɪʃənɪst/",
+            "ukphone": "/ˌkɒnsəˈveɪʃənɪst/",
+            "definition": "",
+            "translation": "n. （自然环境、野生动植物等）保护主义者",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 12839,
+            "frq": 11943,
+            "exchange": "s:conservationists",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "via",
+            "usphone": "/ˈvaɪə/",
+            "ukphone": "/ˈvaɪə/",
+            "definition": "",
+            "translation": "prep. 经由，经过（某一地方）；通过，借助于（某种手段或人）",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2004,
+            "frq": 2576,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "candidate",
+            "usphone": "/ˈkændɪdət/",
+            "ukphone": "/ˈkændɪdət/",
+            "definition": "",
+            "translation": "n. 候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 1227,
+            "frq": 957,
+            "exchange": "s:candidates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "applicant",
+            "usphone": "/ˈæplɪkənt/",
+            "ukphone": "/ˈæplɪkənt/",
+            "definition": "",
+            "translation": "n. 申请人",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 toefl ielts gre",
+            "bnc": 3159,
+            "frq": 5512,
+            "exchange": "s:applicants",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "favour",
+            "usphone": "/ˈfeɪvər/",
+            "ukphone": "/ˈfeɪvə(r)/",
+            "definition": "",
+            "translation": "n. 支持，喜爱；帮忙，恩惠；偏爱；小礼物；同意性交\nv. 偏袒，偏爱；支持，更喜欢；有利于；长得像；悉心照料",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ielts",
+            "bnc": 2781,
+            "frq": 28142,
+            "exchange": "d:favoured/p:favoured/3:favours/i:favouring/s:favours",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in favour of",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "[经] 同意, 支持, 有利于...",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "advertise",
+            "usphone": "/ˈædvərtaɪz/",
+            "ukphone": "/ˈædvətaɪz/",
+            "definition": "",
+            "translation": "v. 为……做广告，登广告；公布，征聘；宣扬；使变得显眼；<古>提醒……注意",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts gre",
+            "bnc": 4085,
+            "frq": 5124,
+            "exchange": "d:advertised/p:advertised/i:advertising/3:advertises",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "genuine",
+            "usphone": "/ˈdʒenjuɪn/",
+            "ukphone": "/ˈdʒenjuɪn/",
+            "definition": "",
+            "translation": "adj. 真正的，非伪造的；真诚的，真心的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2524,
+            "frq": 3747,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "salary",
+            "usphone": "/ˈsæləri/",
+            "ukphone": "/ˈsæləri/",
+            "definition": "",
+            "translation": "n. 薪金，薪水\nv. <古> 给……薪金",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky ielts",
+            "bnc": 2751,
+            "frq": 2455,
+            "exchange": "s:salaries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "negotiable",
+            "usphone": "/nɪˈɡoʊʃiəb(ə)l/",
+            "ukphone": "/nɪˈɡəʊʃiəb(ə)l/",
+            "definition": "",
+            "translation": "adj. 可协商的，可讨论的；流通的，可兑现的，可转让的；可通行的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts gre",
+            "bnc": 15090,
+            "frq": 19719,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "preference",
+            "usphone": "/ˈprefrəns/",
+            "ukphone": "/ˈprefrəns/",
+            "definition": "",
+            "translation": "n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2642,
+            "frq": 3022,
+            "exchange": "s:preferences",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "qualification",
+            "usphone": "/ˌkwɑːlɪfɪˈkeɪʃ(ə)n/",
+            "ukphone": "/ˌkwɒlɪfɪˈkeɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. （通过考试或学习课程取得的）资格，学历；（胜任某一工作或职位所需的）资历，技能条件；获得资格，达到标准；先决条件，正式要求；限制，限定性条件；（语法）（尤指对名词等的）限定，修饰",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet6 ky toefl ielts",
+            "bnc": 2396,
+            "frq": 6828,
+            "exchange": "s:qualifications",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "waist",
+            "usphone": "/weɪst/",
+            "ukphone": "/weɪst/",
+            "definition": "",
+            "translation": "n. 腰，腰围；（衣服的）腰部，腰身；船腰，飞机机身中部，（提琴、沙漏等的）中间细部，（黄蜂等的）细腰；<美>女衬衫，紧身胸衣",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 4386,
+            "frq": 4304,
+            "exchange": "s:waists/p:waisted",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}

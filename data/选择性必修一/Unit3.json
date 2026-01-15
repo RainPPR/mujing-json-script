@@ -1,0 +1,802 @@
+{
+    "name": "Unit3",
+    "type": "DOCUMENT",
+    "language": "",
+    "size": 44,
+    "relateVideoPath": "",
+    "subtitlesTrackId": 0,
+    "wordList": [
+        {
+            "value": "far cry",
+            "usphone": "",
+            "ukphone": "fɑ: krai",
+            "definition": "",
+            "translation": "n. 长距离; 天壤之别",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "shiny",
+            "usphone": "/ˈʃaɪni/",
+            "ukphone": "/ˈʃaɪni/",
+            "definition": "",
+            "translation": "adj. 光滑发亮的，有光泽的",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "toefl",
+            "bnc": 6457,
+            "frq": 5128,
+            "exchange": "r:shinier/t:shiniest",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "association",
+            "usphone": "/əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn/",
+            "ukphone": "/əˌsəʊsiˈeɪʃn; əˌsəʊʃiˈeɪʃn/",
+            "definition": "",
+            "translation": "n. 协会，社团，联盟；交往，联合；联系，因果关系；联想",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 742,
+            "frq": 1859,
+            "exchange": "s:associations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "muddy",
+            "usphone": "/ˈmʌdi/",
+            "ukphone": "/ˈmʌdi/",
+            "definition": "",
+            "translation": "adj. 泥泞的，多泥的；含泥的，浑浊的；灰暗的，暗淡的；模糊的，不清晰的；（声音，尤指乐声）重浊的；像泥土般的\nv. 使变得泥泞，使浑浊；使模糊，使混乱；使（颜色）变暗",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 gre",
+            "bnc": 7679,
+            "frq": 6484,
+            "exchange": "d:muddied/s:muddies/i:muddying/p:muddied/r:muddier/t:muddiest/3:muddies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "shot",
+            "usphone": "/ʃɑːt/",
+            "ukphone": "/ʃɒt/",
+            "definition": "",
+            "translation": "n. 射击，开枪（或炮），枪声；射手，枪手；弹丸；批评的话；尝试，努力；击球，射门；铅球；发射；照片，（电影的）镜头；注射；一口，一小杯（烈性酒）；少量；概率，可能性 ；铅沙弹",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 1836,
+            "frq": 1053,
+            "exchange": "0:shoot/1:dp/s:shots",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "backboard",
+            "usphone": "/ˈbækbɔːrd/",
+            "ukphone": "/ˈbækbɔːd/",
+            "definition": "",
+            "translation": "n. 篮板；背板；后挡板",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 20813,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "give way",
+            "usphone": "/ɡɪv weɪ/",
+            "ukphone": "",
+            "definition": "",
+            "translation": "撤退, 让路, 退让, 屈服, 倒塌, 跌价, 垮掉",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bump",
+            "usphone": "/bʌmp/",
+            "ukphone": "/bʌmp/",
+            "definition": "",
+            "translation": "v. （使身体部位等）碰上，撞上；（无意地）碰，撞；颠簸行进；拖拽；挤出，挤掉；改变（广播或电视节目的时间）\nn. 肿块；隆起，凸块；碰撞，撞击；轻微撞车事故；屁股向前扭动的性感动作；<美，非正式>增加；绒布",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet6 ky toefl ielts gre",
+            "bnc": 6508,
+            "frq": 5504,
+            "exchange": "i:bumping/p:bumped/s:bumps/d:bumped/3:bumps",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "bounce",
+            "usphone": "/baʊns/",
+            "ukphone": "/baʊns/",
+            "definition": "",
+            "translation": "v. 弹起，反弹；跳动，蹦；（使）上下晃动；（用膝盖）颠动（孩子）；蹦蹦跳跳地去；拒付，退回（支票等）；退回（电子邮件）；驱逐，解雇；（向某人）透露主意（以试探其反应）；反复跳槽，来回往返某地；（光线或声音）反射；撞击，碰撞\nn. 弹跳，跳动；弹性，弹力；活力，精力；（头发的）弹性，蓬松；突然的增长",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 4778,
+            "frq": 3792,
+            "exchange": "p:bounced/i:bouncing/d:bounced/3:bounces/s:bounces",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "sharpen",
+            "usphone": "/ˈʃɑːrpən/",
+            "ukphone": "/ˈʃɑːpən/",
+            "definition": "",
+            "translation": "v. （使）变锋利（尖锐，清晰）；（使）改善，提高；（使）加剧",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gk cet4 cet6 toefl",
+            "bnc": 7542,
+            "frq": 8298,
+            "exchange": "d:sharpened/i:sharpening/p:sharpened/3:sharpens",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "teammate",
+            "usphone": "/ˈtiːmmeɪt/",
+            "ukphone": "/ˈtiːmmeɪt/",
+            "definition": "",
+            "translation": "n. 队友，同队队员",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 28599,
+            "frq": 4238,
+            "exchange": "s:teammates",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "footstep",
+            "usphone": "/ˈfʊtstep/",
+            "ukphone": "/ˈfʊtstep/",
+            "definition": "",
+            "translation": "n. 脚步，足迹；脚步声；一步的距离；路途，路线",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "cet4 cet6 ky",
+            "bnc": 5733,
+            "frq": 6017,
+            "exchange": "s:footsteps",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "carry on",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "继续开展, 行为愚蠢(或越轨)",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "warrior",
+            "usphone": "/ˈwɔːriər/",
+            "ukphone": "/ˈwɒriə(r)/",
+            "definition": "",
+            "translation": "n. （尤指旧时的）武士，勇士；（瑜伽体式）战士",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "toefl",
+            "bnc": 5376,
+            "frq": 3607,
+            "exchange": "s:warriors",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "expectation",
+            "usphone": "/ˌekspekˈteɪʃn/",
+            "ukphone": "/ˌekspekˈteɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 期待，预期；期望，指望",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky",
+            "bnc": 1970,
+            "frq": 1890,
+            "exchange": "s:expectations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "in a row",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "成一长行, 连续, 一连串",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "philosophy",
+            "usphone": "/fəˈlɑːsəfi/",
+            "ukphone": "/fəˈlɒsəfi/",
+            "definition": "",
+            "translation": "n. 哲学；哲学体系，思想体系；人生哲学，生活（工作）准则；（某一知识或经验领域的）理论基础研究，基本原理",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl",
+            "bnc": 2351,
+            "frq": 2252,
+            "exchange": "s:philosophies",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "self-belief",
+            "usphone": "/ˌself bɪˈliːf/",
+            "ukphone": "/ˌself bɪˈliːf/",
+            "definition": "",
+            "translation": "自我信念",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "hoop",
+            "usphone": "/huːp/",
+            "ukphone": "/huːp/",
+            "definition": "",
+            "translation": "n. （金属、木或类似材料制成的）箍，环（尤指用于箍桶或制框架）；圈形耳环；（用于滚着玩的）滚圈；呼啦圈；（马戏团中供动物钻穿用的）大圈；（槌球游戏中的）拱门；篮圈，篮筐\nv. （用环或似用环）绑，箍",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "gre",
+            "bnc": 11838,
+            "frq": 7962,
+            "exchange": "s:hoops/p:hooped/d:hooped/i:hooping/3:hoops",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cheat",
+            "usphone": "/tʃiːt/",
+            "ukphone": "/tʃiːt/",
+            "definition": "",
+            "translation": "v. 欺骗，行骗；侥幸逃脱，逃避；作弊；对配偶（或伴侣）不忠\nn. 骗子，作弊者；欺骗手段，欺诈行为；秘技，作弊软件",
+            "pos": "",
+            "collins": 2,
+            "oxford": true,
+            "tag": "zk gk cet4 cet6 ky",
+            "bnc": 5936,
+            "frq": 4369,
+            "exchange": "i:cheating/d:cheated/p:cheated/s:cheats/3:cheats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "yoga",
+            "usphone": "/ˈjoʊɡə/",
+            "ukphone": "/ˈjəʊɡə/",
+            "definition": "",
+            "translation": "n. 瑜伽，瑜伽术； 瑜伽派（印度哲学派别）",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "ielts",
+            "bnc": 17090,
+            "frq": 7878,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "roller skating",
+            "usphone": "",
+            "ukphone": "ˈrəulə ˈskeɪtɪŋ",
+            "definition": "",
+            "translation": "滑旱冰",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "remarkable",
+            "usphone": "/rɪˈmɑːrkəb(ə)l/",
+            "ukphone": "/rɪˈmɑːkəb(ə)l/",
+            "definition": "",
+            "translation": "adj. 引人注目的，非凡的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 2423,
+            "frq": 2708,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "net",
+            "usphone": "/net/",
+            "ukphone": "/net/",
+            "definition": "",
+            "translation": "n. 网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；（板球）练球场；（板球）一次练球；网眼织物；陷阱；候选人的选择面\nadj. 净得的；净重的；最后的，最终的\nv. 净赚，净得；设法获得，巧妙地做；（用网）捕捉；（篮球或足球）得分，进（球）；用网覆盖；（计算时）扣除……（以得出净额）\nadv. 净赚地",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2189,
+            "frq": 2884,
+            "exchange": "s:nets/p:netted/d:netted/i:netting/3:nets",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "spiker",
+            "usphone": "/ˈspaɪkər/",
+            "ukphone": "/ˈspaɪkə(r)/",
+            "definition": "",
+            "translation": "n. 排球队的扣杀员；针齿式圆盘耙",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "burst",
+            "usphone": "/bɜːrst/",
+            "ukphone": "/bɜːst/",
+            "definition": "",
+            "translation": "v. 爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀；决堤；突然活跃起来；突然发生，突然发作；分页，断纸\nn. 突发，迸发；爆裂，裂口；一阵短促的射击",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 3011,
+            "frq": 3560,
+            "exchange": "p:burst/0:burst/1:pd/i:bursting/s:bursts/d:burst/3:bursts",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "vivid",
+            "usphone": "/ˈvɪvɪd/",
+            "ukphone": "/ˈvɪvɪd/",
+            "definition": "",
+            "translation": "adj. 生动的，逼真的；（颜色）鲜艳的，明亮的；（人的想像）丰富的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl ielts gre",
+            "bnc": 5560,
+            "frq": 5539,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "assign",
+            "usphone": "/əˈsaɪn/",
+            "ukphone": "/əˈsaɪn/",
+            "definition": "",
+            "translation": "v. 分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3876,
+            "frq": 2611,
+            "exchange": "d:assigned/i:assigning/3:assigns/p:assigned",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "opponent",
+            "usphone": "/əˈpoʊnənt/",
+            "ukphone": "/əˈpəʊnənt/",
+            "definition": "",
+            "translation": "n. 对手，竞争者；反对者，阻止者\nadj. 对立的，敌对的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 2663,
+            "frq": 2181,
+            "exchange": "s:opponents",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "quarter-final",
+            "usphone": "/ˌkwɔːrtər ˈfaɪn(ə)l/",
+            "ukphone": "/ˌkwɔːtə ˈfaɪn(ə)l/",
+            "definition": "",
+            "translation": "n. 四分之一决赛；半准决赛\nadj. 四分之一决赛的",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "s:quarter-finals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "preliminary",
+            "usphone": "/prɪˈlɪmɪneri/",
+            "ukphone": "/prɪˈlɪmɪnəri/",
+            "definition": "",
+            "translation": "adj. 初步的，预备的\nn. 初步行动，准备工作；预赛，预试",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3851,
+            "frq": 4404,
+            "exchange": "s:preliminaries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "surgery",
+            "usphone": "/ˈsɜːrdʒəri/",
+            "ukphone": "/ˈsɜːdʒəri/",
+            "definition": "",
+            "translation": "n. 外科手术；<英>诊所；（议员的）接待时间；应诊时间；手术室",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 2833,
+            "frq": 1793,
+            "exchange": "s:surgeries",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "pay off",
+            "usphone": "",
+            "ukphone": "",
+            "definition": "",
+            "translation": "付清, 报复, 付清工资解雇, 使人得益, 取得成功",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "comeback",
+            "usphone": "/ˈkʌmbæk/",
+            "ukphone": "/ˈkʌmbæk/",
+            "definition": "",
+            "translation": "n. 恢复，复出；再度流行；迅速反驳；追究……责任；回交羊",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 8111,
+            "frq": 6496,
+            "exchange": "s:comebacks",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "defeat",
+            "usphone": "/dɪˈfiːt/",
+            "ukphone": "/dɪˈfiːt/",
+            "definition": "",
+            "translation": "v. 击败，战胜；困惑，难住；使失败，阻挠；反对（动议或提议）\nn. 失败，战败；战胜，击败",
+            "pos": "",
+            "collins": 4,
+            "oxford": true,
+            "tag": "gk cet4 cet6 ky toefl ielts",
+            "bnc": 2560,
+            "frq": 3326,
+            "exchange": "d:defeated/p:defeated/s:defeats/i:defeating/3:defeats",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "semi-final",
+            "usphone": "/ˌsemi ˈfaɪn(ə)l/",
+            "ukphone": "/ˌsemi ˈfaɪn(ə)l/",
+            "definition": "",
+            "translation": "n. 半决赛，准决赛",
+            "pos": "",
+            "collins": 2,
+            "oxford": false,
+            "tag": "",
+            "bnc": 0,
+            "frq": 0,
+            "exchange": "s:semi-finals",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "steely",
+            "usphone": "/ˈstiːli/",
+            "ukphone": "/ˈstiːli/",
+            "definition": "",
+            "translation": "adj. 似钢的，钢铁般的；钢制的；严格的",
+            "pos": "",
+            "collins": 1,
+            "oxford": false,
+            "tag": "",
+            "bnc": 16700,
+            "frq": 14980,
+            "exchange": "s:steelies/r:steelier",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "nerve",
+            "usphone": "/nɜːrv/",
+            "ukphone": "/nɜːv/",
+            "definition": "",
+            "translation": "n. 神经；勇气，胆量；神经紧张，情绪不安；鲁莽，冒失；（叶）脉\nv. 使鼓起勇气，使振作精神",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky gre",
+            "bnc": 3005,
+            "frq": 3083,
+            "exchange": "s:nerves/p:nerved/i:nerving/d:nerved/3:nerves",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "seize",
+            "usphone": "/siːz/",
+            "ukphone": "/siːz/",
+            "definition": "",
+            "translation": "v. 抓住，捉住；（用武力）夺取，占领；逮捕，捉拿；没收，扣押；把握（机会等）；（感觉、疼痛）侵袭，控制；吸引（注意力），唤起（想象力）；<正式>理解，掌握；意识到，得知；（有活动部件的机器，机器的活动部件）咬住，卡住",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk cet4 cet6 ky toefl",
+            "bnc": 2974,
+            "frq": 3230,
+            "exchange": "d:seized/p:seized/i:seizing/3:seizes",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "cooperation",
+            "usphone": "/koʊˌɑːpəˈreɪʃ(ə)n/",
+            "ukphone": "/kəʊˌɒpəˈreɪʃ(ə)n/",
+            "definition": "",
+            "translation": "n. 合作，协作；协助，配合",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "toefl ielts",
+            "bnc": 5122,
+            "frq": 2668,
+            "exchange": "s:cooperations",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "ingredient",
+            "usphone": "/ɪnˈɡriːdiənt/",
+            "ukphone": "/ɪnˈɡriːdiənt/",
+            "definition": "",
+            "translation": "n. （食品的）成分，原料；要素，因素\nadj. 构成组成部分的",
+            "pos": "",
+            "collins": 3,
+            "oxford": true,
+            "tag": "cet4 cet6 ky toefl ielts gre",
+            "bnc": 3844,
+            "frq": 2590,
+            "exchange": "s:ingredients",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "teamwork",
+            "usphone": "/ˈtiːmwɜːrk/",
+            "ukphone": "/ˈtiːmwɜːk/",
+            "definition": "",
+            "translation": "n. 团队合作；协力",
+            "pos": "",
+            "collins": 0,
+            "oxford": false,
+            "tag": "gk",
+            "bnc": 15491,
+            "frq": 11799,
+            "exchange": "s:teamworks/i:teamworking",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "tournament",
+            "usphone": "/ˈtʊrnəmənt/",
+            "ukphone": "/ˈtʊənəmənt/",
+            "definition": "",
+            "translation": "n. 锦标赛，联赛；（中世纪的）骑士比武大会；阅兵式",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "gk ky toefl ielts gre",
+            "bnc": 3482,
+            "frq": 2761,
+            "exchange": "s:tournaments",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        },
+        {
+            "value": "intense",
+            "usphone": "/ɪnˈtens/",
+            "ukphone": "/ɪnˈtens/",
+            "definition": "",
+            "translation": "adj. 很大的，十分强烈的；严肃紧张的，激烈的；热情的，热切的；专注的，认真的",
+            "pos": "",
+            "collins": 3,
+            "oxford": false,
+            "tag": "cet4 cet6 ky toefl ielts",
+            "bnc": 3202,
+            "frq": 2295,
+            "exchange": "",
+            "externalCaptions": [
+            ],
+            "captions": [
+            ]
+        }
+    ]
+}

@@ -161,4 +161,3 @@ cython_debug/
 
 *.part.json
 cache
-script/*.dist/
