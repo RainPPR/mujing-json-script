@@ -324,17 +324,22 @@ python scripts/fix_json_size.py
 
 **字段说明：**
 
-- `name`: 词汇表名称
-- `type`: 文档类型（固定为 `"DOCUMENT"`）
-- `size`: 词汇数量
-- `wordList`: 词汇列表数组
-  - `value`: 单词
-  - `usphone`/`ukphone`: 美式/英式音标
-  - `translation`: 中文释义
-  - `collins`/`oxford`: 柯林斯/牛津词典等级
-  - `tag`: 考试标签（如 cet4, cet6, toefl 等）
-  - `bnc`/`frq`: BNC 和 COCA 词频
-  - `exchange`: 词形变化
+| 字段 | 类型 | 描述 |
+|------|------|------|
+| `name` | `string` | 词汇表名称 |
+| `type` | `string` | 文档类型（固定为 `"DOCUMENT"`） |
+| `size` | `integer` | 词汇数量 |
+| `wordList` | `array` | 词汇列表数组 |
+| `wordList[].value` | `string` | 单词 |
+| `wordList[].usphone` | `string` | 美式音标 |
+| `wordList[].ukphone` | `string` | 英式音标 |
+| `wordList[].translation` | `string` | 中文释义 |
+| `wordList[].collins` | `integer` | 柯林斯词典等级 |
+| `wordList[].oxford` | `boolean` | 是否为牛津核心词汇 |
+| `wordList[].tag` | `string` | 考试标签（如 cet4, cet6, toefl 等） |
+| `wordList[].bnc` | `integer` | BNC 词频 |
+| `wordList[].frq` | `integer` | COCA 词频 |
+| `wordList[].exchange` | `string` | 词形变化 |
 
 ### 配置文件格式
 
@@ -368,12 +373,21 @@ python scripts/fix_json_size.py
 
 ### 核心处理流程
 
-1. **配置解析**：读取主配置和分类配置文件
-2. **任务调度**：识别需要处理的词汇文件
-3. **并发处理**：使用线程池并发处理多个单词
-4. **API 调用**：调用有道词典 API 获取单词详细信息
-5. **数据更新**：将获取的信息写入 JSON 文件
-6. **状态持久化**：更新 `completed` 列表，支持断点续传
+```mermaid
+graph TD
+    A[读取主配置 config.json] --> B[遍历词汇分类]
+    B --> C[读取分类配置]
+    C --> D{检查待处理文件}
+    D -->|存在未处理文件| E[创建 ConcurrencyManager]
+    E --> F[初始化 YoudaoClient]
+    F --> G[并发处理词汇]
+    G --> H[调用有道词典 API]
+    H --> I[更新词汇信息]
+    I --> J[保存 JSON 文件]
+    J --> K[标记为已完成]
+    K --> D
+    D -->|所有文件已处理| L[结束]
+```
 
 ### 自适应并发管理
 
@@ -404,26 +418,21 @@ python scripts/fix_json_size.py
 
 **`tech.py` - 核心技术实现**
 
-- `ConcurrencyManager`：自适应并发管理器
-  - 动态调整线程数
-  - 错误率监控
-  - 自动恢复机制
-  
-- `YoudaoClient`：有道词典 API 客户端
-  - HTTP 请求封装
-  - 重试逻辑
-  - 响应解析
-  
-- 工具函数：
-  - `load_json()` / `write_json()`：JSON 文件读写
-  - `display_progress()`：进度条显示
-  - `process_word()`：单词处理逻辑
-  - `action()`：文件级处理入口
+| 组件 | 描述 |
+|------|------|
+| `ConcurrencyManager` | 自适应并发管理器，动态调整线程数、错误率监控、自动恢复机制 |
+| `YoudaoClient` | 有道词典 API 客户端，HTTP 请求封装、重试逻辑、响应解析 |
+| `load_json()` / `write_json()` | JSON 文件读写工具函数 |
+| `display_progress()` | 线程安全的进度条显示 |
+| `process_word()` | 单词处理逻辑 |
+| `action()` | 文件级处理入口 |
 
 **`main.py` - 主入口程序**
 
-- `process_subdirectory()`：处理单个词汇分类
-- `main()`：程序主入口，遍历所有分类
+| 函数 | 描述 |
+|------|------|
+| `process_subdirectory()` | 处理单个词汇分类 |
+| `main()` | 程序主入口，遍历所有分类 |
 
 ### 并发策略
 
@@ -452,9 +461,11 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 
 ### 触发条件
 
-- Push 到 `main` 或 `master` 分支
-- Pull Request 到 `main` 或 `master` 分支
-- 手动触发（`workflow_dispatch`）
+| 触发方式 | 描述 |
+|----------|------|
+| Push | 推送到 `main` 或 `master` 分支 |
+| Pull Request | PR 到 `main` 或 `master` 分支 |
+| 手动触发 | `workflow_dispatch` |
 
 ### 工作流步骤
 
@@ -475,7 +486,8 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 
 ## ❓ 常见问题
 
-### Q1: 如何添加新的词汇分类？
+<details>
+<summary><strong>Q1: 如何添加新的词汇分类？</strong></summary>
 
 1. 在 `data/` 目录下创建新文件夹，例如 `必修一/`
 2. 在新文件夹中创建 `config.json`：
@@ -491,7 +503,10 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 3. 创建词汇文件 `Unit1.json`（可使用 GUI 工具）
 4. 更新 `data/config.json`，添加新分类名称
 
-### Q2: 处理时遇到 429 错误怎么办？
+</details>
+
+<details>
+<summary><strong>Q2: 处理时遇到 429 错误怎么办？</strong></summary>
 
 这是有道词典的速率限制。程序会自动：
 
@@ -504,7 +519,10 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 - 减小初始并发数（修改 `tech.py` 中的 `initial_limit`）
 - 增加请求间隔
 
-### Q3: 音频合成失败？
+</details>
+
+<details>
+<summary><strong>Q3: 音频合成失败？</strong></summary>
 
 确保已安装 FFmpeg：
 
@@ -512,21 +530,32 @@ with ThreadPoolExecutor(max_workers=8) as executor:
 - **macOS**：`brew install ffmpeg`
 - **Linux**：`sudo apt-get install ffmpeg`
 
-### Q4: 如何备份数据？
+</details>
+
+<details>
+<summary><strong>Q4: 如何备份数据？</strong></summary>
 
 重要文件都在 `data/` 目录下，定期备份该目录即可。建议使用 Git 进行版本控制。
 
-### Q5: CSV 文件中的换行符显示为 `<br>` 怎么办？
+</details>
+
+<details>
+<summary><strong>Q5: CSV 文件中的换行符显示为 `<br>` 怎么办？</strong></summary>
 
 这是为了在表格软件中正确显示多行内容而设计的。如果需要纯文本换行，可以在 Excel 等软件中使用"查找替换"功能将 `<br>` 替换为换行符。
 
-### Q6: 如何查看单个词汇表的详细信息？
+</details>
+
+<details>
+<summary><strong>Q6: 如何查看单个词汇表的详细信息？</strong></summary>
 
 可以使用 CSV 导出工具将 JSON 文件转换为 CSV 格式，然后在 Excel 或其他表格软件中查看：
 
 ```bash
 python scripts/tool_json_to_csv.py
 ```
+
+</details>
 
 ## 🤝 贡献
 
@@ -596,7 +625,7 @@ SOFTWARE.
 
 ## 📌 附注
 
-> **本 README 文件由人工智能 (Antigravity, powered by Google Gemini 2.0 Flash Thinking Experimental) 生成，并经人工审核。**  
+> **本 README 文件由人工智能 (Antigravity, powered by Google Gemini 2.5 Flash) 生成，并经人工审核。**  
 > 生成时间：2026-01-16  
 > 
 > 如发现文档中的任何错误或不准确之处，欢迎提 Issue 或 PR 进行修正。
