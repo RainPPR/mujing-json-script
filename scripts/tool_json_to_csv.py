@@ -40,10 +40,10 @@ def convert_json_to_csv(json_path: str):
                 # Extract fields in specified order: value, usphone, ukphone, translation
                 # Replace \n with <br> as requested
                 row = [
-                    word.get('value', '').replace('\n', '<br>'),
-                    word.get('usphone', '').replace('\n', '<br>'),
-                    word.get('ukphone', '').replace('\n', '<br>'),
-                    word.get('translation', '').replace('\n', '<br>')
+                    word.get('value', ''),#.replace('\n', '<br>'),
+                    word.get('usphone', ''),#.replace('\n', '<br>'),
+                    word.get('ukphone', ''),#.replace('\n', '<br>'),
+                    word.get('translation', ''),#.replace('\n', '<br>')
                 ]
                 writer.writerow(row)
         
